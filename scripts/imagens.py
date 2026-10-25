@@ -75,7 +75,9 @@ def buscar(consulta, limite=20):
         info = (p.get("imageinfo") or [{}])[0]
         if info.get("mime") not in ("image/jpeg", "image/png", "image/webp"):
             continue
-        if min(info.get("width", 0), info.get("height", 0)) < 700:
+        # Arquivo pedido pelo nome foi escolhido a dedo: aceita resolução menor.
+        minimo = 450 if consulta.startswith("File:") else 700
+        if min(info.get("width", 0), info.get("height", 0)) < minimo:
             continue
         meta = info.get("extmetadata", {})
         licenca = limpa(meta.get("LicenseShortName", {}).get("value"))
