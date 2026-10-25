@@ -1,0 +1,57 @@
+{
+  "slug": "2026-10-25-apuracao-2turno",
+  "titulo_interno": "Apuração do 2º turno — parcial",
+  "status": "rascunho",
+  "teste": true,
+  "pilar": "atualidade_brasil",
+  "categoria": "Eleições 2026 · 2º turno",
+  "gancho_tipo": "tempo_real",
+  "capa": {
+    "imagem": "img01",
+    "titulo_html": "O Brasil decide <span class=\"hl2\">voto a voto</span>",
+    "gancho": "Às 20h, com cerca de 30% das urnas apuradas, menos de 1 ponto separava os candidatos."
+  },
+  "slides": [
+    {
+      "imagem": "img02",
+      "tag": "Parcial · 20h",
+      "titulo": "Disputa dentro de 1 ponto",
+      "texto_html": "Com cerca de 30% das urnas apuradas, <strong>Flávio Bolsonaro (PL)</strong> tinha 50,4% dos votos válidos e <strong>Lula (PT)</strong>, 49,6%. Lula liderou no início da contagem; Flávio passou à frente com o avanço da apuração.",
+      "numero": { "valor": "0,8 PONTO", "label": "Diferença na parcial das 20h" }
+    },
+    {
+      "imagem": "img03",
+      "tag": "O dia",
+      "titulo": "Votação prorrogada até 19h",
+      "texto_html": "O ministro <strong>Cristiano Zanin</strong> prorrogou a votação até as 19h, após pedidos que citavam falta de transporte público e mau tempo. Só as seções ainda abertas seguiram recebendo eleitores.",
+      "factbox": { "label": "Apuração pausada", "texto": "O TSE suspendeu a totalização às 17h20, com 0,25% das seções apuradas, e retomou a divulgação depois do novo horário." }
+    },
+    {
+      "imagem": "img04",
+      "tag": "Em números",
+      "titulo": "A eleição em números",
+      "texto_html": "Foram usadas <strong>499.248 urnas eletrônicas</strong>. Segundo o presidente do TSE, Kassio Nunes Marques, apenas 900 precisaram ser substituídas. O anúncio do resultado era previsto para entre <em>20h30 e 21h</em>.",
+      "factbox": { "label": "Atenção", "texto": "Parciais mudam conforme as urnas de cada região entram na contagem. O resultado oficial é o divulgado pelo TSE." }
+    }
+  ],
+  "cta": { "titulo": "Acompanhe com a gente", "subtitulo": "fatos, sem torcida" },
+  "legenda": "🗳️ Apuração do 2º turno, voto a voto.\n\nParcial das 20h, com cerca de 30% das urnas apuradas: Flávio Bolsonaro (PL) 50,4% x Lula (PT) 49,6% dos votos válidos.\n\nA votação foi prorrogada até as 19h por decisão do ministro Cristiano Zanin, e o TSE chegou a pausar a totalização no fim da tarde.\n\n⚠️ Os números mudam a cada atualização. O resultado oficial é o do TSE.\n\n💬 Na sua opinião, qual região vai decidir essa eleição? Comente com respeito: aqui o debate é sobre fatos.",
+  "primeiro_comentario": "Você acompanhou a apuração pelo site do TSE, pela TV ou pelas redes? 👇",
+  "hashtags": ["#eleicoes2026", "#segundoturno", "#apuracao", "#tse", "#brasil", "#democracia"],
+  "fontes": [
+    { "nome": "TSE", "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Outubro/presidente-do-tse-destaca-estabilidade-no-pais-neste-2o-turno-das-eleicoes-2026" },
+    { "nome": "InfoMoney", "url": "https://www.infomoney.com.br/politica/tse-pausa-totalizacao-dos-votos-apos-zanin-prorrogar-votacao-ate-as-19h/" },
+    { "nome": "CartaCapital", "url": "https://www.cartacapital.com.br/politica/com-025-das-urnas-apuradas-tse-suspende-totalizacao-dos-votos-apos-prorrogacao-da-votacao-ate-19h/" },
+    { "nome": "Bloomberg Línea", "url": "https://www.bloomberglinea.com.br/brasil/ao-vivo-brasil-vota-no-2-turno-para-escolher-entre-lula-e-flavio-bolsonaro-como-presidente/" }
+  ],
+  "busca_imagens": [
+    { "id": "img01", "query": "urna eletrônica brasileira", "alternativas": ["Brazilian electronic voting machine", "urna eletrônica eleições"] },
+    { "id": "img02", "query": "apuração votos Tribunal Superior Eleitoral", "alternativas": ["Tribunal Superior Eleitoral sede Brasília", "TSE totalização eleições"] },
+    { "id": "img03", "query": "eleitores fila seção eleitoral Brasil", "alternativas": ["votação eleições Brasil eleitor", "seção eleitoral Brasil"] },
+    { "id": "img04", "query": "urnas eletrônicas lote TSE", "alternativas": ["urna eletrônica Brazil voting", "Brazilian voting machines"] }
+  ],
+  "imagens": [],
+  "agendamento": { "data_hora": "2026-10-25T21:30:00-03:00", "slot": "extra" },
+  "metricool": {},
+  "verificacao": "Parcial (≈30%, 50,4 x 49,6) consistente entre InfoMoney (20,05%: 50,41 x 49,59), Mapa Eleitoral (23,27%: 50,47 x 49,53) e outro painel (~30%: 50,44 x 49,56). Prorrogação e pausa: InfoMoney, CartaCapital, Jornal de Brasília, Tribuna do Norte. Urnas: TSE. Neutralidade: candidatos citados com partido, sem adjetivos; fotos só de urnas/TSE/eleitores, sem candidatos."
+}
