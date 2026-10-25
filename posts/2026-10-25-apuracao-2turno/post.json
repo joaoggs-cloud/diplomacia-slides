@@ -1,6 +1,6 @@
 {
   "slug": "2026-10-25-apuracao-2turno",
-  "titulo_interno": "Apuração do 2º turno — parcial",
+  "titulo_interno": "Apuração do 2º turno — card de notícia",
   "status": "aguardando_aprovacao",
   "teste": true,
   "pilar": "atualidade_brasil",
@@ -47,8 +47,8 @@
     "titulo": "Acompanhe com a gente",
     "subtitulo": "fatos, sem torcida"
   },
-  "legenda": "🗳️ Apuração do 2º turno, voto a voto.\n\nParcial das 20h, com cerca de 30% das urnas apuradas: Flávio Bolsonaro (PL) 50,4% x Lula (PT) 49,6% dos votos válidos.\n\nA votação foi prorrogada até as 19h por decisão do ministro Cristiano Zanin, e o TSE chegou a pausar a totalização no fim da tarde.\n\n⚠️ Os números mudam a cada atualização. O resultado oficial é o do TSE.\n\n💬 Na sua opinião, qual região vai decidir essa eleição? Comente com respeito: aqui o debate é sobre fatos.",
-  "primeiro_comentario": "Você acompanhou a apuração pelo site do TSE, pela TV ou pelas redes? 👇",
+  "legenda": "🗳️ APURAÇÃO DO 2º TURNO | Parcial do TSE com 30,82% das urnas apuradas:\n\nFlávio Bolsonaro (PL): 50,44%\nLula (PT): 49,56%\n(votos válidos)\n\nLula liderou no início da contagem; Flávio passou à frente com o avanço da apuração. A votação foi prorrogada até as 19h por decisão do ministro Cristiano Zanin.\n\n⚠️ Resultado parcial. O resultado oficial é o divulgado pelo TSE.\n\n💬 Qual região você acha que vai decidir essa eleição? Comente com respeito.",
+  "primeiro_comentario": "",
   "hashtags": [
     "#eleicoes2026",
     "#segundoturno",
@@ -166,7 +166,7 @@
     }
   ],
   "agendamento": {
-    "data_hora": "2026-10-25T21:30:00-03:00",
+    "data_hora": "2026-10-25T20:45:00-03:00",
     "slot": "extra"
   },
   "metricool": {
@@ -176,5 +176,25 @@
     "planner_url": "https://app.metricool.com/planner/calendar?blogId=7647378&openWithPostUuid=776408221619866423"
   },
   "verificacao": "Parcial (≈30%, 50,4 x 49,6) consistente entre InfoMoney (20,05%: 50,41 x 49,59), Mapa Eleitoral (23,27%: 50,47 x 49,53) e outro painel (~30%: 50,44 x 49,56). Prorrogação e pausa: InfoMoney, CartaCapital, Jornal de Brasília, Tribuna do Norte. Urnas: TSE. Neutralidade: candidatos citados com partido, sem adjetivos; fotos só de urnas/TSE/eleitores, sem candidatos.",
-  "usar_hashtags_base": false
+  "usar_hashtags_base": false,
+  "formato": "noticia",
+  "noticia": {
+    "imagem": "img01",
+    "tag": "Eleições 2026 · Apuração do 2º turno",
+    "titulo_html": "Disputa <span class=\"hl2\">voto a voto</span>",
+    "placar": [
+      {
+        "nome": "Flávio Bolsonaro",
+        "partido": "PL",
+        "valor": "50,44%"
+      },
+      {
+        "nome": "Lula",
+        "partido": "PT",
+        "valor": "49,56%"
+      }
+    ],
+    "subtitulo_html": "Parcial do TSE com <strong>30,82% das urnas apuradas</strong>, por volta das 20h. Menos de 1 ponto separa os candidatos.",
+    "rodape": "Parcial · votos válidos · Fonte: TSE"
+  }
 }

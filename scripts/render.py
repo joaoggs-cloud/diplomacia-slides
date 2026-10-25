@@ -149,8 +149,40 @@ def montar_html(post, post_dir):
             .replace("{{SLIDES}}", "\n".join(html_slides)))
 
 
+def montar_noticia(post, post_dir):
+    """Formato "noticia": uma imagem só, para fatos do momento (placar, anúncio, alerta)."""
+    n = post["noticia"]
+    img = next((i for i in post.get("imagens", []) if i["id"] == n.get("imagem")), None)
+    fundo = (f'<img class="n-photo" src="{data_uri(post_dir / img["arquivo"])}" alt="">'
+             if img else '<div class="fallback"></div>')
+    placar = "".join(
+        f'<div class="n-cand"><div class="n-pct">{escape(c["valor"])}</div>'
+        f'<div class="n-nome">{escape(c["nome"])}</div><div class="n-partido">{escape(c.get("partido", ""))}</div></div>'
+        for c in n.get("placar", []))
+    slide = f'''
+  <div class="slide noticia">
+    {fundo}
+    <div class="n-grad"></div>
+    <div class="n-body">
+      <div class="n-tag">{escape(n["tag"])}</div>
+      <h1 class="n-title">{n["titulo_html"]}</h1>
+      {f'<div class="n-placar">{placar}</div>' if placar else ''}
+      <p class="n-sub">{n.get("subtitulo_html", "")}</p>
+      <div class="n-foot"><span>{escape(n.get("rodape", ""))}</span><span class="n-handle">@diplomaciadaguerra</span></div>
+    </div>
+    <div class="credit capa-credit">{escape(credito_curto(img))}</div>
+    <img class="n-logo" src="{logo_uri()}" alt="">
+    <div class="capa-line"></div>
+  </div>'''
+    return (TEMPLATE
+            .replace("{{TITULO}}", escape(post.get("titulo_interno", post["slug"])))
+            .replace("{{SLIDES}}", slide))
+
+
 def validar(post):
     erros = []
+    if post.get("formato") == "noticia":
+        return erros
     n = len(post["slides"]) + 2
     if not 8 <= n <= 10:
         erros.append(f"o carrossel tem {n} slides (capa + conteúdo + CTA); o padrão é 8 a 10")
@@ -177,7 +209,8 @@ def main():
         print("AVISO:", e, file=sys.stderr)
 
     saida = post_dir / "carrossel.html"
-    saida.write_text(montar_html(post, post_dir), encoding="utf-8")
+    montar = montar_noticia if post.get("formato") == "noticia" else montar_html
+    saida.write_text(montar(post, post_dir), encoding="utf-8")
     print(f"HTML: {saida}")
     if args.so_html:
         return
