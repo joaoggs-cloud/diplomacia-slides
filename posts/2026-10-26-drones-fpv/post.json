@@ -164,6 +164,19 @@
   ],
   "imagens": [
     {
+      "titulo": "Kabul 9 commando fpv drone.jpg",
+      "autor": "RBC-Ukraine",
+      "licenca": "CC BY 4.0",
+      "exige_credito": true,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Kabul_9_commando_fpv_drone.jpg",
+      "url_download": "https://upload.wikimedia.org/wikipedia/commons/a/af/Kabul_9_commando_fpv_drone.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largura": 1919,
+      "altura": 1279,
+      "id": "img01",
+      "arquivo": "imagens/img01.jpg",
+      "query": "File:Kabul 9 commando fpv drone.jpg"
+    },
+    {
       "titulo": "US infantry, Kenya Defense Forces rangers, familiarize themselves with principles of Unmanned Aircraft Systems (9575206).jpg",
       "autor": "U.S. Air Force photo by Airman 1st Class Elijah Harris-lariviere",
       "licenca": "Public domain",
@@ -175,6 +188,58 @@
       "id": "img02",
       "arquivo": "imagens/img02.jpg",
       "query": "Ukrainian soldier FPV goggles drone pilot"
+    },
+    {
+      "titulo": "Destruction of Russian tanks by Ukrainian troops in Mariupol (3).jpg",
+      "autor": "Міністерство внутрішніх справ України (Ministry of Internal Affairs of Ukraine)",
+      "licenca": "CC BY 4.0",
+      "exige_credito": true,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Destruction_of_Russian_tanks_by_Ukrainian_troops_in_Mariupol_(3).jpg",
+      "url_download": "https://upload.wikimedia.org/wikipedia/commons/6/61/Destruction_of_Russian_tanks_by_Ukrainian_troops_in_Mariupol_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largura": 1280,
+      "altura": 960,
+      "id": "img03",
+      "arquivo": "imagens/img03.jpg",
+      "query": "File:Destruction of Russian tanks by Ukrainian troops in Mariupol (3).jpg"
+    },
+    {
+      "titulo": "UA military FPV drones 03.jpg",
+      "autor": "АрміяInform",
+      "licenca": "CC BY 4.0",
+      "exige_credito": true,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:UA_military_FPV_drones_03.jpg",
+      "url_download": "https://upload.wikimedia.org/wikipedia/commons/b/b7/UA_military_FPV_drones_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largura": 1200,
+      "altura": 900,
+      "id": "img04",
+      "arquivo": "imagens/img04.jpg",
+      "query": "File:UA military FPV drones 03.jpg"
+    },
+    {
+      "titulo": "UA military FPV drones 10.jpg",
+      "autor": "АрміяІнформ",
+      "licenca": "CC BY 4.0",
+      "exige_credito": true,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:UA_military_FPV_drones_10.jpg",
+      "url_download": "https://upload.wikimedia.org/wikipedia/commons/0/04/UA_military_FPV_drones_10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largura": 1500,
+      "altura": 1000,
+      "id": "img05",
+      "arquivo": "imagens/img05.jpg",
+      "query": "File:UA FPV strike drones 01.jpg"
+    },
+    {
+      "titulo": "UA fiber-optic FPV drone 01.webp",
+      "autor": "АрміяІнформ",
+      "licenca": "CC BY 4.0",
+      "exige_credito": true,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:UA_fiber-optic_FPV_drone_01.webp",
+      "url_download": "https://upload.wikimedia.org/wikipedia/commons/3/3e/UA_fiber-optic_FPV_drone_01.webp?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largura": 1500,
+      "altura": 936,
+      "id": "img07",
+      "arquivo": "imagens/img07.jpg",
+      "query": "File:UA fiber-optic FPV drone 01.webp"
     },
     {
       "titulo": "McDonnell Douglas F-15C Eagle of the 12th FS escorts a Russian Tupolev Tu-95MS off Alaska (USA), 28 September 2006 (060928-F-0000X-104).jpg",
