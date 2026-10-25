@@ -177,7 +177,7 @@ def montar_noticia(post, post_dir):
       <p class="n-sub">{n.get("subtitulo_html", "")}</p>
       <div class="n-foot"><span>{escape(n.get("rodape", ""))}</span><span class="n-handle">@diplomaciadaguerra</span></div>
     </div>
-    <div class="credit capa-credit">{escape(credito_curto(img))}</div>
+    <div class="credit capa-credit">{escape(n.get("credito") or credito_curto(img))}</div>
     <img class="n-logo" src="{logo_uri()}" alt="">
     <div class="capa-line"></div>
   </div>'''

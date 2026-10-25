@@ -47,7 +47,7 @@
     "titulo": "Acompanhe com a gente",
     "subtitulo": "fatos, sem torcida"
   },
-  "legenda": "🗳️ APURAÇÃO DO 2º TURNO | Parcial do TSE com 30,82% das urnas apuradas:\n\nFlávio Bolsonaro (PL): 50,44%\nLula (PT): 49,56%\n(votos válidos)\n\nLula liderou no início da contagem; Flávio passou à frente com o avanço da apuração. A votação foi prorrogada até as 19h por decisão do ministro Cristiano Zanin.\n\n⚠️ Resultado parcial. O resultado oficial é o divulgado pelo TSE.\n\n💬 Qual região você acha que vai decidir essa eleição? Comente com respeito.",
+  "legenda": "🗳️ APURAÇÃO DO 2º TURNO | Parcial do TSE com 41,58% das urnas apuradas:\n\nFlávio Bolsonaro (PL): 50,17%\nLula (PT): 49,83%\n(votos válidos)\n\nLula liderou no início da contagem; Flávio passou à frente com o avanço da apuração. A votação foi prorrogada até as 19h por decisão do ministro Cristiano Zanin.\n\n⚠️ Resultado parcial. O resultado oficial é o divulgado pelo TSE.\n\n💬 Qual região você acha que vai decidir essa eleição? Comente com respeito.",
   "primeiro_comentario": "",
   "hashtags": [
     "#eleicoes2026",
@@ -193,7 +193,7 @@
     },
     {
       "titulo": "Foto oficial de Luiz Inácio Lula da Silva (3x4 cropped).jpg",
-      "autor": "Palácio do Planalto from Brasilia, Brasil",
+      "autor": "Ricardo Stuckert/Palácio do Planalto",
       "licenca": "CC BY 2.0",
       "exige_credito": true,
       "url_origem": "https://commons.wikimedia.org/wiki/File:Foto_oficial_de_Luiz_In%C3%A1cio_Lula_da_Silva_(3x4_cropped).jpg",
@@ -226,17 +226,18 @@
       {
         "nome": "Flávio Bolsonaro",
         "partido": "PL",
-        "valor": "50,44%",
+        "valor": "50,17%",
         "foto": "img05"
       },
       {
         "nome": "Lula",
         "partido": "PT",
-        "valor": "49,56%",
+        "valor": "49,83%",
         "foto": "img06"
       }
     ],
-    "subtitulo_html": "Parcial do TSE com <strong>30,82% das urnas apuradas</strong>, por volta das 20h. Menos de 1 ponto separa os candidatos.",
-    "rodape": "Parcial · votos válidos · Fonte: TSE"
+    "subtitulo_html": "Parcial do TSE com <strong>41,58% das urnas apuradas</strong>. A diferença vem diminuindo com o avanço da contagem.",
+    "rodape": "Parcial · votos válidos · Fonte: TSE",
+    "credito": "Fotos: Agência Senado · Ricardo Stuckert/Palácio do Planalto (CC BY 2.0) · urna: TSE"
   }
 }

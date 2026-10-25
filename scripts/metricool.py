@@ -73,7 +73,7 @@ def avancar_slot():
 
 def creditos(post):
     if post.get("formato") == "noticia":
-        usadas = {post["noticia"].get("imagem")}
+        usadas = {post["noticia"].get("imagem"), *(c.get("foto") for c in post["noticia"].get("placar", []))}
     else:
         usadas = {post["capa"]["imagem"], *(s.get("imagem") for s in post["slides"])}
     linhas = []
