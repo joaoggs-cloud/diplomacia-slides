@@ -75,4 +75,6 @@ jobs:
           git add posts
           if git diff --cached --quiet; then echo "Nada novo."; exit 0; fi
           git commit -m "Slides gerados: ${{ steps.posts.outputs.dirs }}"
-          git push
+          # A sessão do Claude pode ter enviado commits enquanto o job rodava.
+          for i in 1 2 3; do git pull --rebase && git push && exit 0; sleep 5; done
+          exit 1
