@@ -149,9 +149,56 @@ def montar_html(post, post_dir):
             .replace("{{SLIDES}}", "\n".join(html_slides)))
 
 
+def logo_original_uri():
+    """Logo como é (fundo creme), para os cards de fundo claro."""
+    return data_uri(RAIZ / "assets" / "logo.png", 300)
+
+
+def montar_vencedor(post, post_dir):
+    """Card claro e colorido de resultado oficial: vencedor em destaque, segundo colocado abaixo.
+    Paleta âmbar/turquesa, propositalmente sem as cores associadas a partidos."""
+    n = post["noticia"]
+    imagens = {i["id"]: i for i in post.get("imagens", [])}
+
+    def foto(c, largura):
+        f = imagens.get(c.get("foto"))
+        return data_uri(post_dir / f["arquivo"], largura) if f else ""
+
+    v, s2 = n["vencedor"], n["segundo"]
+    slide = f'''
+  <div class="slide venc">
+    <div class="v-faixa"></div>
+    <img class="v-logo" src="{logo_original_uri()}" alt="">
+    <div class="v-tag">{escape(n["tag"])}</div>
+    <div class="v-main">
+      <div class="v-foto-wrap"><img class="v-foto" src="{foto(v, 600)}" alt=""></div>
+      <div class="v-info">
+        <div class="v-eleito">{n["titulo_html"]}</div>
+        <div class="v-nome">{escape(v["nome"])}</div>
+        <div class="v-partido">{escape(v.get("partido", ""))}</div>
+        <div class="v-pct">{escape(v["valor"])}</div>
+        <div class="v-votos">{escape(v.get("votos", ""))}</div>
+      </div>
+    </div>
+    <div class="v-segundo">
+      <img class="v-foto2" src="{foto(s2, 300)}" alt="">
+      <div class="v-s-nome">{escape(s2["nome"])} <span>{escape(s2.get("partido", ""))}</span></div>
+      <div class="v-s-pct">{escape(s2["valor"])}</div>
+    </div>
+    <p class="v-sub">{n.get("subtitulo_html", "")}</p>
+    <div class="v-foot"><span>{escape(n.get("rodape", ""))}</span><span class="v-handle">@diplomaciadaguerra</span></div>
+    <div class="v-credit">{escape(n.get("credito", ""))}</div>
+  </div>'''
+    return (TEMPLATE
+            .replace("{{TITULO}}", escape(post.get("titulo_interno", post["slug"])))
+            .replace("{{SLIDES}}", slide))
+
+
 def montar_noticia(post, post_dir):
     """Formato "noticia": uma imagem só, para fatos do momento (placar, anúncio, alerta)."""
     n = post["noticia"]
+    if n.get("tema") == "vencedor":
+        return montar_vencedor(post, post_dir)
     img = next((i for i in post.get("imagens", []) if i["id"] == n.get("imagem")), None)
     fundo = (f'<img class="n-photo" src="{data_uri(post_dir / img["arquivo"])}" alt="">'
              if img else '<div class="fallback"></div>')
