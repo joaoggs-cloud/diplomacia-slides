@@ -11,6 +11,7 @@ Uso:
 """
 import argparse
 import json
+import re
 import sys
 from datetime import datetime, timedelta
 from pathlib import Path
@@ -82,6 +83,15 @@ def creditos(post):
     return "📷 Imagens via Wikimedia Commons: " + "; ".join(unicos) + ". Demais: domínio público."
 
 
+def textos_alternativos(post, n):
+    """Um texto alternativo por slide (acessibilidade): capa, títulos e CTA."""
+    capa = re.sub(r"<[^>]+>", "", post["capa"]["titulo_html"])
+    textos = [f"Capa: {capa}. {re.sub(r'<[^>]+>', '', post['capa']['gancho'])}"]
+    textos += [f"Slide {i}: {s['titulo']}" for i, s in enumerate(post["slides"], start=2)]
+    textos.append("Diplomacia da Guerra — salve este post e siga @diplomaciadaguerra")
+    return textos[:n] if len(textos) >= n else textos + [post.get("alt_text", "")] * (n - len(textos))
+
+
 def montar_legenda(post, est):
     hashtags = list(dict.fromkeys(post.get("hashtags", []) + est["hashtags_base"]))[: est["max_hashtags"]]
     partes = [post["legenda"].strip()]
@@ -114,7 +124,7 @@ def payload(post_dir, sha, rascunho):
         "firstCommentText": post.get("primeiro_comentario", ""),
         "hasNotReadNotes": False,
         "media": media,
-        "mediaAltText": [post.get("alt_text", "")] * len(media) if post.get("alt_text") else [],
+        "mediaAltText": textos_alternativos(post, len(media)),
         "providers": [{"network": "instagram"}],
         "publicationDate": {"dateTime": quando.strftime("%Y-%m-%dT%H:%M:%S"),
                             "timezone": est["metricool"]["timezone"]},
