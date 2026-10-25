@@ -96,6 +96,19 @@ sistema vive no repositório.
    Avise que ele também pode aprovar direto no app do Metricool (o rascunho
    está no planejador).
 
+## Formato notícia (imagem única)
+
+Para fatos do momento (placar de eleição, anúncio oficial, alerta), o João
+prefere **um post de uma imagem só: rápido, simples e eficaz**. No `post.json`
+use `"formato": "noticia"` e um bloco `noticia` (`imagem`, `tag`, `titulo_html`,
+`placar` opcional com `nome`/`partido`/`valor`, `subtitulo_html`, `rodape`) —
+veja `posts/2026-10-25-apuracao-2turno/post.json`. Legenda curta e direta.
+Em política: **isenção total** — candidatos com nome e partido, mesmo destaque
+visual, sem adjetivos, sem fotos de candidatos, pergunta de engajamento que não
+peça preferência; use `"usar_hashtags_base": false` se o tema não for militar.
+Dados parciais mudam rápido: confira o número mais recente imediatamente antes
+de pedir aprovação e informe o horário/percentual da parcial.
+
 ## Rotina B — Responder à aprovação
 
 Vale em qualquer sessão: se o João disser "aprovar"/"aprovado"/"pode postar"

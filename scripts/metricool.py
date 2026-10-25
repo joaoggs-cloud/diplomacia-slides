@@ -72,8 +72,14 @@ def avancar_slot():
 
 
 def creditos(post):
+    if post.get("formato") == "noticia":
+        usadas = {post["noticia"].get("imagem")}
+    else:
+        usadas = {post["capa"]["imagem"], *(s.get("imagem") for s in post["slides"])}
     linhas = []
     for img in post.get("imagens", []):
+        if img["id"] not in usadas:
+            continue
         if img.get("exige_credito"):
             linhas.append(f"{img['autor']} ({img['licenca']})")
     if not linhas:
@@ -84,6 +90,10 @@ def creditos(post):
 
 def textos_alternativos(post, n):
     """Um texto alternativo por slide (acessibilidade): capa, títulos e CTA."""
+    if post.get("formato") == "noticia":
+        n = post["noticia"]
+        placar = "; ".join(f"{c['nome']} ({c.get('partido', '')}) {c['valor']}" for c in n.get("placar", []))
+        return [re.sub(r"<[^>]+>", "", f"{n['titulo_html']}. {placar}. {n.get('subtitulo_html', '')}")]
     capa = re.sub(r"<[^>]+>", "", post["capa"]["titulo_html"])
     textos = [f"Capa: {capa}. {re.sub(r'<[^>]+>', '', post['capa']['gancho'])}"]
     textos += [f"Slide {i}: {s['titulo']}" for i, s in enumerate(post["slides"], start=2)]
@@ -112,7 +122,7 @@ def payload(post_dir, sha, rascunho):
     repo = est["repositorio"]
     rel = post_dir.resolve().relative_to(RAIZ).as_posix()
     slides = sorted((post_dir / "slides").glob("*.jpg"))
-    if not 2 <= len(slides) <= 20:
+    if not 1 <= len(slides) <= 20:
         sys.exit(f"{len(slides)} slides em {post_dir}/slides — rode scripts/render.py antes.")
     media = [f"https://raw.githubusercontent.com/{repo['owner']}/{repo['repo']}/{sha}/{rel}/slides/{s.name}"
              for s in slides]
