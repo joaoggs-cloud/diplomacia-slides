@@ -16,7 +16,10 @@
       "tag": "O que é",
       "titulo": "Pilotando pelos olhos do drone",
       "texto_html": "<strong>FPV</strong> significa “visão em primeira pessoa”. O piloto usa óculos que mostram, ao vivo, a imagem da câmera do drone. São drones de corrida adaptados para carregar <em>uma carga explosiva</em> até o alvo.",
-      "numero": { "valor": "~US$ 500", "label": "Custo aproximado de um drone FPV" }
+      "numero": {
+        "valor": "~US$ 500",
+        "label": "Custo aproximado de um drone FPV"
+      }
     },
     {
       "imagem": "img03",
@@ -35,7 +38,10 @@
       "tag": "Os números",
       "titulo": "A arma que mais destrói",
       "texto_html": "Segundo o comandante ucraniano Oleksandr Syrskyi, <em>66% do equipamento russo</em> neutralizado em janeiro de 2025 foi atingido por drones. O analista Jack Watling, do instituto britânico RUSI, estima cerca de dois terços.",
-      "numero": { "valor": "2 / 3", "label": "Das perdas de blindados atribuídas a drones" }
+      "numero": {
+        "valor": "2 / 3",
+        "label": "Das perdas de blindados atribuídas a drones"
+      }
     },
     {
       "imagem": "img06",
@@ -48,38 +54,217 @@
       "tag": "A resposta",
       "titulo": "Drones presos por um fio",
       "texto_html": "Para escapar da interferência, surgiram os <strong>drones de fibra óptica</strong>: o comando viaja por um cabo fino que se desenrola durante o voo, por quilômetros. Não há sinal de rádio para bloquear.",
-      "factbox": { "label": "O preço", "texto": "Custam cerca de US$ 800, o dobro de um FPV comum, e o carretel de cabo pesa e reduz a carga explosiva." }
+      "factbox": {
+        "label": "O preço",
+        "texto": "Custam cerca de US$ 800, o dobro de um FPV comum, e o carretel de cabo pesa e reduz a carga explosiva."
+      }
     },
     {
       "imagem": "img08",
       "tag": "1 jun 2025",
       "titulo": "Operação Teia de Aranha",
       "texto_html": "A Ucrânia escondeu 117 drones FPV em caminhões e os lançou perto de bases aéreas no interior da Rússia, atingindo <em>bombardeiros estratégicos</em> estacionados.",
-      "factbox": { "label": "Quantos?", "texto": "Kiev disse ter atingido 41 aeronaves. Fontes dos EUA ouvidas pela Reuters falaram em até 20 atingidas e cerca de 10 destruídas." }
+      "factbox": {
+        "label": "Quantos?",
+        "texto": "Kiev disse ter atingido 41 aeronaves. Fontes dos EUA ouvidas pela Reuters falaram em até 20 atingidas e cerca de 10 destruídas."
+      }
     }
   ],
-  "cta": { "titulo": "Salve este post", "subtitulo": "e compartilhe com quem precisa saber" },
+  "cta": {
+    "titulo": "Salve este post",
+    "subtitulo": "e compartilhe com quem precisa saber"
+  },
   "legenda": "Um drone de cerca de US$ 500, montado com peças comerciais, consegue destruir um blindado de milhões de dólares. 🎯\n\nNa guerra da Ucrânia, os drones FPV deixaram de ser curiosidade e viraram a arma que mais destrói veículos na linha de frente. Cada novo drone gera uma contramedida, e cada contramedida gera um novo drone: gaiolas, interferência eletrônica, drones de fibra óptica e até ataques escondidos em caminhões a milhares de quilômetros da frente.\n\n👉 Arraste para o lado e entenda como essa corrida funciona.\n\n💬 Você acha que os tanques ficaram obsoletos ou só precisam se adaptar?",
   "primeiro_comentario": "Qual outra tecnologia você acha que vai mudar as guerras na próxima década? 👇",
-  "hashtags": ["#drones", "#dronesfpv", "#ucrania", "#russia", "#tecnologiamilitar", "#guerramoderna"],
+  "hashtags": [
+    "#drones",
+    "#dronesfpv",
+    "#ucrania",
+    "#russia",
+    "#tecnologiamilitar",
+    "#guerramoderna"
+  ],
   "fontes": [
-    { "nome": "RUSI (Jack Watling)", "url": "https://www.rusi.org/news-and-comment/in-the-news/tech-can-give-europe-more-bang-defence-buck" },
-    { "nome": "Interfax-Ucrânia (Syrskyi, fev 2025)", "url": "https://ru.interfax.com.ua/news/general/1046083.html" },
-    { "nome": "Reuters via Kyiv Independent (Teia de Aranha)", "url": "https://kyivindependent.com/reuters-ukraine-struck-fewer-russian-bombers-during-operation-spiderweb-than-estimated-us-officials-claim/" },
-    { "nome": "Euromaidan Press (drones de fibra óptica)", "url": "https://euromaidanpress.com/2025/02/03/russias-fiber-optic-drones-dodge-jamming-but-ukraine-hunts-them-with-infrared-and-sound/" }
+    {
+      "nome": "RUSI (Jack Watling)",
+      "url": "https://www.rusi.org/news-and-comment/in-the-news/tech-can-give-europe-more-bang-defence-buck"
+    },
+    {
+      "nome": "Interfax-Ucrânia (Syrskyi, fev 2025)",
+      "url": "https://ru.interfax.com.ua/news/general/1046083.html"
+    },
+    {
+      "nome": "Reuters via Kyiv Independent (Teia de Aranha)",
+      "url": "https://kyivindependent.com/reuters-ukraine-struck-fewer-russian-bombers-during-operation-spiderweb-than-estimated-us-officials-claim/"
+    },
+    {
+      "nome": "Euromaidan Press (drones de fibra óptica)",
+      "url": "https://euromaidanpress.com/2025/02/03/russias-fiber-optic-drones-dodge-jamming-but-ukraine-hunts-them-with-infrared-and-sound/"
+    }
   ],
   "busca_imagens": [
-    { "id": "img01", "query": "Ukrainian soldier FPV drone launch", "alternativas": ["FPV drone Ukraine war", "Ukrainian drone operator"] },
-    { "id": "img02", "query": "Ukrainian soldier FPV goggles drone pilot", "alternativas": ["FPV drone operator goggles", "drone pilot Armed Forces of Ukraine"] },
-    { "id": "img03", "query": "destroyed Russian tank Ukraine 2023", "alternativas": ["destroyed Russian T-72 Ukraine", "destroyed Russian armored vehicle"] },
-    { "id": "img04", "query": "Ukrainian soldiers trench front line Donetsk", "alternativas": ["Ukrainian infantry trench 2024", "Bakhmut front line soldiers"] },
-    { "id": "img05", "query": "destroyed Russian armored vehicles column Ukraine", "alternativas": ["destroyed Russian military equipment Ukraine", "burned Russian BMP Ukraine"] },
-    { "id": "img06", "query": "tank cope cage Ukraine", "alternativas": ["Russian tank anti-drone cage", "electronic warfare anti-drone system Ukraine"] },
-    { "id": "img07", "query": "fiber optic drone Ukraine", "alternativas": ["fiber optic FPV drone spool", "Ukrainian FPV drone assembly workshop"] },
-    { "id": "img08", "query": "Tupolev Tu-95MS bomber", "alternativas": ["Tu-95 Bear bomber Russian Air Force", "Tupolev Tu-22M3"] }
+    {
+      "id": "img01",
+      "query": "Ukrainian soldier FPV drone launch",
+      "alternativas": [
+        "FPV drone Ukraine war",
+        "Ukrainian drone operator"
+      ]
+    },
+    {
+      "id": "img02",
+      "query": "Ukrainian soldier FPV goggles drone pilot",
+      "alternativas": [
+        "FPV drone operator goggles",
+        "drone pilot Armed Forces of Ukraine"
+      ]
+    },
+    {
+      "id": "img03",
+      "query": "destroyed Russian tank Ukraine 2023",
+      "alternativas": [
+        "destroyed Russian T-72 Ukraine",
+        "destroyed Russian armored vehicle"
+      ]
+    },
+    {
+      "id": "img04",
+      "query": "Ukrainian soldiers trench front line Donetsk",
+      "alternativas": [
+        "Ukrainian infantry trench 2024",
+        "Bakhmut front line soldiers"
+      ]
+    },
+    {
+      "id": "img05",
+      "query": "destroyed Russian armored vehicles column Ukraine",
+      "alternativas": [
+        "destroyed Russian military equipment Ukraine",
+        "burned Russian BMP Ukraine"
+      ]
+    },
+    {
+      "id": "img06",
+      "query": "tank cope cage Ukraine",
+      "alternativas": [
+        "Russian tank anti-drone cage",
+        "electronic warfare anti-drone system Ukraine"
+      ]
+    },
+    {
+      "id": "img07",
+      "query": "fiber optic drone Ukraine",
+      "alternativas": [
+        "fiber optic FPV drone spool",
+        "Ukrainian FPV drone assembly workshop"
+      ]
+    },
+    {
+      "id": "img08",
+      "query": "Tupolev Tu-95MS bomber",
+      "alternativas": [
+        "Tu-95 Bear bomber Russian Air Force",
+        "Tupolev Tu-22M3"
+      ]
+    }
   ],
-  "imagens": [],
-  "agendamento": { "data_hora": "2026-10-26T18:40:00-03:00", "slot": "18:40" },
+  "imagens": [
+    {
+      "titulo": "May Those Whose Courage and Strength Preserve Life on Earth Never Fade from People's Memory – The President Presented Awards on the Day of Remembrance and Victory over Nazism. (53708299935).jpg",
+      "autor": "President Of Ukraine from Україна",
+      "licenca": "CC0",
+      "exige_credito": false,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:May_Those_Whose_Courage_and_Strength_Preserve_Life_on_Earth_Never_Fade_from_People%27s_Memory_%E2%80%93_The_President_Presented_Awards_on_the_Day_of_Remembrance_and_Victory_over_Nazism._(53708299935).jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/May_Those_Whose_Courage_and_Strength_Preserve_Life_on_Earth_Never_Fade_from_People%27s_Memory_%E2%80%93_The_President_Presented_Awards_on_the_Day_of_Remembrance_and_Victory_over_Nazism._%2853708299935%29.jpg/1920px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 2500,
+      "altura": 1667,
+      "id": "img01",
+      "arquivo": "imagens/img01.jpg",
+      "query": "Ukrainian soldier FPV drone launch"
+    },
+    {
+      "titulo": "US infantry, Kenya Defense Forces rangers, familiarize themselves with principles of Unmanned Aircraft Systems (9575206).jpg",
+      "autor": "U.S. Air Force photo by Airman 1st Class Elijah Harris-lariviere",
+      "licenca": "Public domain",
+      "exige_credito": false,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:US_infantry,_Kenya_Defense_Forces_rangers,_familiarize_themselves_with_principles_of_Unmanned_Aircraft_Systems_(9575206).jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/US_infantry%2C_Kenya_Defense_Forces_rangers%2C_familiarize_themselves_with_principles_of_Unmanned_Aircraft_Systems_%289575206%29.jpg/1920px-US_infantry%2C_Kenya_Defense_Forces_rangers%2C_familiarize_themselves_with_principles_of_Unmanned_Aircraft_Systems_%289575206%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 3360,
+      "altura": 2240,
+      "id": "img02",
+      "arquivo": "imagens/img02.jpg",
+      "query": "Ukrainian soldier FPV goggles drone pilot"
+    },
+    {
+      "titulo": "U.S. Senator Elizabeth Warren (D–Mass.), Senator Richard Blumenthal (D-Conn.), and Senator Lindsey Graham (R-S.C.) visited Kyiv, Ukraine, August 23, 2023 - 53185010410.jpg",
+      "autor": "usembassykyiv",
+      "licenca": "Public domain",
+      "exige_credito": false,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:U.S._Senator_Elizabeth_Warren_(D%E2%80%93Mass.),_Senator_Richard_Blumenthal_(D-Conn.),_and_Senator_Lindsey_Graham_(R-S.C.)_visited_Kyiv,_Ukraine,_August_23,_2023_-_53185010410.jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/U.S._Senator_Elizabeth_Warren_%28D%E2%80%93Mass.%29%2C_Senator_Richard_Blumenthal_%28D-Conn.%29%2C_and_Senator_Lindsey_Graham_%28R-S.C.%29_visited_Kyiv%2C_Ukraine%2C_August_23%2C_2023_-_53185010410.jpg/1920px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 3747,
+      "altura": 2810,
+      "id": "img03",
+      "arquivo": "imagens/img03.jpg",
+      "query": "destroyed Russian tank Ukraine 2023"
+    },
+    {
+      "titulo": "President Volodymyr Zelenskyy congratulated the Defenders of Ukraine on 1 October 2024 - 17.jpg",
+      "autor": "President Of Ukraine",
+      "licenca": "CC0",
+      "exige_credito": false,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:President_Volodymyr_Zelenskyy_congratulated_the_Defenders_of_Ukraine_on_1_October_2024_-_17.jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/President_Volodymyr_Zelenskyy_congratulated_the_Defenders_of_Ukraine_on_1_October_2024_-_17.jpg/1920px-President_Volodymyr_Zelenskyy_congratulated_the_Defenders_of_Ukraine_on_1_October_2024_-_17.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 3000,
+      "altura": 2001,
+      "id": "img05",
+      "arquivo": "imagens/img05.jpg",
+      "query": "destroyed Russian armored vehicles column Ukraine"
+    },
+    {
+      "titulo": "Destruction of Russian tanks by Ukrainian troops in Mariupol (3).jpg",
+      "autor": "Міністерство внутрішніх справ України (Ministry of Internal Affairs of Ukraine)",
+      "licenca": "CC BY 4.0",
+      "exige_credito": true,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Destruction_of_Russian_tanks_by_Ukrainian_troops_in_Mariupol_(3).jpg",
+      "url_download": "https://upload.wikimedia.org/wikipedia/commons/6/61/Destruction_of_Russian_tanks_by_Ukrainian_troops_in_Mariupol_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largura": 1280,
+      "altura": 960,
+      "id": "img06",
+      "arquivo": "imagens/img06.jpg",
+      "query": "tank cope cage Ukraine"
+    },
+    {
+      "titulo": "JMTG-U Innovation Cell Welcomes German Brig Gen for a Visit at Balli Airfield (9568873).jpg",
+      "autor": "U.S. Army 7ATC by Capt. John Zanin",
+      "licenca": "Public domain",
+      "exige_credito": false,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:JMTG-U_Innovation_Cell_Welcomes_German_Brig_Gen_for_a_Visit_at_Balli_Airfield_(9568873).jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/JMTG-U_Innovation_Cell_Welcomes_German_Brig_Gen_for_a_Visit_at_Balli_Airfield_%289568873%29.jpg/1920px-JMTG-U_Innovation_Cell_Welcomes_German_Brig_Gen_for_a_Visit_at_Balli_Airfield_%289568873%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 4779,
+      "altura": 3823,
+      "id": "img07",
+      "arquivo": "imagens/img07.jpg",
+      "query": "fiber optic drone Ukraine"
+    },
+    {
+      "titulo": "McDonnell Douglas F-15C Eagle of the 12th FS escorts a Russian Tupolev Tu-95MS off Alaska (USA), 28 September 2006 (060928-F-0000X-104).jpg",
+      "autor": "U.S. Air Force photo",
+      "licenca": "Public domain",
+      "exige_credito": false,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:McDonnell_Douglas_F-15C_Eagle_of_the_12th_FS_escorts_a_Russian_Tupolev_Tu-95MS_off_Alaska_(USA),_28_September_2006_(060928-F-0000X-104).jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/McDonnell_Douglas_F-15C_Eagle_of_the_12th_FS_escorts_a_Russian_Tupolev_Tu-95MS_off_Alaska_%28USA%29%2C_28_September_2006_%28060928-F-0000X-104%29.jpg/1920px-McDonnell_Douglas_F-15C_Eagle_of_the_12th_FS_escorts_a_Russian_Tupolev_Tu-95MS_off_Alaska_%28USA%29%2C_28_September_2006_%28060928-F-0000X-104%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 3000,
+      "altura": 1489,
+      "id": "img08",
+      "arquivo": "imagens/img08.jpg",
+      "query": "Tupolev Tu-95MS bomber"
+    }
+  ],
+  "agendamento": {
+    "data_hora": "2026-10-26T18:40:00-03:00",
+    "slot": "18:40"
+  },
   "metricool": {},
   "verificacao": "66% (Syrskyi, jan/2025) e estimativa de ~2/3 de Watling (RUSI). Teia de Aranha: alegação ucraniana (41) apresentada junto com a estimativa menor de fontes dos EUA (Reuters). Custos de FPV e fibra óptica conforme reportagens de defesa."
 }
