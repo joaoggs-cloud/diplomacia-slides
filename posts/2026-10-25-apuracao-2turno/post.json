@@ -1,7 +1,7 @@
 {
   "slug": "2026-10-25-apuracao-2turno",
   "titulo_interno": "Apuração do 2º turno — parcial",
-  "status": "rascunho",
+  "status": "aguardando_aprovacao",
   "teste": true,
   "pilar": "atualidade_brasil",
   "categoria": "Eleições 2026 · 2º turno",
@@ -55,7 +55,9 @@
     "#apuracao",
     "#tse",
     "#brasil",
-    "#democracia"
+    "#democracia",
+    "#politica",
+    "#diplomaciadaguerra"
   ],
   "fontes": [
     {
@@ -167,6 +169,12 @@
     "data_hora": "2026-10-25T21:30:00-03:00",
     "slot": "extra"
   },
-  "metricool": {},
-  "verificacao": "Parcial (≈30%, 50,4 x 49,6) consistente entre InfoMoney (20,05%: 50,41 x 49,59), Mapa Eleitoral (23,27%: 50,47 x 49,53) e outro painel (~30%: 50,44 x 49,56). Prorrogação e pausa: InfoMoney, CartaCapital, Jornal de Brasília, Tribuna do Norte. Urnas: TSE. Neutralidade: candidatos citados com partido, sem adjetivos; fotos só de urnas/TSE/eleitores, sem candidatos."
+  "metricool": {
+    "id": "406077003",
+    "uuid": "776408221619866423",
+    "sha_slides": "f745ca728cc598902e7fe572250a791eeb97bfaf",
+    "planner_url": "https://app.metricool.com/planner/calendar?blogId=7647378&openWithPostUuid=776408221619866423"
+  },
+  "verificacao": "Parcial (≈30%, 50,4 x 49,6) consistente entre InfoMoney (20,05%: 50,41 x 49,59), Mapa Eleitoral (23,27%: 50,47 x 49,53) e outro painel (~30%: 50,44 x 49,56). Prorrogação e pausa: InfoMoney, CartaCapital, Jornal de Brasília, Tribuna do Norte. Urnas: TSE. Neutralidade: candidatos citados com partido, sem adjetivos; fotos só de urnas/TSE/eleitores, sem candidatos.",
+  "usar_hashtags_base": false
 }

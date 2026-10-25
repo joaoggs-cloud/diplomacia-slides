@@ -92,7 +92,9 @@ def textos_alternativos(post, n):
 
 
 def montar_legenda(post, est):
-    hashtags = list(dict.fromkeys(post.get("hashtags", []) + est["hashtags_base"]))[: est["max_hashtags"]]
+    # Posts fora do tema militar (ex.: eleições) podem dispensar as hashtags de base.
+    base = est["hashtags_base"] if post.get("usar_hashtags_base", True) else []
+    hashtags = list(dict.fromkeys(post.get("hashtags", []) + base))[: est["max_hashtags"]]
     partes = [post["legenda"].strip()]
     if post.get("fontes"):
         partes.append("Fontes: " + ", ".join(f["nome"] for f in post["fontes"]) + ".")
