@@ -1,0 +1,93 @@
+{
+  "slug": "2026-10-28-crise-dos-misseis",
+  "titulo_interno": "Crise dos Mísseis de Cuba — 13 dias",
+  "status": "rascunho",
+  "pilar": "historia_militar",
+  "categoria": "Diplomacia · Guerra Fria",
+  "gancho_tipo": "numero_dias",
+  "capa": {
+    "imagem": "img01",
+    "titulo_html": "13 dias que quase <span class=\"hl\">acabaram</span> com o <span class=\"hl2\">mundo</span>",
+    "gancho": "Há 64 anos, a diplomacia foi a única coisa entre a humanidade e uma guerra nuclear."
+  },
+  "slides": [
+    {
+      "imagem": "img02",
+      "tag": "14 out 1962",
+      "titulo": "A foto que mudou tudo",
+      "texto_html": "Um avião espião <strong>U-2</strong> sobrevoa Cuba e fotografa algo que não deveria estar ali: <em>bases de mísseis soviéticos</em> sendo montadas a cerca de 150 km da costa dos EUA.",
+      "numero": { "valor": "150 KM", "label": "Distância de Cuba até a Flórida" }
+    },
+    {
+      "imagem": "img03",
+      "tag": "Operação Anadyr",
+      "titulo": "O plano secreto de Moscou",
+      "texto_html": "Khrushchev enviou mísseis nucleares <strong>R-12</strong> à ilha. Com cerca de <em>2.000 km de alcance</em>, eles colocavam Washington ao alcance de um ataque em minutos.",
+      "factbox": { "label": "Por quê?", "texto": "Resposta aos mísseis Júpiter dos EUA instalados na Turquia e proteção de Cuba após a invasão fracassada da Baía dos Porcos (1961)." }
+    },
+    {
+      "imagem": "img04",
+      "tag": "22 out 1962",
+      "titulo": "Quarentena, não bloqueio",
+      "texto_html": "Kennedy anuncia na TV um cerco naval a Cuba. A palavra foi escolhida a dedo: pelo direito internacional, <em>“bloqueio” é ato de guerra</em>. “Quarentena” deixava uma porta aberta para negociar."
+    },
+    {
+      "imagem": "img05",
+      "tag": "24 out 1962",
+      "titulo": "DEFCON 2",
+      "texto_html": "O Comando Aéreo Estratégico dos EUA entra em <strong>DEFCON 2</strong>, um passo antes da guerra nuclear. Bombardeiros armados ficam no ar 24 horas por dia.",
+      "factbox": { "label": "Fato", "texto": "É a única vez na história em que forças dos EUA chegaram ao DEFCON 2." }
+    },
+    {
+      "imagem": "img06",
+      "tag": "25 out 1962",
+      "titulo": "Até o inferno congelar",
+      "texto_html": "No Conselho de Segurança da ONU, o embaixador americano <strong>Adlai Stevenson</strong> exibe as fotos dos mísseis e pressiona o soviético Valerian Zorin diante do mundo.",
+      "citacao": { "texto": "“Estou preparado para esperar pela resposta até o inferno congelar.”", "autor": "Adlai Stevenson, ONU" }
+    },
+    {
+      "imagem": "img07",
+      "tag": "27 out 1962",
+      "titulo": "Sábado Negro",
+      "texto_html": "Um U-2 é abatido sobre Cuba e o piloto <strong>Rudolf Anderson</strong> morre. No mar, o submarino soviético B-59, cercado por navios americanos, cogita lançar um <em>torpedo nuclear</em>.",
+      "factbox": { "label": "O homem que disse não", "texto": "O oficial Vasili Arkhipov recusou dar seu aval ao disparo. Sem os três votos, o torpedo não saiu." }
+    },
+    {
+      "imagem": "img08",
+      "tag": "28 out 1962",
+      "titulo": "O acordo secreto",
+      "texto_html": "Khrushchev anuncia a retirada dos mísseis. Em troca, os EUA prometem não invadir Cuba e, <em>em segredo</em>, aceitam tirar os mísseis Júpiter da Turquia meses depois."
+    },
+    {
+      "imagem": "img09",
+      "tag": "O legado",
+      "titulo": "O que a crise deixou",
+      "texto_html": "Em 1963 nasce a <strong>linha direta</strong> entre Washington e Moscou, para que os líderes falassem sem intermediários. No mesmo ano, o <em>Tratado de Proibição Parcial de Testes Nucleares</em> é assinado."
+    }
+  ],
+  "cta": { "titulo": "Salve este post", "subtitulo": "e compartilhe com quem precisa saber" },
+  "legenda": "Em outubro de 1962, o mundo passou 13 dias à beira de uma guerra nuclear. ☢️\n\nMísseis soviéticos em Cuba, navios americanos cercando a ilha, um avião espião abatido e um submarino que quase disparou um torpedo nuclear. No fim, quem evitou a catástrofe não foi uma arma: foi a diplomacia, incluindo um acordo secreto que só veio a público anos depois.\n\nHá 64 anos, em 28 de outubro, Khrushchev anunciou a retirada dos mísseis.\n\n👉 Arraste para o lado e entenda dia a dia como tudo aconteceu.\n\n💬 Na sua opinião, quem cedeu mais: Kennedy ou Khrushchev?",
+  "primeiro_comentario": "Qual outro momento da história você acha que chegou tão perto de uma guerra nuclear? Conta aqui 👇",
+  "hashtags": ["#crisedosmisseis", "#guerrafria", "#cuba", "#kennedy", "#historia", "#urss", "#guerranuclear"],
+  "alt_text": "Carrossel sobre a Crise dos Mísseis de Cuba de 1962, com fotos históricas e explicação dia a dia.",
+  "fontes": [
+    { "nome": "JFK Presidential Library", "url": "https://www.jfklibrary.org/learn/about-jfk/jfk-in-history/cuban-missile-crisis" },
+    { "nome": "Office of the Historian (Dep. de Estado dos EUA)", "url": "https://history.state.gov/milestones/1961-1968/cuban-missile-crisis" },
+    { "nome": "National Security Archive (GWU)", "url": "https://nsarchive.gwu.edu/project/cuban-missile-crisis" }
+  ],
+  "busca_imagens": [
+    { "id": "img01", "query": "Kennedy EXCOMM meeting Cuban Missile Crisis 1962", "alternativas": ["John F. Kennedy October 1962 cabinet room"] },
+    { "id": "img02", "query": "U-2 reconnaissance photograph San Cristobal Cuba missile site 1962", "alternativas": ["Cuban missile crisis aerial reconnaissance photo"] },
+    { "id": "img03", "query": "Soviet R-12 missile", "alternativas": ["SS-4 Sandal missile", "Cuban missile crisis missile range map"] },
+    { "id": "img04", "query": "Kennedy signs Proclamation Interdiction Cuba October 23 1962", "alternativas": ["Kennedy television address October 22 1962"] },
+    { "id": "img05", "query": "B-52 Stratofortress 1960s", "alternativas": ["Strategic Air Command B-52 bomber"] },
+    { "id": "img06", "query": "Adlai Stevenson United Nations Security Council October 25 1962", "alternativas": ["Adlai Stevenson 1962"] },
+    { "id": "img07", "query": "Soviet submarine B-59 Cuban missile crisis", "alternativas": ["Soviet Foxtrot submarine surfaced 1962"] },
+    { "id": "img08", "query": "Kennedy Khrushchev Vienna 1961", "alternativas": ["Nikita Khrushchev 1962"] },
+    { "id": "img09", "query": "Moscow Washington hotline teletype", "alternativas": ["Partial Nuclear Test Ban Treaty signing 1963"] }
+  ],
+  "imagens": [],
+  "agendamento": { "data_hora": "2026-10-28T12:15:00-03:00", "slot": "12:15" },
+  "metricool": {},
+  "verificacao": "Datas e fatos conferidos com JFK Library, Office of the Historian e National Security Archive."
+}

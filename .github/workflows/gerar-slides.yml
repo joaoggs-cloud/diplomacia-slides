@@ -1,0 +1,78 @@
+# Plano B para quando a sessão do Claude não tem acesso ao Wikimedia Commons:
+# ao receber um post.json novo/alterado, o GitHub baixa as imagens livres,
+# renderiza os slides e devolve tudo num commit no mesmo branch.
+name: Gerar slides
+
+on:
+  push:
+    paths:
+      - "posts/*/post.json"
+  workflow_dispatch:
+    inputs:
+      post_dir:
+        description: "Pasta do post (ex.: posts/2026-10-26-slug)"
+        required: true
+
+permissions:
+  contents: write
+
+concurrency:
+  group: gerar-slides-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  gerar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Descobrir posts alterados
+        id: posts
+        run: |
+          if [ -n "${{ github.event.inputs.post_dir }}" ]; then
+            dirs="${{ github.event.inputs.post_dir }}"
+          elif [ "${{ github.event.before }}" = "0000000000000000000000000000000000000000" ]; then
+            dirs=$(git ls-files 'posts/*/post.json' | xargs -r -n1 dirname | sort -u)
+          else
+            dirs=$(git diff --name-only "${{ github.event.before }}" "${{ github.sha }}" -- 'posts/*/post.json' | xargs -r -n1 dirname | sort -u)
+          fi
+          echo "dirs=$(echo $dirs)" >> "$GITHUB_OUTPUT"
+          echo "Posts: $dirs"
+
+      - uses: actions/setup-python@v5
+        if: steps.posts.outputs.dirs != ''
+        with:
+          python-version: "3.12"
+
+      - uses: actions/setup-node@v4
+        if: steps.posts.outputs.dirs != ''
+        with:
+          node-version: "20"
+
+      - name: Instalar dependências
+        if: steps.posts.outputs.dirs != ''
+        run: |
+          pip install requests pillow numpy
+          npm install --no-save playwright@1.48.2
+          npx playwright install --with-deps chromium
+
+      - name: Baixar imagens e renderizar
+        if: steps.posts.outputs.dirs != ''
+        run: |
+          for d in ${{ steps.posts.outputs.dirs }}; do
+            [ -f "$d/post.json" ] || continue
+            python3 scripts/imagens.py "$d" --candidatos 3 || echo "::warning::faltou imagem em $d"
+            python3 scripts/render.py "$d"
+          done
+
+      - name: Commit
+        if: steps.posts.outputs.dirs != ''
+        run: |
+          git config user.name "diplomacia-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add posts
+          if git diff --cached --quiet; then echo "Nada novo."; exit 0; fi
+          git commit -m "Slides gerados: ${{ steps.posts.outputs.dirs }}"
+          git push

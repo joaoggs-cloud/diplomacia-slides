@@ -1,0 +1,55 @@
+{
+  "_sobre": "Estratégia viva da página. A rotina de análise semanal reescreve 'horarios', 'frequencia_semanal' e 'pesos_pilares' com base nos resultados. Não edite à mão sem registrar o motivo em 'historico_ajustes'.",
+  "metricool": {
+    "blog_id": "7647378",
+    "timezone": "America/Sao_Paulo",
+    "rede": "instagram",
+    "handle": "@diplomaciadaguerra"
+  },
+  "repositorio": {
+    "owner": "joaoggs-cloud",
+    "repo": "diplomacia-slides",
+    "branch": "claude/instagram-diplomacia-guerra-automation-zt7ejh"
+  },
+  "aprovacao": {
+    "obrigatoria": true,
+    "email_aprovador": "joao.ggs@gmail.com",
+    "modo": "rascunho_metricool"
+  },
+  "frequencia_semanal": 4,
+  "dias_preferidos": ["seg", "qua", "sex", "dom"],
+  "fase": "exploracao",
+  "horarios": {
+    "_sobre": "Na fase de exploração os slots são rotacionados para medir qual rende mais. Na fase de otimização usa-se 'melhor_slot' em ~70% dos posts e os demais continuam testando.",
+    "slots": ["12:15", "18:40", "20:50"],
+    "melhor_slot": null,
+    "proximo_slot_indice": 0
+  },
+  "formatos": {
+    "carrossel": { "slides_min": 8, "slides_max": 10, "peso": 1.0 }
+  },
+  "pilares": {
+    "conflito_atual": "Explicação de um conflito/crise em andamento com base em notícias da semana",
+    "historia_militar": "Batalhas, operações e decisões históricas que mudaram guerras",
+    "diplomacia": "Tratados, cúpulas, sanções, alianças e negociações",
+    "tecnologia_militar": "Armamentos, drones, doutrinas e como a tecnologia muda o campo de batalha",
+    "fatos_rapidos": "Listas de fatos curiosos e pouco conhecidos sobre guerras e geopolítica"
+  },
+  "pesos_pilares": {
+    "conflito_atual": 0.3,
+    "historia_militar": 0.25,
+    "diplomacia": 0.15,
+    "tecnologia_militar": 0.15,
+    "fatos_rapidos": 0.15
+  },
+  "hashtags_base": [
+    "#geopolitica", "#diplomaciadaguerra", "#historiamilitar", "#guerra", "#relacoesinternacionais"
+  ],
+  "max_hashtags": 12,
+  "historico_ajustes": [
+    {
+      "data": "2026-10-25",
+      "motivo": "Configuração inicial. Conta nova (22 seguidores, sem posts medidos): Metricool ainda não tem dados de melhor horário, então os três slots serão rotacionados durante a fase de exploração."
+    }
+  ]
+}
