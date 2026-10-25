@@ -1,7 +1,7 @@
 {
   "slug": "2026-10-25-apuracao-2turno",
   "titulo_interno": "Apuração do 2º turno — card de notícia",
-  "status": "aguardando_aprovacao",
+  "status": "agendado",
   "teste": true,
   "pilar": "atualidade_brasil",
   "categoria": "Eleições 2026 · 2º turno",
@@ -206,13 +206,13 @@
     }
   ],
   "agendamento": {
-    "data_hora": "2026-10-25T20:45:00-03:00",
+    "data_hora": "2026-10-25T20:28:00-03:00",
     "slot": "extra"
   },
   "metricool": {
-    "id": "406078355",
+    "id": "406081033",
     "uuid": "776408221619866423",
-    "sha_slides": "bfc5ef73b2f8c40b5b708337a65bcb572f1ec4e3",
+    "sha_slides": "26f682afb73b0ec47d91436110880473be4cc523",
     "planner_url": "https://app.metricool.com/planner/calendar?blogId=7647378&openWithPostUuid=776408221619866423"
   },
   "verificacao": "Parcial (≈30%, 50,4 x 49,6) consistente entre InfoMoney (20,05%: 50,41 x 49,59), Mapa Eleitoral (23,27%: 50,47 x 49,53) e outro painel (~30%: 50,44 x 49,56). Prorrogação e pausa: InfoMoney, CartaCapital, Jornal de Brasília, Tribuna do Norte. Urnas: TSE. Neutralidade: candidatos citados com partido, sem adjetivos; fotos só de urnas/TSE/eleitores, sem candidatos. Retratos: fotos oficiais dos dois (Agência Senado e Planalto), mesmo recorte 3x4, mesmo tamanho e filtro.",
@@ -239,5 +239,6 @@
     "subtitulo_html": "Parcial do TSE com <strong>41,58% das urnas apuradas</strong>. A diferença vem diminuindo com o avanço da contagem.",
     "rodape": "Parcial · votos válidos · Fonte: TSE",
     "credito": "Fotos: Agência Senado · Ricardo Stuckert/Palácio do Planalto (CC BY 2.0) · urna: TSE"
-  }
+  },
+  "aprovado_em": "2026-10-25"
 }
