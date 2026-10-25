@@ -109,6 +109,20 @@
         "urna eletrônica Brazil voting",
         "Brazilian voting machines"
       ]
+    },
+    {
+      "id": "img05",
+      "query": "File:Foto oficial do senador Flávio Bolsonaro (v. AgSen) (3x4).jpg",
+      "alternativas": [
+        "File:Foto oficial do senador Flávio Bolsonaro (v. AgSen).jpg"
+      ]
+    },
+    {
+      "id": "img06",
+      "query": "File:Foto oficial de Luiz Inácio Lula da Silva (3x4 cropped).jpg",
+      "alternativas": [
+        "File:Foto oficial do Presidente da República Luiz Inácio Lula da Silva.jpg"
+      ]
     }
   ],
   "imagens": [
@@ -175,7 +189,7 @@
     "sha_slides": "bfc5ef73b2f8c40b5b708337a65bcb572f1ec4e3",
     "planner_url": "https://app.metricool.com/planner/calendar?blogId=7647378&openWithPostUuid=776408221619866423"
   },
-  "verificacao": "Parcial (≈30%, 50,4 x 49,6) consistente entre InfoMoney (20,05%: 50,41 x 49,59), Mapa Eleitoral (23,27%: 50,47 x 49,53) e outro painel (~30%: 50,44 x 49,56). Prorrogação e pausa: InfoMoney, CartaCapital, Jornal de Brasília, Tribuna do Norte. Urnas: TSE. Neutralidade: candidatos citados com partido, sem adjetivos; fotos só de urnas/TSE/eleitores, sem candidatos.",
+  "verificacao": "Parcial (≈30%, 50,4 x 49,6) consistente entre InfoMoney (20,05%: 50,41 x 49,59), Mapa Eleitoral (23,27%: 50,47 x 49,53) e outro painel (~30%: 50,44 x 49,56). Prorrogação e pausa: InfoMoney, CartaCapital, Jornal de Brasília, Tribuna do Norte. Urnas: TSE. Neutralidade: candidatos citados com partido, sem adjetivos; fotos só de urnas/TSE/eleitores, sem candidatos. Retratos: fotos oficiais dos dois (Agência Senado e Planalto), mesmo recorte 3x4, mesmo tamanho e filtro.",
   "usar_hashtags_base": false,
   "formato": "noticia",
   "noticia": {
@@ -186,12 +200,14 @@
       {
         "nome": "Flávio Bolsonaro",
         "partido": "PL",
-        "valor": "50,44%"
+        "valor": "50,44%",
+        "foto": "img05"
       },
       {
         "nome": "Lula",
         "partido": "PT",
-        "valor": "49,56%"
+        "valor": "49,56%",
+        "foto": "img06"
       }
     ],
     "subtitulo_html": "Parcial do TSE com <strong>30,82% das urnas apuradas</strong>, por volta das 20h. Menos de 1 ponto separa os candidatos.",

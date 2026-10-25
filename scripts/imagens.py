@@ -33,6 +33,8 @@ LICENCAS_OK = [
     (re.compile(r"cc0", re.I), 1),
     (re.compile(r"cc[ -]by[ -]\d", re.I), 2),
     (re.compile(r"cc[ -]by[ -]sa", re.I), 3),
+    # Ex.: Agência Senado — "uso livre desde que citada a fonte".
+    (re.compile(r"^attribution$|atribui", re.I), 2),
 ]
 # Licenças "NC"/"ND" ou fair use nunca entram.
 LICENCAS_BLOQUEADAS = re.compile(r"\bnc\b|\bnd\b|non-?commercial|no ?deriv|fair use", re.I)

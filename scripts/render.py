@@ -155,9 +155,16 @@ def montar_noticia(post, post_dir):
     img = next((i for i in post.get("imagens", []) if i["id"] == n.get("imagem")), None)
     fundo = (f'<img class="n-photo" src="{data_uri(post_dir / img["arquivo"])}" alt="">'
              if img else '<div class="fallback"></div>')
+    imagens = {i["id"]: i for i in post.get("imagens", [])}
+
+    def retrato(c):
+        # Mesmo tamanho e mesmo tratamento para todos os retratos (isenção).
+        foto = imagens.get(c.get("foto"))
+        return f'<img class="n-foto" src="{data_uri(post_dir / foto["arquivo"], 400)}" alt="">' if foto else ""
+
     placar = "".join(
-        f'<div class="n-cand"><div class="n-pct">{escape(c["valor"])}</div>'
-        f'<div class="n-nome">{escape(c["nome"])}</div><div class="n-partido">{escape(c.get("partido", ""))}</div></div>'
+        f'<div class="n-cand">{retrato(c)}<div><div class="n-pct">{escape(c["valor"])}</div>'
+        f'<div class="n-nome">{escape(c["nome"])}</div><div class="n-partido">{escape(c.get("partido", ""))}</div></div></div>'
         for c in n.get("placar", []))
     slide = f'''
   <div class="slide noticia">
