@@ -47,7 +47,11 @@
       "imagem": "img06",
       "tag": "Contramedidas",
       "titulo": "Gaiolas e interferência",
-      "texto_html": "Os blindados ganharam <strong>gaiolas de metal</strong> e redes por cima da torre. E a guerra eletrônica entrou em cena: equipamentos que <em>bloqueiam o sinal de rádio</em> fazem o drone perder o controle antes de chegar ao alvo."
+      "texto_html": "Os blindados ganharam <strong>gaiolas de metal</strong> e redes por cima da torre. E a guerra eletrônica entrou em cena: equipamentos que <em>bloqueiam o sinal de rádio</em> fazem o drone perder o controle antes de chegar ao alvo.",
+      "factbox": {
+        "label": "Na foto",
+        "texto": "Tanque T-64 ucraniano em disparo, com grades de metal na lateral e no topo para deter drones (out 2023)."
+      }
     },
     {
       "imagem": "img07",
