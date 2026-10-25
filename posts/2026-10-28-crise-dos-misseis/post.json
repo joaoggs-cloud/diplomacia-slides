@@ -1,7 +1,7 @@
 {
   "slug": "2026-10-28-crise-dos-misseis",
   "titulo_interno": "Crise dos Mísseis de Cuba — 13 dias",
-  "status": "aguardando_aprovacao",
+  "status": "agendado",
   "pilar": "historia_militar",
   "categoria": "Diplomacia · Guerra Fria",
   "gancho_tipo": "numero_dias",
@@ -305,10 +305,11 @@
     "slot": "12:15"
   },
   "metricool": {
-    "id": "406062252",
+    "id": "406074175",
     "uuid": "4746329638521029185",
     "sha_slides": "e960f80b7e42b3d1bc620cc453f19c6452b504fc",
     "planner_url": "https://app.metricool.com/planner/calendar?blogId=7647378&openWithPostUuid=4746329638521029185"
   },
-  "verificacao": "Datas e fatos conferidos com JFK Library, Office of the Historian e National Security Archive."
+  "verificacao": "Datas e fatos conferidos com JFK Library, Office of the Historian e National Security Archive.",
+  "aprovado_em": "2026-10-25"
 }
