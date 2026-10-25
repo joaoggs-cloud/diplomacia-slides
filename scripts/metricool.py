@@ -21,6 +21,7 @@ RAIZ = Path(__file__).resolve().parent.parent
 ESTRATEGIA = RAIZ / "config" / "estrategia.json"
 DIAS = ["seg", "ter", "qua", "qui", "sex", "sab", "dom"]
 LIMITE_LEGENDA = 2200
+ANTECEDENCIA_MIN_HORAS = 4
 
 
 def carregar_estrategia():
@@ -33,20 +34,17 @@ def posts_existentes():
 
 
 def proximo_horario(agora=None):
-    """Próximo dia preferido livre depois do último post já agendado/aprovado,
-    no slot da vez (rotação na exploração, melhor slot ~70% na otimização)."""
+    """Primeiro dia preferido ainda sem post, no slot da vez (rotação na
+    exploração, melhor slot ~70% na otimização). Preenche buracos na agenda."""
     est = carregar_estrategia()
     tz = ZoneInfo(est["metricool"]["timezone"])
     agora = agora or datetime.now(tz)
 
     ocupados = set()
-    ultimo = agora
     for _, post in posts_existentes():
         quando = post.get("agendamento", {}).get("data_hora")
         if quando and post.get("status") not in ("rejeitado", "descartado"):
-            dt = datetime.fromisoformat(quando).astimezone(tz)
-            ocupados.add(dt.date())
-            ultimo = max(ultimo, dt)
+            ocupados.add(datetime.fromisoformat(quando).astimezone(tz).date())
 
     h = est["horarios"]
     indice = h.get("proximo_slot_indice", 0)
@@ -56,14 +54,15 @@ def proximo_horario(agora=None):
         slot = h["slots"][indice % len(h["slots"])]
     hora, minuto = map(int, slot.split(":"))
 
-    # Começa no dia seguinte ao último post para respeitar o espaçamento,
-    # mas nunca antes de amanhã — o post precisa de tempo para ser aprovado.
-    dia = max(ultimo.date(), agora.date()) + timedelta(days=1)
-    for _ in range(14):
-        if DIAS[dia.weekday()] in est["dias_preferidos"] and dia not in ocupados:
-            break
+    # Hoje só vale se ainda sobrar tempo para o João aprovar.
+    dia = agora.date()
+    for _ in range(30):
+        quando = datetime(dia.year, dia.month, dia.day, hora, minuto, tzinfo=tz)
+        livre = DIAS[dia.weekday()] in est["dias_preferidos"] and dia not in ocupados
+        if livre and quando - agora >= timedelta(hours=ANTECEDENCIA_MIN_HORAS):
+            return quando, slot
         dia += timedelta(days=1)
-    return datetime(dia.year, dia.month, dia.day, hora, minuto, tzinfo=tz), slot
+    sys.exit("Nenhum dia livre nos próximos 30 dias.")
 
 
 def avancar_slot():

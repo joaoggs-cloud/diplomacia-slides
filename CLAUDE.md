@@ -40,11 +40,13 @@ sistema vive no repositório.
 ## Rotina A — Produzir o próximo post
 
 1. **Preparar.** `git pull`. Leia `config/estrategia.json` e os `post.json` dos
-   últimos 30 dias. Se já existem **2 ou mais** posts `aguardando_aprovacao`,
+   últimos 30 dias. Se já existem **3 ou mais** posts `aguardando_aprovacao`,
    não crie outro: apenas lembre o João dos pendentes (com as prévias) e pare.
    Também não produza se a fila futura (`agendado` + `aguardando_aprovacao` com
    data à frente) já tiver `ceil(frequencia_semanal / 2)` posts — a rotina roda
-   todo dia e é essa regra que mantém o ritmo na frequência definida.
+   todo dia e é essa regra que mantém o ritmo na frequência definida. O João
+   quer **um post por dia**: `proximo-horario` sempre preenche primeiro o dia
+   vazio mais próximo (inclusive hoje, se faltarem 4 h ou mais para o slot).
 2. **Escolher o pilar** sorteando pelos `pesos_pilares`, evitando repetir o
    pilar dos dois últimos posts. Não repita tema dos últimos 30 dias.
 3. **Pesquisar.** Use WebSearch (modo `extended` para atualidades). Para
@@ -129,6 +131,10 @@ Nunca troque `draft` para `false` sem um "aprovar" do João nesta conversa.
    - alcance médio por post caiu > 25% em relação às semanas anteriores após
      aumentar a frequência → volte ao valor anterior;
    - João atrasando aprovações (posts vencendo sem aprovação) → −1.
+   - **Nunca** abaixo de `frequencia_minima` (7 — pedido do João: um post por
+     dia). Com 7/semana, os ajustes passam a ser de horário e de pilar; se os
+     dados indicarem que menos posts renderiam mais, recomende ao João no
+     resumo em vez de mudar sozinho.
    Ajuste `dias_preferidos` para os dias com melhor score quando houver ≥ 3
    posts por dia.
 7. Acrescente no fim do relatório uma seção **"Leitura do Claude"** com 3–5
