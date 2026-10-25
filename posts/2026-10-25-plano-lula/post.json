@@ -1,0 +1,151 @@
+{
+  "slug": "2026-10-25-plano-lula",
+  "titulo_interno": "Plano de governo — Lula",
+  "status": "rascunho",
+  "pilar": "atualidade_brasil",
+  "categoria": "Eleições 2026 · Plano de governo",
+  "usar_hashtags_base": false,
+  "aprovacao_previa": "João pediu em 25/10 para publicar 10 min após o anúncio do vencedor, de forma imparcial.",
+  "capa": {
+    "imagem": "img01",
+    "titulo_html": "O que propõe <span class=\"hl2\">Lula</span>",
+    "gancho": "Os principais pontos do plano de governo registrado no TSE: “Diretrizes para o Programa de Transformação do Brasil”.",
+    "foco": "center 15%"
+  },
+  "slides": [
+    {
+      "imagem": "img02",
+      "tag": "Economia",
+      "titulo": "Contas públicas e crescimento",
+      "texto_html": "Manter o <strong>arcabouço fiscal</strong>, a política de valorização do salário mínimo e o investimento público. Meta de sair de déficit de 0,5% do PIB em 2026 para <em>superávit de 1,5% do PIB em 2030</em>."
+    },
+    {
+      "imagem": "img03",
+      "tag": "Trabalho e renda",
+      "titulo": "Fim da escala 6x1",
+      "texto_html": "Reduzir a jornada, com <strong>fim da escala 6x1</strong> e semana de 40 horas. Atualizar a CLT e criar regras para trabalhadores de aplicativos, com <em>transparência dos algoritmos</em>."
+    },
+    {
+      "imagem": "img04",
+      "tag": "Segurança",
+      "titulo": "Ministério da Segurança",
+      "texto_html": "Aprovar a <strong>PEC da Segurança</strong> e criar o Ministério da Segurança Pública. Ampliar as forças-tarefa integradas contra o crime e <em>atacar o caixa</em> das facções."
+    },
+    {
+      "imagem": "img05",
+      "tag": "Saúde e educação",
+      "titulo": "SUS e escola em tempo integral",
+      "texto_html": "Fortalecer o <strong>SUS</strong>, ampliar o Mais Médicos e digitalizar serviços de saúde. Na educação, expandir o <em>ensino em tempo integral</em>."
+    },
+    {
+      "imagem": "img06",
+      "tag": "Estado",
+      "titulo": "Gastos e emendas",
+      "texto_html": "Propõe um pacto entre os Poderes para <strong>reduzir gastos</strong>, limitar emendas parlamentares e acabar com os <em>supersalários</em>. Prevê investimentos em adaptação climática."
+    },
+    {
+      "imagem": "img07",
+      "tag": "Mundo",
+      "titulo": "Multilateralismo",
+      "texto_html": "Fortalecer o <strong>BRICS</strong>, o Mercosul e a integração sul-americana, e defender a <em>reforma do Conselho de Segurança da ONU</em>."
+    }
+  ],
+  "cta": {
+    "titulo": "Salve para consultar",
+    "subtitulo": "e acompanhe as promessas nos próximos 4 anos"
+  },
+  "legenda": "📋 O que propõe Lula (PT), presidente eleito.\n\nResumimos em 6 temas os principais pontos do plano de governo registrado no TSE: economia, trabalho, segurança, saúde e educação, gestão do Estado e política externa.\n\nO conteúdo reproduz as propostas do plano, sem avaliação. A íntegra está no site do TSE.\n\n👉 Arraste para o lado.\n\n💬 Qual proposta você acha que deveria ser prioridade no primeiro ano? Comente com respeito.",
+  "primeiro_comentario": "Salve este post para acompanhar, ao longo do mandato, o que for cumprido. 📌",
+  "hashtags": [
+    "#eleicoes2026",
+    "#planodegoverno",
+    "#propostas",
+    "#presidente",
+    "#brasil",
+    "#politica",
+    "#diplomaciadaguerra"
+  ],
+  "fontes": [
+    {
+      "nome": "TSE (planos de governo, 2º turno)",
+      "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/propostas-de-governo-dos-candidatos-ao-cargo-de-presidente-da-republica-eleicoes-2026-segundo-turno"
+    },
+    {
+      "nome": "Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/conheca-propostas-de-flavio-e-lula-para-seguranca-publica"
+    },
+    {
+      "nome": "Exame",
+      "url": "https://exame.com/brasil/lula-x-flavio-bolsonaro-compare-as-propostas-dos-dois-candidatos/"
+    },
+    {
+      "nome": "InfoMoney",
+      "url": "https://www.infomoney.com.br/politica/o-que-lula-ja-prometeu-para-a-economia-se-conquistar-a-reeleicao/"
+    }
+  ],
+  "busca_imagens": [
+    {
+      "id": "img02",
+      "query": "Banco Central do Brasil sede Brasília",
+      "alternativas": [
+        "Central Bank of Brazil headquarters"
+      ]
+    },
+    {
+      "id": "img03",
+      "query": "carteira de trabalho Brasil",
+      "alternativas": [
+        "trabalhadores Brasil fábrica",
+        "Brazilian workers"
+      ]
+    },
+    {
+      "id": "img04",
+      "query": "Polícia Federal Brasil agentes",
+      "alternativas": [
+        "Polícia Federal viatura",
+        "Brazilian Federal Police"
+      ]
+    },
+    {
+      "id": "img05",
+      "query": "Unidade Básica de Saúde SUS",
+      "alternativas": [
+        "hospital público Brasil",
+        "SUS saúde atendimento"
+      ]
+    },
+    {
+      "id": "img06",
+      "query": "Esplanada dos Ministérios Brasília",
+      "alternativas": [
+        "Esplanada dos Ministérios aerial"
+      ]
+    },
+    {
+      "id": "img07",
+      "query": "Palácio Itamaraty Brasília",
+      "alternativas": [
+        "Itamaraty Palace Brasilia"
+      ]
+    }
+  ],
+  "imagens": [
+    {
+      "titulo": "Foto oficial de Luiz Inácio Lula da Silva (3x4 cropped).jpg",
+      "autor": "Ricardo Stuckert/Palácio do Planalto",
+      "licenca": "CC BY 2.0",
+      "exige_credito": true,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Foto_oficial_de_Luiz_In%C3%A1cio_Lula_da_Silva_(3x4_cropped).jpg",
+      "url_download": "https://upload.wikimedia.org/wikipedia/commons/2/21/Foto_oficial_de_Luiz_In%C3%A1cio_Lula_da_Silva_%283x4_cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largura": 1357,
+      "altura": 1806,
+      "id": "img01",
+      "arquivo": "imagens/img01.jpg",
+      "query": "File:Foto oficial de Luiz Inácio Lula da Silva (3x4 cropped).jpg"
+    }
+  ],
+  "agendamento": {},
+  "metricool": {},
+  "verificacao": "Estrutura, tamanho e fotos idênticos ao post do outro candidato; só propostas do plano/candidato, sem adjetivos ou críticas. Itens com reportagens divergentes foram omitidos."
+}

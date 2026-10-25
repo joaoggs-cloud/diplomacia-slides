@@ -1,0 +1,155 @@
+{
+  "slug": "2026-10-25-plano-flavio",
+  "titulo_interno": "Plano de governo — Flávio Bolsonaro",
+  "status": "rascunho",
+  "pilar": "atualidade_brasil",
+  "categoria": "Eleições 2026 · Plano de governo",
+  "usar_hashtags_base": false,
+  "aprovacao_previa": "João pediu em 25/10 para publicar 10 min após o anúncio do vencedor, de forma imparcial.",
+  "capa": {
+    "imagem": "img01",
+    "titulo_html": "O que propõe <span class=\"hl2\">Flávio Bolsonaro</span>",
+    "gancho": "Os principais pontos do plano de governo registrado no TSE: “Para o Brasil Vencer o Atraso”.",
+    "foco": "center 15%"
+  },
+  "slides": [
+    {
+      "imagem": "img02",
+      "tag": "Economia",
+      "titulo": "Menos impostos e Estado menor",
+      "texto_html": "Meta de <strong>crescer 4% ao ano</strong>. Revisar a reforma tributária para limitar a alíquota do IVA e <em>zerar tributos sobre combustíveis e energia</em>. Privatizações avaliadas caso a caso."
+    },
+    {
+      "imagem": "img03",
+      "tag": "Trabalho e renda",
+      "titulo": "Bolsa Família com transição",
+      "texto_html": "Mantém os programas de renda, ligados a <strong>trilhas de qualificação</strong>. Beneficiário teria <em>2 anos de transição</em> para conseguir emprego formal ou abrir negócio, com retorno automático se não der certo."
+    },
+    {
+      "imagem": "img04",
+      "tag": "Segurança",
+      "titulo": "Facções como terroristas",
+      "texto_html": "Classificar facções e milícias como <strong>organizações narcoterroristas</strong>, criar 5 presídios de segurança máxima e um sistema nacional de <em>reconhecimento facial</em> (Muralha Brasileira)."
+    },
+    {
+      "imagem": "img05",
+      "tag": "Saúde e educação",
+      "titulo": "SUS e alfabetização",
+      "texto_html": "Corrigir a <strong>tabela do SUS</strong> e usar horários ociosos da rede privada para reduzir filas. Na educação, alfabetização pelo método fônico e mais <em>escolas cívico-militares</em>."
+    },
+    {
+      "imagem": "img06",
+      "tag": "Estado",
+      "titulo": "Corte de ministérios",
+      "texto_html": "Cortar <strong>no mínimo 10 ministérios</strong>. Substituir o Fies por um modelo com <em>pagamento conforme a renda</em> e oferecer vouchers de creche e escola onde faltar vaga pública."
+    },
+    {
+      "imagem": "img07",
+      "tag": "Mundo",
+      "titulo": "OCDE e novos parceiros",
+      "texto_html": "Retomar a <strong>adesão à OCDE</strong> e aproximar o Brasil de <em>Estados Unidos, Argentina e Israel</em>."
+    }
+  ],
+  "cta": {
+    "titulo": "Salve para consultar",
+    "subtitulo": "e acompanhe as promessas nos próximos 4 anos"
+  },
+  "legenda": "📋 O que propõe Flávio Bolsonaro (PL), presidente eleito.\n\nResumimos em 6 temas os principais pontos do plano de governo registrado no TSE: economia, trabalho, segurança, saúde e educação, gestão do Estado e política externa.\n\nO conteúdo reproduz as propostas do plano, sem avaliação. A íntegra está no site do TSE.\n\n👉 Arraste para o lado.\n\n💬 Qual proposta você acha que deveria ser prioridade no primeiro ano? Comente com respeito.",
+  "primeiro_comentario": "Salve este post para acompanhar, ao longo do mandato, o que for cumprido. 📌",
+  "hashtags": [
+    "#eleicoes2026",
+    "#planodegoverno",
+    "#propostas",
+    "#presidente",
+    "#brasil",
+    "#politica",
+    "#diplomaciadaguerra"
+  ],
+  "fontes": [
+    {
+      "nome": "TSE (planos de governo, 2º turno)",
+      "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/propostas-de-governo-dos-candidatos-ao-cargo-de-presidente-da-republica-eleicoes-2026-segundo-turno"
+    },
+    {
+      "nome": "Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/conheca-propostas-de-flavio-e-lula-para-seguranca-publica"
+    },
+    {
+      "nome": "Exame",
+      "url": "https://exame.com/brasil/lula-x-flavio-bolsonaro-compare-as-propostas-dos-dois-candidatos/"
+    },
+    {
+      "nome": "Gazeta do Povo",
+      "url": "https://www.gazetadopovo.com.br/eleicoes/2026/compare-principais-propostas-plano-de-gverno-flavio-bolsonaro-lula/"
+    },
+    {
+      "nome": "SBT News",
+      "url": "https://sbtnews.sbt.com.br/noticia/eleicoes/saude-e-combate-a-pobreza-as-propostas-de-flavio-na-integra"
+    }
+  ],
+  "busca_imagens": [
+    {
+      "id": "img02",
+      "query": "Banco Central do Brasil sede Brasília",
+      "alternativas": [
+        "Central Bank of Brazil headquarters"
+      ]
+    },
+    {
+      "id": "img03",
+      "query": "carteira de trabalho Brasil",
+      "alternativas": [
+        "trabalhadores Brasil fábrica",
+        "Brazilian workers"
+      ]
+    },
+    {
+      "id": "img04",
+      "query": "Polícia Federal Brasil agentes",
+      "alternativas": [
+        "Polícia Federal viatura",
+        "Brazilian Federal Police"
+      ]
+    },
+    {
+      "id": "img05",
+      "query": "Unidade Básica de Saúde SUS",
+      "alternativas": [
+        "hospital público Brasil",
+        "SUS saúde atendimento"
+      ]
+    },
+    {
+      "id": "img06",
+      "query": "Esplanada dos Ministérios Brasília",
+      "alternativas": [
+        "Esplanada dos Ministérios aerial"
+      ]
+    },
+    {
+      "id": "img07",
+      "query": "Palácio Itamaraty Brasília",
+      "alternativas": [
+        "Itamaraty Palace Brasilia"
+      ]
+    }
+  ],
+  "imagens": [
+    {
+      "titulo": "Foto oficial do senador Flávio Bolsonaro (v. AgSen) (3x4).jpg",
+      "autor": "Agência Senado",
+      "licenca": "Attribution",
+      "exige_credito": true,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Foto_oficial_do_senador_Fl%C3%A1vio_Bolsonaro_(v._AgSen)_(3x4).jpg",
+      "url_download": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Foto_oficial_do_senador_Fl%C3%A1vio_Bolsonaro_%28v._AgSen%29_%283x4%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largura": 1082,
+      "altura": 1441,
+      "id": "img01",
+      "arquivo": "imagens/img01.jpg",
+      "query": "File:Foto oficial do senador Flávio Bolsonaro (v. AgSen) (3x4).jpg"
+    }
+  ],
+  "agendamento": {},
+  "metricool": {},
+  "verificacao": "Estrutura, tamanho e fotos idênticos ao post do outro candidato; só propostas do plano/candidato, sem adjetivos ou críticas. Itens com reportagens divergentes foram omitidos."
+}
