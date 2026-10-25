@@ -39,12 +39,13 @@
     },
     {
       "imagem": "img05",
+      "foco": "center 88%",
       "tag": "24 out 1962",
       "titulo": "DEFCON 2",
       "texto_html": "O Comando Aéreo Estratégico dos EUA entra em <strong>DEFCON 2</strong>, um passo antes da guerra nuclear. Bombardeiros armados ficam no ar 24 horas por dia.",
       "factbox": {
         "label": "Fato",
-        "texto": "É a única vez na história em que forças dos EUA chegaram ao DEFCON 2."
+        "texto": "É a única vez confirmada na história em que os EUA chegaram ao DEFCON 2."
       }
     },
     {
@@ -77,7 +78,11 @@
       "imagem": "img09",
       "tag": "O legado",
       "titulo": "O que a crise deixou",
-      "texto_html": "Em 1963 nasce a <strong>linha direta</strong> entre Washington e Moscou, para que os líderes falassem sem intermediários. No mesmo ano, o <em>Tratado de Proibição Parcial de Testes Nucleares</em> é assinado."
+      "texto_html": "Em 1963 nasce a <strong>linha direta</strong> entre Washington e Moscou, para que os líderes falassem sem intermediários. No mesmo ano, o <em>Tratado de Proibição Parcial de Testes Nucleares</em> é assinado.",
+      "factbox": {
+        "label": "Mito",
+        "texto": "Não era um “telefone vermelho”: a linha direta usava teletipos, como o da foto, que trocavam mensagens escritas."
+      }
     }
   ],
   "cta": {
@@ -230,14 +235,14 @@
       "query": "Kennedy signs Proclamation Interdiction Cuba October 23 1962"
     },
     {
-      "titulo": "M117 bombs on trailer with B-52 c1965.jpg",
-      "autor": "USAF",
+      "titulo": "B-52 combat crew.jpg",
+      "autor": "Autor desconhecido",
       "licenca": "Public domain",
       "exige_credito": false,
-      "url_origem": "https://commons.wikimedia.org/wiki/File:M117_bombs_on_trailer_with_B-52_c1965.jpg",
-      "url_download": "https://upload.wikimedia.org/wikipedia/commons/1/18/M117_bombs_on_trailer_with_B-52_c1965.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "largura": 1425,
-      "altura": 1800,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:B-52_combat_crew.jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/B-52_combat_crew.jpg/1920px-B-52_combat_crew.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 2795,
+      "altura": 1892,
       "id": "img05",
       "arquivo": "imagens/img05.jpg",
       "query": "B-52 Stratofortress 1960s"

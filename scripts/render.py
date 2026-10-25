@@ -110,10 +110,12 @@ def montar_html(post, post_dir):
 
     for n, s in enumerate(post["slides"], start=2):
         src, img = foto(s.get("imagem"))
+        # "foco" escolhe o enquadramento da foto na faixa de 210px (ex.: "center 85%").
+        foco = f' style="object-position:{escape(s["foco"])}"' if s.get("foco") else ""
         html_slides.append(f'''
   <div class="slide">
     <div class="s-photo">
-      {f'<img src="{src}" alt="">' if src else '<div class="fallback"></div>'}
+      {f'<img src="{src}"{foco} alt="">' if src else '<div class="fallback"></div>'}
       <div class="s-photo-grad"></div>
       <div class="s-photo-num">{n:02d} / {total:02d}</div>
       <div class="s-photo-tag">{escape(s.get("tag", ""))}</div>

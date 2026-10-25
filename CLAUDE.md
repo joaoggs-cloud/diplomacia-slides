@@ -74,8 +74,10 @@ sistema vive no repositório.
    Foto ruim → troque por uma de `imagens/candidatos/` (atualize `imagens` no
    post.json com os dados do `.json` do candidato) ou rode
    `scripts/imagens.py posts/<slug> --so imgNN`, e renderize de novo.
-7. **Publicar os arquivos.** Commit + push. Pegue o SHA com `git rev-parse HEAD`
-   (o commit precisa conter os slides finais).
+7. **Publicar os arquivos.** Commit + push. Se os slides já foram renderizados
+   na sessão, inclua `[skip ci]` na mensagem do commit para o workflow não
+   gerar tudo de novo. Pegue o SHA com `git rev-parse HEAD` (o commit precisa
+   conter os slides finais).
 8. **Rascunho no Metricool.**
    `python3 scripts/metricool.py payload posts/<slug> --sha <SHA> --rascunho`
    e chame `createScheduledPost` com `blogId`, `date` e `info` (o objeto `info`
