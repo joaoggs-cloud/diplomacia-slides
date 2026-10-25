@@ -105,10 +105,9 @@
     },
     {
       "id": "img04",
-      "query": "Polícia Federal Brasil agentes",
+      "query": "File:Viatura do NOE - PRF.jpg",
       "alternativas": [
-        "Polícia Federal viatura",
-        "Brazilian Federal Police"
+        "File:Blazer viatura.JPG"
       ]
     },
     {
@@ -173,19 +172,6 @@
       "id": "img03",
       "arquivo": "imagens/img03.jpg",
       "query": "carteira de trabalho Brasil"
-    },
-    {
-      "titulo": "08 10 2020 Solenidade de Encerramento dos Cursos de Formação Profissional para os cargos de Agente de Polícia Federal, Escrivão de Polícia Federal e Papiloscopista Policial Federal (50436363553).jpg",
-      "autor": "Palácio do Planalto from Brasilia, Brasil",
-      "licenca": "CC BY 2.0",
-      "exige_credito": true,
-      "url_origem": "https://commons.wikimedia.org/wiki/File:08_10_2020_Solenidade_de_Encerramento_dos_Cursos_de_Forma%C3%A7%C3%A3o_Profissional_para_os_cargos_de_Agente_de_Pol%C3%ADcia_Federal,_Escriv%C3%A3o_de_Pol%C3%ADcia_Federal_e_Papiloscopista_Policial_Federal_(50436363553).jpg",
-      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/08_10_2020_Solenidade_de_Encerramento_dos_Cursos_de_Forma%C3%A7%C3%A3o_Profissional_para_os_cargos_de_Agente_de_Pol%C3%ADcia_Federal%2C_Escriv%C3%A3o_de_Pol%C3%ADcia_Federal_e_Papiloscopista_Policial_Federal_%2850436363553%29.jpg/1920px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "largura": 3506,
-      "altura": 1978,
-      "id": "img04",
-      "arquivo": "imagens/img04.jpg",
-      "query": "Polícia Federal Brasil agentes"
     },
     {
       "titulo": "Componentes da Rede de Cuidados à Pessoa com Deficiência.jpg",
