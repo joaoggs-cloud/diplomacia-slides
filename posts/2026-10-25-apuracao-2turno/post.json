@@ -17,41 +17,156 @@
       "tag": "Parcial · 20h",
       "titulo": "Disputa dentro de 1 ponto",
       "texto_html": "Com cerca de 30% das urnas apuradas, <strong>Flávio Bolsonaro (PL)</strong> tinha 50,4% dos votos válidos e <strong>Lula (PT)</strong>, 49,6%. Lula liderou no início da contagem; Flávio passou à frente com o avanço da apuração.",
-      "numero": { "valor": "0,8 PONTO", "label": "Diferença na parcial das 20h" }
+      "numero": {
+        "valor": "0,8 PONTO",
+        "label": "Diferença na parcial das 20h"
+      }
     },
     {
       "imagem": "img03",
       "tag": "O dia",
       "titulo": "Votação prorrogada até 19h",
       "texto_html": "O ministro <strong>Cristiano Zanin</strong> prorrogou a votação até as 19h, após pedidos que citavam falta de transporte público e mau tempo. Só as seções ainda abertas seguiram recebendo eleitores.",
-      "factbox": { "label": "Apuração pausada", "texto": "O TSE suspendeu a totalização às 17h20, com 0,25% das seções apuradas, e retomou a divulgação depois do novo horário." }
+      "factbox": {
+        "label": "Apuração pausada",
+        "texto": "O TSE suspendeu a totalização às 17h20, com 0,25% das seções apuradas, e retomou a divulgação depois do novo horário."
+      }
     },
     {
       "imagem": "img04",
       "tag": "Em números",
       "titulo": "A eleição em números",
       "texto_html": "Foram usadas <strong>499.248 urnas eletrônicas</strong>. Segundo o presidente do TSE, Kassio Nunes Marques, apenas 900 precisaram ser substituídas. O anúncio do resultado era previsto para entre <em>20h30 e 21h</em>.",
-      "factbox": { "label": "Atenção", "texto": "Parciais mudam conforme as urnas de cada região entram na contagem. O resultado oficial é o divulgado pelo TSE." }
+      "factbox": {
+        "label": "Atenção",
+        "texto": "Parciais mudam conforme as urnas de cada região entram na contagem. O resultado oficial é o divulgado pelo TSE."
+      }
     }
   ],
-  "cta": { "titulo": "Acompanhe com a gente", "subtitulo": "fatos, sem torcida" },
+  "cta": {
+    "titulo": "Acompanhe com a gente",
+    "subtitulo": "fatos, sem torcida"
+  },
   "legenda": "🗳️ Apuração do 2º turno, voto a voto.\n\nParcial das 20h, com cerca de 30% das urnas apuradas: Flávio Bolsonaro (PL) 50,4% x Lula (PT) 49,6% dos votos válidos.\n\nA votação foi prorrogada até as 19h por decisão do ministro Cristiano Zanin, e o TSE chegou a pausar a totalização no fim da tarde.\n\n⚠️ Os números mudam a cada atualização. O resultado oficial é o do TSE.\n\n💬 Na sua opinião, qual região vai decidir essa eleição? Comente com respeito: aqui o debate é sobre fatos.",
   "primeiro_comentario": "Você acompanhou a apuração pelo site do TSE, pela TV ou pelas redes? 👇",
-  "hashtags": ["#eleicoes2026", "#segundoturno", "#apuracao", "#tse", "#brasil", "#democracia"],
+  "hashtags": [
+    "#eleicoes2026",
+    "#segundoturno",
+    "#apuracao",
+    "#tse",
+    "#brasil",
+    "#democracia"
+  ],
   "fontes": [
-    { "nome": "TSE", "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Outubro/presidente-do-tse-destaca-estabilidade-no-pais-neste-2o-turno-das-eleicoes-2026" },
-    { "nome": "InfoMoney", "url": "https://www.infomoney.com.br/politica/tse-pausa-totalizacao-dos-votos-apos-zanin-prorrogar-votacao-ate-as-19h/" },
-    { "nome": "CartaCapital", "url": "https://www.cartacapital.com.br/politica/com-025-das-urnas-apuradas-tse-suspende-totalizacao-dos-votos-apos-prorrogacao-da-votacao-ate-19h/" },
-    { "nome": "Bloomberg Línea", "url": "https://www.bloomberglinea.com.br/brasil/ao-vivo-brasil-vota-no-2-turno-para-escolher-entre-lula-e-flavio-bolsonaro-como-presidente/" }
+    {
+      "nome": "TSE",
+      "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Outubro/presidente-do-tse-destaca-estabilidade-no-pais-neste-2o-turno-das-eleicoes-2026"
+    },
+    {
+      "nome": "InfoMoney",
+      "url": "https://www.infomoney.com.br/politica/tse-pausa-totalizacao-dos-votos-apos-zanin-prorrogar-votacao-ate-as-19h/"
+    },
+    {
+      "nome": "CartaCapital",
+      "url": "https://www.cartacapital.com.br/politica/com-025-das-urnas-apuradas-tse-suspende-totalizacao-dos-votos-apos-prorrogacao-da-votacao-ate-19h/"
+    },
+    {
+      "nome": "Bloomberg Línea",
+      "url": "https://www.bloomberglinea.com.br/brasil/ao-vivo-brasil-vota-no-2-turno-para-escolher-entre-lula-e-flavio-bolsonaro-como-presidente/"
+    }
   ],
   "busca_imagens": [
-    { "id": "img01", "query": "urna eletrônica brasileira", "alternativas": ["Brazilian electronic voting machine", "urna eletrônica eleições"] },
-    { "id": "img02", "query": "apuração votos Tribunal Superior Eleitoral", "alternativas": ["Tribunal Superior Eleitoral sede Brasília", "TSE totalização eleições"] },
-    { "id": "img03", "query": "eleitores fila seção eleitoral Brasil", "alternativas": ["votação eleições Brasil eleitor", "seção eleitoral Brasil"] },
-    { "id": "img04", "query": "urnas eletrônicas lote TSE", "alternativas": ["urna eletrônica Brazil voting", "Brazilian voting machines"] }
+    {
+      "id": "img01",
+      "query": "urna eletrônica brasileira",
+      "alternativas": [
+        "Brazilian electronic voting machine",
+        "urna eletrônica eleições"
+      ]
+    },
+    {
+      "id": "img02",
+      "query": "apuração votos Tribunal Superior Eleitoral",
+      "alternativas": [
+        "Tribunal Superior Eleitoral sede Brasília",
+        "TSE totalização eleições"
+      ]
+    },
+    {
+      "id": "img03",
+      "query": "eleitores fila seção eleitoral Brasil",
+      "alternativas": [
+        "votação eleições Brasil eleitor",
+        "seção eleitoral Brasil"
+      ]
+    },
+    {
+      "id": "img04",
+      "query": "urnas eletrônicas lote TSE",
+      "alternativas": [
+        "urna eletrônica Brazil voting",
+        "Brazilian voting machines"
+      ]
+    }
   ],
-  "imagens": [],
-  "agendamento": { "data_hora": "2026-10-25T21:30:00-03:00", "slot": "extra" },
+  "imagens": [
+    {
+      "titulo": "Urna eletrônica brasileira UE2020.jpg",
+      "autor": "TSE -  Tribunal Superior Eleitoral",
+      "licenca": "Public domain",
+      "exige_credito": false,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Urna_eletr%C3%B4nica_brasileira_UE2020.jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Urna_eletr%C3%B4nica_brasileira_UE2020.jpg/1920px-Urna_eletr%C3%B4nica_brasileira_UE2020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 3543,
+      "altura": 2362,
+      "id": "img01",
+      "arquivo": "imagens/img01.jpg",
+      "query": "urna eletrônica brasileira"
+    },
+    {
+      "titulo": "Mapa da Eleição Presidencial do Brasil em 2026 - 1° Turno.png",
+      "autor": "Pedro H Pertel",
+      "licenca": "CC0",
+      "exige_credito": false,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Mapa_da_Elei%C3%A7%C3%A3o_Presidencial_do_Brasil_em_2026_-_1%C2%B0_Turno.png",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Mapa_da_Elei%C3%A7%C3%A3o_Presidencial_do_Brasil_em_2026_-_1%C2%B0_Turno.png/1920px-Mapa_da_Elei%C3%A7%C3%A3o_Presidencial_do_Brasil_em_2026_-_1%C2%B0_Turno.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 9600,
+      "altura": 8298,
+      "id": "img02",
+      "arquivo": "imagens/img02.jpg",
+      "query": "apuração votos Tribunal Superior Eleitoral"
+    },
+    {
+      "titulo": "Referendo-2005-131134.jpg",
+      "autor": "Valter Campanato/ABr",
+      "licenca": "CC BY 3.0 br",
+      "exige_credito": true,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Referendo-2005-131134.jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Referendo-2005-131134.jpg/1920px-Referendo-2005-131134.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 2703,
+      "altura": 1773,
+      "id": "img03",
+      "arquivo": "imagens/img03.jpg",
+      "query": "eleitores fila seção eleitoral Brasil"
+    },
+    {
+      "titulo": "Brazilian DRE voting machine for 2022 elections.jpg",
+      "autor": "Superior Electoral Court of Brazil",
+      "licenca": "Public domain",
+      "exige_credito": false,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Brazilian_DRE_voting_machine_for_2022_elections.jpg",
+      "url_download": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Brazilian_DRE_voting_machine_for_2022_elections.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largura": 1280,
+      "altura": 853,
+      "id": "img04",
+      "arquivo": "imagens/img04.jpg",
+      "query": "urnas eletrônicas lote TSE"
+    }
+  ],
+  "agendamento": {
+    "data_hora": "2026-10-25T21:30:00-03:00",
+    "slot": "extra"
+  },
   "metricool": {},
   "verificacao": "Parcial (≈30%, 50,4 x 49,6) consistente entre InfoMoney (20,05%: 50,41 x 49,59), Mapa Eleitoral (23,27%: 50,47 x 49,53) e outro painel (~30%: 50,44 x 49,56). Prorrogação e pausa: InfoMoney, CartaCapital, Jornal de Brasília, Tribuna do Norte. Urnas: TSE. Neutralidade: candidatos citados com partido, sem adjetivos; fotos só de urnas/TSE/eleitores, sem candidatos."
 }
