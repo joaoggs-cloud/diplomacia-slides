@@ -16,14 +16,20 @@
       "tag": "14 out 1962",
       "titulo": "A foto que mudou tudo",
       "texto_html": "Um avião espião <strong>U-2</strong> sobrevoa Cuba e fotografa algo que não deveria estar ali: <em>bases de mísseis soviéticos</em> sendo montadas a cerca de 150 km da costa dos EUA.",
-      "numero": { "valor": "150 KM", "label": "Distância de Cuba até a Flórida" }
+      "numero": {
+        "valor": "150 KM",
+        "label": "Distância de Cuba até a Flórida"
+      }
     },
     {
       "imagem": "img03",
       "tag": "Operação Anadyr",
       "titulo": "O plano secreto de Moscou",
       "texto_html": "Khrushchev enviou mísseis nucleares <strong>R-12</strong> à ilha. Com cerca de <em>2.000 km de alcance</em>, eles colocavam Washington ao alcance de um ataque em minutos.",
-      "factbox": { "label": "Por quê?", "texto": "Resposta aos mísseis Júpiter dos EUA instalados na Turquia e proteção de Cuba após a invasão fracassada da Baía dos Porcos (1961)." }
+      "factbox": {
+        "label": "Por quê?",
+        "texto": "Resposta aos mísseis Júpiter dos EUA instalados na Turquia e proteção de Cuba após a invasão fracassada da Baía dos Porcos (1961)."
+      }
     },
     {
       "imagem": "img04",
@@ -36,21 +42,30 @@
       "tag": "24 out 1962",
       "titulo": "DEFCON 2",
       "texto_html": "O Comando Aéreo Estratégico dos EUA entra em <strong>DEFCON 2</strong>, um passo antes da guerra nuclear. Bombardeiros armados ficam no ar 24 horas por dia.",
-      "factbox": { "label": "Fato", "texto": "É a única vez na história em que forças dos EUA chegaram ao DEFCON 2." }
+      "factbox": {
+        "label": "Fato",
+        "texto": "É a única vez na história em que forças dos EUA chegaram ao DEFCON 2."
+      }
     },
     {
       "imagem": "img06",
       "tag": "25 out 1962",
       "titulo": "Até o inferno congelar",
       "texto_html": "No Conselho de Segurança da ONU, o embaixador americano <strong>Adlai Stevenson</strong> exibe as fotos dos mísseis e pressiona o soviético Valerian Zorin diante do mundo.",
-      "citacao": { "texto": "“Estou preparado para esperar pela resposta até o inferno congelar.”", "autor": "Adlai Stevenson, ONU" }
+      "citacao": {
+        "texto": "“Estou preparado para esperar pela resposta até o inferno congelar.”",
+        "autor": "Adlai Stevenson, ONU"
+      }
     },
     {
       "imagem": "img07",
       "tag": "27 out 1962",
       "titulo": "Sábado Negro",
       "texto_html": "Um U-2 é abatido sobre Cuba e o piloto <strong>Rudolf Anderson</strong> morre. No mar, o submarino soviético B-59, cercado por navios americanos, cogita lançar um <em>torpedo nuclear</em>.",
-      "factbox": { "label": "O homem que disse não", "texto": "O oficial Vasili Arkhipov recusou dar seu aval ao disparo. Sem os três votos, o torpedo não saiu." }
+      "factbox": {
+        "label": "O homem que disse não",
+        "texto": "O oficial Vasili Arkhipov recusou dar seu aval ao disparo. Sem os três votos, o torpedo não saiu."
+      }
     },
     {
       "imagem": "img08",
@@ -65,29 +80,225 @@
       "texto_html": "Em 1963 nasce a <strong>linha direta</strong> entre Washington e Moscou, para que os líderes falassem sem intermediários. No mesmo ano, o <em>Tratado de Proibição Parcial de Testes Nucleares</em> é assinado."
     }
   ],
-  "cta": { "titulo": "Salve este post", "subtitulo": "e compartilhe com quem precisa saber" },
+  "cta": {
+    "titulo": "Salve este post",
+    "subtitulo": "e compartilhe com quem precisa saber"
+  },
   "legenda": "Em outubro de 1962, o mundo passou 13 dias à beira de uma guerra nuclear. ☢️\n\nMísseis soviéticos em Cuba, navios americanos cercando a ilha, um avião espião abatido e um submarino que quase disparou um torpedo nuclear. No fim, quem evitou a catástrofe não foi uma arma: foi a diplomacia, incluindo um acordo secreto que só veio a público anos depois.\n\nHá 64 anos, em 28 de outubro, Khrushchev anunciou a retirada dos mísseis.\n\n👉 Arraste para o lado e entenda dia a dia como tudo aconteceu.\n\n💬 Na sua opinião, quem cedeu mais: Kennedy ou Khrushchev?",
   "primeiro_comentario": "Qual outro momento da história você acha que chegou tão perto de uma guerra nuclear? Conta aqui 👇",
-  "hashtags": ["#crisedosmisseis", "#guerrafria", "#cuba", "#kennedy", "#historia", "#urss", "#guerranuclear"],
+  "hashtags": [
+    "#crisedosmisseis",
+    "#guerrafria",
+    "#cuba",
+    "#kennedy",
+    "#historia",
+    "#urss",
+    "#guerranuclear"
+  ],
   "alt_text": "Carrossel sobre a Crise dos Mísseis de Cuba de 1962, com fotos históricas e explicação dia a dia.",
   "fontes": [
-    { "nome": "JFK Presidential Library", "url": "https://www.jfklibrary.org/learn/about-jfk/jfk-in-history/cuban-missile-crisis" },
-    { "nome": "Office of the Historian (Dep. de Estado dos EUA)", "url": "https://history.state.gov/milestones/1961-1968/cuban-missile-crisis" },
-    { "nome": "National Security Archive (GWU)", "url": "https://nsarchive.gwu.edu/project/cuban-missile-crisis" }
+    {
+      "nome": "JFK Presidential Library",
+      "url": "https://www.jfklibrary.org/learn/about-jfk/jfk-in-history/cuban-missile-crisis"
+    },
+    {
+      "nome": "Office of the Historian (Dep. de Estado dos EUA)",
+      "url": "https://history.state.gov/milestones/1961-1968/cuban-missile-crisis"
+    },
+    {
+      "nome": "National Security Archive (GWU)",
+      "url": "https://nsarchive.gwu.edu/project/cuban-missile-crisis"
+    }
   ],
   "busca_imagens": [
-    { "id": "img01", "query": "Kennedy EXCOMM meeting Cuban Missile Crisis 1962", "alternativas": ["John F. Kennedy October 1962 cabinet room"] },
-    { "id": "img02", "query": "U-2 reconnaissance photograph San Cristobal Cuba missile site 1962", "alternativas": ["Cuban missile crisis aerial reconnaissance photo"] },
-    { "id": "img03", "query": "Soviet R-12 missile", "alternativas": ["SS-4 Sandal missile", "Cuban missile crisis missile range map"] },
-    { "id": "img04", "query": "Kennedy signs Proclamation Interdiction Cuba October 23 1962", "alternativas": ["Kennedy television address October 22 1962"] },
-    { "id": "img05", "query": "B-52 Stratofortress 1960s", "alternativas": ["Strategic Air Command B-52 bomber"] },
-    { "id": "img06", "query": "Adlai Stevenson United Nations Security Council October 25 1962", "alternativas": ["Adlai Stevenson 1962"] },
-    { "id": "img07", "query": "Soviet submarine B-59 Cuban missile crisis", "alternativas": ["Soviet Foxtrot submarine surfaced 1962"] },
-    { "id": "img08", "query": "Kennedy Khrushchev Vienna 1961", "alternativas": ["Nikita Khrushchev 1962"] },
-    { "id": "img09", "query": "Moscow Washington hotline teletype", "alternativas": ["Partial Nuclear Test Ban Treaty signing 1963"] }
+    {
+      "id": "img01",
+      "query": "Kennedy EXCOMM meeting Cuban Missile Crisis 1962",
+      "alternativas": [
+        "John F. Kennedy October 1962 cabinet room"
+      ]
+    },
+    {
+      "id": "img02",
+      "query": "U-2 reconnaissance photograph San Cristobal Cuba missile site 1962",
+      "alternativas": [
+        "Cuban missile crisis aerial reconnaissance photo"
+      ]
+    },
+    {
+      "id": "img03",
+      "query": "Soviet R-12 missile",
+      "alternativas": [
+        "SS-4 Sandal missile",
+        "Cuban missile crisis missile range map"
+      ]
+    },
+    {
+      "id": "img04",
+      "query": "Kennedy signs Proclamation Interdiction Cuba October 23 1962",
+      "alternativas": [
+        "Kennedy television address October 22 1962"
+      ]
+    },
+    {
+      "id": "img05",
+      "query": "B-52 Stratofortress 1960s",
+      "alternativas": [
+        "Strategic Air Command B-52 bomber"
+      ]
+    },
+    {
+      "id": "img06",
+      "query": "Adlai Stevenson United Nations Security Council October 25 1962",
+      "alternativas": [
+        "Adlai Stevenson 1962"
+      ]
+    },
+    {
+      "id": "img07",
+      "query": "Soviet submarine B-59 Cuban missile crisis",
+      "alternativas": [
+        "Soviet Foxtrot submarine surfaced 1962"
+      ]
+    },
+    {
+      "id": "img08",
+      "query": "Kennedy Khrushchev Vienna 1961",
+      "alternativas": [
+        "Nikita Khrushchev 1962"
+      ]
+    },
+    {
+      "id": "img09",
+      "query": "Moscow Washington hotline teletype",
+      "alternativas": [
+        "Partial Nuclear Test Ban Treaty signing 1963"
+      ]
+    }
   ],
-  "imagens": [],
-  "agendamento": { "data_hora": "2026-10-28T12:15:00-03:00", "slot": "12:15" },
+  "imagens": [
+    {
+      "titulo": "EXCOMM meeting, Cuban Missile Crisis, 29 October 1962.jpg",
+      "autor": "Cecil Stoughton, White House",
+      "licenca": "Public domain",
+      "exige_credito": false,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:EXCOMM_meeting,_Cuban_Missile_Crisis,_29_October_1962.jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/EXCOMM_meeting%2C_Cuban_Missile_Crisis%2C_29_October_1962.jpg/1920px-EXCOMM_meeting%2C_Cuban_Missile_Crisis%2C_29_October_1962.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 3000,
+      "altura": 1980,
+      "id": "img01",
+      "arquivo": "imagens/img01.jpg",
+      "query": "Kennedy EXCOMM meeting Cuban Missile Crisis 1962"
+    },
+    {
+      "titulo": "Cuban missiles.jpg",
+      "autor": "see above",
+      "licenca": "Public domain",
+      "exige_credito": false,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Cuban_missiles.jpg",
+      "url_download": "https://upload.wikimedia.org/wikipedia/commons/5/57/Cuban_missiles.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largura": 1160,
+      "altura": 1121,
+      "id": "img02",
+      "arquivo": "imagens/img02.jpg",
+      "query": "U-2 reconnaissance photograph San Cristobal Cuba missile site 1962"
+    },
+    {
+      "titulo": "Soviet-R-12-nuclear-ballistic missile.jpg",
+      "autor": "Central Intelligence Agency",
+      "licenca": "Public domain",
+      "exige_credito": false,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Soviet-R-12-nuclear-ballistic_missile.jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Soviet-R-12-nuclear-ballistic_missile.jpg/1920px-Soviet-R-12-nuclear-ballistic_missile.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 1948,
+      "altura": 1314,
+      "id": "img03",
+      "arquivo": "imagens/img03.jpg",
+      "query": "Soviet R-12 missile"
+    },
+    {
+      "titulo": "President Kennedy signs Cuba quarantine proclamation, 23 October 1962.jpg",
+      "autor": "Cecil Stoughton",
+      "licenca": "Public domain",
+      "exige_credito": false,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:President_Kennedy_signs_Cuba_quarantine_proclamation,_23_October_1962.jpg",
+      "url_download": "https://upload.wikimedia.org/wikipedia/commons/1/18/President_Kennedy_signs_Cuba_quarantine_proclamation%2C_23_October_1962.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largura": 760,
+      "altura": 1158,
+      "id": "img04",
+      "arquivo": "imagens/img04.jpg",
+      "query": "Kennedy signs Proclamation Interdiction Cuba October 23 1962"
+    },
+    {
+      "titulo": "M117 bombs on trailer with B-52 c1965.jpg",
+      "autor": "USAF",
+      "licenca": "Public domain",
+      "exige_credito": false,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:M117_bombs_on_trailer_with_B-52_c1965.jpg",
+      "url_download": "https://upload.wikimedia.org/wikipedia/commons/1/18/M117_bombs_on_trailer_with_B-52_c1965.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largura": 1425,
+      "altura": 1800,
+      "id": "img05",
+      "arquivo": "imagens/img05.jpg",
+      "query": "B-52 Stratofortress 1960s"
+    },
+    {
+      "titulo": "Adlai Stevenson shows missiles to UN Security Council with David Parker standing.jpg",
+      "autor": "US Government, Unknown photographer",
+      "licenca": "Public domain",
+      "exige_credito": false,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Adlai_Stevenson_shows_missiles_to_UN_Security_Council_with_David_Parker_standing.jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Adlai_Stevenson_shows_missiles_to_UN_Security_Council_with_David_Parker_standing.jpg/1920px-Adlai_Stevenson_shows_missiles_to_UN_Security_Council_with_David_Parker_standing.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 3600,
+      "altura": 2475,
+      "id": "img06",
+      "arquivo": "imagens/img06.jpg",
+      "query": "Adlai Stevenson United Nations Security Council October 25 1962"
+    },
+    {
+      "titulo": "Soviet b-59 submarine.jpg",
+      "autor": "U.S. Navy photographer",
+      "licenca": "Public domain",
+      "exige_credito": false,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Soviet_b-59_submarine.jpg",
+      "url_download": "https://upload.wikimedia.org/wikipedia/commons/9/96/Soviet_b-59_submarine.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largura": 948,
+      "altura": 734,
+      "id": "img07",
+      "arquivo": "imagens/img07.jpg",
+      "query": "Soviet submarine B-59 Cuban missile crisis"
+    },
+    {
+      "titulo": "John Kennedy, Nikita Khrushchev 1961.jpg",
+      "autor": "Photograph from the U. S. Department of State in the John F. Kennedy Presidential Library and Museum, Boston.",
+      "licenca": "Public domain",
+      "exige_credito": false,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:John_Kennedy,_Nikita_Khrushchev_1961.jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/John_Kennedy%2C_Nikita_Khrushchev_1961.jpg/1920px-John_Kennedy%2C_Nikita_Khrushchev_1961.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 2894,
+      "altura": 2315,
+      "id": "img08",
+      "arquivo": "imagens/img08.jpg",
+      "query": "Kennedy Khrushchev Vienna 1961"
+    },
+    {
+      "titulo": "ITT Intelex Teletype L015.jpg",
+      "autor": "Jim Kuhn",
+      "licenca": "CC BY 4.0",
+      "exige_credito": true,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:ITT_Intelex_Teletype_L015.jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/ITT_Intelex_Teletype_L015.jpg/1920px-ITT_Intelex_Teletype_L015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 3580,
+      "altura": 3580,
+      "id": "img09",
+      "arquivo": "imagens/img09.jpg",
+      "query": "Moscow Washington hotline teletype"
+    }
+  ],
+  "agendamento": {
+    "data_hora": "2026-10-28T12:15:00-03:00",
+    "slot": "12:15"
+  },
   "metricool": {},
   "verificacao": "Datas e fatos conferidos com JFK Library, Office of the Historian e National Security Archive."
 }
