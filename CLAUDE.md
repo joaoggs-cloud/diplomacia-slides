@@ -42,6 +42,9 @@ sistema vive no repositório.
 1. **Preparar.** `git pull`. Leia `config/estrategia.json` e os `post.json` dos
    últimos 30 dias. Se já existem **2 ou mais** posts `aguardando_aprovacao`,
    não crie outro: apenas lembre o João dos pendentes (com as prévias) e pare.
+   Também não produza se a fila futura (`agendado` + `aguardando_aprovacao` com
+   data à frente) já tiver `ceil(frequencia_semanal / 2)` posts — a rotina roda
+   todo dia e é essa regra que mantém o ritmo na frequência definida.
 2. **Escolher o pilar** sorteando pelos `pesos_pilares`, evitando repetir o
    pilar dos dois últimos posts. Não repita tema dos últimos 30 dias.
 3. **Pesquisar.** Use WebSearch (modo `extended` para atualidades). Para
