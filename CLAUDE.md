@@ -62,7 +62,11 @@ sistema vive no repositório.
    - legenda: abertura que prende, contexto em 3–5 linhas, "arraste para o lado",
      e uma **pergunta** no fim para gerar comentários; `primeiro_comentario` com
      outra pergunta; 5–7 hashtags específicas (as de base entram sozinhas);
-   - `fontes` com nome e URL; `busca_imagens` em inglês, com `alternativas`;
+   - `fontes` com nome e URL; `busca_imagens` em inglês, com `alternativas`.
+     A busca livre do Commons costuma trazer fotos genéricas (cerimônias, visitas):
+     prefira achar o arquivo certo com WebSearch (`allowed_domains: ["commons.wikimedia.org"]`)
+     e usar `"query": "File:Nome exato.jpg"`, ou restringir com
+     `incategory:"Nome da categoria"` na query;
    - `agendamento` = saída de `python3 scripts/metricool.py proximo-horario`.
 5. **Imagens.** `python3 scripts/imagens.py posts/<slug> --candidatos 3`.
    Se falhar por rede (403 / host não encontrado), faça commit + push só do

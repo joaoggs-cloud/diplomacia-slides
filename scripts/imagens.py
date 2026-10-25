@@ -14,12 +14,14 @@ Uso:
 """
 import argparse
 import html
+import io
 import json
 import re
 import sys
 from pathlib import Path
 
 import requests
+from PIL import Image
 
 API = "https://commons.wikimedia.org/w/api.php"
 UA = "DiplomaciaDaGuerraBot/1.0 (https://github.com/joaoggs-cloud/diplomacia-slides)"
@@ -51,24 +53,27 @@ def prioridade_licenca(nome):
 
 
 def buscar(consulta, limite=20):
+    """Busca livre no Commons, ou um arquivo exato se a consulta for "File:Nome.jpg".
+    A busca aceita a sintaxe do Commons, ex.: incategory:"FPV drones in Ukrainian military"."""
     params = {
         "action": "query",
         "format": "json",
-        "generator": "search",
-        "gsrsearch": f"{consulta} filetype:bitmap",
-        "gsrnamespace": 6,
-        "gsrlimit": limite,
         "prop": "imageinfo",
         "iiprop": "url|size|mime|extmetadata",
         "iiurlwidth": 1600,
     }
+    if consulta.startswith("File:"):
+        params["titles"] = consulta
+    else:
+        params.update({"generator": "search", "gsrsearch": f"{consulta} filetype:bitmap",
+                       "gsrnamespace": 6, "gsrlimit": limite})
     r = requests.get(API, params=params, headers={"User-Agent": UA}, timeout=30)
     r.raise_for_status()
     paginas = r.json().get("query", {}).get("pages", {})
     candidatos = []
     for p in sorted(paginas.values(), key=lambda p: p.get("index", 999)):
         info = (p.get("imageinfo") or [{}])[0]
-        if info.get("mime") not in ("image/jpeg", "image/png"):
+        if info.get("mime") not in ("image/jpeg", "image/png", "image/webp"):
             continue
         if min(info.get("width", 0), info.get("height", 0)) < 700:
             continue
@@ -94,9 +99,10 @@ def buscar(consulta, limite=20):
 
 
 def baixar(url, destino):
+    """Salva sempre como JPEG (o Commons pode devolver PNG ou WebP)."""
     r = requests.get(url, headers={"User-Agent": UA}, timeout=60)
     r.raise_for_status()
-    destino.write_bytes(r.content)
+    Image.open(io.BytesIO(r.content)).convert("RGB").save(destino, "JPEG", quality=92)
 
 
 def main():

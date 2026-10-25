@@ -40,7 +40,7 @@
       "texto_html": "Segundo o comandante ucraniano Oleksandr Syrskyi, <em>66% do equipamento russo</em> neutralizado em janeiro de 2025 foi atingido por drones. O analista Jack Watling, do instituto britânico RUSI, estima cerca de dois terços.",
       "numero": {
         "valor": "2 / 3",
-        "label": "Das perdas de blindados atribuídas a drones"
+        "label": "Das perdas de equipamento russo atribuídas a drones"
       }
     },
     {
@@ -105,10 +105,9 @@
   "busca_imagens": [
     {
       "id": "img01",
-      "query": "Ukrainian soldier FPV drone launch",
+      "query": "File:Kabul 9 commando fpv drone.jpg",
       "alternativas": [
-        "FPV drone Ukraine war",
-        "Ukrainian drone operator"
+        "File:UA military FPV drones 09.jpg"
       ]
     },
     {
@@ -121,42 +120,37 @@
     },
     {
       "id": "img03",
-      "query": "destroyed Russian tank Ukraine 2023",
+      "query": "File:Destruction of Russian tanks by Ukrainian troops in Mariupol (3).jpg",
       "alternativas": [
-        "destroyed Russian T-72 Ukraine",
-        "destroyed Russian armored vehicle"
+        "destroyed Russian tank Ukraine"
       ]
     },
     {
       "id": "img04",
-      "query": "Ukrainian soldiers trench front line Donetsk",
+      "query": "File:UA military FPV drones 03.jpg",
       "alternativas": [
-        "Ukrainian infantry trench 2024",
-        "Bakhmut front line soldiers"
+        "incategory:\"FPV drones in Ukrainian military\""
       ]
     },
     {
       "id": "img05",
-      "query": "destroyed Russian armored vehicles column Ukraine",
+      "query": "File:UA FPV strike drones 01.jpg",
       "alternativas": [
-        "destroyed Russian military equipment Ukraine",
-        "burned Russian BMP Ukraine"
+        "File:UA military FPV drones 10.jpg"
       ]
     },
     {
       "id": "img06",
-      "query": "tank cope cage Ukraine",
+      "query": "File:UA T-64 with cope cage 01.jpg",
       "alternativas": [
-        "Russian tank anti-drone cage",
-        "electronic warfare anti-drone system Ukraine"
+        "File:UA T-64 with cope cage 02.jpg"
       ]
     },
     {
       "id": "img07",
-      "query": "fiber optic drone Ukraine",
+      "query": "File:UA fiber-optic FPV drone 01.webp",
       "alternativas": [
-        "fiber optic FPV drone spool",
-        "Ukrainian FPV drone assembly workshop"
+        "File:UA fiber-optic FPV drone 02.webp"
       ]
     },
     {
@@ -170,19 +164,6 @@
   ],
   "imagens": [
     {
-      "titulo": "May Those Whose Courage and Strength Preserve Life on Earth Never Fade from People's Memory – The President Presented Awards on the Day of Remembrance and Victory over Nazism. (53708299935).jpg",
-      "autor": "President Of Ukraine from Україна",
-      "licenca": "CC0",
-      "exige_credito": false,
-      "url_origem": "https://commons.wikimedia.org/wiki/File:May_Those_Whose_Courage_and_Strength_Preserve_Life_on_Earth_Never_Fade_from_People%27s_Memory_%E2%80%93_The_President_Presented_Awards_on_the_Day_of_Remembrance_and_Victory_over_Nazism._(53708299935).jpg",
-      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/May_Those_Whose_Courage_and_Strength_Preserve_Life_on_Earth_Never_Fade_from_People%27s_Memory_%E2%80%93_The_President_Presented_Awards_on_the_Day_of_Remembrance_and_Victory_over_Nazism._%2853708299935%29.jpg/1920px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "largura": 2500,
-      "altura": 1667,
-      "id": "img01",
-      "arquivo": "imagens/img01.jpg",
-      "query": "Ukrainian soldier FPV drone launch"
-    },
-    {
       "titulo": "US infantry, Kenya Defense Forces rangers, familiarize themselves with principles of Unmanned Aircraft Systems (9575206).jpg",
       "autor": "U.S. Air Force photo by Airman 1st Class Elijah Harris-lariviere",
       "licenca": "Public domain",
@@ -194,58 +175,6 @@
       "id": "img02",
       "arquivo": "imagens/img02.jpg",
       "query": "Ukrainian soldier FPV goggles drone pilot"
-    },
-    {
-      "titulo": "U.S. Senator Elizabeth Warren (D–Mass.), Senator Richard Blumenthal (D-Conn.), and Senator Lindsey Graham (R-S.C.) visited Kyiv, Ukraine, August 23, 2023 - 53185010410.jpg",
-      "autor": "usembassykyiv",
-      "licenca": "Public domain",
-      "exige_credito": false,
-      "url_origem": "https://commons.wikimedia.org/wiki/File:U.S._Senator_Elizabeth_Warren_(D%E2%80%93Mass.),_Senator_Richard_Blumenthal_(D-Conn.),_and_Senator_Lindsey_Graham_(R-S.C.)_visited_Kyiv,_Ukraine,_August_23,_2023_-_53185010410.jpg",
-      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/U.S._Senator_Elizabeth_Warren_%28D%E2%80%93Mass.%29%2C_Senator_Richard_Blumenthal_%28D-Conn.%29%2C_and_Senator_Lindsey_Graham_%28R-S.C.%29_visited_Kyiv%2C_Ukraine%2C_August_23%2C_2023_-_53185010410.jpg/1920px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "largura": 3747,
-      "altura": 2810,
-      "id": "img03",
-      "arquivo": "imagens/img03.jpg",
-      "query": "destroyed Russian tank Ukraine 2023"
-    },
-    {
-      "titulo": "President Volodymyr Zelenskyy congratulated the Defenders of Ukraine on 1 October 2024 - 17.jpg",
-      "autor": "President Of Ukraine",
-      "licenca": "CC0",
-      "exige_credito": false,
-      "url_origem": "https://commons.wikimedia.org/wiki/File:President_Volodymyr_Zelenskyy_congratulated_the_Defenders_of_Ukraine_on_1_October_2024_-_17.jpg",
-      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/President_Volodymyr_Zelenskyy_congratulated_the_Defenders_of_Ukraine_on_1_October_2024_-_17.jpg/1920px-President_Volodymyr_Zelenskyy_congratulated_the_Defenders_of_Ukraine_on_1_October_2024_-_17.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "largura": 3000,
-      "altura": 2001,
-      "id": "img05",
-      "arquivo": "imagens/img05.jpg",
-      "query": "destroyed Russian armored vehicles column Ukraine"
-    },
-    {
-      "titulo": "Destruction of Russian tanks by Ukrainian troops in Mariupol (3).jpg",
-      "autor": "Міністерство внутрішніх справ України (Ministry of Internal Affairs of Ukraine)",
-      "licenca": "CC BY 4.0",
-      "exige_credito": true,
-      "url_origem": "https://commons.wikimedia.org/wiki/File:Destruction_of_Russian_tanks_by_Ukrainian_troops_in_Mariupol_(3).jpg",
-      "url_download": "https://upload.wikimedia.org/wikipedia/commons/6/61/Destruction_of_Russian_tanks_by_Ukrainian_troops_in_Mariupol_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "largura": 1280,
-      "altura": 960,
-      "id": "img06",
-      "arquivo": "imagens/img06.jpg",
-      "query": "tank cope cage Ukraine"
-    },
-    {
-      "titulo": "JMTG-U Innovation Cell Welcomes German Brig Gen for a Visit at Balli Airfield (9568873).jpg",
-      "autor": "U.S. Army 7ATC by Capt. John Zanin",
-      "licenca": "Public domain",
-      "exige_credito": false,
-      "url_origem": "https://commons.wikimedia.org/wiki/File:JMTG-U_Innovation_Cell_Welcomes_German_Brig_Gen_for_a_Visit_at_Balli_Airfield_(9568873).jpg",
-      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/JMTG-U_Innovation_Cell_Welcomes_German_Brig_Gen_for_a_Visit_at_Balli_Airfield_%289568873%29.jpg/1920px-JMTG-U_Innovation_Cell_Welcomes_German_Brig_Gen_for_a_Visit_at_Balli_Airfield_%289568873%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "largura": 4779,
-      "altura": 3823,
-      "id": "img07",
-      "arquivo": "imagens/img07.jpg",
-      "query": "fiber optic drone Ukraine"
     },
     {
       "titulo": "McDonnell Douglas F-15C Eagle of the 12th FS escorts a Russian Tupolev Tu-95MS off Alaska (USA), 28 September 2006 (060928-F-0000X-104).jpg",
