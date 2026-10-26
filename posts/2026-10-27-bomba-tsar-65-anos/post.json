@@ -222,6 +222,19 @@
       "id": "img08",
       "arquivo": "imagens/img08.jpg",
       "query": "Partial Test Ban Treaty signing 1963"
+    },
+    {
+      "titulo": "Russian Air Force, RF-94130, Tupolev Tu-95 Bear (51264552466).jpg",
+      "autor": "Anna Zvereva",
+      "licenca": "CC BY-SA 2.0",
+      "exige_credito": true,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Russian_Air_Force,_RF-94130,_Tupolev_Tu-95_Bear_(51264552466).jpg",
+      "url_download": "https://upload.wikimedia.org/wikipedia/commons/3/37/Russian_Air_Force%2C_RF-94130%2C_Tupolev_Tu-95_Bear_%2851264552466%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largura": 1200,
+      "altura": 800,
+      "id": "img09",
+      "arquivo": "imagens/img09.jpg",
+      "query": "File:Russian Air Force, RF-94130, Tupolev Tu-95 Bear (51264552466).jpg"
     }
   ]
 }
