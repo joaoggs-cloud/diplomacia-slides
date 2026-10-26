@@ -16,7 +16,7 @@
       "texto_html": "Em jul 1961, Nikita Khrushchev mandou projetar uma superbomba de cerca de <strong>100 megatons</strong>. O prazo era apertado: o teste devia coincidir com o 22º Congresso do Partido Comunista, em outubro, na retomada dos testes nucleares soviéticos."
     },
     {
-      "imagem": "img03",
+      "imagem": "img04",
       "texto_html": "Khrushchev a chamava de <em>“mãe de Kuzka”</em>, alusão a um ditado russo que funciona como ameaça. O nome oficial era <strong>AN602</strong>. No Ocidente, ficou conhecida como Tsar Bomba, o “Rei das Bombas”."
     },
     {
@@ -24,7 +24,7 @@
       "texto_html": "Mas o projeto encolheu. Para reduzir a chuva radioativa, trocaram o invólucro de urânio-238 do último estágio por chumbo. O rendimento caiu para <strong>cerca de 50 megatons</strong>, valor oficial russo."
     },
     {
-      "imagem": "img05",
+      "imagem": "img09",
       "texto_html": "Com cerca de 27 toneladas, a bomba não cabia em um avião comum. Um Tu-95 modificado, pintado de branco para refletir o calor, a soltou a cerca de 10.500 m. Um paraquedas a freou até cerca de 4.000 m, para dar tempo de fuga."
     },
     {
@@ -33,7 +33,8 @@
     },
     {
       "imagem": "img06",
-      "texto_html": "O clarão foi visto a cerca de 1.000 km. A nuvem passou de 60 km de altura, perto de sete Everests empilhados. Janelas quebraram a centenas de quilômetros e, segundo a Atomic Heritage Foundation, sensores registraram a onda depois de três voltas à Terra."
+      "texto_html": "O clarão foi visto a cerca de 1.000 km. A nuvem passou de 60 km de altura, perto de sete Everests empilhados. Janelas quebraram a centenas de quilômetros e, segundo a Atomic Heritage Foundation, sensores registraram a onda depois de três voltas à Terra.",
+      "foco": "center 30%"
     },
     {
       "imagem": "img08",
@@ -102,21 +103,10 @@
       ]
     },
     {
-      "id": "img03",
-      "query": "File:Tsar Bomba.JPG"
-    },
-    {
       "id": "img04",
       "query": "File:Tsar Bomba Revised.jpg",
       "alternativas": [
         "RDS-202 Sarov museum"
-      ]
-    },
-    {
-      "id": "img05",
-      "query": "File:Tupolew Tu-95 Bear.JPG",
-      "alternativas": [
-        "Tupolev Tu-95 Bear"
       ]
     },
     {
@@ -138,6 +128,14 @@
       "query": "Partial Test Ban Treaty signing 1963",
       "alternativas": [
         "Gromyko Rusk Home signing Moscow 1963"
+      ]
+    },
+    {
+      "id": "img09",
+      "query": "File:Russian Air Force, RF-94130, Tupolev Tu-95 Bear (51264552466).jpg",
+      "alternativas": [
+        "File:Tupolev Tu-95MS Bear-H RF-94121 21 red (8637894495).jpg",
+        "Tupolev Tu-95 Bear"
       ]
     }
   ],
@@ -174,21 +172,8 @@
       "query": "Nikita Khrushchev portrait"
     },
     {
-      "titulo": "Tsar Bomba.JPG",
-      "autor": "Autor desconhecido",
-      "licenca": "CC BY-SA 3.0",
-      "exige_credito": true,
-      "url_origem": "https://commons.wikimedia.org/wiki/File:Tsar_Bomba.JPG",
-      "url_download": "https://upload.wikimedia.org/wikipedia/commons/2/21/Tsar_Bomba.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "largura": 1024,
-      "altura": 680,
-      "id": "img03",
-      "arquivo": "imagens/img03.jpg",
-      "query": "File:Tsar Bomba.JPG"
-    },
-    {
       "titulo": "Tsar Bomba Revised.jpg",
-      "autor": "User:Croquant with modifications by User:Hex",
+      "autor": "Croquant (modif.)",
       "licenca": "CC BY-SA 3.0",
       "exige_credito": true,
       "url_origem": "https://commons.wikimedia.org/wiki/File:Tsar_Bomba_Revised.jpg",
@@ -198,19 +183,6 @@
       "id": "img04",
       "arquivo": "imagens/img04.jpg",
       "query": "File:Tsar Bomba Revised.jpg"
-    },
-    {
-      "titulo": "Tupolew Tu-95 Bear.JPG",
-      "autor": "Bernhard Gröhl",
-      "licenca": "CC BY 2.5",
-      "exige_credito": true,
-      "url_origem": "https://commons.wikimedia.org/wiki/File:Tupolew_Tu-95_Bear.JPG",
-      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Tupolew_Tu-95_Bear.JPG/1920px-Tupolew_Tu-95_Bear.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "largura": 3888,
-      "altura": 2592,
-      "id": "img05",
-      "arquivo": "imagens/img05.jpg",
-      "query": "File:Tupolew Tu-95 Bear.JPG"
     },
     {
       "titulo": "Novaya Zemlya testing map.png",
