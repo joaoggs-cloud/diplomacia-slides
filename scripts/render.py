@@ -257,21 +257,24 @@ def montar_moderno(post, post_dir):
                        f'<div class="numero-rot">{escape(s["numero"].get("label", ""))}</div>')
         if s.get("factbox"):
             f = s["factbox"]
-            extras += f'<div class="destaque"><div class="rot">{escape(f.get("label", "Fato"))}</div><p>{f["texto"]}</p></div>'
+            rot = f'<div class="rot">{escape(f["label"])}</div>' if f.get("label") else ""
+            extras += f'<div class="destaque">{rot}<p>{f["texto"]}</p></div>'
         if s.get("citacao"):
             c = s["citacao"]
             extras += f'<div class="destaque"><p>{c["texto"]}</p><cite>— {escape(c.get("autor", ""))}</cite></div>'
         if s.get("grafico"):
             extras += f'<div class="inds grande">{painel_grafico(s["grafico"])}</div>'
+        # Título e etiqueta são opcionais: o padrão é texto corrido, sem cabeçalho.
+        tag = f'<div class="pills"><span class="pill cat">{escape(s["tag"])}</span></div>' if s.get("tag") else ""
+        titulo = f'<div class="titulo">{escape(s["titulo"])}</div>' if s.get("titulo") else ""
         html.append(f'''
   <div class="slide">
     {bg}<div class="grad forte"></div>
     <img class="logo" src="{logo}" alt="">
     <div class="contador">{n}/{total}</div>
     <div class="corpo">
-      <div class="pills"><span class="pill cat">{escape(s.get("tag", ""))}</span></div>
-      <div class="titulo">{escape(s["titulo"])}</div>
-      <div class="texto">{s["texto_html"]}</div>
+      {tag}{titulo}
+      <div class="texto{'' if s.get("titulo") else ' solto'}">{s["texto_html"]}</div>
       {extras}
       {rodape(img)}
     </div>
@@ -398,6 +401,17 @@ def validar(post):
         limite = 45 if layout_do_post(post) == "moderno" else 60
         if palavras > limite:
             erros.append(f"slide {i} tem {palavras} palavras (máx. {limite})")
+    if layout_do_post(post) == "moderno":
+        # Cabeçalho em todo slide deixa o carrossel com cara de texto de IA (pedido do João).
+        com_titulo = sum(1 for s in post["slides"] if s.get("titulo"))
+        com_tag = sum(1 for s in post["slides"] if s.get("tag"))
+        com_box = sum(1 for s in post["slides"] if s.get("factbox"))
+        if com_titulo > 2:
+            erros.append(f"{com_titulo} slides com título (máx. 2): prefira texto corrido")
+        if com_tag > 2:
+            erros.append(f"{com_tag} slides com etiqueta (máx. 2)")
+        if com_box > 1:
+            erros.append(f"{com_box} slides com factbox (máx. 1)")
     ids = {i["id"] for i in post.get("imagens", [])}
     for ref in [post["capa"]["imagem"], *[s.get("imagem") for s in post["slides"]]]:
         if ref and ref not in ids:

@@ -21,6 +21,8 @@ RAIZ = Path(__file__).resolve().parent.parent
 ESTRATEGIA = RAIZ / "config" / "estrategia.json"
 DIAS = ["seg", "ter", "qua", "qui", "sex", "sab", "dom"]
 LIMITE_LEGENDA = 2200
+# Emojis na legenda dão cara de texto de IA (pedido do João): nenhum é aceito.
+EMOJI = re.compile("[\U0001F000-\U0001FAFF\u2600-\u27BF\u2B00-\u2BFF\uFE0F]")
 ANTECEDENCIA_MIN_HORAS = 4
 
 
@@ -87,9 +89,9 @@ def creditos(post):
         if img.get("exige_credito"):
             linhas.append(f"{img['autor']} ({img['licenca']})")
     if not linhas:
-        return "📷 Imagens: domínio público via Wikimedia Commons."
+        return "Imagens: domínio público via Wikimedia Commons."
     unicos = list(dict.fromkeys(linhas))
-    return "📷 Imagens via Wikimedia Commons: " + "; ".join(unicos) + ". Demais: domínio público."
+    return "Imagens via Wikimedia Commons: " + "; ".join(unicos) + ". Demais: domínio público."
 
 
 def textos_alternativos(post, n):
@@ -108,7 +110,9 @@ def textos_alternativos(post, n):
         return [re.sub(r"<[^>]+>", "", f"{n['titulo_html']}. {placar}. {n.get('subtitulo_html', '')}")]
     capa = re.sub(r"<[^>]+>", "", post["capa"]["titulo_html"])
     textos = [f"Capa: {capa}. {re.sub(r'<[^>]+>', '', post['capa']['gancho'])}"]
-    textos += [f"Slide {i}: {s['titulo']}" for i, s in enumerate(post["slides"], start=2)]
+    for i, s in enumerate(post["slides"], start=2):
+        resumo = s.get("titulo") or " ".join(re.sub(r"<[^>]+>", " ", s["texto_html"]).split()[:20])
+        textos.append(f"Slide {i}: {resumo}")
     textos.append("Diplomacia da Guerra — salve este post e siga @diplomaciadaguerra")
     return textos[:n] if len(textos) >= n else textos + [post.get("alt_text", "")] * (n - len(textos))
 
@@ -123,6 +127,9 @@ def montar_legenda(post, est):
     partes.append(creditos(post))
     partes.append(" ".join(hashtags))
     texto = "\n\n".join(partes)
+    achados = EMOJI.findall(texto + post.get("primeiro_comentario", ""))
+    if achados:
+        sys.exit(f"Legenda/primeiro comentário com emoji ({' '.join(dict.fromkeys(achados))}). Tire os emojis do post.json.")
     if len(texto) > LIMITE_LEGENDA:
         sys.exit(f"Legenda com {len(texto)} caracteres (limite {LIMITE_LEGENDA}). Encurte post.json → legenda.")
     return texto

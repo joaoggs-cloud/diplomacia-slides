@@ -93,12 +93,19 @@ referência dos agentes.
    como modelo de formato):
    - 8 a 10 slides no total (capa + conteúdo + CTA), **máx. 45 palavras** de texto por
      slide de conteúdo (o layout moderno reserva a parte de cima para a foto);
+   - **texto corrido, sem cara de IA** (pedido do João): os slides de conteúdo são
+     parágrafos que contam a história em sequência, um puxando o outro, como um
+     jornalista escreveria. **Sem `titulo` e sem `tag`** por padrão — no máximo 2 slides
+     com título (ex.: o resumo) e 1 `factbox` por post, sem rótulo se não precisar.
+     Datas e contexto entram na frase ("Em 23 out, …"). O `render.py` avisa se passar disso;
    - `categoria` vira as etiquetas da capa: use "Tema · Região/Época" (ex.:
      "Tecnologia militar · Ucrânia"); o nº de fontes entra sozinho;
    - capa com gancho forte (número, contradição, "o erro que…", "X fatos…");
    - legenda: abertura que prende, contexto em 3–5 linhas, "arraste para o lado",
      e uma **pergunta** no fim para gerar comentários; `primeiro_comentario` com
-     outra pergunta; 5–7 hashtags específicas (as de base entram sozinhas);
+     outra pergunta; 5–7 hashtags específicas (as de base entram sozinhas).
+     **Nenhum emoji** na legenda nem no primeiro comentário (pedido do João: dá cara
+     de IA); escreva como gente, sem listas de marcadores. O `metricool.py` recusa emoji;
    - `fontes` com nome e URL; `busca_imagens` em inglês, com `alternativas`.
      A busca livre do Commons costuma trazer fotos genéricas (cerimônias, visitas):
      prefira achar o arquivo certo com WebSearch (`allowed_domains: ["commons.wikimedia.org"]`)

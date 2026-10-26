@@ -17,8 +17,11 @@ ou o pedido de ajuste do João.
    e use `posts/2026-10-28-crise-dos-misseis/post.json` como modelo de carrossel ou
    `posts/2026-10-25-apuracao-2turno/post.json` como modelo de notícia (imagem única).
 2. Escreva `posts/<slug>/post.json` **usando só os fatos da pauta**:
-   - carrossel: 8–10 slides (capa + conteúdo + CTA), máx. 60 palavras por slide;
-   - legenda com gancho, contexto, "arraste para o lado" e pergunta final;
+   - carrossel: 8–10 slides (capa + conteúdo + CTA), máx. 45 palavras por slide;
+   - slides de conteúdo em **texto corrido**, sem `titulo`/`tag` (máx. 2 títulos e
+     1 factbox por post) — a história flui de um slide para o outro;
+   - legenda com gancho, contexto, "arraste para o lado" e pergunta final, **sem emoji**
+     (nem no primeiro comentário) e sem tom de lista;
    - `fontes` = as fontes da pauta; `busca_imagens` com `File:...` exatos quando houver;
    - `agendamento` = horário informado pelo coordenador.
 3. Imagens: `python3 scripts/imagens.py posts/<slug> --candidatos 3`. Se a rede bloquear,

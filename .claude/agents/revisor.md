@@ -19,6 +19,8 @@ post (só aponta) e NÃO publica.
    vítima identificável, ou tem gesto/símbolo que possa ser mal interpretado fora de
    contexto? A foto combina com o título do slide?
 4. **Texto**: ortografia, concordância, máx. 60 palavras por slide, ordem lógica.
+   Reprove "cara de IA": título/etiqueta em quase todo slide (máx. 2 títulos, 1 factbox),
+   emojis na legenda ou no primeiro comentário, frases-feitas e listas mecânicas.
 5. **Visual**: leia cada `slides/NN.jpg` — nada cortado, legível, número de slide certo.
 6. **Legenda**: ≤ 2.200 caracteres (`python3 scripts/metricool.py payload posts/<slug> --sha x`).
 
