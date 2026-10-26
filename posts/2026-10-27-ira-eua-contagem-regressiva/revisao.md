@@ -1,4 +1,40 @@
-REPROVADO
+APROVADO
+
+# Revisão, rodada 2: 2026-10-27-ira-eua-contagem-regressiva
+Revisor, 26 out 2026. SHA revisado: f794065ca69cfae01353677c576ce58f1433cdb3. Foram lidos os 10 JPEGs em `slides/`.
+
+| Item | Resultado |
+|---|---|
+| C1. Slide 8 (antigo 7), 3 nov e 8 out | ok: texto aplicado palavra por palavra, factbox mantido, WaPo (8 out) e Al Jazeera (midterms) estão nas fontes |
+| C2. Slide 6, 23 e 25 out | ok: tag e texto aplicados, France 24 e CBS estão nas fontes |
+| C3. Slide 7 novo, "O que diz Teerã" | ok: texto e factbox aplicados, AP/ABC e Business Standard estão nas fontes |
+| C4. Slide 9, resumo | ok: aplicado palavra por palavra |
+| C5. Legenda | ok: trecho trocado e "Atualizado em 26 out 2026" |
+| C6. Fotos | ok: slide 2 com o F/A-18E da Epic Fury (9542614), slide 6 com o F/A-18F VFA-103, slide 9 com o USS Princeton (171022-N-VR594-0093). Há uma ressalva no slide 6 (R1) |
+| 1. Fatos | ok. Veja as checagens abaixo |
+| 2. Isenção | ok: EUA e Irã têm cada um a sua posição declarada, e as alegações estão atribuídas |
+| 3. Licenças e créditos | ok: 6 fotos em domínio público, Gagnon e Morteza Jrk em CC BY-SA 4.0, Maureen em CC BY 2.0. Os créditos aparecem no slide e na legenda |
+| 3. Marca d'água "Morteza Jrk" (slide 7) | ok: é a assinatura do próprio autor, a CC BY-SA permite e o crédito está presente. Fica discreta atrás do texto |
+| 3. Adequação | ok. Nenhuma vítima, nenhuma violência. As pessoas do slide 7 são silhuetas sem identificação |
+| 4. Texto | ok: todos os slides têm 60 palavras ou menos (o slide 6 tem 56, contando título e texto). Ortografia e concordância ok |
+| 5. Visual | ok: numeração de 2/10 a 10/10, nada cortado, texto legível, logo sem sobreposição. A capa é acinzentada, mas o porta-aviões e os caças aparecem bem: aceitável |
+| 6. Legenda | ok: 1.222 caracteres no payload, com fontes, créditos e hashtags (limite: 2.200). O payload sai com rc=0 |
+
+## Checagens refeitas (rodada 2)
+- Baghaei: a declaração foi dada em entrevista à ARD publicada no domingo, 25 out. Segundo ele, Teerã não fechou a porta à diplomacia e as mensagens seguem por intermediários. Confirmado por Times of Israel/AP, Iran International e Azernews. OK.
+- Trump prometeu não atacar antes de 3 nov: reiterado em 25 e 26 out (The National, CNN de 26 out, CBS). OK.
+- "Não haverá ataque hoje" e "deal or finish them off", em 25 out: CBS e The National. OK.
+- Foto 9542614: Commons, crédito U.S. Central Command Public Affairs. É um F/A-18E do VFA-151 no USS Abraham Lincoln, em 28 fev 2026. Domínio público. OK.
+- Nada de 26 out invalida o post. Não há ataque confirmado. A CNN (26 out) diz que as forças podem agir "em até 96 horas" após uma ordem, e o NYT diz que Trump "tenderia", em privado, a atacar depois da eleição. São relatos, sem confirmação, então o factbox do slide 8 continua correto.
+
+## Recomendações (não reprovam)
+- R1. Slide 6: a cauda do F/A-18F tem a caveira com ossos cruzados do esquadrão "Jolly Rogers". Ao lado da frase "acabar com eles", ela pode ser lida como deboche ou glorificação. Sugestão: trocar `img06` pela reserva `File:North Façade White House.JPG` (domínio público), ou recortar o enquadramento para o porta-aviões sem a cauda. Se o João preferir manter, não é bloqueio.
+- R2. Antes de pedir a aprovação, o coordenador deve conferir se houve ataque ou anúncio entre hoje à noite e a publicação (27 out, 06:01). Em 27 out há eleição em Israel, e há relatos não confirmados de que Netanyahu teria ordenado um ataque. Se algo acontecer, o post fica desatualizado.
+- R3 (opcional). Slide 7: o texto pode acrescentar que, segundo Baghaei, os EUA insistem em "exigências unilaterais". Hoje o slide já está equilibrado. Não é necessário.
+
+---
+# Rodada 1 (histórico)
+(veredito da rodada 1: REPROVADO)
 
 # Revisão — 2026-10-27-ira-eua-contagem-regressiva
 Revisor, 26 out 2026. WebFetch e acesso direto (curl) seguem bloqueados nesta sessão; a checagem foi feita com WebSearch (modo extended) cruzando veículos diferentes.
