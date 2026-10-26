@@ -1,57 +1,50 @@
 REPROVADO
 
-# Revisão — 2026-10-27-bomba-tsar-65-anos (slides SHA 5c6b394)
+# Revisão, rodada 2: 2026-10-27-bomba-tsar-65-anos (slides SHA f2fc319)
 
-Obs.: nesta sessão o proxy bloqueia ctbto.org, ahf.nuclearmuseum.org, nuclearweaponarchive.org, wikipedia e commons (403). Fatos conferidos por buscas restritas a cada domínio (trechos das próprias páginas), não por leitura integral.
+Obs.: o proxy desta sessão bloqueia commons.wikimedia.org (403 / ENOTFOUND). Licenças conferidas pelos metadados gravados em `post.json` e `imagens/candidatos/*.json` e por buscas restritas ao domínio.
 
 | Item | Resultado |
 |---|---|
-| 1. Fatos | quase todos ok; 2 problemas (horário, foto/tratado) |
+| 1. Fatos | ok. Correções da rodada 1 aplicadas (11h32 horário de Moscou, tratado com atmosfera/espaço/debaixo d'água, Sakharov) |
 | 2. Isenção | ok (histórico, sem adjetivos, sem glorificar) |
-| 3. Imagens | PROBLEMA: img01 vem da AP; img08 é de outro evento; img04 repetida; img01 repetida |
-| 4. Texto | ok no estilo (0 títulos, 1 factbox, sem tag, sem emoji, ≤ 44 palavras); ajustes pontuais |
-| 5. Visual | ok em geral; slide 5 quebra "10.500 / m."; slide 7 rótulos do mapa sob o texto |
-| 6. Legenda | ok — 1.158 caracteres, sem emoji, pergunta no fim; payload passou |
+| 3. Imagens | PROBLEMA: slide 2 é retrato da agência TASS; slide 7 (Belushya Guba) não combina com o texto e pode induzir a erro |
+| 4. Texto | ok. 32 a 44 palavras por slide, sem título nem tag, sem factbox, sem emoji, texto corrido |
+| 5. Visual | ok. Numeração 1/10 a 10/10, nada cortado, texto legível, créditos em todos os slides com foto, CTA ok |
+| 6. Legenda | ok. Sem emoji, pergunta no fim; `metricool.py payload --sha f2fc319 --rascunho` passou (rc=0) |
 
-## Fatos conferidos
-- Encomenda em jul 1961 (encontro Khrushchev–Sakharov em 10 jul 1961) e ~100 Mt: AHF + Nuclear Weapon Archive (NWA). ok
-- Teste ligado ao 22º Congresso do PCUS: fontes secundárias e NWA. ok
-- "Mãe de Kuzka" (Kuz'kina mat'), AN602, "Tsar Bomba": AHF. ok
-- Urânio-238 do estágio final trocado por chumbo; rendimento caiu à metade; 50 Mt valor russo (AEC estimou 55–60 Mt): NWA + AHF. ok
-- ~27 t; Tu-95 modificado (Tu-95V) pintado de branco refletivo; soltura a 10.500 m; paraquedas; explosão a ~4.000 m: CTBTO (FAQ) + NWA. ok
-- 30 out 1961, Novaya Zemlya: CTBTO + AHF. ok. **11h32 é horário de Moscou**, não "horário local" nas fontes.
-- Clarão visto a ~1.000 km: CTBTO. ok
-- Nuvem: AHF ~40 milhas / "sete vezes o Everest"; NWA 64 km; CTBTO 60 km. "passou de 60 km" ok.
-- Janelas quebradas a centenas de km (NWA: ~900 km em Dikson; AHF: ~560 milhas). ok
-- Onda registrada após a 3ª volta à Terra: AHF, atribuída. ok
-- "Mais de 3.000 vezes Hiroshima": CTBTO (15 kt → >3.000; outra página dá ~3.800). ok
-- Tratado de 5 ago 1963 (EUA, URSS, Reino Unido, Moscou): State Dept + JFK Library + Britannica. ok, mas proíbe testes na atmosfera, no espaço e debaixo d'água.
-- Sakharov "um dos projetistas" (montou a equipe com Adamsky, Babayev, Trutnev, Smirnov): AHF + RFE/RL. Nobel da Paz 1975. ok
+## Rodada 1: o que foi aplicado
+- 1 (capa AP): ok, a capa agora é MODIS/NASA de Novaya Zemlya (domínio público, colorida). A bola de fogo da AP saiu do post.
+- 2 (invólucro repetido): ok. O invólucro aparece só no slide 4, e o texto avisa: "Na foto, peça do mesmo tipo, exposta no museu nuclear de Sarov."
+- 3 (slide 8, foto de outro evento): ok com desvio aceitável. Selo soviético de 1963 sobre o tratado (CPA 2943; selo é ato oficial, domínio público), coerente com o texto, que é o exato pedido.
+- 4 (horário): ok, "11h32 (horário de Moscou)". Conferido de novo: NWA dá 11h32 (Moscou); outra fonte dá 11h33. "Por volta das" cobre a diferença.
+- 5 a 8 (recomendadas): todas aplicadas. A cor no slide 2 não foi aplicada, por causa do problema abaixo.
+
+## Fatos conferidos de novo nesta rodada
+- 30 out 1961, sobre o cabo Sukhoy Nos (ilha Severny, zona C), Tu-95V, paraquedas, detonação a 4.000 m, 11h32 (Moscou): NWA + Wikipedia/Durnovtsev. ok
+- 50 Mt (valor russo desde 1991; estimativa dos EUA 57 Mt) e projeto de 100 Mt: NWA + National Interest. ok
+- Sakharov já questionava os testes em 1961: AIP (exposição Sakharov) + Britannica ("in 1961 he opposed Khrushchev's plan to test a 100-megaton bomb"). ok
+- Slide 2, "na retomada dos testes": a URSS rompeu a moratória de 1958 em set 1961 (AIP). ok
+- Slide 7: 60 km / 8,85 km = 6,8, então "perto de sete Everests" está ok. A frase das três voltas está atribuída à AHF. ok
 
 ## Correções obrigatórias
 
-1. **img01 (capa e slide 6) — foto de agência.** O Commons dá como fonte "AP Newsroom" e autor "Cover Images/…/Associated Press"; a base de domínio público é "publicado nos EUA sem aviso de copyright" (só vale nos EUA) e o arquivo foi enviado em 1 mar 2026 (risco de remoção). Regra do CLAUDE.md: nunca usar fotos de agências (AP). Além disso, a mesma foto aparece duas vezes (capa e 6).
-   - Capa → `File:Tsar Bomba Revised.jpg` (o invólucro em Sarov, colorido, CC BY-SA 3.0, Croquant/Hex). Mantém o título.
-   - Slide 6 → `File:Novaya Zemlya testing map.png` (hoje no slide 7; mostra a zona C/Sukhoy Nos, área do teste), com `"foco"` que deixe "Sukhoy Nos / C" acima do degradê.
-   - Slide 7 → `File:NovayaZemlya.A2001222.0835.250m.jpg` (NASA, domínio público, colorida) ou `File:Belushya guba novaya zemlya russia nasa photo.jpg`.
-   - Se o coordenador preferir manter a bola de fogo, só com decisão explícita do João (é a única imagem real do teste), e com crédito correto.
+1. **Slide 2 (img10): foto de agência.** O arquivo `Nikita Khrushchev TASS Portrait Trim.jpg` tem autor "G. Weil for TASS". É um retrato oficial da TASS de 1954, retocado e distribuído como foto de imprensa. O domínio público dele se apoia na mesma base que reprovamos na rodada 1 para a AP (foto de imprensa publicada nos EUA sem aviso de copyright). Na Rússia não é domínio público, porque é posterior a 1943. A regra do CLAUDE.md é nunca usar foto de agência. Os candidatos `img02_op2/op3` também são TASS.
+   - Troque por `File:John Kennedy, Nikita Khrushchev 1961.jpg`: Viena, 3 jun 1961, fotógrafo do Departamento de Estado dos EUA, JFK Library PX 96-33:12, domínio público como obra do governo federal (17 U.S.C. 105). Combina com o slide, porque foi um mês antes da encomenda da bomba.
+   - Alternativa: `File:1961 John F. Kennedy, Nikita Khrushchev, Jacqueline Kennedy.jpg` (USIA, 3 jun 1961, domínio público).
+   - Se `Nikita Khruchchev Colour.jpg` tiver licença livre que não seja de agência, também serve. Mas o `imagens.py` caiu no fallback TASS, então confira a página antes.
+   - Na `busca_imagens`, mude `img10.query` para `"File:John Kennedy, Nikita Khrushchev 1961.jpg"` e tire os dois "TASS" das `alternativas`. Texto do slide sem mudança.
 
-2. **img04 repetida (slides 3 e 4) e risco de induzir erro.** Com a capa usando o invólucro, tire-o dos slides 3 e 4:
-   - Slide 3 (mãe de Kuzka) → `File:Nikita Khrushchev 1960.jpg` (Khrushchev na Assembleia Geral da ONU, 22 set 1960, Warren K. Leffler/U.S. News & World Report, Library of Congress, domínio público — confirmar o fotógrafo na página).
-   - Slide 4 (projeto encolheu) → `File:Comparative nuclear fireball sizes.svg` (domínio público, Fastfission; mostra Tsar Bomba 50 Mt). Alternativa: deixar o invólucro aqui e trocar a capa.
-   - Onde o invólucro aparecer, inclua no texto: "Na foto, um invólucro do mesmo tipo, exposto no museu nuclear de Sarov." (no slide 4 ficaria com 43 palavras). Na capa não é necessário.
+2. **Slide 7 (img15): foto que não combina e pode enganar.** O arquivo `Belushya guba novaya zemlya russia nasa photo.jpg` é uma obra derivada com dois círculos marcando o aeródromo de Rogachevo e a vila de Belushya Guba. Os dois ficam na ilha **sul** (Yuzhny), a uns 400 km do ponto do teste (Sukhoy Nos, ilha norte). Ao lado de um texto sobre o clarão e a onda de choque, o leitor vai entender que os círculos marcam a explosão ou o alvo. A imagem também está pixelada.
+   - Troque por `File:Comparative nuclear fireball sizes.svg` (Fastfission, domínio público). Mostra a escala da Tsar Bomba e conversa com "sete Everests". Use a miniatura PNG do Commons se o `imagens.py` não aceitar SVG.
+   - Alternativa sem marcações: `File:Roze Glacier, Novaya Zemlya.jpg` (NASA EO-1, ilha Severny, domínio público, colorida).
+   - Texto do slide sem mudança.
 
-3. **Slide 8 — foto de outro evento.** O NARA/Knudsen ("Photographing signed Treaty") é da Sala dos Tratados da Casa Branca em **7 out 1963** (ratificação americana), não da assinatura de 5 ago 1963 em Moscou.
-   - Trocar por `File:Test Ban Treaty (1963) - last page.jpg` (página das assinaturas, 5 ago 1963, domínio público, ourdocuments.gov). 
-   - Texto exato: "A Tsar Bomba nunca foi usada como arma: grande e pesada demais para ser prática, serviu de demonstração política. Em <strong>5 ago 1963</strong>, EUA, URSS e Reino Unido assinaram em Moscou o tratado que proíbe testes nucleares na atmosfera, no espaço e debaixo d'água." (43 palavras)
-
-4. **Slide 6 — horário.** Trocar "por volta das 11h32 (horário local)" por "por volta das 11h32 (horário de Moscou)".
-
-## Correções recomendadas (não bloqueiam sozinhas)
-5. Slide 5: a quebra "10.500 / m." fica feia. Texto exato: "Com cerca de 27 toneladas, a bomba não cabia em um avião comum. Um Tu-95 modificado, pintado de branco para refletir o calor, a soltou a 10,5 km de altitude. Um paraquedas a freou até cerca de 4 km, para dar tempo de fuga."
-6. Slide 2 em P&B: existe colorida livre, `File:Nikita Khruchchev Colour.jpg` (conferir licença). Pedido do João é foto colorida; use-a se a licença for livre. Sakharov 1989 (P&B, Anefo CC0) pode ficar.
-7. Slide 9: o factbox (50 Mt / 15 kt) está solto no slide do Sakharov. Mova para o slide 6 ou apague. Sugestão de texto mais preciso (RFE/RL: ele já questionava os testes antes da explosão): "Um dos projetistas, o físico <strong>Andrei Sakharov</strong>, já questionava os testes na época. Virou o dissidente mais conhecido da URSS, defensor do desarmamento e dos direitos humanos, e ganhou o <em>Nobel da Paz</em> em 1975."
-8. Capa: "fez o clarão aparecer a 1.000 km" soa truncado. Sugestão: "A bomba cujo <span class=\"hl\">clarão</span> foi visto a <span class=\"hl2\">1.000 km</span>".
+## Recomendações (não bloqueiam)
+- Capa e slide 6 usam a mesma base MODIS (o mapa do slide 6 é desenhado sobre ela). Dá para aceitar porque o mapa acrescenta informação. A troca do slide 7 acima evita uma terceira imagem de satélite.
+- Slide 6: o mapa tem rótulos em inglês, e um "...ERN" da ilha sul fica cortado sob o texto. O ponto que importa ("Sukhoy Nos / C") está visível acima do degradê. ok
+- Slide 5: a foto é de um Tu-95 atual (RF-94130), não do Tu-95V de 1961. O texto diz só "Um Tu-95 modificado", então não engana. ok
+- Slides 3 e 9 em P&B: históricos e justificados. Slide 2 fica em P&B se usar a foto de Viena; também justificado.
 
 ## Sem problemas
-Estilo novo respeitado (texto corrido, sem títulos/tags nos slides, 1 factbox, capa sem etiqueta de nº de fontes), legenda e primeiro comentário sem emoji, pergunta de engajamento neutra, créditos presentes em todos os slides, numeração 1–10 correta, slide 10 (CTA) ok, Tu-95 (slide 5) nítido e coerente.
+Estilo novo respeitado (texto corrido, nenhum título ou tag nos slides de conteúdo, capa sem etiqueta de nº de fontes), legenda e primeiro comentário sem emoji, pergunta neutra, créditos presentes (CC BY-SA com autor nos slides 4 e 5), slide 10 (CTA) ok, payload ok.
