@@ -1,0 +1,161 @@
+{
+  "slug": "2026-10-27-ira-eua-contagem-regressiva",
+  "titulo_interno": "EUA x Irã — contagem regressiva até 3 de novembro",
+  "status": "rascunho",
+  "pilar": "conflito_atual",
+  "categoria": "Conflito atual · Oriente Médio",
+  "gancho_tipo": "pergunta_prazo",
+  "capa": {
+    "imagem": "img01",
+    "titulo_html": "A guerra com o Irã está em <span class=\"hl\">pausa</span>. E o <span class=\"hl2\">prazo</span>?",
+    "gancho": "Memorando, embaixadas com menos gente e um calendário eleitoral: o que se sabe, e o que são só relatos."
+  },
+  "slides": [
+    {
+      "imagem": "img02",
+      "tag": "O contexto",
+      "titulo": "Sem acordo formal em vigor",
+      "texto_html": "A campanha EUA-Israel contra o Irã (<strong>Operação Epic Fury</strong>) começou em 28 fev 2026. Um cessar-fogo de duas semanas foi acertado em 7 abr. Segundo o <em>CRS, do Congresso dos EUA</em>, um memorando de entendimento de jun expirou em ago."
+    },
+    {
+      "imagem": "img03",
+      "tag": "23 out 2026",
+      "titulo": "O memorando de inteligência",
+      "texto_html": "Segundo <strong>Axios</strong> e <strong>Washington Post</strong>, um memorando do Diretor de Inteligência Nacional, Jay Clayton, ao secretário de Estado Marco Rubio diz que o Irã ampliou esforços contra pessoal americano, com planos em <em>“estágio avançado”</em>."
+    },
+    {
+      "imagem": "img04",
+      "tag": "Atenção",
+      "titulo": "O que o texto não diz",
+      "texto_html": "Segundo Al Jazeera e Japan Times, o memorando <strong>não cita alvos nem métodos</strong> e não diz se um ataque é iminente. As alegações sobre planos iranianos <em>não foram confirmadas de forma independente</em>.",
+      "factbox": {
+        "label": "Como ler",
+        "texto": "Informação de inteligência, repassada à imprensa, não é prova pública."
+      }
+    },
+    {
+      "imagem": "img05",
+      "tag": "23 out 2026",
+      "titulo": "Embaixadas com menos pessoal",
+      "texto_html": "O Departamento de Estado reduziu o quadro de funcionários nas embaixadas dos EUA na <strong>Jordânia, Líbano, Catar e Emirados</strong>. As sedes seguem abertas. Autoridades dizem que a medida não prepara novos ataques ao Irã.",
+      "factbox": {
+        "label": "Também citado",
+        "texto": "Segundo essas autoridades, há ameaças dos houthis, do Iêmen."
+      }
+    },
+    {
+      "imagem": "img06",
+      "tag": "Fim de semana, 25 out",
+      "titulo": "“Outra pequena Epic Fury, ou acordo”",
+      "texto_html": "Em comício na Flórida, Trump disse: <em>“We may do another little Epic Fury, or they'll agree”</em> (podemos fazer outra “pequena” Epic Fury, ou eles aceitam). À Fox News, disse escolher entre um acordo e agir, e descartou ataque no dia 25."
+    },
+    {
+      "imagem": "img07",
+      "tag": "3 nov 2026",
+      "titulo": "O calendário eleitoral",
+      "texto_html": "Reportagens citadas pela Al Jazeera dizem que Trump evita ataques antes das <strong>eleições legislativas de 3 de novembro</strong>. É leitura de bastidores, <em>não declaração oficial</em>.",
+      "factbox": {
+        "label": "Importante",
+        "texto": "Nenhuma fonte confirma que haverá ou não ação militar depois dessa data."
+      }
+    },
+    {
+      "imagem": "img08",
+      "tag": "Resumo",
+      "titulo": "Fato x relato",
+      "texto_html": "<strong>Fato:</strong> memorando existe, segundo a imprensa; embaixadas reduziram equipe; Trump falou em acordo ou nova ação.<br><br><em>Relato anônimo ou não confirmado:</em> planos iranianos e motivações eleitorais. Nada aqui indica ataque certo."
+    }
+  ],
+  "cta": {
+    "titulo": "Salve este post",
+    "subtitulo": "e acompanhe a Diplomacia da Guerra"
+  },
+  "legenda": "A guerra entre EUA e Irã está em pausa, mas sem acordo formal em vigor, segundo o CRS. 🌍\n\nEm 23 out, um memorando de inteligência citado por Axios e Washington Post disse que o Irã ampliou esforços contra pessoal americano. Ele não cita alvos nem se há ataque iminente, e as alegações não foram confirmadas de forma independente. Os EUA reduziram equipes em embaixadas da região e Trump falou em \"acordo ou nova ação\". Reportagens apontam as eleições de 3 nov como possível marco, mas isso é leitura de bastidores.\n\nAtualizado em 27 out 2026.\n\n👉 Arraste para o lado e veja o que é fato e o que é relato.\n\n💬 Na sua opinião, a diplomacia ainda tem espaço para evitar nova escalada na região?",
+  "primeiro_comentario": "Que notícia do Oriente Médio você gostaria de ver explicada aqui? Conta nos comentários 👇",
+  "hashtags": [
+    "#ira",
+    "#estadosunidos",
+    "#orientemedio",
+    "#ormuz",
+    "#geopolitica",
+    "#relacoesinternacionais"
+  ],
+  "alt_text": "Carrossel sobre a tensão entre EUA e Irã em 27 out 2026, separando fatos confirmados de relatos de fontes anônimas.",
+  "fontes": [
+    {
+      "nome": "Axios",
+      "url": "https://www.axios.com/2026/10/24/iran-war-us-embassies-evacuations-threat"
+    },
+    {
+      "nome": "Washington Post",
+      "url": "https://www.washingtonpost.com/world/2026/10/24/iran-advanced-stages-plots-kill-us-officials-abroad-memo-warns/"
+    },
+    {
+      "nome": "Al Jazeera (memorando)",
+      "url": "https://www.aljazeera.com/news/2026/10/24/is-iran-planning-attacks-on-americans-why-is-the-us-on-alert"
+    },
+    {
+      "nome": "Japan Times",
+      "url": "https://www.japantimes.co.jp/news/2026/10/25/world/iran-target-us-personnel/"
+    },
+    {
+      "nome": "U.S. News",
+      "url": "https://www.usnews.com/news/politics/articles/2026-10-23/us-is-reducing-staffing-at-4-middle-east-embassies-over-increased-threats-from-iran"
+    },
+    {
+      "nome": "CNN",
+      "url": "https://www.cnn.com/2026/10/23/politics/us-moves-diplomats-middle-east-escalation-fears"
+    },
+    {
+      "nome": "Al Jazeera (Trump)",
+      "url": "https://www.aljazeera.com/news/2026/10/25/centcom-reportedly-has-plans-for-iran-strikes-will-trump-approve-them"
+    },
+    {
+      "nome": "Anadolu",
+      "url": "https://www.aa.com.tr/en/americas/trump-warns-of-possible-new-military-operation-against-iran/4099056"
+    },
+    {
+      "nome": "CRS (Congresso dos EUA)",
+      "url": "https://www.congress.gov/crs-product/R48887"
+    }
+  ],
+  "busca_imagens": [
+    {
+      "id": "img01",
+      "query": "File:CVN 69 transits the Strait of Hormuz (28465403076).jpg"
+    },
+    {
+      "id": "img02",
+      "query": "File:The Eisenhower Carrier Strike Group Transits the Strait of Hormuz (8170044).jpg"
+    },
+    {
+      "id": "img03",
+      "query": "File:Azadi Tower, Tehran.jpg"
+    },
+    {
+      "id": "img04",
+      "query": "File:STS004-37-716 - Strait of Hormuz.jpg"
+    },
+    {
+      "id": "img05",
+      "query": "File:American Embassy in Amman.jpg"
+    },
+    {
+      "id": "img06",
+      "query": "File:Flight Operations Aboard USS Tripoli (LHA 7) (9662411).jpg"
+    },
+    {
+      "id": "img07",
+      "query": "File:United States Capitol dome daylight.jpg"
+    },
+    {
+      "id": "img08",
+      "query": "File:Flickr - Official U.S. Navy Imagery - U.S. Navy ships transit the Strait of Hormuz..jpg"
+    }
+  ],
+  "agendamento": {
+    "data_hora": "2026-10-27T06:01:00-03:00",
+    "slot": "06:01"
+  },
+  "verificacao": "Pauta aponta que WebFetch falhou; fatos 1,2,3,6,8 e contexto do CRS conferidos por títulos/trechos. Revisor deve abrir as URLs."
+}
