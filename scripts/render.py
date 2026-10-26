@@ -341,8 +341,9 @@ def validar(post):
         erros.append(f"o carrossel tem {n} slides (capa + conteúdo + CTA); o padrão é 8 a 10")
     for i, s in enumerate(post["slides"], start=2):
         palavras = len(re.sub(r"<[^>]+>", " ", s["texto_html"]).split())
-        if palavras > 60:
-            erros.append(f"slide {i} tem {palavras} palavras (máx. 60)")
+        limite = 45 if layout_do_post(post) == "moderno" else 60
+        if palavras > limite:
+            erros.append(f"slide {i} tem {palavras} palavras (máx. {limite})")
     ids = {i["id"] for i in post.get("imagens", [])}
     for ref in [post["capa"]["imagem"], *[s.get("imagem") for s in post["slides"]]]:
         if ref and ref not in ids:

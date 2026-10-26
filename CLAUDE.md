@@ -15,7 +15,7 @@ depois de um "aprovar".
 | `config/estrategia.json` | Frequência, dias, horários (slots), pesos dos pilares, hashtags. A análise semanal reescreve. |
 | `posts/<AAAA-MM-DD-slug>/post.json` | Roteiro completo do post: slides, legenda, fontes, buscas de imagem, agendamento, status. |
 | `scripts/imagens.py` | Busca e baixa imagens livres (domínio público / CC0 / CC BY / CC BY-SA) no Wikimedia Commons e registra os créditos. |
-| `scripts/render.py` | Gera `carrossel.html` + `slides/01.jpg…` (1080×1080) com a identidade visual da página. |
+| `scripts/render.py` | Gera `carrossel.html` + `slides/01.jpg…`. Layout padrão **moderno** (`template_moderno.html`, 4:5 = 1080×1350, aprovado pelo João em 26/10); o antigo quadrado (`template.html`) fica como `--layout classico`. |
 | `scripts/metricool.py` | `proximo-horario` (data/slot da vez), `payload` (JSON para o Metricool), `avancar-slot`. |
 | `scripts/analise.py` | Score de engajamento por post, por horário, dia e pilar; recomenda e aplica ajustes. |
 | `.github/workflows/gerar-slides.yml` | Plano B: se a sessão não alcança o Wikimedia, o GitHub baixa as imagens e renderiza ao receber o `post.json`. |
@@ -91,7 +91,10 @@ referência dos agentes.
    o ativo da página: na dúvida, corte o fato.
 4. **Roteirizar** o `post.json` (use `posts/2026-10-28-crise-dos-misseis/post.json`
    como modelo de formato):
-   - 8 a 10 slides no total (capa + conteúdo + CTA), **máx. 60 palavras** por slide;
+   - 8 a 10 slides no total (capa + conteúdo + CTA), **máx. 45 palavras** de texto por
+     slide de conteúdo (o layout moderno reserva a parte de cima para a foto);
+   - `categoria` vira as etiquetas da capa: use "Tema · Região/Época" (ex.:
+     "Tecnologia militar · Ucrânia"); o nº de fontes entra sozinho;
    - capa com gancho forte (número, contradição, "o erro que…", "X fatos…");
    - legenda: abertura que prende, contexto em 3–5 linhas, "arraste para o lado",
      e uma **pergunta** no fim para gerar comentários; `primeiro_comentario` com

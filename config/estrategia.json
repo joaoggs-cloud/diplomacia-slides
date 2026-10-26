@@ -40,7 +40,8 @@
     "carrossel": {
       "slides_min": 8,
       "slides_max": 10,
-      "peso": 1.0
+      "peso": 1.0,
+      "proporcao": "4:5 (1080x1350)"
     }
   },
   "pilares": {
@@ -77,7 +78,12 @@
     {
       "data": "2026-10-25",
       "motivo": "Pedido do João: todos os posts diários às 06:01. Rotação de horários suspensa; mudanças de horário só com decisão do João a partir das recomendações da análise semanal."
+    },
+    {
+      "data": "2026-10-26",
+      "motivo": "João aprovou o layout moderno: 4:5, foto colorida em tela cheia, etiquetas acima da manchete, fonte sem serifa. P&B só estratégico."
     }
   ],
-  "frequencia_minima": 7
+  "frequencia_minima": 7,
+  "layout": "moderno"
 }

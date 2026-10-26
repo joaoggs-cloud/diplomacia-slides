@@ -27,3 +27,7 @@ Grave `posts/<slug>/revisao.md` com o veredito na primeira linha:
 `APROVADO` ou `REPROVADO`, depois a tabela dos itens (ok / problema) e, para cada
 problema, **a correção exata** a fazer. Responda ao coordenador com o veredito e os
 problemas em uma lista curta.
+
+## Layout
+Confira também: foto colorida (P&B só se justificado), assunto da foto visível acima
+do texto, nada importante coberto pelo degradê, texto legível sobre a foto.

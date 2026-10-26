@@ -32,3 +32,9 @@ ou o pedido de ajuste do João.
 5. Commit + push (`[skip ci]` se você mesmo renderizou).
 
 Responda ao coordenador com o slug, o SHA do commit e uma lista do que verificou/trocou.
+
+## Layout (aprovado pelo João)
+Padrão **moderno** 4:5: foto colorida em tela cheia, etiquetas acima da manchete,
+fonte sem serifa. Escolha fotos **coloridas, claras, nítidas e com o assunto no
+centro/topo** (o texto ocupa a faixa de baixo). P&B só estratégico (`"pb": true`).
+Máx. 45 palavras por slide de conteúdo. Use `"foco"` para enquadrar.
