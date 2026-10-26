@@ -176,6 +176,19 @@ def painel_grafico(g):
                  f'<div class="g-trilho"><div class="g-solido" style="width:{a:.1f}%"></div>'
                  f'<div class="g-incerto" style="left:{a:.1f}%;width:{b - a:.1f}%"></div></div>'
                  f'<div class="g-escala"><span>0%</span><span>−{esc}%</span></div>')
+    elif g["tipo"] == "regua":
+        lo, hi = g["min"], g["max"]
+        marcas = ""
+        for m in g["marcas"]:
+            x = (m["valor"] - lo) / (hi - lo) * 100
+            marcas += (f'<div class="r-marca{" dest" if m.get("destaque") else ""}" style="left:{x:.1f}%">'
+                       f'<div class="r-val">{escape(m["texto"])}</div><div class="r-pino"></div>'
+                       f'<div class="r-rot">{escape(m["rotulo"])}</div></div>')
+        corpo = f'<div class="r-trilho">{marcas}</div>'
+    elif g["tipo"] == "linha_do_tempo":
+        corpo = '<div class="t-lista">' + "".join(
+            f'<div class="t-item"><div class="t-hora">{escape(i["quando"])}</div><div class="t-txt">{i["texto"]}</div></div>'
+            for i in g["itens"]) + '</div>'
     else:
         corpo = f'<div class="g-num">{escape(g["texto"])}</div>'
     return f'<div class="ind graf">{titulo}{corpo}{nota}</div>'
@@ -248,6 +261,8 @@ def montar_moderno(post, post_dir):
         if s.get("citacao"):
             c = s["citacao"]
             extras += f'<div class="destaque"><p>{c["texto"]}</p><cite>— {escape(c.get("autor", ""))}</cite></div>'
+        if s.get("grafico"):
+            extras += f'<div class="inds grande">{painel_grafico(s["grafico"])}</div>'
         html.append(f'''
   <div class="slide">
     {bg}<div class="grad forte"></div>

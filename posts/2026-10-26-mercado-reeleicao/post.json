@@ -1,8 +1,7 @@
 {
   "slug": "2026-10-26-mercado-reeleicao",
-  "titulo_interno": "Mercado reage à reeleição — pré-abertura",
+  "titulo_interno": "Mercado reage à reeleição — carrossel",
   "status": "aguardando_aprovacao",
-  "formato": "noticia",
   "layout": "moderno",
   "pilar": "atualidade_brasil",
   "usar_hashtags_base": false,
@@ -10,45 +9,128 @@
   "capa": {
     "imagem": "img01",
     "titulo_html": "Mercado reage à reeleição: <span class=\"hl2\">dólar dispara</span> antes da abertura",
-    "gancho": "Antes do pregão desta segunda (26), o dólar futuro subia cerca de 10% e o ETF do Brasil em Nova York despencava. A B3 abre às 10h.",
-    "graficos": [
-      {
+    "gancho": "O que aconteceu com o dólar e com as ações brasileiras entre a apuração e a abertura da B3 desta segunda (26)."
+  },
+  "slides": [
+    {
+      "imagem": "img02",
+      "tag": "Linha do tempo",
+      "titulo": "Da apuração ao pregão",
+      "texto_html": "Em poucas horas, os ativos brasileiros negociados <strong>fora do país</strong> já reagiam ao resultado.",
+      "grafico": {
+        "tipo": "linha_do_tempo",
+        "titulo": "Domingo (25) → segunda (26)",
+        "itens": [
+          {
+            "quando": "Dom. 21h",
+            "texto": "Sistema do TSE aponta eleição matematicamente definida"
+          },
+          {
+            "quando": "Dom. noite",
+            "texto": "Dólar futuro sobe cerca de 10%"
+          },
+          {
+            "quando": "Madrugada",
+            "texto": "EWZ cai entre 20% e 26% fora do horário em NY"
+          },
+          {
+            "quando": "Seg. 10h",
+            "texto": "Abertura da B3"
+          }
+        ]
+      }
+    },
+    {
+      "imagem": "img03",
+      "tag": "Câmbio",
+      "titulo": "Dólar: alta de cerca de 10%",
+      "texto_html": "No mercado futuro, o dólar foi a <strong>perto de R$ 5,50</strong> na noite de domingo. Na sexta, a moeda havia fechado a <em>R$ 4,99</em>.",
+      "grafico": {
         "tipo": "barras",
         "titulo": "Dólar (R$)",
         "itens": [
           {
-            "rotulo": "Sexta (23)",
+            "rotulo": "Fechamento sexta (23)",
             "valor": 4.99,
-            "texto": "4,99"
+            "texto": "R$ 4,99"
           },
           {
-            "rotulo": "Futuro, dom. (25)",
+            "rotulo": "Futuro, domingo (25)",
             "valor": 5.5,
-            "texto": "~5,50",
+            "texto": "~R$ 5,50",
             "destaque": true
           }
         ],
-        "nota": "Alta de ~10% no dólar futuro"
-      },
-      {
+        "nota": "Barras a partir do zero"
+      }
+    },
+    {
+      "imagem": "img04",
+      "tag": "Exterior",
+      "titulo": "Ações do Brasil em Nova York",
+      "texto_html": "O <strong>EWZ</strong>, fundo que reúne ações brasileiras negociado nos EUA, caiu forte fora do horário regular. As fontes divergem sobre o tamanho da queda.",
+      "grafico": {
         "tipo": "faixa",
-        "titulo": "EWZ em Nova York",
+        "titulo": "Queda do EWZ fora do horário",
         "min": 20,
         "max": 26,
         "escala": 30,
         "texto": "−20% a −26%",
-        "nota": "ETF de ações do Brasil, fora do horário; faixa = divergência entre fontes"
-      },
-      {
-        "tipo": "numero",
-        "titulo": "Ibovespa",
-        "texto": "205.082",
-        "nota": "Pontos no fechamento de sexta (23). B3 abre às 10h"
+        "nota": "Parte listrada = divergência entre fontes (Mixvale −19,6%; Money Times −26%)"
       }
-    ]
-  },
-  "slides": [],
-  "legenda": "📉 MERCADO REAGE À REELEIÇÃO DE LULA\n\nAntes da abertura da B3 nesta segunda (26):\n\n• Dólar futuro: alta de cerca de 10% na noite de domingo, perto de R$ 5,50 (fechou a R$ 4,99 na sexta)\n• EWZ, ETF de ações brasileiras em Nova York: queda entre 20% e 26% fora do horário regular, conforme a fonte\n• Ibovespa: fechou a sexta em 205.082 pontos; o pregão começa às 10h\n\nAnalistas ouvidos pela imprensa preveem forte pressão de baixa na abertura. Se o Ibovespa cair 10%, a B3 aciona o circuit breaker e interrompe os negócios por 30 minutos. Entre os fatores citados está a declaração de Flávio Bolsonaro (PL) de que pedirá a anulação da eleição.\n\n⚠️ Números de pré-abertura: podem mudar quando o pregão começar.\n\n💬 Você acha que o mercado se acalma nos próximos dias? Comente com respeito.",
+    },
+    {
+      "imagem": "img05",
+      "tag": "Ibovespa",
+      "titulo": "Os níveis que o mercado observa",
+      "texto_html": "O Ibovespa fechou a sexta em <strong>205.082 pontos</strong>. Analistas citam os <em>200 mil pontos</em> como suporte de curto prazo.",
+      "grafico": {
+        "tipo": "regua",
+        "titulo": "Ibovespa (pontos)",
+        "min": 180000,
+        "max": 210000,
+        "marcas": [
+          {
+            "valor": 184574,
+            "texto": "184,6 mil",
+            "rotulo": "Circuit breaker (−10%)"
+          },
+          {
+            "valor": 200000,
+            "texto": "200 mil",
+            "rotulo": "Suporte citado por analistas"
+          },
+          {
+            "valor": 205082,
+            "texto": "205.082",
+            "rotulo": "Fechamento de sexta",
+            "destaque": true
+          }
+        ]
+      }
+    },
+    {
+      "imagem": "img06",
+      "tag": "Regra da B3",
+      "titulo": "O que é o circuit breaker",
+      "texto_html": "Se o Ibovespa cair <strong>10%</strong> em relação ao fechamento anterior, a B3 <em>interrompe os negócios por 30 minutos</em>. A pausa serve para conter vendas em pânico.",
+      "factbox": {
+        "label": "Expectativa",
+        "texto": "Profissionais ouvidos pela Reuters não descartavam o acionamento na abertura desta segunda."
+      }
+    },
+    {
+      "imagem": "img07",
+      "tag": "Contexto",
+      "titulo": "Por que o mercado reage",
+      "texto_html": "Segundo análises da imprensa econômica, o Ibovespa havia subido antes do 1º turno e agora <strong>desfaz parte desse movimento</strong>. Também é citada a declaração de Flávio Bolsonaro (PL) de que pedirá a anulação da eleição.",
+      "factbox": {
+        "label": "Atenção",
+        "texto": "Números de pré-abertura. Podem mudar quando o pregão começar."
+      }
+    }
+  ],
+  "legenda": "📉 MERCADO REAGE À REELEIÇÃO DE LULA\n\nAntes da abertura da B3 nesta segunda (26):\n\n• Dólar futuro: alta de cerca de 10% na noite de domingo, perto de R$ 5,50 (fechou a R$ 4,99 na sexta)\n• EWZ, ETF de ações brasileiras em Nova York: queda entre 20% e 26% fora do horário regular, conforme a fonte\n• Ibovespa: fechou a sexta em 205.082 pontos; o pregão começa às 10h\n\nAnalistas ouvidos pela imprensa preveem forte pressão de baixa na abertura. Se o Ibovespa cair 10%, a B3 aciona o circuit breaker e interrompe os negócios por 30 minutos. Entre os fatores citados está a declaração de Flávio Bolsonaro (PL) de que pedirá a anulação da eleição.\n\n⚠️ Números de pré-abertura: podem mudar quando o pregão começar.\n\n👉 Arraste para ver os gráficos.\n\n💬 Você acha que o mercado se acalma nos próximos dias? Comente com respeito.",
   "primeiro_comentario": "",
   "hashtags": [
     "#ibovespa",
@@ -90,6 +172,54 @@
         "File:Sao Paulo Stock Exchange.jpg",
         "Brazilian real banknotes"
       ]
+    },
+    {
+      "id": "img02",
+      "query": "Tribunal Superior Eleitoral building Brasília",
+      "alternativas": [
+        "TSE sede Brasília",
+        "Brazilian electronic voting machine"
+      ]
+    },
+    {
+      "id": "img03",
+      "query": "Brazilian real banknotes",
+      "alternativas": [
+        "cédulas real dinheiro",
+        "Real brasileiro notas"
+      ]
+    },
+    {
+      "id": "img04",
+      "query": "New York Stock Exchange building facade",
+      "alternativas": [
+        "NYSE Wall Street flag",
+        "Wall Street New York"
+      ]
+    },
+    {
+      "id": "img05",
+      "query": "Avenida Brigadeiro Faria Lima São Paulo buildings",
+      "alternativas": [
+        "Faria Lima financial district",
+        "Avenida Paulista skyline"
+      ]
+    },
+    {
+      "id": "img06",
+      "query": "stock market ticker screen trading",
+      "alternativas": [
+        "stock exchange trading screen",
+        "financial chart screen"
+      ]
+    },
+    {
+      "id": "img07",
+      "query": "Esplanada dos Ministérios Brasília",
+      "alternativas": [
+        "Congresso Nacional Brasília",
+        "Praça dos Três Poderes"
+      ]
     }
   ],
   "imagens": [
@@ -117,5 +247,9 @@
     "sha_slides": "503de8e21db6b01cbf9c9f27b7b2fa1202483051",
     "planner_url": "https://app.metricool.com/planner/calendar?blogId=7647378&openWithPostUuid=8931223899829455897"
   },
-  "verificacao": "Dólar futuro +10~11% perto de R$ 5,51–5,56 (Bloomberg Línea, Money Times, Mixvale); EWZ −19,6% (Mixvale) a −26% (Money Times) — por isso a faixa 20–26%; Ibovespa 205.082 em 23/10 (SpaceMoney, InfoMoney); circuit breaker 10%/30 min (regra da B3, InfoMoney); previsão de forte queda (Reuters, InfoMoney); Flávio pedirá anulação (Gazeta do Povo, Poder360). Neutro: sem cores de alta/baixa nos indicadores, sem adjetivo sobre o governo."
+  "verificacao": "Dólar futuro +10~11% perto de R$ 5,51–5,56 (Bloomberg Línea, Money Times, Mixvale); EWZ −19,6% (Mixvale) a −26% (Money Times) — por isso a faixa 20–26%; Ibovespa 205.082 em 23/10 (SpaceMoney, InfoMoney); circuit breaker 10%/30 min (regra da B3, InfoMoney); previsão de forte queda (Reuters, InfoMoney); Flávio pedirá anulação (Gazeta do Povo, Poder360). Neutro: sem cores de alta/baixa nos indicadores, sem adjetivo sobre o governo.",
+  "cta": {
+    "titulo": "Salve para acompanhar",
+    "subtitulo": "e siga para ver como o pregão terminou"
+  }
 }
