@@ -1,7 +1,7 @@
 {
   "slug": "2026-10-26-abertura-b3",
   "titulo_interno": "Abertura da B3 — circuit breaker",
-  "status": "agendado",
+  "status": "publicado",
   "formato": "noticia",
   "layout": "moderno",
   "pilar": "atualidade_brasil",
@@ -119,7 +119,8 @@
     "id": "406873993",
     "uuid": "5785826112798871150",
     "sha_slides": "51780ec9dfb5425fb4333ed79754dc7be095fdc6",
-    "planner_url": "https://app.metricool.com/planner/calendar?blogId=7647378&openWithPostUuid=5785826112798871150"
+    "planner_url": "https://app.metricool.com/planner/calendar?blogId=7647378&openWithPostUuid=5785826112798871150",
+    "instagram_url": "https://www.instagram.com/p/De9vTo8gKS6/"
   },
   "verificacao": "Circuit breaker na abertura (InfoMoney, Metrópoles, Money Times, BM&C, Trademap); dólar abertura +8,65% R$5,42 (SpaceMoney, Mixvale, Exame >R$5,40); máxima +12,25% R$5,6047 (Money Times, Mixvale, Bnews); sexta R$4,9931 e 205.082,56 pts; futuro −15% a −19% (Exame, Mixvale, InfoMoney); regra 15%→1h (InfoMoney). ~184,6 mil = −10% de 205.082 (gatilho).",
   "aprovado_em": "2026-10-26"
