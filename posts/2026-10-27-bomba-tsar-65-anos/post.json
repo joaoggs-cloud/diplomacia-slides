@@ -132,9 +132,10 @@
     },
     {
       "id": "img13",
-      "query": "File:Test Ban Treaty (1963) - last page.jpg",
+      "query": "Partial Test Ban Treaty signing Moscow 1963 Gromyko Rusk Home",
       "alternativas": [
-        "Partial Test Ban Treaty signatures 1963"
+        "Limited Test Ban Treaty 1963 signing Moscow",
+        "Partial Test Ban Treaty 1963"
       ]
     },
     {
@@ -241,19 +242,6 @@
       "id": "img12",
       "arquivo": "imagens/img12.jpg",
       "query": "File:NovayaZemlya.A2001222.0835.250m.jpg"
-    },
-    {
-      "titulo": "Test Ban Treaty (1963) - last page.jpg",
-      "autor": "Autor desconhecido",
-      "licenca": "Public domain",
-      "exige_credito": false,
-      "url_origem": "https://commons.wikimedia.org/wiki/File:Test_Ban_Treaty_(1963)_-_last_page.jpg",
-      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Test_Ban_Treaty_%281963%29_-_last_page.jpg/1920px-Test_Ban_Treaty_%281963%29_-_last_page.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "largura": 2323,
-      "altura": 3125,
-      "id": "img13",
-      "arquivo": "imagens/img13.jpg",
-      "query": "File:Test Ban Treaty (1963) - last page.jpg"
     },
     {
       "titulo": "Belushya guba novaya zemlya russia nasa photo.jpg",
