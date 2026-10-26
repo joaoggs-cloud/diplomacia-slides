@@ -87,8 +87,8 @@
       "grafico": {
         "tipo": "regua",
         "titulo": "Ibovespa (pontos)",
-        "min": 180000,
-        "max": 210000,
+        "min": 182000,
+        "max": 208000,
         "marcas": [
           {
             "valor": 184574,
@@ -175,9 +175,8 @@
     },
     {
       "id": "img02",
-      "query": "Tribunal Superior Eleitoral building Brasília",
+      "query": "File:Brazilian DRE voting machine for 2022 elections.jpg",
       "alternativas": [
-        "TSE sede Brasília",
         "Brazilian electronic voting machine"
       ]
     },
@@ -191,10 +190,10 @@
     },
     {
       "id": "img04",
-      "query": "New York Stock Exchange building facade",
+      "query": "File:NYSE127.jpg",
       "alternativas": [
-        "NYSE Wall Street flag",
-        "Wall Street New York"
+        "New York Stock Exchange facade American flag",
+        "Wall Street New York Stock Exchange day"
       ]
     },
     {
@@ -207,10 +206,10 @@
     },
     {
       "id": "img06",
-      "query": "stock market ticker screen trading",
+      "query": "File:Sao Paulo Stock Exchange.jpg",
       "alternativas": [
-        "stock exchange trading screen",
-        "financial chart screen"
+        "File:Bovespa.jpg",
+        "Brazilian real banknotes coins"
       ]
     },
     {
@@ -237,19 +236,6 @@
       "query": "File:Bovespa, São Paulo city downtown.jpg"
     },
     {
-      "titulo": "Tribunal Superior Eleitoral (TSE) aderiu, por mais um ano, à campanha nacional Setembro Amarelo (50327178677).jpg",
-      "autor": "TSE -  Tribunal Superior Eleitoral",
-      "licenca": "Public domain",
-      "exige_credito": false,
-      "url_origem": "https://commons.wikimedia.org/wiki/File:Tribunal_Superior_Eleitoral_(TSE)_aderiu,_por_mais_um_ano,_%C3%A0_campanha_nacional_Setembro_Amarelo_(50327178677).jpg",
-      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Tribunal_Superior_Eleitoral_%28TSE%29_aderiu%2C_por_mais_um_ano%2C_%C3%A0_campanha_nacional_Setembro_Amarelo_%2850327178677%29.jpg/1920px-Tribunal_Superior_Eleitoral_%28TSE%29_aderiu%2C_por_mais_um_ano%2C_%C3%A0_campanha_nacional_Setembro_Amarelo_%2850327178677%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "largura": 3000,
-      "altura": 1462,
-      "id": "img02",
-      "arquivo": "imagens/img02.jpg",
-      "query": "Tribunal Superior Eleitoral building Brasília"
-    },
-    {
       "titulo": "20 Brazilian Real banknote featuring a Golden Lion Tamarin monkey.jpg",
       "autor": "Oleg Yunakov",
       "licenca": "CC BY-SA 4.0",
@@ -263,19 +249,6 @@
       "query": "Brazilian real banknotes"
     },
     {
-      "titulo": "Sign of the New York Stock Exchange, Broad Street.jpg",
-      "autor": "Billie Grace Ward",
-      "licenca": "CC0",
-      "exige_credito": false,
-      "url_origem": "https://commons.wikimedia.org/wiki/File:Sign_of_the_New_York_Stock_Exchange,_Broad_Street.jpg",
-      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Sign_of_the_New_York_Stock_Exchange%2C_Broad_Street.jpg/1920px-Sign_of_the_New_York_Stock_Exchange%2C_Broad_Street.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "largura": 4240,
-      "altura": 2832,
-      "id": "img04",
-      "arquivo": "imagens/img04.jpg",
-      "query": "New York Stock Exchange building facade"
-    },
-    {
       "titulo": "Vista aérea sobre a região do MASP e Jardim Paulista, c. 1993.jpg",
       "autor": "Unstated",
       "licenca": "Public domain",
@@ -287,19 +260,6 @@
       "id": "img05",
       "arquivo": "imagens/img05.jpg",
       "query": "Avenida Brigadeiro Faria Lima São Paulo buildings"
-    },
-    {
-      "titulo": "Market centre in Tokyo stock exchange.jpg",
-      "autor": "ehnmark",
-      "licenca": "CC BY 2.0",
-      "exige_credito": true,
-      "url_origem": "https://commons.wikimedia.org/wiki/File:Market_centre_in_Tokyo_stock_exchange.jpg",
-      "url_download": "https://upload.wikimedia.org/wikipedia/commons/7/78/Market_centre_in_Tokyo_stock_exchange.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "largura": 1000,
-      "altura": 750,
-      "id": "img06",
-      "arquivo": "imagens/img06.jpg",
-      "query": "stock market ticker screen trading"
     },
     {
       "titulo": "Esplanada dos Ministérios, Brasília DF 04 2006.jpg",
