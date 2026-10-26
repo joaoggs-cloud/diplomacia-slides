@@ -76,7 +76,21 @@
       ]
     }
   ],
-  "imagens": [],
+  "imagens": [
+    {
+      "titulo": "Social Media App Icons On The Screen of A Smartphone.jpg",
+      "autor": "mikemacmarketing",
+      "licenca": "CC BY 2.0",
+      "exige_credito": true,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Social_Media_App_Icons_On_The_Screen_of_A_Smartphone.jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Social_Media_App_Icons_On_The_Screen_of_A_Smartphone.jpg/1920px-Social_Media_App_Icons_On_The_Screen_of_A_Smartphone.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 2000,
+      "altura": 1600,
+      "id": "img01",
+      "arquivo": "imagens/img01.jpg",
+      "query": "smartphone social media apps screen"
+    }
+  ],
   "agendamento": {
     "data_hora": "2026-10-26T14:30:00-03:00",
     "slot": "extra"
