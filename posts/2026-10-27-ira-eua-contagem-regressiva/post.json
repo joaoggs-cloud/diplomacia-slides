@@ -80,8 +80,8 @@
     "titulo": "Salve este post",
     "subtitulo": "e acompanhe a Diplomacia da Guerra"
   },
-  "legenda": "A guerra entre EUA e Irã está em pausa, mas sem acordo formal em vigor, segundo o CRS. 🌍\n\nEm 23 out, um memorando de inteligência citado por Axios e Washington Post disse que o Irã ampliou esforços contra pessoal americano. Ele não cita alvos nem se há ataque iminente, e as alegações não foram confirmadas de forma independente. Os EUA reduziram equipes em embaixadas da região. Trump, que prometeu não atacar antes das eleições de 3 nov, diz escolher entre acordo e nova ação. O Irã diz que a diplomacia segue aberta, por intermediários.\n\nAtualizado em 26 out 2026.\n\n👉 Arraste para o lado e veja o que é fato e o que é relato.\n\n💬 Na sua opinião, a diplomacia ainda tem espaço para evitar nova escalada na região?",
-  "primeiro_comentario": "Que notícia do Oriente Médio você gostaria de ver explicada aqui? Conta nos comentários 👇",
+  "legenda": "A guerra entre EUA e Irã está em pausa, mas sem acordo formal em vigor, segundo o CRS.\n\nEm 23 out, um memorando de inteligência citado por Axios e Washington Post disse que o Irã ampliou esforços contra pessoal americano. Ele não cita alvos nem se há ataque iminente, e as alegações não foram confirmadas de forma independente. Os EUA reduziram equipes em embaixadas da região. Trump, que prometeu não atacar antes das eleições de 3 nov, diz escolher entre acordo e nova ação. O Irã diz que a diplomacia segue aberta, por intermediários.\n\nAtualizado em 26 out 2026.\n\nArraste para o lado e veja o que é fato e o que é relato.\n\nNa sua opinião, a diplomacia ainda tem espaço para evitar nova escalada na região?",
+  "primeiro_comentario": "Que notícia do Oriente Médio você gostaria de ver explicada aqui? Conta nos comentários",
   "hashtags": [
     "#ira",
     "#estadosunidos",
@@ -192,8 +192,9 @@
     }
   ],
   "agendamento": {
-    "data_hora": "2026-10-27T06:01:00-03:00",
-    "slot": "06:01"
+    "data_hora": "2026-10-26T20:42:00-03:00",
+    "slot": "06:01",
+    "obs": "Antecipado a pedido do João (publicar agora, 26 out 20:33)."
   },
   "verificacao": "Pauta aponta que WebFetch falhou; fatos 1,2,3,6,8 e contexto do CRS conferidos por títulos/trechos. Revisor deve abrir as URLs.",
   "imagens": [
