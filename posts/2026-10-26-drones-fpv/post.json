@@ -1,7 +1,7 @@
 {
   "slug": "2026-10-26-drones-fpv",
   "titulo_interno": "A guerra dos drones de US$ 500",
-  "status": "agendado",
+  "status": "publicado",
   "pilar": "tecnologia_militar",
   "categoria": "Tecnologia militar · Ucrânia",
   "gancho_tipo": "contradicao_custo",
@@ -282,7 +282,8 @@
     "id": "406143594",
     "uuid": "-7372737287106903543",
     "sha_slides": "8693d14c3ccf721aa4f5f056aeb7a90d4d1cc5f8",
-    "planner_url": "https://app.metricool.com/planner/calendar?blogId=7647378&openWithPostUuid=-7372737287106903543"
+    "planner_url": "https://app.metricool.com/planner/calendar?blogId=7647378&openWithPostUuid=-7372737287106903543",
+    "instagram_url": "https://www.instagram.com/p/De8665FHDVR/"
   },
   "verificacao": "66% (Syrskyi, jan/2025) e estimativa de ~2/3 de Watling (RUSI). Teia de Aranha: alegação ucraniana (41) apresentada junto com a estimativa menor de fontes dos EUA (Reuters). Custos de FPV e fibra óptica conforme reportagens de defesa.",
   "aprovado_em": "2026-10-25",
