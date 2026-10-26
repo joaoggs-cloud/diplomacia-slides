@@ -53,26 +53,203 @@
   },
   "legenda": "Há 65 anos, a União Soviética explodiu uma bomba tão grande que o clarão foi visto a cerca de 1.000 km. E ela rendeu metade do que foi planejado.\n\nEm 30 de outubro de 1961, a Tsar Bomba (AN602) detonou sobre Novaya Zemlya, no Ártico soviético. O projeto previa cerca de 100 megatons, mas o rendimento oficial ficou em 50, depois de uma mudança para reduzir a chuva radioativa. Ainda assim, foi mais de 3.000 vezes a bomba de Hiroshima, e a maior explosão nuclear já feita.\n\nArraste para o lado e acompanhe a história da encomenda de Khrushchev ao tratado de 1963 que proibiu testes na atmosfera.\n\nVocê acha que demonstrações de força como essa ajudaram a evitar uma guerra ou só aumentaram o risco?",
   "primeiro_comentario": "Qual outro episódio da Guerra Fria você gostaria de ver aqui no perfil?",
-  "hashtags": ["#tsarbomba", "#guerrafria", "#urss", "#armasnucleares", "#historia", "#khrushchev"],
+  "hashtags": [
+    "#tsarbomba",
+    "#guerrafria",
+    "#urss",
+    "#armasnucleares",
+    "#historia",
+    "#khrushchev"
+  ],
   "alt_text": "Carrossel sobre a Bomba Tsar, o maior teste nuclear da história, em 30 out 1961, com fotos históricas.",
   "ia_gerado": false,
   "fontes": [
-    {"nome": "CTBTO — 30 October 1961: The Tsar Bomba", "url": "https://www.ctbto.org/specials/testing-times/30-october-1961-the-tsar-bomba"},
-    {"nome": "Atomic Heritage Foundation — Tsar Bomba", "url": "https://ahf.nuclearmuseum.org/ahf/history/tsar-bomba/"},
-    {"nome": "Nuclear Weapon Archive (Carey Sublette)", "url": "https://nuclearweaponarchive.org/Russia/TsarBomba.html"},
-    {"nome": "National WWII Museum — Tsar Bomba", "url": "https://www.nationalww2museum.org/war/articles/tsar-bomba-largest-atomic-test-world-history"},
-    {"nome": "RFE/RL — Sakharov 100", "url": "https://www.rferl.org/a/sakharov-100-human-rights-soviet-hydrogen-bomb/31264644.html"}
+    {
+      "nome": "CTBTO — 30 October 1961: The Tsar Bomba",
+      "url": "https://www.ctbto.org/specials/testing-times/30-october-1961-the-tsar-bomba"
+    },
+    {
+      "nome": "Atomic Heritage Foundation — Tsar Bomba",
+      "url": "https://ahf.nuclearmuseum.org/ahf/history/tsar-bomba/"
+    },
+    {
+      "nome": "Nuclear Weapon Archive (Carey Sublette)",
+      "url": "https://nuclearweaponarchive.org/Russia/TsarBomba.html"
+    },
+    {
+      "nome": "National WWII Museum — Tsar Bomba",
+      "url": "https://www.nationalww2museum.org/war/articles/tsar-bomba-largest-atomic-test-world-history"
+    },
+    {
+      "nome": "RFE/RL — Sakharov 100",
+      "url": "https://www.rferl.org/a/sakharov-100-human-rights-soviet-hydrogen-bomb/31264644.html"
+    }
   ],
   "busca_imagens": [
-    {"id": "img01", "pb": true, "query": "File:Tsar Bomba fireball 1961.jpg", "alternativas": ["Tsar Bomba mushroom cloud"]},
-    {"id": "img02", "query": "Nikita Khrushchev portrait", "alternativas": ["Khrushchev 1960"]},
-    {"id": "img03", "query": "File:Tsar Bomba.JPG"},
-    {"id": "img04", "query": "File:Tsar Bomba Revised.jpg", "alternativas": ["RDS-202 Sarov museum"]},
-    {"id": "img05", "query": "File:Tupolew Tu-95 Bear.JPG", "alternativas": ["Tupolev Tu-95 Bear"]},
-    {"id": "img06", "query": "File:Novaya Zemlya testing map.png", "alternativas": ["Novaya Zemlya"]},
-    {"id": "img07", "query": "File:Andrei Sakharov 1989 (cropped).jpg", "alternativas": ["Andrei Sakharov"]},
-    {"id": "img08", "query": "Partial Test Ban Treaty signing 1963", "alternativas": ["Gromyko Rusk Home signing Moscow 1963"]}
+    {
+      "id": "img01",
+      "pb": true,
+      "query": "File:Tsar Bomba fireball 1961.jpg",
+      "alternativas": [
+        "Tsar Bomba mushroom cloud"
+      ]
+    },
+    {
+      "id": "img02",
+      "query": "Nikita Khrushchev portrait",
+      "alternativas": [
+        "Khrushchev 1960"
+      ]
+    },
+    {
+      "id": "img03",
+      "query": "File:Tsar Bomba.JPG"
+    },
+    {
+      "id": "img04",
+      "query": "File:Tsar Bomba Revised.jpg",
+      "alternativas": [
+        "RDS-202 Sarov museum"
+      ]
+    },
+    {
+      "id": "img05",
+      "query": "File:Tupolew Tu-95 Bear.JPG",
+      "alternativas": [
+        "Tupolev Tu-95 Bear"
+      ]
+    },
+    {
+      "id": "img06",
+      "query": "File:Novaya Zemlya testing map.png",
+      "alternativas": [
+        "Novaya Zemlya"
+      ]
+    },
+    {
+      "id": "img07",
+      "query": "File:Andrei Sakharov 1989 (cropped).jpg",
+      "alternativas": [
+        "Andrei Sakharov"
+      ]
+    },
+    {
+      "id": "img08",
+      "query": "Partial Test Ban Treaty signing 1963",
+      "alternativas": [
+        "Gromyko Rusk Home signing Moscow 1963"
+      ]
+    }
   ],
-  "agendamento": {"data_hora": "2026-10-27T06:01:00-03:00", "slot": "06:01"},
-  "verificacao": "Fatos conforme pauta; rendimento 50 Mt atribuído ao valor oficial russo."
+  "agendamento": {
+    "data_hora": "2026-10-27T06:01:00-03:00",
+    "slot": "06:01"
+  },
+  "verificacao": "Fatos conforme pauta; rendimento 50 Mt atribuído ao valor oficial russo.",
+  "imagens": [
+    {
+      "titulo": "Tsar Bomba fireball 1961.jpg",
+      "autor": "Cover Images/The Ministry of Medium Machine Building of the USSR/Associated Press",
+      "licenca": "Public domain",
+      "exige_credito": false,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Tsar_Bomba_fireball_1961.jpg",
+      "url_download": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Tsar_Bomba_fireball_1961.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largura": 1344,
+      "altura": 1088,
+      "id": "img01",
+      "arquivo": "imagens/img01.jpg",
+      "query": "File:Tsar Bomba fireball 1961.jpg"
+    },
+    {
+      "titulo": "Nikita Khrushchev TASS Portrait Trim.jpg",
+      "autor": "G. Weil for TASS",
+      "licenca": "Public domain",
+      "exige_credito": false,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Nikita_Khrushchev_TASS_Portrait_Trim.jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Nikita_Khrushchev_TASS_Portrait_Trim.jpg/1920px-Nikita_Khrushchev_TASS_Portrait_Trim.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 3711,
+      "altura": 5078,
+      "id": "img02",
+      "arquivo": "imagens/img02.jpg",
+      "query": "Nikita Khrushchev portrait"
+    },
+    {
+      "titulo": "Tsar Bomba.JPG",
+      "autor": "Autor desconhecido",
+      "licenca": "CC BY-SA 3.0",
+      "exige_credito": true,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Tsar_Bomba.JPG",
+      "url_download": "https://upload.wikimedia.org/wikipedia/commons/2/21/Tsar_Bomba.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largura": 1024,
+      "altura": 680,
+      "id": "img03",
+      "arquivo": "imagens/img03.jpg",
+      "query": "File:Tsar Bomba.JPG"
+    },
+    {
+      "titulo": "Tsar Bomba Revised.jpg",
+      "autor": "User:Croquant with modifications by User:Hex",
+      "licenca": "CC BY-SA 3.0",
+      "exige_credito": true,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Tsar_Bomba_Revised.jpg",
+      "url_download": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Tsar_Bomba_Revised.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largura": 1024,
+      "altura": 680,
+      "id": "img04",
+      "arquivo": "imagens/img04.jpg",
+      "query": "File:Tsar Bomba Revised.jpg"
+    },
+    {
+      "titulo": "Tupolew Tu-95 Bear.JPG",
+      "autor": "Bernhard Gröhl",
+      "licenca": "CC BY 2.5",
+      "exige_credito": true,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Tupolew_Tu-95_Bear.JPG",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Tupolew_Tu-95_Bear.JPG/1920px-Tupolew_Tu-95_Bear.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 3888,
+      "altura": 2592,
+      "id": "img05",
+      "arquivo": "imagens/img05.jpg",
+      "query": "File:Tupolew Tu-95 Bear.JPG"
+    },
+    {
+      "titulo": "Novaya Zemlya testing map.png",
+      "autor": "Autor desconhecido",
+      "licenca": "Public domain",
+      "exige_credito": false,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Novaya_Zemlya_testing_map.png",
+      "url_download": "https://upload.wikimedia.org/wikipedia/commons/4/48/Novaya_Zemlya_testing_map.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largura": 1152,
+      "altura": 1692,
+      "id": "img06",
+      "arquivo": "imagens/img06.jpg",
+      "query": "File:Novaya Zemlya testing map.png"
+    },
+    {
+      "titulo": "Andrei Sakharov 1989 (cropped).jpg",
+      "autor": "Anefo / Croes, R.C.",
+      "licenca": "CC0",
+      "exige_credito": false,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Andrei_Sakharov_1989_(cropped).jpg",
+      "url_download": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Andrei_Sakharov_1989_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largura": 850,
+      "altura": 1062,
+      "id": "img07",
+      "arquivo": "imagens/img07.jpg",
+      "query": "File:Andrei Sakharov 1989 (cropped).jpg"
+    },
+    {
+      "titulo": "Signing of the Nuclear Test Ban Treaty- Photographing signed Treaty. Photographers, including Captain Cecil... - NARA - 194231.jpg",
+      "autor": "Robert LeRoy Knudsen",
+      "licenca": "Public domain",
+      "exige_credito": false,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Signing_of_the_Nuclear_Test_Ban_Treaty-_Photographing_signed_Treaty._Photographers,_including_Captain_Cecil..._-_NARA_-_194231.jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Signing_of_the_Nuclear_Test_Ban_Treaty-_Photographing_signed_Treaty._Photographers%2C_including_Captain_Cecil..._-_NARA_-_194231.jpg/1920px-Signing_of_the_Nuclear_Test_Ban_Treaty-_Photographing_signed_Treaty._Photographers%2C_including_Captain_Cecil..._-_NARA_-_194231.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 2700,
+      "altura": 2700,
+      "id": "img08",
+      "arquivo": "imagens/img08.jpg",
+      "query": "Partial Test Ban Treaty signing 1963"
+    }
+  ]
 }
