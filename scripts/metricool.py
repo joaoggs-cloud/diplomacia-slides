@@ -73,7 +73,9 @@ def avancar_slot():
 
 def creditos(post):
     if post.get("formato") == "noticia":
-        usadas = {post["noticia"].get("imagem"), *(c.get("foto") for c in post["noticia"].get("placar", []))}
+        n = post["noticia"]
+        pessoas = n.get("placar", []) + [c for c in (n.get("vencedor"), n.get("segundo")) if c]
+        usadas = {n.get("imagem"), *(c.get("foto") for c in pessoas)}
     else:
         usadas = {post["capa"]["imagem"], *(s.get("imagem") for s in post["slides"])}
     linhas = []
@@ -92,6 +94,10 @@ def textos_alternativos(post, n):
     """Um texto alternativo por slide (acessibilidade): capa, títulos e CTA."""
     if post.get("formato") == "noticia":
         n = post["noticia"]
+        if n.get("tema") == "vencedor":
+            v, s2 = n["vencedor"], n["segundo"]
+            return [f"{v['nome']} ({v.get('partido', '')}) eleito presidente com {v['valor']} dos votos válidos; "
+                    f"{s2['nome']} ({s2.get('partido', '')}) {s2['valor']}. {n.get('rodape', '')}."]
         placar = "; ".join(f"{c['nome']} ({c.get('partido', '')}) {c['valor']}" for c in n.get("placar", []))
         return [re.sub(r"<[^>]+>", "", f"{n['titulo_html']}. {placar}. {n.get('subtitulo_html', '')}")]
     capa = re.sub(r"<[^>]+>", "", post["capa"]["titulo_html"])

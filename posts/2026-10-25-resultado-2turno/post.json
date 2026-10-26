@@ -1,7 +1,7 @@
 {
   "slug": "2026-10-25-resultado-2turno",
   "titulo_interno": "Resultado oficial do 2º turno",
-  "status": "agendado",
+  "status": "publicado",
   "formato": "noticia",
   "pilar": "atualidade_brasil",
   "usar_hashtags_base": false,
@@ -100,7 +100,8 @@
   "metricool": {
     "id": "406110758",
     "uuid": "4197827828709736636",
-    "sha_slides": "e1edc7e004316567608d0a2de49c4d28fe355964"
+    "sha_slides": "e1edc7e004316567608d0a2de49c4d28fe355964",
+    "instagram_url": "https://www.instagram.com/p/De7-5sJjE6j/"
   },
   "primeiro_comentario": ""
 }
