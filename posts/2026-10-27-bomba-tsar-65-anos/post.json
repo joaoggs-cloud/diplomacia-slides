@@ -1,0 +1,78 @@
+{
+  "slug": "2026-10-27-bomba-tsar-65-anos",
+  "titulo_interno": "Bomba Tsar, 65 anos do maior teste nuclear",
+  "status": "rascunho",
+  "pilar": "fatos_rapidos",
+  "categoria": "Curiosidades · Guerra Fria",
+  "gancho_tipo": "efemeride_numero",
+  "capa": {
+    "imagem": "img01",
+    "titulo_html": "A bomba que fez o <span class=\"hl\">clarão</span> aparecer a <span class=\"hl2\">1.000 km</span>",
+    "gancho": "Há 65 anos, a União Soviética testou a maior arma nuclear da história. E ela era metade do planejado."
+  },
+  "slides": [
+    {
+      "imagem": "img02",
+      "texto_html": "Em jul 1961, Nikita Khrushchev mandou projetar uma superbomba de cerca de <strong>100 megatons</strong>. O prazo era apertado: o teste devia coincidir com o 22º Congresso do Partido Comunista, em outubro, na retomada dos testes nucleares soviéticos."
+    },
+    {
+      "imagem": "img03",
+      "texto_html": "Khrushchev a chamava de <em>“mãe de Kuzka”</em>, alusão a um ditado russo que funciona como ameaça. O nome oficial era <strong>AN602</strong>. No Ocidente, ficou conhecida como Tsar Bomba, o “Rei das Bombas”."
+    },
+    {
+      "imagem": "img04",
+      "texto_html": "Mas o projeto encolheu. Para reduzir a chuva radioativa, trocaram o invólucro de urânio-238 do último estágio por chumbo. O rendimento caiu para <strong>cerca de 50 megatons</strong>, valor oficial russo."
+    },
+    {
+      "imagem": "img05",
+      "texto_html": "Com cerca de 27 toneladas, a bomba não cabia em um avião comum. Um Tu-95 modificado, pintado de branco para refletir o calor, a soltou a cerca de 10.500 m. Um paraquedas a freou até cerca de 4.000 m, para dar tempo de fuga."
+    },
+    {
+      "imagem": "img01",
+      "texto_html": "Em <strong>30 out 1961</strong>, por volta das 11h32 (horário local), ela explodiu sobre Novaya Zemlya, no Ártico soviético. Pelo valor oficial, a energia foi <em>mais de 3.000 vezes</em> a da bomba de Hiroshima."
+    },
+    {
+      "imagem": "img06",
+      "texto_html": "O clarão foi visto a cerca de 1.000 km. A nuvem passou de 60 km de altura, perto de sete Everests empilhados. Janelas quebraram a centenas de quilômetros e, segundo a Atomic Heritage Foundation, sensores registraram a onda depois de três voltas à Terra."
+    },
+    {
+      "imagem": "img08",
+      "texto_html": "A Tsar Bomba nunca foi usada como arma: grande e pesada demais para ser prática, serviu de demonstração política. Em <strong>5 ago 1963</strong>, EUA, URSS e Reino Unido assinaram o tratado que proíbe testes nucleares na atmosfera."
+    },
+    {
+      "imagem": "img07",
+      "texto_html": "Um dos projetistas, o físico <strong>Andrei Sakharov</strong>, passou depois a defender limites aos testes nucleares e ganhou o <em>Nobel da Paz</em> em 1975.",
+      "factbox": {
+        "texto": "Rendimento oficial russo: 50 megatons. Hiroshima: cerca de 15 quilotons."
+      }
+    }
+  ],
+  "cta": {
+    "titulo": "Salve este post",
+    "subtitulo": "e compartilhe com quem curte história"
+  },
+  "legenda": "Há 65 anos, a União Soviética explodiu uma bomba tão grande que o clarão foi visto a cerca de 1.000 km. E ela rendeu metade do que foi planejado.\n\nEm 30 de outubro de 1961, a Tsar Bomba (AN602) detonou sobre Novaya Zemlya, no Ártico soviético. O projeto previa cerca de 100 megatons, mas o rendimento oficial ficou em 50, depois de uma mudança para reduzir a chuva radioativa. Ainda assim, foi mais de 3.000 vezes a bomba de Hiroshima, e a maior explosão nuclear já feita.\n\nArraste para o lado e acompanhe a história da encomenda de Khrushchev ao tratado de 1963 que proibiu testes na atmosfera.\n\nVocê acha que demonstrações de força como essa ajudaram a evitar uma guerra ou só aumentaram o risco?",
+  "primeiro_comentario": "Qual outro episódio da Guerra Fria você gostaria de ver aqui no perfil?",
+  "hashtags": ["#tsarbomba", "#guerrafria", "#urss", "#armasnucleares", "#historia", "#khrushchev"],
+  "alt_text": "Carrossel sobre a Bomba Tsar, o maior teste nuclear da história, em 30 out 1961, com fotos históricas.",
+  "ia_gerado": false,
+  "fontes": [
+    {"nome": "CTBTO — 30 October 1961: The Tsar Bomba", "url": "https://www.ctbto.org/specials/testing-times/30-october-1961-the-tsar-bomba"},
+    {"nome": "Atomic Heritage Foundation — Tsar Bomba", "url": "https://ahf.nuclearmuseum.org/ahf/history/tsar-bomba/"},
+    {"nome": "Nuclear Weapon Archive (Carey Sublette)", "url": "https://nuclearweaponarchive.org/Russia/TsarBomba.html"},
+    {"nome": "National WWII Museum — Tsar Bomba", "url": "https://www.nationalww2museum.org/war/articles/tsar-bomba-largest-atomic-test-world-history"},
+    {"nome": "RFE/RL — Sakharov 100", "url": "https://www.rferl.org/a/sakharov-100-human-rights-soviet-hydrogen-bomb/31264644.html"}
+  ],
+  "busca_imagens": [
+    {"id": "img01", "pb": true, "query": "File:Tsar Bomba fireball 1961.jpg", "alternativas": ["Tsar Bomba mushroom cloud"]},
+    {"id": "img02", "query": "Nikita Khrushchev portrait", "alternativas": ["Khrushchev 1960"]},
+    {"id": "img03", "query": "File:Tsar Bomba.JPG"},
+    {"id": "img04", "query": "File:Tsar Bomba Revised.jpg", "alternativas": ["RDS-202 Sarov museum"]},
+    {"id": "img05", "query": "File:Tupolew Tu-95 Bear.JPG", "alternativas": ["Tupolev Tu-95 Bear"]},
+    {"id": "img06", "query": "File:Novaya Zemlya testing map.png", "alternativas": ["Novaya Zemlya"]},
+    {"id": "img07", "query": "File:Andrei Sakharov 1989 (cropped).jpg", "alternativas": ["Andrei Sakharov"]},
+    {"id": "img08", "query": "Partial Test Ban Treaty signing 1963", "alternativas": ["Gromyko Rusk Home signing Moscow 1963"]}
+  ],
+  "agendamento": {"data_hora": "2026-10-27T06:01:00-03:00", "slot": "06:01"},
+  "verificacao": "Fatos conforme pauta; rendimento 50 Mt atribuído ao valor oficial russo."
+}
