@@ -78,6 +78,8 @@ referência dos agentes.
    todo dia e é essa regra que mantém o ritmo na frequência definida. O João
    quer **um post por dia**: `proximo-horario` sempre preenche primeiro o dia
    vazio mais próximo (inclusive hoje, se faltarem 4 h ou mais para o slot).
+   O horário é fixo em **06:01** (decisão do João): a rotina das 8:47 prepara o
+   post do dia seguinte, e ele precisa ser aprovado antes das 06:01.
 2. **Escolher o pilar** sorteando pelos `pesos_pilares`, evitando repetir o
    pilar dos dois últimos posts. Não repita tema dos últimos 30 dias.
 3. **Pesquisar.** Use WebSearch (modo `extended` para atualidades). Para
@@ -175,9 +177,12 @@ Coordenador: delegue tudo ao `analista` e repasse o resumo ao João.
 4. `python3 scripts/analise.py analytics/dados/posts-<data>.json --aplicar`
    (gera `analytics/relatorio-<data>.md`, grava `metricas.json` em cada post e
    ajusta melhor slot, fase e pesos dos pilares).
-5. `getBestTimeToPostByNetwork` (instagram, próximos 7 dias). Quando houver
-   valores > 0, se o melhor horário do Metricool não estiver entre os slots,
-   **substitua o slot de pior desempenho** por ele (a exploração continua).
+5. `getBestTimeToPostByNetwork` (instagram, próximos 7 dias). **Horário fixo:**
+   o João definiu que os posts diários saem às **06:01** (`horarios.fixo = true`).
+   Não altere `horarios` sozinho: se os dados (ou o melhor horário do Metricool)
+   indicarem outro horário melhor, **recomende** no resumo, com os números, e só
+   mude quando o João decidir. Posts extras de notícia (formato notícia) saem na
+   hora em que o fato acontece.
 6. **Frequência** (decida e registre em `historico_ajustes`):
    - alcance médio por post estável ou subindo e posts aprovados em dia → +1
      post/semana (máx. 7);

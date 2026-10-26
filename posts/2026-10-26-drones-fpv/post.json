@@ -60,7 +60,7 @@
       "texto_html": "Para escapar da interferência, surgiram os <strong>drones de fibra óptica</strong>: o comando viaja por um cabo fino que se desenrola durante o voo, por quilômetros. Não há sinal de rádio para bloquear.",
       "factbox": {
         "label": "O preço",
-        "texto": "Custam cerca de US$ 800, o dobro de um FPV comum, e o carretel de cabo pesa e reduz a carga explosiva."
+        "texto": "Custam mais que um FPV comum, e o carretel de cabo pesa e reduz a carga explosiva."
       }
     },
     {
@@ -70,7 +70,7 @@
       "texto_html": "A Ucrânia escondeu 117 drones FPV em caminhões e os lançou perto de bases aéreas no interior da Rússia, atingindo <em>bombardeiros estratégicos</em> estacionados.",
       "factbox": {
         "label": "Quantos?",
-        "texto": "Kiev disse ter atingido 41 aeronaves. Fontes dos EUA ouvidas pela Reuters falaram em até 20 atingidas e cerca de 10 destruídas."
+        "texto": "Kiev disse ter atingido 41 aeronaves. Fontes dos EUA ouvidas pela Reuters falaram em até 20 atingidas e cerca de 10 destruídas. Na foto: um Tu-95MS, modelo de bombardeiro atingido na operação (imagem ilustrativa)."
       }
     }
   ],
@@ -161,10 +161,10 @@
     },
     {
       "id": "img08",
-      "query": "Tupolev Tu-95MS bomber",
+      "query": "File:Tupolev Tu-95MS at the MAKS-2013 (02).jpg",
       "alternativas": [
-        "Tu-95 Bear bomber Russian Air Force",
-        "Tupolev Tu-22M3"
+        "File:Tupolev Tu-95MS at the MAKS-2013.jpg",
+        "incategory:\"Tupolev Tu-95MS\""
       ]
     }
   ],
@@ -259,24 +259,11 @@
       "id": "img07",
       "arquivo": "imagens/img07.jpg",
       "query": "File:UA fiber-optic FPV drone 01.webp"
-    },
-    {
-      "titulo": "McDonnell Douglas F-15C Eagle of the 12th FS escorts a Russian Tupolev Tu-95MS off Alaska (USA), 28 September 2006 (060928-F-0000X-104).jpg",
-      "autor": "U.S. Air Force photo",
-      "licenca": "Public domain",
-      "exige_credito": false,
-      "url_origem": "https://commons.wikimedia.org/wiki/File:McDonnell_Douglas_F-15C_Eagle_of_the_12th_FS_escorts_a_Russian_Tupolev_Tu-95MS_off_Alaska_(USA),_28_September_2006_(060928-F-0000X-104).jpg",
-      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/McDonnell_Douglas_F-15C_Eagle_of_the_12th_FS_escorts_a_Russian_Tupolev_Tu-95MS_off_Alaska_%28USA%29%2C_28_September_2006_%28060928-F-0000X-104%29.jpg/1920px-McDonnell_Douglas_F-15C_Eagle_of_the_12th_FS_escorts_a_Russian_Tupolev_Tu-95MS_off_Alaska_%28USA%29%2C_28_September_2006_%28060928-F-0000X-104%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "largura": 3000,
-      "altura": 1489,
-      "id": "img08",
-      "arquivo": "imagens/img08.jpg",
-      "query": "Tupolev Tu-95MS bomber"
     }
   ],
   "agendamento": {
-    "data_hora": "2026-10-26T18:40:00-03:00",
-    "slot": "18:40"
+    "data_hora": "2026-10-26T06:01:00-03:00",
+    "slot": "06:01"
   },
   "metricool": {
     "id": "406074074",
@@ -285,5 +272,8 @@
     "planner_url": "https://app.metricool.com/planner/calendar?blogId=7647378&openWithPostUuid=-7372737287106903543"
   },
   "verificacao": "66% (Syrskyi, jan/2025) e estimativa de ~2/3 de Watling (RUSI). Teia de Aranha: alegação ucraniana (41) apresentada junto com a estimativa menor de fontes dos EUA (Reuters). Custos de FPV e fibra óptica conforme reportagens de defesa.",
-  "aprovado_em": "2026-10-25"
+  "aprovado_em": "2026-10-25",
+  "ajustes": [
+    "2026-10-25: foto do slide 8 trocada (revisor: Tu-95 escoltado por F-15 dos EUA sugeria envolvimento americano); custo do drone de fibra suavizado; horário movido para 06:01 a pedido do João."
+  ]
 }

@@ -26,16 +26,15 @@
     "sab",
     "dom"
   ],
-  "fase": "exploracao",
+  "fase": "horario_fixo",
   "horarios": {
-    "_sobre": "Na fase de exploração os slots são rotacionados para medir qual rende mais. Na fase de otimização usa-se 'melhor_slot' em ~70% dos posts e os demais continuam testando.",
+    "_sobre": "Horário fixo definido pelo João. A análise semanal só RECOMENDA mudanças de horário; quem decide é o João.",
+    "fixo": true,
     "slots": [
-      "12:15",
-      "18:40",
-      "20:50"
+      "06:01"
     ],
-    "melhor_slot": null,
-    "proximo_slot_indice": 2
+    "melhor_slot": "06:01",
+    "proximo_slot_indice": 0
   },
   "formatos": {
     "carrossel": {
@@ -74,6 +73,10 @@
     {
       "data": "2026-10-25",
       "motivo": "Pedido do João: um post por dia. Frequência 7/semana, todos os dias; a análise semanal não pode reduzir abaixo de frequencia_minima (7)."
+    },
+    {
+      "data": "2026-10-25",
+      "motivo": "Pedido do João: todos os posts diários às 06:01. Rotação de horários suspensa; mudanças de horário só com decisão do João a partir das recomendações da análise semanal."
     }
   ],
   "frequencia_minima": 7
