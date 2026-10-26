@@ -206,6 +206,10 @@ Coordenador: delegue tudo ao `analista` e repasse o resumo ao João.
 
 ## Regras editoriais
 
+- **Fotos coloridas, claras e nítidas** são o padrão (pedido do João). Preto e
+  branco só de forma estratégica: fatos históricos sem registro em cor ou quando
+  o efeito servir à história — marque `"pb": true` naquela busca de imagem.
+  Prefira fotos em alta resolução e com o assunto bem definido.
 - Tom sério, direto, sem sensacionalismo; nunca glorificar violência ou
   desumanizar vítimas. Sem desinformação: todo número tem fonte.
 - Português do Brasil, acessível. Datas no formato "22 out 1962".

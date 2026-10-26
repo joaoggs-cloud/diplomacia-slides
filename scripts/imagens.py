@@ -102,6 +102,17 @@ def buscar(consulta, limite=20):
     return candidatos
 
 
+def colorido(caminho):
+    """Índice de colorido (Hasler & Süsstrunk): < 12 é praticamente preto e branco."""
+    import numpy as np
+    img = Image.open(caminho).convert("RGB")
+    img.thumbnail((400, 400))
+    a = np.asarray(img, dtype=np.float32)
+    rg = a[..., 0] - a[..., 1]
+    yb = 0.5 * (a[..., 0] + a[..., 1]) - a[..., 2]
+    return float(np.hypot(rg.std(), yb.std()) + 0.3 * np.hypot(rg.mean(), yb.mean()))
+
+
 def baixar(url, destino):
     """Salva sempre como JPEG (o Commons pode devolver PNG ou WebP)."""
     r = requests.get(url, headers={"User-Agent": UA}, timeout=60)
@@ -147,9 +158,20 @@ def main():
             print(f"[{img_id}] nenhuma imagem livre para: {pedido['query']}", file=sys.stderr)
             continue
 
-        escolhida = candidatos[0]
+        # Preferência por foto colorida: P&B só quando o pedido permitir ("pb": true),
+        # por exemplo em fatos históricos sem registro em cor ou como escolha estética.
         arquivo = f"{img_id}.jpg"
-        baixar(escolhida["url_download"], pasta / arquivo)
+        escolhida = None
+        for c in candidatos[:6]:
+            baixar(c["url_download"], pasta / arquivo)
+            if pedido.get("pb") or colorido(pasta / arquivo) >= 12:
+                escolhida = c
+                break
+        if escolhida is None:
+            escolhida = candidatos[0]
+            baixar(escolhida["url_download"], pasta / arquivo)
+            print(f"[{img_id}] só achei P&B — considere outra busca ou marque \"pb\": true", file=sys.stderr)
+        candidatos = [escolhida] + [c for c in candidatos if c is not escolhida]
         usadas.add(escolhida["url_origem"])
         registro = {k: v for k, v in escolhida.items() if not k.startswith("_")}
         registro.update({"id": img_id, "arquivo": f"imagens/{arquivo}", "query": pedido["query"]})

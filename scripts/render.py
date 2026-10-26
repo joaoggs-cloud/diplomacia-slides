@@ -27,11 +27,17 @@ TEMPLATE = (RAIZ / "scripts" / "template.html").read_text(encoding="utf-8")
 TEMPLATE_MODERNO = (RAIZ / "scripts" / "template_moderno.html").read_text(encoding="utf-8")
 
 
-def data_uri(caminho, largura_max=1400):
-    """Embute a foto em base64, reduzida para o HTML não ficar gigante."""
+def data_uri(caminho, largura_max=1400, realce=False):
+    """Embute a foto em base64, reduzida para o HTML não ficar gigante.
+    `realce` dá um leve reforço de cor, contraste e nitidez (layout moderno)."""
     img = Image.open(caminho).convert("RGB")
     if img.width > largura_max:
         img = img.resize((largura_max, round(img.height * largura_max / img.width)), Image.LANCZOS)
+    if realce:
+        from PIL import ImageEnhance, ImageFilter
+        img = ImageEnhance.Color(img).enhance(1.15)
+        img = ImageEnhance.Contrast(img).enhance(1.06)
+        img = img.filter(ImageFilter.UnsharpMask(radius=1.6, percent=70, threshold=2))
     buf = io.BytesIO()
     img.save(buf, format="JPEG", quality=88)
     return "data:image/jpeg;base64," + base64.b64encode(buf.getvalue()).decode()
@@ -162,7 +168,7 @@ def montar_moderno(post, post_dir):
         if not img:
             return '<div class="fallback"></div>', None
         pos = f' style="object-position:{escape(foco)}"' if foco else ""
-        return f'<img class="bg" src="{data_uri(post_dir / img["arquivo"], 1400)}"{pos} alt="">', img
+        return f'<img class="bg" src="{data_uri(post_dir / img["arquivo"], 1600, realce=True)}"{pos} alt="">', img
 
     def rodape(img, direita=""):
         cred = escape(credito_curto(img)).replace("Foto:", "<b>Foto:</b>", 1)
