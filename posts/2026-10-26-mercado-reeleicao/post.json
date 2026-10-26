@@ -1,7 +1,7 @@
 {
   "slug": "2026-10-26-mercado-reeleicao",
   "titulo_interno": "Mercado reage à reeleição — carrossel",
-  "status": "aguardando_aprovacao",
+  "status": "agendado",
   "layout": "moderno",
   "pilar": "atualidade_brasil",
   "usar_hashtags_base": false,
@@ -315,11 +315,11 @@
     }
   ],
   "agendamento": {
-    "data_hora": "2026-10-26T09:30:00-03:00",
+    "data_hora": "2026-10-26T09:04:00-03:00",
     "slot": "extra"
   },
   "metricool": {
-    "id": "406532309",
+    "id": "406543780",
     "uuid": "8931223899829455897",
     "sha_slides": "e97832ba1e04fc858622b4d3bb2f520e694b6691",
     "planner_url": "https://app.metricool.com/planner/calendar?blogId=7647378&openWithPostUuid=8931223899829455897"
@@ -328,5 +328,6 @@
   "cta": {
     "titulo": "Salve para acompanhar",
     "subtitulo": "e siga para ver como o pregão terminou"
-  }
+  },
+  "aprovado_em": "2026-10-26"
 }
