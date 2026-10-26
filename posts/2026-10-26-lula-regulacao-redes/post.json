@@ -1,0 +1,86 @@
+{
+  "slug": "2026-10-26-lula-regulacao-redes",
+  "titulo_interno": "Lula: regular as redes será prioridade",
+  "status": "rascunho",
+  "formato": "noticia",
+  "layout": "moderno",
+  "pilar": "atualidade_brasil",
+  "usar_hashtags_base": false,
+  "categoria": "Política · Redes sociais",
+  "capa": {
+    "imagem": "img01",
+    "titulo_html": "Lula diz que <span class=\"hl2\">regular as redes</span> será prioridade do novo mandato",
+    "gancho": "O anúncio foi feito no primeiro discurso após a reeleição, num hotel em São Paulo, na noite de domingo (25).",
+    "graficos": [
+      {
+        "tipo": "numero",
+        "titulo": "Quando",
+        "texto": "~22h20",
+        "nota": "Domingo, 25 de outubro"
+      },
+      {
+        "tipo": "numero",
+        "titulo": "Onde",
+        "texto": "São Paulo",
+        "nota": "Hotel, antes de ir à Av. Paulista"
+      },
+      {
+        "tipo": "numero",
+        "titulo": "Posse",
+        "texto": "5 jan 2027",
+        "nota": "Início do 4º mandato"
+      }
+    ]
+  },
+  "slides": [],
+  "legenda": "🗣️ LULA: REGULAR AS REDES SERÁ PRIORIDADE\n\nNo primeiro discurso após a reeleição, num hotel em São Paulo, por volta das 22h20 de domingo (25), antes de seguir para a Avenida Paulista, o presidente reeleito Lula (PT) afirmou que a regulação das plataformas digitais será prioridade do novo mandato.\n\n“Vamos ter que regular as plataformas digitais”, disse. “O crime no mundo digital tem que ser tratado igual ao crime na vida real.”\n\nLula também criticou grandes empresas de tecnologia, que, segundo ele, não pagam impostos no Brasil e tentam influenciar eleições. Até agora, não foram apresentados projeto, cronograma ou detalhes das regras.\n\n📌 Contexto: o PL 2630 (\"PL das Fake News\") passou no Senado em 2020, travou na Câmara e foi arquivado em 2024. Hoje valem um decreto de maio de 2026 e os parâmetros definidos pelo STF.\n\n📋 Outros pontos do discurso: mais participação popular nas decisões do governo e posse marcada para 5 de janeiro.\n\n💬 Você acha que as redes sociais devem ter regras próprias? Comente com respeito.",
+  "primeiro_comentario": "",
+  "hashtags": [
+    "#redessociais",
+    "#regulacao",
+    "#bigtechs",
+    "#lula",
+    "#eleicoes2026",
+    "#politica",
+    "#diplomaciadaguerra"
+  ],
+  "fontes": [
+    {
+      "nome": "Gazeta do Povo",
+      "url": "https://www.gazetadopovo.com.br/eleicoes/2026/lula-reforca-intencao-de-regular-redes-sociais-e-critica-big-techs-apos-vitoria/"
+    },
+    {
+      "nome": "Metrópoles",
+      "url": "https://www.metropoles.com/brasil/lula-fala-em-regular-redes-e-que-eleicao-foi-derrota-para-o-negacionismo"
+    },
+    {
+      "nome": "Poder360",
+      "url": "https://www.poder360.com.br/poder-eleicoes-2026/leia-a-integra-do-pronunciamento-da-vitoria-de-lula-2/"
+    },
+    {
+      "nome": "O Povo",
+      "url": "https://www.opovo.com.br/noticias/politica/eleicoes/2026/10/25/em-1-discurso-lula-define-vitoria-como-derrota-do-negacionismo.html"
+    },
+    {
+      "nome": "Jornal de Brasília",
+      "url": "https://jornaldebrasilia.com.br/noticias/politica-e-poder/lula-anuncia-regulacao-de-plataformas-digitais-apos-eleicoes/"
+    }
+  ],
+  "busca_imagens": [
+    {
+      "id": "img01",
+      "query": "smartphone social media apps screen",
+      "alternativas": [
+        "social media icons smartphone hand",
+        "mobile phone apps colorful"
+      ]
+    }
+  ],
+  "imagens": [],
+  "agendamento": {
+    "data_hora": "2026-10-26T14:30:00-03:00",
+    "slot": "extra"
+  },
+  "metricool": {},
+  "verificacao": "Local hotel em SP antes da Paulista (Poder360, O Povo, Gazeta); ~22h20 (Gazeta/SpaceMoney); frases (Gazeta, Metrópoles); sem projeto/cronograma (Jornal de Brasília); PL 2630 arquivado 2024 e decreto maio/2026 + STF (Gazeta, Tribuna de Jundiaí); participação popular (Poder360, SpaceMoney); posse 5 jan (Poder360). Foto neutra de smartphone em vez do retrato do presidente."
+}
