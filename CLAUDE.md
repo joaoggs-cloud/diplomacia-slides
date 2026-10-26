@@ -37,7 +37,38 @@ sistema vive no repositório.
 
 ---
 
+## Equipe de agentes
+
+O trabalho é dividido entre agentes especializados (`.claude/agents/`). A sessão
+principal é o **coordenador**: decide o que fazer, chama cada agente com a ferramenta
+Agent (`subagent_type` = nome do agente), passa o resultado de um para o outro e é a
+única que fala com o João.
+
+| Agente | Faz | Não faz |
+|---|---|---|
+| `pesquisador` | escolhe a pauta, levanta fatos com 2 fontes, sugere imagens → `pauta.md` | slides, Metricool |
+| `roteirista` | escreve `post.json`, busca imagens, renderiza e ajusta o visual | checar fatos novos, publicar |
+| `revisor` | confere fatos, isenção, licenças, texto e visual → `revisao.md` (APROVADO/REPROVADO) | editar, publicar |
+| `publicador` | rascunho no Metricool; agenda só com aprovação do João; confirma publicação | escolher conteúdo |
+| `analista` | métricas, relatório semanal, ajustes de estratégia | criar ou publicar posts |
+
+Fluxo da Rotina A: **pesquisador → roteirista → revisor** (se REPROVADO, volta ao
+roteirista com a correção; no máximo 2 rodadas; se ainda reprovar, pare e avise o João)
+**→ publicador (rascunho) → coordenador pede aprovação ao João → publicador agenda**.
+Rotina C: **analista**.
+
+Se o `subagent_type` ainda não estiver registrado (os agentes carregam quando a sessão
+inicia), chame `subagent_type: "general-purpose"` com o prompt começando por
+"Você é o agente <nome>. Leia `.claude/agents/<nome>.md` e siga essas instruções à
+risca." seguido da tarefa. Se nem isso estiver disponível, o coordenador executa os
+passos ele mesmo, seguindo as seções abaixo.
+
 ## Rotina A — Produzir o próximo post
+
+Coordenador: faça o passo 1 (decidir se produz e obter `proximo-horario`); delegue
+2–3 ao `pesquisador`, 4–7 ao `roteirista`, a revisão ao `revisor` e o 8 ao
+`publicador`; o passo 9 é sempre do coordenador. Os passos abaixo são o manual de
+referência dos agentes.
 
 1. **Preparar.** `git pull`. Leia `config/estrategia.json` e os `post.json` dos
    últimos 30 dias. Se já existem **3 ou mais** posts `aguardando_aprovacao`,
@@ -111,6 +142,9 @@ de pedir aprovação e informe o horário/percentual da parcial.
 
 ## Rotina B — Responder à aprovação
 
+Coordenador: ajustes vão para o `roteirista` (e de novo ao `revisor`); agendamento e
+confirmação vão para o `publicador`, informando explicitamente que o João aprovou.
+
 Vale em qualquer sessão: se o João disser "aprovar"/"aprovado"/"pode postar"
 (ou ajustar/descartar) sobre um post `aguardando_aprovacao`:
 
@@ -127,6 +161,8 @@ Vale em qualquer sessão: se o João disser "aprovar"/"aprovado"/"pode postar"
 Nunca troque `draft` para `false` sem um "aprovar" do João nesta conversa.
 
 ## Rotina C — Análise semanal e ajuste da estratégia
+
+Coordenador: delegue tudo ao `analista` e repasse o resumo ao João.
 
 1. `git pull`. Marque como `publicado` os posts `agendado` cuja data já passou.
 2. `getAnalyticsDataByMetrics` (brandId 7647378, últimos 60 dias) com as métricas
