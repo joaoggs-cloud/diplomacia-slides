@@ -1,7 +1,7 @@
 {
   "slug": "2026-10-25-plano-flavio",
   "titulo_interno": "Plano de governo — Flávio Bolsonaro",
-  "status": "rascunho",
+  "status": "descartado",
   "pilar": "atualidade_brasil",
   "categoria": "Eleições 2026 · Plano de governo",
   "usar_hashtags_base": false,
@@ -228,5 +228,6 @@
   ],
   "agendamento": {},
   "metricool": {},
-  "verificacao": "Estrutura, tamanho e fotos idênticos ao post do outro candidato; só propostas do plano/candidato, sem adjetivos ou críticas. Itens com reportagens divergentes foram omitidos."
+  "verificacao": "Estrutura, tamanho e fotos idênticos ao post do outro candidato; só propostas do plano/candidato, sem adjetivos ou críticas. Itens com reportagens divergentes foram omitidos.",
+  "motivo_descarte": "Não eleito; publica-se apenas o plano do vencedor."
 }

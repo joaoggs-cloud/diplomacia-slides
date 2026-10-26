@@ -54,7 +54,7 @@
     "titulo": "Salve para consultar",
     "subtitulo": "e acompanhe as promessas nos próximos 4 anos"
   },
-  "legenda": "📋 O que propõe Lula (PT), presidente eleito.\n\nResumimos em 6 temas os principais pontos do plano de governo registrado no TSE: economia, trabalho, segurança, saúde e educação, gestão do Estado e política externa.\n\nO conteúdo reproduz as propostas do plano, sem avaliação. A íntegra está no site do TSE.\n\n👉 Arraste para o lado.\n\n💬 Qual proposta você acha que deveria ser prioridade no primeiro ano? Comente com respeito.",
+  "legenda": "📋 O que propõe Lula (PT), reeleito presidente.\n\nResumimos em 6 temas os principais pontos do plano de governo registrado no TSE: economia, trabalho, segurança, saúde e educação, gestão do Estado e política externa.\n\nO conteúdo reproduz as propostas do plano, sem avaliação. A íntegra está no site do TSE.\n\n👉 Arraste para o lado.\n\n💬 Qual proposta você acha que deveria ser prioridade no primeiro ano? Comente com respeito.",
   "primeiro_comentario": "Salve este post para acompanhar, ao longo do mandato, o que for cumprido. 📌",
   "hashtags": [
     "#eleicoes2026",
@@ -222,7 +222,10 @@
       "query": "Palácio Itamaraty Brasília"
     }
   ],
-  "agendamento": {},
+  "agendamento": {
+    "data_hora": "2026-10-25T21:31:00-03:00",
+    "slot": "extra"
+  },
   "metricool": {},
   "verificacao": "Estrutura, tamanho e fotos idênticos ao post do outro candidato; só propostas do plano/candidato, sem adjetivos ou críticas. Itens com reportagens divergentes foram omitidos."
 }

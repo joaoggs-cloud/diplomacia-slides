@@ -1,7 +1,7 @@
 {
   "slug": "2026-10-25-resultado-2turno",
   "titulo_interno": "Resultado oficial do 2º turno",
-  "status": "rascunho",
+  "status": "aprovado_previamente",
   "formato": "noticia",
   "pilar": "atualidade_brasil",
   "usar_hashtags_base": false,
@@ -14,17 +14,17 @@
       "nome": "Lula",
       "partido": "PT",
       "foto": "lula",
-      "valor": "51,62%",
-      "votos": "57.625.060 votos"
+      "valor": "51,74%",
+      "votos": "Reeleito para o 4º mandato"
     },
     "segundo": {
       "nome": "Flávio Bolsonaro",
       "partido": "PL",
       "foto": "flavio",
-      "valor": "48,38%"
+      "valor": "48,26%"
     },
     "subtitulo_html": "",
-    "rodape": "91,95% das urnas apuradas · votos válidos · Fonte: TSE",
+    "rodape": "97,69% das seções · eleição matematicamente definida · Fonte: TSE",
     "credito": "Fotos: Agência Senado · Ricardo Stuckert/Palácio do Planalto (CC BY 2.0)"
   },
   "candidatos": {
@@ -78,13 +78,25 @@
     "#politica",
     "#diplomaciadaguerra"
   ],
-  "legenda": "",
+  "legenda": "🗳️ LULA É REELEITO PRESIDENTE\n\nCom 97,69% das seções totalizadas, o sistema do TSE apontou a eleição como matematicamente definida:\n\nLula (PT): 51,74%\nFlávio Bolsonaro (PL): 48,26%\n(votos válidos)\n\nFlávio Bolsonaro havia terminado o 1º turno em primeiro lugar. O novo mandato começa em janeiro de 2027.\n\n📋 Em instantes: as principais propostas do plano de governo do presidente eleito.\n\n💬 Qual deve ser a prioridade do próximo governo? Comente com respeito.",
   "fontes": [
     {
       "nome": "TSE",
       "url": "https://resultados.tse.jus.br"
+    },
+    {
+      "nome": "Exame",
+      "url": "https://exame.com/live-blog/brasil/eleicoes-2026-apuracao-2turno-resultado-ao-vivo/"
+    },
+    {
+      "nome": "Tribuna do Norte",
+      "url": "https://tribunadonorte.com.br/tn-nas-eleicoes-2026/lula-e-reeleito-presidente-do-brasil-com-5174-dos-votos-validos/"
     }
   ],
-  "agendamento": {},
-  "metricool": {}
+  "agendamento": {
+    "data_hora": "2026-10-25T21:21:00-03:00",
+    "slot": "extra"
+  },
+  "metricool": {},
+  "primeiro_comentario": ""
 }
