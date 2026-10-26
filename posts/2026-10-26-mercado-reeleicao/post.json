@@ -12,27 +12,84 @@
     "titulo_html": "Mercado reage à reeleição: <span class=\"hl2\">dólar dispara</span> antes da abertura",
     "gancho": "Antes do pregão desta segunda (26), o dólar futuro subia cerca de 10% e o ETF do Brasil em Nova York despencava. A B3 abre às 10h.",
     "indicadores": [
-      {"valor": "▲ ~10%", "rotulo": "Dólar futuro, perto de R$ 5,50 (sexta: R$ 4,99)"},
-      {"valor": "▼ 20–26%", "rotulo": "ETF do Brasil (EWZ) fora do horário em NY"},
-      {"valor": "205.082", "rotulo": "Pontos do Ibovespa no fechamento de sexta"}
+      {
+        "valor": "▲ ~10%",
+        "rotulo": "Dólar futuro, perto de R$ 5,50 (sexta: R$ 4,99)"
+      },
+      {
+        "valor": "▼ 20–26%",
+        "rotulo": "ETF do Brasil (EWZ) fora do horário em NY"
+      },
+      {
+        "valor": "205.082",
+        "rotulo": "Pontos do Ibovespa no fechamento de sexta"
+      }
     ]
   },
   "slides": [],
   "legenda": "📉 MERCADO REAGE À REELEIÇÃO DE LULA\n\nAntes da abertura da B3 nesta segunda (26):\n\n• Dólar futuro: alta de cerca de 10% na noite de domingo, perto de R$ 5,50 (fechou a R$ 4,99 na sexta)\n• EWZ, ETF de ações brasileiras em Nova York: queda entre 20% e 26% fora do horário regular, conforme a fonte\n• Ibovespa: fechou a sexta em 205.082 pontos; o pregão começa às 10h\n\nAnalistas ouvidos pela imprensa preveem forte pressão de baixa na abertura. Se o Ibovespa cair 10%, a B3 aciona o circuit breaker e interrompe os negócios por 30 minutos. Entre os fatores citados está a declaração de Flávio Bolsonaro (PL) de que pedirá a anulação da eleição.\n\n⚠️ Números de pré-abertura: podem mudar quando o pregão começar.\n\n💬 Você acha que o mercado se acalma nos próximos dias? Comente com respeito.",
   "primeiro_comentario": "",
-  "hashtags": ["#ibovespa", "#dolar", "#b3", "#mercadofinanceiro", "#eleicoes2026", "#economia", "#diplomaciadaguerra"],
+  "hashtags": [
+    "#ibovespa",
+    "#dolar",
+    "#b3",
+    "#mercadofinanceiro",
+    "#eleicoes2026",
+    "#economia",
+    "#diplomaciadaguerra"
+  ],
   "fontes": [
-    {"nome": "Bloomberg Línea", "url": "https://bloomberglinea.com.br/brasil/ao-vivo-brasil-vota-no-2-turno-para-escolher-entre-lula-e-flavio-bolsonaro-como-presidente"},
-    {"nome": "Money Times", "url": "https://www.moneytimes.com.br/mercado-repercute-vitoria-de-lula-na-eleicao-de-2026-ibovespa-em-dolar-despenca-quase-30-nesta-segunda-feira-26-rens/"},
-    {"nome": "InfoMoney", "url": "https://www.infomoney.com.br/mercados/como-os-mercados-vao-abrir-nesta-segunda-apos-a-reeleicao-de-lula/"},
-    {"nome": "Reuters (via Investing.com)", "url": "https://br.investing.com/news/economy-news/abertura-de-mercados-sera-de-forte-pressao-de-baixa-para-ativos-do-brasil-apos-reeleicao-de-lula-dizem-analistas-2101990"},
-    {"nome": "Poder360", "url": "https://www.poder360.com.br/poder-eleicoes-2026/flavio-nao-aceita-derrota-e-diz-que-pedira-a-anulacao-do-resultado/"}
+    {
+      "nome": "Bloomberg Línea",
+      "url": "https://bloomberglinea.com.br/brasil/ao-vivo-brasil-vota-no-2-turno-para-escolher-entre-lula-e-flavio-bolsonaro-como-presidente"
+    },
+    {
+      "nome": "Money Times",
+      "url": "https://www.moneytimes.com.br/mercado-repercute-vitoria-de-lula-na-eleicao-de-2026-ibovespa-em-dolar-despenca-quase-30-nesta-segunda-feira-26-rens/"
+    },
+    {
+      "nome": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/como-os-mercados-vao-abrir-nesta-segunda-apos-a-reeleicao-de-lula/"
+    },
+    {
+      "nome": "Reuters (via Investing.com)",
+      "url": "https://br.investing.com/news/economy-news/abertura-de-mercados-sera-de-forte-pressao-de-baixa-para-ativos-do-brasil-apos-reeleicao-de-lula-dizem-analistas-2101990"
+    },
+    {
+      "nome": "Poder360",
+      "url": "https://www.poder360.com.br/poder-eleicoes-2026/flavio-nao-aceita-derrota-e-diz-que-pedira-a-anulacao-do-resultado/"
+    }
   ],
   "busca_imagens": [
-    {"id": "img01", "query": "File:Bovespa, São Paulo city downtown.jpg", "alternativas": ["incategory:\"Edifício-sede da B3\"", "File:Sao Paulo Stock Exchange.jpg", "Brazilian real banknotes"]}
+    {
+      "id": "img01",
+      "query": "File:Bovespa, São Paulo city downtown.jpg",
+      "alternativas": [
+        "incategory:\"Edifício-sede da B3\"",
+        "File:Sao Paulo Stock Exchange.jpg",
+        "Brazilian real banknotes"
+      ]
+    }
   ],
-  "imagens": [],
-  "agendamento": {"data_hora": "2026-10-26T09:30:00-03:00", "slot": "extra"},
+  "imagens": [
+    {
+      "titulo": "Bovespa, São Paulo city downtown.jpg",
+      "autor": "Wilfredor",
+      "licenca": "CC BY-SA 4.0",
+      "exige_credito": true,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Bovespa,_S%C3%A3o_Paulo_city_downtown.jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Bovespa%2C_S%C3%A3o_Paulo_city_downtown.jpg/1920px-Bovespa%2C_S%C3%A3o_Paulo_city_downtown.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 4288,
+      "altura": 2848,
+      "id": "img01",
+      "arquivo": "imagens/img01.jpg",
+      "query": "File:Bovespa, São Paulo city downtown.jpg"
+    }
+  ],
+  "agendamento": {
+    "data_hora": "2026-10-26T09:30:00-03:00",
+    "slot": "extra"
+  },
   "metricool": {},
   "verificacao": "Dólar futuro +10~11% perto de R$ 5,51–5,56 (Bloomberg Línea, Money Times, Mixvale); EWZ −19,6% (Mixvale) a −26% (Money Times) — por isso a faixa 20–26%; Ibovespa 205.082 em 23/10 (SpaceMoney, InfoMoney); circuit breaker 10%/30 min (regra da B3, InfoMoney); previsão de forte queda (Reuters, InfoMoney); Flávio pedirá anulação (Gazeta do Povo, Poder360). Neutro: sem cores de alta/baixa nos indicadores, sem adjetivo sobre o governo."
 }
