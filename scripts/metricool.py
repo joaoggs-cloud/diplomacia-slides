@@ -72,7 +72,9 @@ def avancar_slot():
 
 
 def creditos(post):
-    if post.get("formato") == "noticia":
+    if post.get("formato") == "noticia" and post.get("capa"):
+        usadas = {post["capa"]["imagem"]}
+    elif post.get("formato") == "noticia":
         n = post["noticia"]
         pessoas = n.get("placar", []) + [c for c in (n.get("vencedor"), n.get("segundo")) if c]
         usadas = {n.get("imagem"), *(c.get("foto") for c in pessoas)}
@@ -92,6 +94,10 @@ def creditos(post):
 
 def textos_alternativos(post, n):
     """Um texto alternativo por slide (acessibilidade): capa, títulos e CTA."""
+    if post.get("formato") == "noticia" and post.get("capa"):
+        c = post["capa"]
+        inds = "; ".join(f"{i['rotulo']}: {i['valor']}" for i in c.get("indicadores", []))
+        return [re.sub(r"<[^>]+>", "", f"{c['titulo_html']}. {c['gancho']} {inds}")]
     if post.get("formato") == "noticia":
         n = post["noticia"]
         if n.get("tema") == "vencedor":

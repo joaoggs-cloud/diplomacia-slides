@@ -183,7 +183,14 @@ def montar_moderno(post, post_dir):
     if post.get("fontes"):
         n = len(post["fontes"])
         pills.append(f'<span class="pill cla">{n} fonte{"s" if n > 1 else ""}</span>')
-    cred_capa = escape(credito_curto(img)).replace("Foto:", "<b>Foto:</b>", 1)
+    cred_capa = escape(capa.get("credito") or credito_curto(img)).replace("Foto:", "<b>Foto:</b>", 1)
+    # Notícia de imagem única: só a capa, com quadros de indicadores opcionais.
+    so_capa = post.get("formato") == "noticia"
+    indicadores = ""
+    if capa.get("indicadores"):
+        indicadores = '<div class="inds">' + "".join(
+            f'<div class="ind"><div class="ind-v {escape(i.get("cor", ""))}">{escape(i["valor"])}</div>'
+            f'<div class="ind-r">{escape(i["rotulo"])}</div></div>' for i in capa["indicadores"]) + "</div>"
     html = [f'''
   <div class="slide">
     {bg}<div class="grad"></div>
@@ -192,10 +199,15 @@ def montar_moderno(post, post_dir):
       <div class="pills">{"".join(pills)}</div>
       <h1 class="manchete">{capa["titulo_html"]}</h1>
       <p class="linha-fina">{capa["gancho"]}</p>
-      <div class="rodape"><span class="marca">Diplomacia da Guerra</span><span class="setas">›››</span></div>
+      {indicadores}
+      <div class="rodape"><span class="marca">Diplomacia da Guerra</span>{"" if so_capa else '<span class="setas">›››</span>'}</div>
       <div class="credito" style="max-width:100%;margin-top:6px">{cred_capa}</div>
     </div>
   </div>''']
+    if so_capa:
+        return (TEMPLATE_MODERNO
+                .replace("{{TITULO}}", escape(post.get("titulo_interno", post["slug"])))
+                .replace("{{SLIDES}}", "\n".join(html)))
 
     for n, s in enumerate(post["slides"], start=2):
         bg, img = fundo(s.get("imagem"), s.get("foco"))
@@ -366,7 +378,9 @@ def main():
 
     destino = Path(args.saida).resolve() if args.saida else post_dir / "slides"
     saida = (destino.parent / "carrossel.html") if args.saida else post_dir / "carrossel.html"
-    if post.get("formato") == "noticia":
+    if post.get("formato") == "noticia" and post.get("capa"):
+        montar = montar_moderno
+    elif post.get("formato") == "noticia":
         montar = montar_noticia
     else:
         montar = montar_moderno if (args.layout or layout_do_post(post)) == "moderno" else montar_html
