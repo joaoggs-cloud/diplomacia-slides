@@ -133,6 +133,11 @@ def recomendar(publicados, est):
             int(s[:2]) * 60 + int(s[3:]) - (p["dt"].hour * 60 + p["dt"].minute)))
         por_slot[slot].append(p["score"])
     validos = {s: statistics.mean(v) for s, v in por_slot.items() if len(v) >= MIN_POR_GRUPO}
+    if est["horarios"].get("fixo"):
+        # Horário definido pelo João: a análise só recomenda (ver tabela "Faixa horária").
+        rec["observacoes"].append("Horário fixo em " + ", ".join(est["horarios"]["slots"])
+                                  + " por decisão do João; mudanças só por recomendação.")
+        validos = {}
     if validos:
         melhor = max(validos, key=validos.get)
         if melhor != est["horarios"].get("melhor_slot"):
