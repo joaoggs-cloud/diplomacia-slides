@@ -157,5 +157,111 @@
     "data_hora": "2026-10-27T06:01:00-03:00",
     "slot": "06:01"
   },
-  "verificacao": "Pauta aponta que WebFetch falhou; fatos 1,2,3,6,8 e contexto do CRS conferidos por títulos/trechos. Revisor deve abrir as URLs."
+  "verificacao": "Pauta aponta que WebFetch falhou; fatos 1,2,3,6,8 e contexto do CRS conferidos por títulos/trechos. Revisor deve abrir as URLs.",
+  "imagens": [
+    {
+      "titulo": "CVN 69 transits the Strait of Hormuz (28465403076).jpg",
+      "autor": "Official U.S. Navy Page from United States of America\n\nMass Communicatin Specialist 3rd/U.S. Navy Photo",
+      "licenca": "Public domain",
+      "exige_credito": false,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:CVN_69_transits_the_Strait_of_Hormuz_(28465403076).jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/CVN_69_transits_the_Strait_of_Hormuz_%2828465403076%29.jpg/1920px-CVN_69_transits_the_Strait_of_Hormuz_%2828465403076%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 4633,
+      "altura": 2850,
+      "id": "img01",
+      "arquivo": "imagens/img01.jpg",
+      "query": "File:CVN 69 transits the Strait of Hormuz (28465403076).jpg"
+    },
+    {
+      "titulo": "The Eisenhower Carrier Strike Group Transits the Strait of Hormuz (8170044).jpg",
+      "autor": "U.S. Navy photo by Petty Officer 3rd Class Janae Chambers",
+      "licenca": "Public domain",
+      "exige_credito": false,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:The_Eisenhower_Carrier_Strike_Group_Transits_the_Strait_of_Hormuz_(8170044).jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/The_Eisenhower_Carrier_Strike_Group_Transits_the_Strait_of_Hormuz_%288170044%29.jpg/1920px-The_Eisenhower_Carrier_Strike_Group_Transits_the_Strait_of_Hormuz_%288170044%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 5206,
+      "altura": 3471,
+      "id": "img02",
+      "arquivo": "imagens/img02.jpg",
+      "query": "File:The Eisenhower Carrier Strike Group Transits the Strait of Hormuz (8170044).jpg"
+    },
+    {
+      "titulo": "Azadi Tower, Tehran.jpg",
+      "autor": "Bernard Gagnon",
+      "licenca": "CC BY-SA 4.0",
+      "exige_credito": true,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Azadi_Tower,_Tehran.jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Azadi_Tower%2C_Tehran.jpg/1920px-Azadi_Tower%2C_Tehran.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 4828,
+      "altura": 3219,
+      "id": "img03",
+      "arquivo": "imagens/img03.jpg",
+      "query": "File:Azadi Tower, Tehran.jpg"
+    },
+    {
+      "titulo": "STS004-37-716 - Strait of Hormuz.jpg",
+      "autor": "NASA",
+      "licenca": "Public domain",
+      "exige_credito": false,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:STS004-37-716_-_Strait_of_Hormuz.jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/STS004-37-716_-_Strait_of_Hormuz.jpg/1920px-STS004-37-716_-_Strait_of_Hormuz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 4110,
+      "altura": 4110,
+      "id": "img04",
+      "arquivo": "imagens/img04.jpg",
+      "query": "File:STS004-37-716 - Strait of Hormuz.jpg"
+    },
+    {
+      "titulo": "American Embassy in Amman.jpg",
+      "autor": "Maureen",
+      "licenca": "CC BY 2.0",
+      "exige_credito": true,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:American_Embassy_in_Amman.jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/American_Embassy_in_Amman.jpg/1920px-American_Embassy_in_Amman.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 2048,
+      "altura": 1361,
+      "id": "img05",
+      "arquivo": "imagens/img05.jpg",
+      "query": "File:American Embassy in Amman.jpg"
+    },
+    {
+      "titulo": "Flight Operations Aboard USS Tripoli (LHA 7) (9662411).jpg",
+      "autor": "NAVCENT Public Affairs",
+      "licenca": "Public domain",
+      "exige_credito": false,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Flight_Operations_Aboard_USS_Tripoli_(LHA_7)_(9662411).jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Flight_Operations_Aboard_USS_Tripoli_%28LHA_7%29_%289662411%29.jpg/1920px-Flight_Operations_Aboard_USS_Tripoli_%28LHA_7%29_%289662411%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 2736,
+      "altura": 1824,
+      "id": "img06",
+      "arquivo": "imagens/img06.jpg",
+      "query": "File:Flight Operations Aboard USS Tripoli (LHA 7) (9662411).jpg"
+    },
+    {
+      "titulo": "United States Capitol dome daylight.jpg",
+      "autor": "Autor desconhecido",
+      "licenca": "Public domain",
+      "exige_credito": false,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:United_States_Capitol_dome_daylight.jpg",
+      "url_download": "https://upload.wikimedia.org/wikipedia/commons/1/1e/United_States_Capitol_dome_daylight.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largura": 1018,
+      "altura": 1422,
+      "id": "img07",
+      "arquivo": "imagens/img07.jpg",
+      "query": "File:United States Capitol dome daylight.jpg"
+    },
+    {
+      "titulo": "Flickr - Official U.S. Navy Imagery - U.S. Navy ships transit the Strait of Hormuz..jpg",
+      "autor": "Official Navy Page from United States of America\n\nAlex R. Forster/U.S. Navy",
+      "licenca": "Public domain",
+      "exige_credito": false,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Flickr_-_Official_U.S._Navy_Imagery_-_U.S._Navy_ships_transit_the_Strait_of_Hormuz..jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Flickr_-_Official_U.S._Navy_Imagery_-_U.S._Navy_ships_transit_the_Strait_of_Hormuz..jpg/1920px-Flickr_-_Official_U.S._Navy_Imagery_-_U.S._Navy_ships_transit_the_Strait_of_Hormuz..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 6048,
+      "altura": 4032,
+      "id": "img08",
+      "arquivo": "imagens/img08.jpg",
+      "query": "File:Flickr - Official U.S. Navy Imagery - U.S. Navy ships transit the Strait of Hormuz..jpg"
+    }
+  ]
 }
