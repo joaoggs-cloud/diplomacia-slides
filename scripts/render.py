@@ -24,6 +24,7 @@ from PIL import Image
 
 RAIZ = Path(__file__).resolve().parent.parent
 TEMPLATE = (RAIZ / "scripts" / "template.html").read_text(encoding="utf-8")
+TEMPLATE_MODERNO = (RAIZ / "scripts" / "template_moderno.html").read_text(encoding="utf-8")
 
 
 def data_uri(caminho, largura_max=1400):
@@ -149,6 +150,99 @@ def montar_html(post, post_dir):
             .replace("{{SLIDES}}", "\n".join(html_slides)))
 
 
+def montar_moderno(post, post_dir):
+    """Layout "moderno" (4:5, 1080x1350): foto em tela cheia, etiquetas acima da
+    manchete e texto sobre o degradê — no estilo dos perfis de notícia do Instagram."""
+    imagens = {i["id"]: i for i in post.get("imagens", [])}
+    logo = logo_uri()
+    total = len(post["slides"]) + 2
+
+    def fundo(img_id, foco=None):
+        img = imagens.get(img_id)
+        if not img:
+            return '<div class="fallback"></div>', None
+        pos = f' style="object-position:{escape(foco)}"' if foco else ""
+        return f'<img class="bg" src="{data_uri(post_dir / img["arquivo"], 1400)}"{pos} alt="">', img
+
+    def rodape(img, direita=""):
+        cred = escape(credito_curto(img)).replace("Foto:", "<b>Foto:</b>", 1)
+        return (f'<div class="rodape"><span class="marca">Diplomacia da Guerra</span>'
+                f'{direita or f"<span class=credito>{cred}</span>"}</div>')
+
+    capa = post["capa"]
+    bg, img = fundo(capa["imagem"], capa.get("foco"))
+    partes = [p.strip() for p in post.get("categoria", "Geopolítica").split("·") if p.strip()]
+    pills = [f'<span class="pill cat">{escape(partes[0])}</span>']
+    pills += [f'<span class="pill esc">{escape(p)}</span>' for p in partes[1:]]
+    if post.get("fontes"):
+        n = len(post["fontes"])
+        pills.append(f'<span class="pill cla">{n} fonte{"s" if n > 1 else ""}</span>')
+    cred_capa = escape(credito_curto(img)).replace("Foto:", "<b>Foto:</b>", 1)
+    html = [f'''
+  <div class="slide">
+    {bg}<div class="grad"></div>
+    <img class="logo" src="{logo}" alt="">
+    <div class="corpo">
+      <div class="pills">{"".join(pills)}</div>
+      <h1 class="manchete">{capa["titulo_html"]}</h1>
+      <p class="linha-fina">{capa["gancho"]}</p>
+      <div class="rodape"><span class="marca">Diplomacia da Guerra</span><span class="setas">›››</span></div>
+      <div class="credito" style="max-width:100%;margin-top:6px">{cred_capa}</div>
+    </div>
+  </div>''']
+
+    for n, s in enumerate(post["slides"], start=2):
+        bg, img = fundo(s.get("imagem"), s.get("foco"))
+        extras = ""
+        if s.get("numero"):
+            extras += (f'<div class="numero">{escape(s["numero"]["valor"])}</div>'
+                       f'<div class="numero-rot">{escape(s["numero"].get("label", ""))}</div>')
+        if s.get("factbox"):
+            f = s["factbox"]
+            extras += f'<div class="destaque"><div class="rot">{escape(f.get("label", "Fato"))}</div><p>{f["texto"]}</p></div>'
+        if s.get("citacao"):
+            c = s["citacao"]
+            extras += f'<div class="destaque"><p>{c["texto"]}</p><cite>— {escape(c.get("autor", ""))}</cite></div>'
+        html.append(f'''
+  <div class="slide">
+    {bg}<div class="grad forte"></div>
+    <img class="logo" src="{logo}" alt="">
+    <div class="contador">{n}/{total}</div>
+    <div class="corpo">
+      <div class="pills"><span class="pill cat">{escape(s.get("tag", ""))}</span></div>
+      <div class="titulo">{escape(s["titulo"])}</div>
+      <div class="texto">{s["texto_html"]}</div>
+      {extras}
+      {rodape(img)}
+    </div>
+  </div>''')
+
+    cta = post.get("cta", {})
+    html.append(f'''
+  <div class="slide cta">
+    <div class="contador">{total}/{total}</div>
+    <div class="centro">
+      <img class="cta-logo" src="{logo}" alt="Diplomacia da Guerra">
+      <div class="cta-h">{escape(cta.get("titulo", "Salve este post"))}</div>
+      <div class="cta-sub">{escape(cta.get("subtitulo", "e compartilhe com quem precisa saber"))}</div>
+      <div class="cta-btn">Siga @diplomaciadaguerra</div>
+    </div>
+  </div>''')
+    return (TEMPLATE_MODERNO
+            .replace("{{TITULO}}", escape(post.get("titulo_interno", post["slug"])))
+            .replace("{{SLIDES}}", "\n".join(html)))
+
+
+def layout_do_post(post):
+    if post.get("layout"):
+        return post["layout"]
+    try:
+        est = json.loads((RAIZ / "config" / "estrategia.json").read_text(encoding="utf-8"))
+        return est.get("layout", "classico")
+    except (OSError, ValueError):
+        return "classico"
+
+
 def logo_original_uri():
     """Logo como é (fundo creme), para os cards de fundo claro."""
     return data_uri(RAIZ / "assets" / "logo.png", 300)
@@ -254,6 +348,8 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("post_dir")
     ap.add_argument("--so-html", action="store_true")
+    ap.add_argument("--layout", choices=["classico", "moderno"], help="força um layout (padrão: post.json ou estrategia.json)")
+    ap.add_argument("--saida", help="pasta de saída dos JPEGs (padrão: <post>/slides) — use para prévias")
     args = ap.parse_args()
     post_dir = Path(args.post_dir).resolve()
     post = json.loads((post_dir / "post.json").read_text(encoding="utf-8"))
@@ -261,13 +357,18 @@ def main():
     for e in validar(post):
         print("AVISO:", e, file=sys.stderr)
 
-    saida = post_dir / "carrossel.html"
-    montar = montar_noticia if post.get("formato") == "noticia" else montar_html
+    destino = Path(args.saida).resolve() if args.saida else post_dir / "slides"
+    saida = (destino.parent / "carrossel.html") if args.saida else post_dir / "carrossel.html"
+    if post.get("formato") == "noticia":
+        montar = montar_noticia
+    else:
+        montar = montar_moderno if (args.layout or layout_do_post(post)) == "moderno" else montar_html
+    saida.parent.mkdir(parents=True, exist_ok=True)
     saida.write_text(montar(post, post_dir), encoding="utf-8")
     print(f"HTML: {saida}")
     if args.so_html:
         return
-    subprocess.run(["node", str(RAIZ / "scripts" / "exportar_slides.js"), str(saida), str(post_dir / "slides")],
+    subprocess.run(["node", str(RAIZ / "scripts" / "exportar_slides.js"), str(saida), str(destino)],
                    check=True)
 
 
