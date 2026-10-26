@@ -1,0 +1,120 @@
+{
+  "slug": "2026-10-26-abertura-b3",
+  "titulo_interno": "Abertura da B3 — circuit breaker",
+  "status": "rascunho",
+  "formato": "noticia",
+  "layout": "moderno",
+  "pilar": "atualidade_brasil",
+  "usar_hashtags_base": false,
+  "categoria": "Mercado · Abertura da B3",
+  "capa": {
+    "imagem": "img01",
+    "titulo_html": "B3 aciona <span class=\"hl2\">circuit breaker</span> na abertura após a reeleição",
+    "gancho": "O Ibovespa caiu cerca de 10% e os negócios foram suspensos por 30 minutos. O dólar à vista chegou a subir 12%. Leitura até 10h30.",
+    "graficos": [
+      {
+        "tipo": "barras",
+        "titulo": "Dólar à vista (R$)",
+        "itens": [
+          {
+            "rotulo": "Sexta",
+            "valor": 4.99,
+            "texto": "4,99"
+          },
+          {
+            "rotulo": "Abertura",
+            "valor": 5.42,
+            "texto": "5,42"
+          },
+          {
+            "rotulo": "Máxima",
+            "valor": 5.6,
+            "texto": "5,60",
+            "destaque": true
+          }
+        ],
+        "nota": "Máxima: +12,25%"
+      },
+      {
+        "tipo": "barras",
+        "titulo": "Ibovespa (mil pts)",
+        "itens": [
+          {
+            "rotulo": "Sexta",
+            "valor": 205.1,
+            "texto": "205,1"
+          },
+          {
+            "rotulo": "Na parada",
+            "valor": 184.6,
+            "texto": "~184,6",
+            "destaque": true
+          }
+        ],
+        "nota": "Queda de ~10% aciona a pausa"
+      },
+      {
+        "tipo": "numero",
+        "titulo": "Pregão suspenso",
+        "texto": "30 min",
+        "nota": "Se a queda chegar a 15%, nova pausa de 1 hora"
+      }
+    ]
+  },
+  "slides": [],
+  "legenda": "🚨 B3 ACIONA CIRCUIT BREAKER APÓS A REELEIÇÃO\n\nNo primeiro pregão depois do 2º turno, nesta segunda (26):\n\n• Ibovespa: caiu cerca de 10% em relação ao fechamento de sexta (205.082 pontos), o que acionou o circuit breaker; os negócios foram suspensos por 30 minutos\n• Dólar à vista: abriu em alta de 8,65%, a R$ 5,42, e chegou a subir 12,25%, a R$ 5,60 (fechou a sexta a R$ 4,99)\n• Ibovespa futuro: recuou entre 15% e 19%, conforme o horário\n\nPelas regras da B3, se a queda chegar a 15% após a retomada, há nova pausa de 1 hora.\n\nAnalistas citados pela imprensa apontam o temor sobre as contas públicas como principal motivo da reação.\n\n⚠️ Dados até 10h30; o pregão continua.\n\n💬 Como você acha que o dia termina na bolsa? Comente com respeito.",
+  "primeiro_comentario": "",
+  "hashtags": [
+    "#ibovespa",
+    "#circuitbreaker",
+    "#dolar",
+    "#b3",
+    "#mercadofinanceiro",
+    "#eleicoes2026",
+    "#diplomaciadaguerra"
+  ],
+  "fontes": [
+    {
+      "nome": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-26102026/"
+    },
+    {
+      "nome": "Money Times",
+      "url": "https://www.moneytimes.com.br/tempo-real-ibovespa-reage-a-vitoria-de-lula-rens-apsa-lils-jcav/"
+    },
+    {
+      "nome": "Metrópoles",
+      "url": "https://www.metropoles.com/brasil/bolsa-nesta-segunda-2"
+    },
+    {
+      "nome": "Exame",
+      "url": "https://exame.com/invest/mercados/dolar-abre-em-alta-de-mais-de-8-apos-reeleicao-de-lula-e-vai-a-quase-r-6/"
+    },
+    {
+      "nome": "SpaceMoney",
+      "url": "https://www.spacemoney.com.br/economia/dolar-hoje/dolar-dispara-reeleicao-lula-mercados"
+    }
+  ],
+  "busca_imagens": [],
+  "imagens": [
+    {
+      "titulo": "Sao Paulo Stock Exchange.jpg",
+      "autor": "Rafael Matsunaga",
+      "licenca": "CC BY 2.0",
+      "exige_credito": true,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Sao_Paulo_Stock_Exchange.jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Sao_Paulo_Stock_Exchange.jpg/1920px-Sao_Paulo_Stock_Exchange.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 3612,
+      "altura": 1918,
+      "id": "img01",
+      "arquivo": "imagens/img01.jpg",
+      "query": "File:Sao Paulo Stock Exchange.jpg"
+    }
+  ],
+  "agendamento": {
+    "data_hora": "2026-10-26T10:55:00-03:00",
+    "slot": "extra"
+  },
+  "metricool": {},
+  "verificacao": "Circuit breaker na abertura (InfoMoney, Metrópoles, Money Times, BM&C, Trademap); dólar abertura +8,65% R$5,42 (SpaceMoney, Mixvale, Exame >R$5,40); máxima +12,25% R$5,6047 (Money Times, Mixvale, Bnews); sexta R$4,9931 e 205.082,56 pts; futuro −15% a −19% (Exame, Mixvale, InfoMoney); regra 15%→1h (InfoMoney). ~184,6 mil = −10% de 205.082 (gatilho)."
+}
