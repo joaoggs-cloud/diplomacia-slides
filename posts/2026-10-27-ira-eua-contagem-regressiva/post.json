@@ -1,7 +1,7 @@
 {
   "slug": "2026-10-27-ira-eua-contagem-regressiva",
   "titulo_interno": "EUA x Irã — contagem regressiva até 3 de novembro",
-  "status": "aguardando_aprovacao",
+  "status": "agendado",
   "pilar": "conflito_atual",
   "categoria": "Conflito atual · Oriente Médio",
   "gancho_tipo": "pergunta_prazo",
@@ -316,7 +316,7 @@
     }
   ],
   "metricool": {
-    "id": 407151828,
+    "id": 407153969,
     "uuid": "-4296656904358311741",
     "sha_slides": "d48110d994a265af5c920bbf65842ad124448404",
     "planner_url": "https://app.metricool.com/planner/calendar?blogId=7647378&openWithPostUuid=-4296656904358311741"
