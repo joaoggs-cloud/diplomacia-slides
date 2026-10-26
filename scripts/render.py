@@ -193,7 +193,7 @@ def montar_moderno(post, post_dir):
             f'<div class="ind-r">{escape(i["rotulo"])}</div></div>' for i in capa["indicadores"]) + "</div>"
     html = [f'''
   <div class="slide">
-    {bg}<div class="grad"></div>
+    {bg}<div class="grad{' noticia' if so_capa else ''}"></div>
     <img class="logo" src="{logo}" alt="">
     <div class="corpo">
       <div class="pills">{"".join(pills)}</div>
