@@ -167,6 +167,19 @@
       "query": "File:Tsar Bomba Revised.jpg"
     },
     {
+      "titulo": "Novaya Zemlya testing map.png",
+      "autor": "Autor desconhecido",
+      "licenca": "Public domain",
+      "exige_credito": false,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Novaya_Zemlya_testing_map.png",
+      "url_download": "https://upload.wikimedia.org/wikipedia/commons/4/48/Novaya_Zemlya_testing_map.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largura": 1152,
+      "altura": 1692,
+      "id": "img06",
+      "arquivo": "imagens/img06.jpg",
+      "query": "File:Novaya Zemlya testing map.png"
+    },
+    {
       "titulo": "Andrei Sakharov 1989 (cropped).jpg",
       "autor": "Anefo / Croes, R.C.",
       "licenca": "CC0",
@@ -191,6 +204,71 @@
       "id": "img09",
       "arquivo": "imagens/img09.jpg",
       "query": "File:Russian Air Force, RF-94130, Tupolev Tu-95 Bear (51264552466).jpg"
+    },
+    {
+      "titulo": "Nikita Khrushchev TASS Portrait Trim.jpg",
+      "autor": "G. Weil for TASS",
+      "licenca": "Public domain",
+      "exige_credito": false,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Nikita_Khrushchev_TASS_Portrait_Trim.jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Nikita_Khrushchev_TASS_Portrait_Trim.jpg/1920px-Nikita_Khrushchev_TASS_Portrait_Trim.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 3711,
+      "altura": 5078,
+      "id": "img10",
+      "arquivo": "imagens/img10.jpg",
+      "query": "File:Nikita Khruchchev Colour.jpg"
+    },
+    {
+      "titulo": "Nikita Khrushchev 1960.jpg",
+      "autor": "Warren K. Leffler",
+      "licenca": "Public domain",
+      "exige_credito": false,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Nikita_Khrushchev_1960.jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Nikita_Khrushchev_1960.jpg/1920px-Nikita_Khrushchev_1960.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 2442,
+      "altura": 3697,
+      "id": "img11",
+      "arquivo": "imagens/img11.jpg",
+      "query": "File:Nikita Khrushchev 1960.jpg"
+    },
+    {
+      "titulo": "NovayaZemlya.A2001222.0835.250m.jpg",
+      "autor": "Autor desconhecido",
+      "licenca": "Public domain",
+      "exige_credito": false,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:NovayaZemlya.A2001222.0835.250m.jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/NovayaZemlya.A2001222.0835.250m.jpg/1920px-NovayaZemlya.A2001222.0835.250m.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 3200,
+      "altura": 4200,
+      "id": "img12",
+      "arquivo": "imagens/img12.jpg",
+      "query": "File:NovayaZemlya.A2001222.0835.250m.jpg"
+    },
+    {
+      "titulo": "Test Ban Treaty (1963) - last page.jpg",
+      "autor": "Autor desconhecido",
+      "licenca": "Public domain",
+      "exige_credito": false,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Test_Ban_Treaty_(1963)_-_last_page.jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Test_Ban_Treaty_%281963%29_-_last_page.jpg/1920px-Test_Ban_Treaty_%281963%29_-_last_page.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 2323,
+      "altura": 3125,
+      "id": "img13",
+      "arquivo": "imagens/img13.jpg",
+      "query": "File:Test Ban Treaty (1963) - last page.jpg"
+    },
+    {
+      "titulo": "Tsar Bomba fireball 1961.jpg",
+      "autor": "Cover Images/The Ministry of Medium Machine Building of the USSR/Associated Press",
+      "licenca": "Public domain",
+      "exige_credito": false,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Tsar_Bomba_fireball_1961.jpg",
+      "url_download": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Tsar_Bomba_fireball_1961.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largura": 1344,
+      "altura": 1088,
+      "id": "img14",
+      "arquivo": "imagens/img14.jpg",
+      "query": "Tsar Bomba AN602 model"
     }
   ]
 }
