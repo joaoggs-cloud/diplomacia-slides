@@ -211,6 +211,19 @@
       "query": "File:CVN 69 transits the Strait of Hormuz (28465403076).jpg"
     },
     {
+      "titulo": "U S Forces Launch Operation Epic Fury (9542614).jpg",
+      "autor": "[null Courtesy]",
+      "licenca": "Public domain",
+      "exige_credito": false,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:U_S_Forces_Launch_Operation_Epic_Fury_(9542614).jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/U_S_Forces_Launch_Operation_Epic_Fury_%289542614%29.jpg/1920px-U_S_Forces_Launch_Operation_Epic_Fury_%289542614%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 4987,
+      "altura": 3325,
+      "id": "img02",
+      "arquivo": "imagens/img02.jpg",
+      "query": "File:U S Forces Launch Operation Epic Fury (9542614).jpg"
+    },
+    {
       "titulo": "Azadi Tower, Tehran.jpg",
       "autor": "Bernard Gagnon",
       "licenca": "CC BY-SA 4.0",
@@ -250,6 +263,19 @@
       "query": "File:American Embassy in Amman.jpg"
     },
     {
+      "titulo": "Boeing FA-18F Super Hornet of VFA-103 lands aboard USS Abraham Lincoln (CVN-72) on 24 October 2019 (191024-N-MM912-1015).JPG",
+      "autor": "U.S. Navy photo by Mass Communication Specialist 3rd Class Michael Singley",
+      "licenca": "Public domain",
+      "exige_credito": false,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Boeing_FA-18F_Super_Hornet_of_VFA-103_lands_aboard_USS_Abraham_Lincoln_(CVN-72)_on_24_October_2019_(191024-N-MM912-1015).JPG",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Boeing_FA-18F_Super_Hornet_of_VFA-103_lands_aboard_USS_Abraham_Lincoln_%28CVN-72%29_on_24_October_2019_%28191024-N-MM912-1015%29.JPG/1920px-Boeing_FA-18F_Super_Hornet_of_VFA-103_lands_aboard_USS_Abraham_Lincoln_%28CVN-72%29_on_24_October_2019_%28191024-N-MM912-1015%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 4004,
+      "altura": 2860,
+      "id": "img06",
+      "arquivo": "imagens/img06.jpg",
+      "query": "File:Boeing FA-18F Super Hornet of VFA-103 lands aboard USS Abraham Lincoln (CVN-72) on 24 October 2019 (191024-N-MM912-1015).JPG"
+    },
+    {
       "titulo": "United States Capitol dome daylight.jpg",
       "autor": "Autor desconhecido",
       "licenca": "Public domain",
@@ -261,6 +287,32 @@
       "id": "img07",
       "arquivo": "imagens/img07.jpg",
       "query": "File:United States Capitol dome daylight.jpg"
+    },
+    {
+      "titulo": "US Navy 101205-N-2937R-205 The aircraft carrier USS Abraham Lincoln (CVN 72) transits the Arabian Sea while conducting flight operations.jpg",
+      "autor": "U.S. Navy photo by Mass Communication Specialist Seaman Adam Randolph",
+      "licenca": "Public domain",
+      "exige_credito": false,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:US_Navy_101205-N-2937R-205_The_aircraft_carrier_USS_Abraham_Lincoln_(CVN_72)_transits_the_Arabian_Sea_while_conducting_flight_operations.jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/US_Navy_101205-N-2937R-205_The_aircraft_carrier_USS_Abraham_Lincoln_%28CVN_72%29_transits_the_Arabian_Sea_while_conducting_flight_operations.jpg/1920px-US_Navy_101205-N-2937R-205_The_aircraft_carrier_USS_Abraham_Lincoln_%28CVN_72%29_transits_the_Arabian_Sea_while_conducting_flight_operations.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 2100,
+      "altura": 1500,
+      "id": "img08",
+      "arquivo": "imagens/img08.jpg",
+      "query": "File:US Navy 101205-N-2937R-205 The aircraft carrier USS Abraham Lincoln (CVN 72) transits the Arabian Sea while conducting flight operations.jpg"
+    },
+    {
+      "titulo": "Tehran Milad Tower.jpg",
+      "autor": "Morteza Jrk",
+      "licenca": "CC BY-SA 4.0",
+      "exige_credito": true,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Tehran_Milad_Tower.jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Tehran_Milad_Tower.jpg/1920px-Tehran_Milad_Tower.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 5184,
+      "altura": 3456,
+      "id": "img09",
+      "arquivo": "imagens/img09.jpg",
+      "query": "File:Tehran Milad Tower.jpg"
     }
   ]
 }
