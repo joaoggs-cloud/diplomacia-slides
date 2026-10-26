@@ -1,7 +1,7 @@
 {
   "slug": "2026-10-25-plano-lula",
   "titulo_interno": "Plano de governo — Lula",
-  "status": "rascunho",
+  "status": "agendado",
   "pilar": "atualidade_brasil",
   "categoria": "Eleições 2026 · Plano de governo",
   "usar_hashtags_base": false,
@@ -226,6 +226,10 @@
     "data_hora": "2026-10-25T21:31:00-03:00",
     "slot": "extra"
   },
-  "metricool": {},
+  "metricool": {
+    "id": "406110919",
+    "uuid": "5436766589472425664",
+    "sha_slides": "e1edc7e004316567608d0a2de49c4d28fe355964"
+  },
   "verificacao": "Estrutura, tamanho e fotos idênticos ao post do outro candidato; só propostas do plano/candidato, sem adjetivos ou críticas. Itens com reportagens divergentes foram omitidos."
 }
