@@ -236,6 +236,19 @@
       "query": "File:Bovespa, São Paulo city downtown.jpg"
     },
     {
+      "titulo": "Brazilian DRE voting machine for 2022 elections.jpg",
+      "autor": "Superior Electoral Court of Brazil",
+      "licenca": "Public domain",
+      "exige_credito": false,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Brazilian_DRE_voting_machine_for_2022_elections.jpg",
+      "url_download": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Brazilian_DRE_voting_machine_for_2022_elections.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largura": 1280,
+      "altura": 853,
+      "id": "img02",
+      "arquivo": "imagens/img02.jpg",
+      "query": "File:Brazilian DRE voting machine for 2022 elections.jpg"
+    },
+    {
       "titulo": "20 Brazilian Real banknote featuring a Golden Lion Tamarin monkey.jpg",
       "autor": "Oleg Yunakov",
       "licenca": "CC BY-SA 4.0",
@@ -249,6 +262,19 @@
       "query": "Brazilian real banknotes"
     },
     {
+      "titulo": "NYSE127.jpg",
+      "autor": "Ryan Lawler",
+      "licenca": "Public domain",
+      "exige_credito": false,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:NYSE127.jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/NYSE127.jpg/1920px-NYSE127.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 3264,
+      "altura": 2448,
+      "id": "img04",
+      "arquivo": "imagens/img04.jpg",
+      "query": "File:NYSE127.jpg"
+    },
+    {
       "titulo": "Vista aérea sobre a região do MASP e Jardim Paulista, c. 1993.jpg",
       "autor": "Unstated",
       "licenca": "Public domain",
@@ -260,6 +286,19 @@
       "id": "img05",
       "arquivo": "imagens/img05.jpg",
       "query": "Avenida Brigadeiro Faria Lima São Paulo buildings"
+    },
+    {
+      "titulo": "Sao Paulo Stock Exchange.jpg",
+      "autor": "Rafael Matsunaga",
+      "licenca": "CC BY 2.0",
+      "exige_credito": true,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Sao_Paulo_Stock_Exchange.jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Sao_Paulo_Stock_Exchange.jpg/1920px-Sao_Paulo_Stock_Exchange.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 3612,
+      "altura": 1918,
+      "id": "img06",
+      "arquivo": "imagens/img06.jpg",
+      "query": "File:Sao Paulo Stock Exchange.jpg"
     },
     {
       "titulo": "Esplanada dos Ministérios, Brasília DF 04 2006.jpg",
