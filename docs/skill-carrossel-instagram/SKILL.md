@@ -28,7 +28,7 @@ Mesmo visual dos posts automáticos do sistema `diplomacia-slides`. Inspirado em
 
 ## Estrutura
 1. **Capa** — etiquetas (pills) acima da manchete: 1ª dourada com o tema, depois região/época em
-   fundo escuro e "N fontes" em fundo branco. Manchete grande (maiúsculas e minúsculas normais,
+   fundo escuro. Nunca usar etiqueta "N fontes" (decisão do João). Manchete grande (maiúsculas e minúsculas normais,
    palavras-chave em dourado), linha fina com o gancho, marca no rodapé e setas "›››" em dourado.
 2. **Slides de conteúdo (6 a 8)** — contador "2/9" no canto superior esquerdo e um parágrafo
    corrido de até **45 palavras** (fonte maior, trechos-chave em dourado), que continua a história
@@ -115,7 +115,7 @@ body.export .controls{display:none;}
   <img class="bg" src="[BASE64_FOTO]" alt=""><div class="grad"></div>
   <img class="logo" src="[BASE64_LOGO]" alt="">
   <div class="corpo">
-    <div class="pills"><span class="pill cat">[Tema]</span><span class="pill esc">[Região]</span><span class="pill cla">[N] fontes</span></div>
+    <div class="pills"><span class="pill cat">[Tema]</span><span class="pill esc">[Região]</span></div>
     <h1 class="manchete">[Manchete com <span class="hl2">destaque</span>]</h1>
     <p class="linha-fina">[Gancho em uma frase]</p>
     <div class="rodape"><span class="marca">Diplomacia da Guerra</span><span class="setas">›››</span></div>

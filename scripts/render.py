@@ -218,9 +218,6 @@ def montar_moderno(post, post_dir):
     partes = [p.strip() for p in post.get("categoria", "Geopolítica").split("·") if p.strip()]
     pills = [f'<span class="pill cat">{escape(partes[0])}</span>']
     pills += [f'<span class="pill esc">{escape(p)}</span>' for p in partes[1:]]
-    if post.get("fontes"):
-        n = len(post["fontes"])
-        pills.append(f'<span class="pill cla">{n} fonte{"s" if n > 1 else ""}</span>')
     cred_capa = escape(capa.get("credito") or credito_curto(img)).replace("Foto:", "<b>Foto:</b>", 1)
     # Notícia de imagem única: só a capa, com quadros de indicadores opcionais.
     so_capa = post.get("formato") == "noticia"

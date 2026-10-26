@@ -99,7 +99,7 @@ referência dos agentes.
      com título (ex.: o resumo) e 1 `factbox` por post, sem rótulo se não precisar.
      Datas e contexto entram na frase ("Em 23 out, …"). O `render.py` avisa se passar disso;
    - `categoria` vira as etiquetas da capa: use "Tema · Região/Época" (ex.:
-     "Tecnologia militar · Ucrânia"); o nº de fontes entra sozinho;
+     "Tecnologia militar · Ucrânia"); a capa **não** mostra etiqueta com nº de fontes (decisão do João);
    - capa com gancho forte (número, contradição, "o erro que…", "X fatos…");
    - legenda: abertura que prende, contexto em 3–5 linhas, "arraste para o lado",
      e uma **pergunta** no fim para gerar comentários; `primeiro_comentario` com
