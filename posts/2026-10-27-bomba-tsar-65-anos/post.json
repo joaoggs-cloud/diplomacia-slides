@@ -204,6 +204,19 @@
       "query": "File:Russian Air Force, RF-94130, Tupolev Tu-95 Bear (51264552466).jpg"
     },
     {
+      "titulo": "Nikita Khrushchev TASS Portrait Trim.jpg",
+      "autor": "G. Weil for TASS",
+      "licenca": "Public domain",
+      "exige_credito": false,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Nikita_Khrushchev_TASS_Portrait_Trim.jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Nikita_Khrushchev_TASS_Portrait_Trim.jpg/1920px-Nikita_Khrushchev_TASS_Portrait_Trim.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 3711,
+      "altura": 5078,
+      "id": "img10",
+      "arquivo": "imagens/img10.jpg",
+      "query": "File:Nikita Khruchchev Colour.jpg"
+    },
+    {
       "titulo": "Nikita Khrushchev 1960.jpg",
       "autor": "Warren K. Leffler",
       "licenca": "Public domain",
@@ -217,6 +230,19 @@
       "query": "File:Nikita Khrushchev 1960.jpg"
     },
     {
+      "titulo": "NovayaZemlya.A2001222.0835.250m.jpg",
+      "autor": "Autor desconhecido",
+      "licenca": "Public domain",
+      "exige_credito": false,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:NovayaZemlya.A2001222.0835.250m.jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/NovayaZemlya.A2001222.0835.250m.jpg/1920px-NovayaZemlya.A2001222.0835.250m.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 3200,
+      "altura": 4200,
+      "id": "img12",
+      "arquivo": "imagens/img12.jpg",
+      "query": "File:NovayaZemlya.A2001222.0835.250m.jpg"
+    },
+    {
       "titulo": "Test Ban Treaty (1963) - last page.jpg",
       "autor": "Autor desconhecido",
       "licenca": "Public domain",
@@ -228,6 +254,19 @@
       "id": "img13",
       "arquivo": "imagens/img13.jpg",
       "query": "File:Test Ban Treaty (1963) - last page.jpg"
+    },
+    {
+      "titulo": "Belushya guba novaya zemlya russia nasa photo.jpg",
+      "autor": "Белушья_Губа_и_Рогачёво.png: NASA\nderivative work: Christinebenson58 (talk)",
+      "licenca": "Public domain",
+      "exige_credito": false,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Belushya_guba_novaya_zemlya_russia_nasa_photo.jpg",
+      "url_download": "https://upload.wikimedia.org/wikipedia/commons/5/59/Belushya_guba_novaya_zemlya_russia_nasa_photo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largura": 1438,
+      "altura": 852,
+      "id": "img15",
+      "arquivo": "imagens/img15.jpg",
+      "query": "File:Belushya guba novaya zemlya russia nasa photo.jpg"
     }
   ]
 }
