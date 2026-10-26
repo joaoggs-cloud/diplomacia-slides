@@ -14,17 +14,17 @@
       "nome": "Lula",
       "partido": "PT",
       "foto": "lula",
-      "valor": "00,00%",
-      "votos": "00.000.000 votos"
+      "valor": "51,62%",
+      "votos": "57.625.060 votos"
     },
     "segundo": {
       "nome": "Flávio Bolsonaro",
       "partido": "PL",
       "foto": "flavio",
-      "valor": "00,00%"
+      "valor": "48,38%"
     },
-    "subtitulo_html": "PRÉVIA DE LAYOUT — dados fictícios.",
-    "rodape": "100% das urnas apuradas · votos válidos · Fonte: TSE",
+    "subtitulo_html": "",
+    "rodape": "91,95% das urnas apuradas · votos válidos · Fonte: TSE",
     "credito": "Fotos: Agência Senado · Ricardo Stuckert/Palácio do Planalto (CC BY 2.0)"
   },
   "candidatos": {
