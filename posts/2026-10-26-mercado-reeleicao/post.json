@@ -11,18 +11,39 @@
     "imagem": "img01",
     "titulo_html": "Mercado reage à reeleição: <span class=\"hl2\">dólar dispara</span> antes da abertura",
     "gancho": "Antes do pregão desta segunda (26), o dólar futuro subia cerca de 10% e o ETF do Brasil em Nova York despencava. A B3 abre às 10h.",
-    "indicadores": [
+    "graficos": [
       {
-        "valor": "▲ ~10%",
-        "rotulo": "Dólar futuro, perto de R$ 5,50 (sexta: R$ 4,99)"
+        "tipo": "barras",
+        "titulo": "Dólar (R$)",
+        "itens": [
+          {
+            "rotulo": "Sexta (23)",
+            "valor": 4.99,
+            "texto": "4,99"
+          },
+          {
+            "rotulo": "Futuro, dom. (25)",
+            "valor": 5.5,
+            "texto": "~5,50",
+            "destaque": true
+          }
+        ],
+        "nota": "Alta de ~10% no dólar futuro"
       },
       {
-        "valor": "▼ 20–26%",
-        "rotulo": "ETF do Brasil (EWZ) fora do horário em NY"
+        "tipo": "faixa",
+        "titulo": "EWZ em Nova York",
+        "min": 20,
+        "max": 26,
+        "escala": 30,
+        "texto": "−20% a −26%",
+        "nota": "ETF de ações do Brasil, fora do horário; faixa = divergência entre fontes"
       },
       {
-        "valor": "205.082",
-        "rotulo": "Pontos do Ibovespa no fechamento de sexta"
+        "tipo": "numero",
+        "titulo": "Ibovespa",
+        "texto": "205.082",
+        "nota": "Pontos no fechamento de sexta (23). B3 abre às 10h"
       }
     ]
   },

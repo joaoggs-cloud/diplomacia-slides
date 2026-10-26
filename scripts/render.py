@@ -156,6 +156,31 @@ def montar_html(post, post_dir):
             .replace("{{SLIDES}}", "\n".join(html_slides)))
 
 
+def painel_grafico(g):
+    """Mini gráfico estático para o card de notícia (barras partem do zero; sem dados inventados).
+    tipos: "barras" (itens com rotulo/valor/texto, destaque opcional), "faixa" (queda min–max em %),
+    "numero" (valor de referência)."""
+    titulo = f'<div class="g-tit">{escape(g["titulo"])}</div>'
+    nota = f'<div class="g-nota">{escape(g.get("nota", ""))}</div>' if g.get("nota") else ""
+    if g["tipo"] == "barras":
+        maximo = max(i["valor"] for i in g["itens"])
+        barras = "".join(
+            f'<div class="g-col"><div class="g-val">{escape(i["texto"])}</div>'
+            f'<div class="g-bar{" dest" if i.get("destaque") else ""}" style="height:{70 * i["valor"] / maximo:.1f}px"></div>'
+            f'<div class="g-rot">{escape(i["rotulo"])}</div></div>' for i in g["itens"])
+        corpo = f'<div class="g-barras">{barras}</div>'
+    elif g["tipo"] == "faixa":
+        esc = g.get("escala", 30)
+        a, b = g["min"] / esc * 100, g["max"] / esc * 100
+        corpo = (f'<div class="g-faixa-val">{escape(g["texto"])}</div>'
+                 f'<div class="g-trilho"><div class="g-solido" style="width:{a:.1f}%"></div>'
+                 f'<div class="g-incerto" style="left:{a:.1f}%;width:{b - a:.1f}%"></div></div>'
+                 f'<div class="g-escala"><span>0%</span><span>−{esc}%</span></div>')
+    else:
+        corpo = f'<div class="g-num">{escape(g["texto"])}</div>'
+    return f'<div class="ind graf">{titulo}{corpo}{nota}</div>'
+
+
 def montar_moderno(post, post_dir):
     """Layout "moderno" (4:5, 1080x1350): foto em tela cheia, etiquetas acima da
     manchete e texto sobre o degradê — no estilo dos perfis de notícia do Instagram."""
@@ -187,7 +212,9 @@ def montar_moderno(post, post_dir):
     # Notícia de imagem única: só a capa, com quadros de indicadores opcionais.
     so_capa = post.get("formato") == "noticia"
     indicadores = ""
-    if capa.get("indicadores"):
+    if capa.get("graficos"):
+        indicadores = '<div class="inds">' + "".join(painel_grafico(g) for g in capa["graficos"]) + "</div>"
+    elif capa.get("indicadores"):
         indicadores = '<div class="inds">' + "".join(
             f'<div class="ind"><div class="ind-v {escape(i.get("cor", ""))}">{escape(i["valor"])}</div>'
             f'<div class="ind-r">{escape(i["rotulo"])}</div></div>' for i in capa["indicadores"]) + "</div>"

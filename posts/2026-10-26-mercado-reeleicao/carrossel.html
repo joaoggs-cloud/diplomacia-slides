@@ -65,6 +65,23 @@ body.export .controls{display:none;}
 .ind-v.alta{color:#5fd38a;} .ind-v.baixa{color:#ff6b6b;}
 .ind-r{font-family:'Inter';font-size:11px;line-height:1.3;color:#cfcfcf;margin-top:4px;}
 
+/* Mini gráficos */
+.ind.graf{display:flex;flex-direction:column;padding:8px 10px 8px;}
+.g-tit{font-family:'Inter';font-weight:700;font-size:11px;letter-spacing:.8px;text-transform:uppercase;color:#fff;margin-bottom:6px;}
+.g-barras{display:flex;align-items:flex-end;gap:10px;height:104px;}
+.g-col{flex:1;display:flex;flex-direction:column;align-items:center;justify-content:flex-end;}
+.g-val{font-family:'Montserrat';font-weight:800;font-size:13px;color:#fff;margin-bottom:3px;white-space:nowrap;}
+.g-bar{width:100%;max-width:34px;background:#8a8a8a;border-radius:4px 4px 0 0;}
+.g-bar.dest{background:var(--gold);}
+.g-rot{font-family:'Inter';font-size:9.5px;color:#cfcfcf;margin-top:4px;text-align:center;line-height:1.2;}
+.g-faixa-val{font-family:'Montserrat';font-weight:800;font-size:22px;color:#fff;margin:16px 0 10px;}
+.g-trilho{position:relative;height:16px;background:rgba(255,255,255,.12);border-radius:3px;}
+.g-solido{position:absolute;left:0;top:0;bottom:0;background:var(--gold);border-radius:3px 0 0 3px;}
+.g-incerto{position:absolute;top:0;bottom:0;background:repeating-linear-gradient(135deg,var(--gold) 0 3px,transparent 3px 6px);}
+.g-escala{display:flex;justify-content:space-between;font-family:'Inter';font-size:9.5px;color:#aaa;margin-top:4px;}
+.g-num{font-family:'Montserrat';font-weight:800;font-size:24px;color:#fff;margin:22px 0 4px;}
+.g-nota{font-family:'Inter';font-size:9.5px;line-height:1.3;color:#bdbdbd;margin-top:auto;padding-top:6px;}
+
 /* CTA */
 .cta{background:radial-gradient(circle at 50% 35%,#1f1a0c 0%,#000 70%);}
 .cta .centro{position:absolute;inset:0;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;padding:40px;}
@@ -88,7 +105,7 @@ body.export .controls{display:none;}
       <div class="pills"><span class="pill cat">Mercado</span><span class="pill esc">Eleições 2026</span><span class="pill cla">5 fontes</span></div>
       <h1 class="manchete">Mercado reage à reeleição: <span class="hl2">dólar dispara</span> antes da abertura</h1>
       <p class="linha-fina">Antes do pregão desta segunda (26), o dólar futuro subia cerca de 10% e o ETF do Brasil em Nova York despencava. A B3 abre às 10h.</p>
-      <div class="inds"><div class="ind"><div class="ind-v ">▲ ~10%</div><div class="ind-r">Dólar futuro, perto de R$ 5,50 (sexta: R$ 4,99)</div></div><div class="ind"><div class="ind-v ">▼ 20–26%</div><div class="ind-r">ETF do Brasil (EWZ) fora do horário em NY</div></div><div class="ind"><div class="ind-v ">205.082</div><div class="ind-r">Pontos do Ibovespa no fechamento de sexta</div></div></div>
+      <div class="inds"><div class="ind graf"><div class="g-tit">Dólar (R$)</div><div class="g-barras"><div class="g-col"><div class="g-val">4,99</div><div class="g-bar" style="height:63.5px"></div><div class="g-rot">Sexta (23)</div></div><div class="g-col"><div class="g-val">~5,50</div><div class="g-bar dest" style="height:70.0px"></div><div class="g-rot">Futuro, dom. (25)</div></div></div><div class="g-nota">Alta de ~10% no dólar futuro</div></div><div class="ind graf"><div class="g-tit">EWZ em Nova York</div><div class="g-faixa-val">−20% a −26%</div><div class="g-trilho"><div class="g-solido" style="width:66.7%"></div><div class="g-incerto" style="left:66.7%;width:20.0%"></div></div><div class="g-escala"><span>0%</span><span>−30%</span></div><div class="g-nota">ETF de ações do Brasil, fora do horário; faixa = divergência entre fontes</div></div><div class="ind graf"><div class="g-tit">Ibovespa</div><div class="g-num">205.082</div><div class="g-nota">Pontos no fechamento de sexta (23). B3 abre às 10h</div></div></div>
       <div class="rodape"><span class="marca">Diplomacia da Guerra</span></div>
       <div class="credito" style="max-width:100%;margin-top:6px"><b>Foto:</b> Wilfredor · CC BY-SA 4.0</div>
     </div>
