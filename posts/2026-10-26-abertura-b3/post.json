@@ -1,7 +1,7 @@
 {
   "slug": "2026-10-26-abertura-b3",
   "titulo_interno": "Abertura da B3 — circuit breaker",
-  "status": "aguardando_aprovacao",
+  "status": "agendado",
   "formato": "noticia",
   "layout": "moderno",
   "pilar": "atualidade_brasil",
@@ -62,7 +62,7 @@
     ]
   },
   "slides": [],
-  "legenda": "🚨 B3 ACIONA CIRCUIT BREAKER APÓS A REELEIÇÃO\n\nNo primeiro pregão depois do 2º turno, nesta segunda (26):\n\n• Ibovespa: caiu cerca de 10% em relação ao fechamento de sexta (205.082 pontos), o que acionou o circuit breaker; os negócios foram suspensos por 30 minutos\n• Dólar à vista: abriu em alta de 8,65%, a R$ 5,42, e chegou a subir 12,25%, a R$ 5,60 (fechou a sexta a R$ 4,99)\n• Ibovespa futuro: recuou entre 15% e 19%, conforme o horário\n\nPelas regras da B3, se a queda chegar a 15% após a retomada, há nova pausa de 1 hora.\n\nAnalistas citados pela imprensa apontam o temor sobre as contas públicas como principal motivo da reação.\n\n⚠️ Dados até 10h30; o pregão continua.\n\n💬 Como você acha que o dia termina na bolsa? Comente com respeito.",
+  "legenda": "🚨 B3 ACIONA CIRCUIT BREAKER APÓS A REELEIÇÃO\n\nNo primeiro pregão depois do 2º turno, nesta segunda (26):\n\n• Ibovespa: caiu cerca de 10% em relação ao fechamento de sexta (205.082 pontos), o que acionou o circuit breaker; os negócios foram suspensos por 30 minutos\n• Dólar à vista: abriu em alta de 8,65%, a R$ 5,42, e chegou a subir 12,25%, a R$ 5,60 (fechou a sexta a R$ 4,99)\n• Ibovespa futuro: recuou entre 15% e 19%, conforme o horário\n\nPelas regras da B3, se a queda chegar a 15% após a retomada, há nova pausa de 1 hora.\n\nAnalistas citados pela imprensa apontam o temor sobre as contas públicas como principal motivo da reação.\n\n⚠️ Dados da abertura, até 10h30.\n\n💬 Como você acha que o dia termina na bolsa? Comente com respeito.",
   "primeiro_comentario": "",
   "hashtags": [
     "#ibovespa",
@@ -112,14 +112,15 @@
     }
   ],
   "agendamento": {
-    "data_hora": "2026-10-26T10:55:00-03:00",
+    "data_hora": "2026-10-26T13:43:00-03:00",
     "slot": "extra"
   },
   "metricool": {
-    "id": "406650928",
+    "id": "406873993",
     "uuid": "5785826112798871150",
     "sha_slides": "51780ec9dfb5425fb4333ed79754dc7be095fdc6",
     "planner_url": "https://app.metricool.com/planner/calendar?blogId=7647378&openWithPostUuid=5785826112798871150"
   },
-  "verificacao": "Circuit breaker na abertura (InfoMoney, Metrópoles, Money Times, BM&C, Trademap); dólar abertura +8,65% R$5,42 (SpaceMoney, Mixvale, Exame >R$5,40); máxima +12,25% R$5,6047 (Money Times, Mixvale, Bnews); sexta R$4,9931 e 205.082,56 pts; futuro −15% a −19% (Exame, Mixvale, InfoMoney); regra 15%→1h (InfoMoney). ~184,6 mil = −10% de 205.082 (gatilho)."
+  "verificacao": "Circuit breaker na abertura (InfoMoney, Metrópoles, Money Times, BM&C, Trademap); dólar abertura +8,65% R$5,42 (SpaceMoney, Mixvale, Exame >R$5,40); máxima +12,25% R$5,6047 (Money Times, Mixvale, Bnews); sexta R$4,9931 e 205.082,56 pts; futuro −15% a −19% (Exame, Mixvale, InfoMoney); regra 15%→1h (InfoMoney). ~184,6 mil = −10% de 205.082 (gatilho).",
+  "aprovado_em": "2026-10-26"
 }
