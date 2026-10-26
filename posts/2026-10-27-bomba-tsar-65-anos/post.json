@@ -6,7 +6,7 @@
   "categoria": "Curiosidades · Guerra Fria",
   "gancho_tipo": "efemeride_numero",
   "capa": {
-    "imagem": "img04",
+    "imagem": "img12",
     "titulo_html": "A bomba cujo <span class=\"hl\">clarão</span> foi visto a <span class=\"hl2\">1.000 km</span>",
     "gancho": "Há 65 anos, a União Soviética testou a maior arma nuclear da história. E ela era metade do planejado."
   },
@@ -20,8 +20,8 @@
       "texto_html": "Khrushchev a chamava de <em>“mãe de Kuzka”</em>, alusão a um ditado russo que funciona como ameaça. O nome oficial era <strong>AN602</strong>. No Ocidente, ficou conhecida como Tsar Bomba, o “Rei das Bombas”."
     },
     {
-      "imagem": "img14",
-      "texto_html": "Mas o projeto encolheu. Para reduzir a chuva radioativa, trocaram o invólucro de urânio-238 do último estágio por chumbo. O rendimento caiu para <strong>cerca de 50 megatons</strong>, valor oficial russo."
+      "imagem": "img04",
+      "texto_html": "Mas o projeto encolheu. Para reduzir a chuva radioativa, trocaram o invólucro de urânio-238 do último estágio por chumbo, e o rendimento caiu para <strong>cerca de 50 megatons</strong>, valor oficial russo. Na foto, peça do mesmo tipo, exposta no museu nuclear de Sarov."
     },
     {
       "imagem": "img09",
@@ -33,7 +33,7 @@
       "foco": "center 20%"
     },
     {
-      "imagem": "img12",
+      "imagem": "img15",
       "texto_html": "O clarão foi visto a cerca de 1.000 km. A nuvem passou de 60 km de altura, perto de sete Everests empilhados. Janelas quebraram a centenas de quilômetros e, segundo a Atomic Heritage Foundation, sensores registraram a onda depois de três voltas à Terra."
     },
     {
@@ -114,6 +114,7 @@
       "id": "img10",
       "query": "File:Nikita Khruchchev Colour.jpg",
       "alternativas": [
+        "File:Nikita Khrushchev Colour.jpg",
         "File:Nikita Khrushchev TASS Portrait Trim.jpg"
       ]
     },
@@ -127,9 +128,7 @@
     {
       "id": "img12",
       "query": "File:NovayaZemlya.A2001222.0835.250m.jpg",
-      "alternativas": [
-        "File:Belushya guba novaya zemlya russia nasa photo.jpg"
-      ]
+      "alternativas": []
     },
     {
       "id": "img13",
@@ -139,11 +138,10 @@
       ]
     },
     {
-      "id": "img14",
-      "query": "Tsar Bomba AN602 model",
+      "id": "img15",
+      "query": "File:Belushya guba novaya zemlya russia nasa photo.jpg",
       "alternativas": [
-        "Soviet hydrogen bomb RDS-202",
-        "Sarov nuclear museum bomb"
+        "Novaya Zemlya satellite NASA"
       ]
     }
   ],
@@ -206,19 +204,6 @@
       "query": "File:Russian Air Force, RF-94130, Tupolev Tu-95 Bear (51264552466).jpg"
     },
     {
-      "titulo": "Nikita Khrushchev TASS Portrait Trim.jpg",
-      "autor": "G. Weil for TASS",
-      "licenca": "Public domain",
-      "exige_credito": false,
-      "url_origem": "https://commons.wikimedia.org/wiki/File:Nikita_Khrushchev_TASS_Portrait_Trim.jpg",
-      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Nikita_Khrushchev_TASS_Portrait_Trim.jpg/1920px-Nikita_Khrushchev_TASS_Portrait_Trim.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "largura": 3711,
-      "altura": 5078,
-      "id": "img10",
-      "arquivo": "imagens/img10.jpg",
-      "query": "File:Nikita Khruchchev Colour.jpg"
-    },
-    {
       "titulo": "Nikita Khrushchev 1960.jpg",
       "autor": "Warren K. Leffler",
       "licenca": "Public domain",
@@ -232,19 +217,6 @@
       "query": "File:Nikita Khrushchev 1960.jpg"
     },
     {
-      "titulo": "NovayaZemlya.A2001222.0835.250m.jpg",
-      "autor": "Autor desconhecido",
-      "licenca": "Public domain",
-      "exige_credito": false,
-      "url_origem": "https://commons.wikimedia.org/wiki/File:NovayaZemlya.A2001222.0835.250m.jpg",
-      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/NovayaZemlya.A2001222.0835.250m.jpg/1920px-NovayaZemlya.A2001222.0835.250m.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "largura": 3200,
-      "altura": 4200,
-      "id": "img12",
-      "arquivo": "imagens/img12.jpg",
-      "query": "File:NovayaZemlya.A2001222.0835.250m.jpg"
-    },
-    {
       "titulo": "Test Ban Treaty (1963) - last page.jpg",
       "autor": "Autor desconhecido",
       "licenca": "Public domain",
@@ -256,19 +228,6 @@
       "id": "img13",
       "arquivo": "imagens/img13.jpg",
       "query": "File:Test Ban Treaty (1963) - last page.jpg"
-    },
-    {
-      "titulo": "Tsar Bomba fireball 1961.jpg",
-      "autor": "Cover Images/The Ministry of Medium Machine Building of the USSR/Associated Press",
-      "licenca": "Public domain",
-      "exige_credito": false,
-      "url_origem": "https://commons.wikimedia.org/wiki/File:Tsar_Bomba_fireball_1961.jpg",
-      "url_download": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Tsar_Bomba_fireball_1961.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "largura": 1344,
-      "altura": 1088,
-      "id": "img14",
-      "arquivo": "imagens/img14.jpg",
-      "query": "Tsar Bomba AN602 model"
     }
   ]
 }
