@@ -1,7 +1,7 @@
 {
   "slug": "2026-10-26-lula-regulacao-redes",
   "titulo_interno": "Lula: regular as redes será prioridade",
-  "status": "aguardando_aprovacao",
+  "status": "agendado",
   "formato": "noticia",
   "layout": "moderno",
   "pilar": "atualidade_brasil",
@@ -92,14 +92,15 @@
     }
   ],
   "agendamento": {
-    "data_hora": "2026-10-26T14:30:00-03:00",
+    "data_hora": "2026-10-26T13:57:00-03:00",
     "slot": "extra"
   },
   "metricool": {
-    "id": "406883428",
+    "id": "406893323",
     "uuid": "-2639722267862350349",
     "sha_slides": "d267fff3802cb4dd92f9525b379b2c2406d3751f",
     "planner_url": "https://app.metricool.com/planner/calendar?blogId=7647378&openWithPostUuid=-2639722267862350349"
   },
-  "verificacao": "Local hotel em SP antes da Paulista (Poder360, O Povo, Gazeta); ~22h20 (Gazeta/SpaceMoney); frases (Gazeta, Metrópoles); sem projeto/cronograma (Jornal de Brasília); PL 2630 arquivado 2024 e decreto maio/2026 + STF (Gazeta, Tribuna de Jundiaí); participação popular (Poder360, SpaceMoney); posse 5 jan (Poder360). Foto neutra de smartphone em vez do retrato do presidente."
+  "verificacao": "Local hotel em SP antes da Paulista (Poder360, O Povo, Gazeta); ~22h20 (Gazeta/SpaceMoney); frases (Gazeta, Metrópoles); sem projeto/cronograma (Jornal de Brasília); PL 2630 arquivado 2024 e decreto maio/2026 + STF (Gazeta, Tribuna de Jundiaí); participação popular (Poder360, SpaceMoney); posse 5 jan (Poder360). Foto neutra de smartphone em vez do retrato do presidente.",
+  "aprovado_em": "2026-10-26"
 }
