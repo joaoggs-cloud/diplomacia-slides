@@ -45,16 +45,25 @@
     },
     {
       "imagem": "img06",
-      "tag": "Fim de semana, 25 out",
+      "tag": "23 e 25 out 2026",
       "titulo": "“Outra pequena Epic Fury, ou acordo”",
-      "texto_html": "Em comício na Flórida, Trump disse: <em>“We may do another little Epic Fury, or they'll agree”</em> (podemos fazer outra “pequena” Epic Fury, ou eles aceitam). À Fox News, disse escolher entre um acordo e agir, e descartou ataque no dia 25.",
-      "foco": "25% center"
+      "texto_html": "Em comício na Flórida, em 23 out, Trump disse: <em>“We may do another little Epic Fury, or they'll agree”</em> (podemos fazer outra “pequena” Epic Fury, ou eles aceitam). À Fox News, no dia 25, disse escolher entre um acordo e “acabar com eles”, e que não haveria ataque naquele dia."
+    },
+    {
+      "imagem": "img09",
+      "tag": "25 out 2026",
+      "titulo": "O que diz Teerã",
+      "texto_html": "O porta-voz da chancelaria iraniana, <strong>Esmaeil Baghaei</strong>, disse em 25 out que Teerã não fechou a porta à diplomacia e que mensagens chegam aos EUA por intermediários.",
+      "factbox": {
+        "label": "Memorando",
+        "texto": "Segundo a Al Jazeera, até 24 out o Irã não havia comentado o documento."
+      }
     },
     {
       "imagem": "img07",
       "tag": "3 nov 2026",
       "titulo": "O calendário eleitoral",
-      "texto_html": "Reportagens citadas pela Al Jazeera dizem que Trump evita ataques antes das <strong>eleições legislativas de 3 de novembro</strong>. É leitura de bastidores, <em>não declaração oficial</em>.",
+      "texto_html": "Em 8 out, Trump afirmou que os EUA não retomariam ataques ao Irã antes das <strong>eleições legislativas de 3 de novembro</strong>. Segundo a Al Jazeera, o Pentágono mantém planos prontos, o que <em>não equivale a ordem de ataque</em>.",
       "factbox": {
         "label": "Importante",
         "texto": "Nenhuma fonte confirma que haverá ou não ação militar depois dessa data."
@@ -64,14 +73,14 @@
       "imagem": "img08",
       "tag": "Resumo",
       "titulo": "Fato x relato",
-      "texto_html": "<strong>Fato:</strong> memorando existe, segundo a imprensa; embaixadas reduziram equipe; Trump falou em acordo ou nova ação.<br><br><em>Relato anônimo ou não confirmado:</em> planos iranianos e motivações eleitorais. Nada aqui indica ataque certo."
+      "texto_html": "<strong>Fato:</strong> memorando existe, segundo a imprensa; embaixadas reduziram equipe; Trump prometeu não atacar antes de 3 nov e fala em acordo ou nova ação; Irã diz manter canal indireto.<br><br><em>Não confirmado:</em> planos iranianos e o que acontece depois de 3 nov."
     }
   ],
   "cta": {
     "titulo": "Salve este post",
     "subtitulo": "e acompanhe a Diplomacia da Guerra"
   },
-  "legenda": "A guerra entre EUA e Irã está em pausa, mas sem acordo formal em vigor, segundo o CRS. 🌍\n\nEm 23 out, um memorando de inteligência citado por Axios e Washington Post disse que o Irã ampliou esforços contra pessoal americano. Ele não cita alvos nem se há ataque iminente, e as alegações não foram confirmadas de forma independente. Os EUA reduziram equipes em embaixadas da região e Trump falou em \"acordo ou nova ação\". Reportagens apontam as eleições de 3 nov como possível marco, mas isso é leitura de bastidores.\n\nAtualizado em 27 out 2026.\n\n👉 Arraste para o lado e veja o que é fato e o que é relato.\n\n💬 Na sua opinião, a diplomacia ainda tem espaço para evitar nova escalada na região?",
+  "legenda": "A guerra entre EUA e Irã está em pausa, mas sem acordo formal em vigor, segundo o CRS. 🌍\n\nEm 23 out, um memorando de inteligência citado por Axios e Washington Post disse que o Irã ampliou esforços contra pessoal americano. Ele não cita alvos nem se há ataque iminente, e as alegações não foram confirmadas de forma independente. Os EUA reduziram equipes em embaixadas da região. Trump, que prometeu não atacar antes das eleições de 3 nov, diz escolher entre acordo e nova ação. O Irã diz que a diplomacia segue aberta, por intermediários.\n\nAtualizado em 26 out 2026.\n\n👉 Arraste para o lado e veja o que é fato e o que é relato.\n\n💬 Na sua opinião, a diplomacia ainda tem espaço para evitar nova escalada na região?",
   "primeiro_comentario": "Que notícia do Oriente Médio você gostaria de ver explicada aqui? Conta nos comentários 👇",
   "hashtags": [
     "#ira",
@@ -118,6 +127,30 @@
     {
       "nome": "CRS (Congresso dos EUA)",
       "url": "https://www.congress.gov/crs-product/R48887"
+    },
+    {
+      "nome": "Washington Post (8 out)",
+      "url": "https://www.washingtonpost.com/politics/2026/10/08/trump-iran-war-midterms-attack/cb8aa31a-c335-11f1-8170-681419af1cc9_story.html"
+    },
+    {
+      "nome": "Al Jazeera (midterms)",
+      "url": "https://www.aljazeera.com/news/2026/10/9/is-trump-signalling-a-return-to-war-with-iran-after-the-midterms"
+    },
+    {
+      "nome": "France 24",
+      "url": "https://www.france24.com/en/americas/20261023-trump-says-us-may-launch-another-little-epic-fury-attack-iran"
+    },
+    {
+      "nome": "CBS News",
+      "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-oil-gas-prices-strait-of-hormuz-midterms/"
+    },
+    {
+      "nome": "AP via ABC News",
+      "url": "https://abcnews.com/Politics/wireStory/iran-messages-passed-us-amid-war-concerns-mideast-137558362"
+    },
+    {
+      "nome": "Business Standard",
+      "url": "https://www.business-standard.com/world-news/messages-are-still-being-passed-to-us-amid-war-concerns-says-iran-126102600052_1.html"
     }
   ],
   "busca_imagens": [
@@ -127,7 +160,7 @@
     },
     {
       "id": "img02",
-      "query": "File:The Eisenhower Carrier Strike Group Transits the Strait of Hormuz (8170044).jpg"
+      "query": "File:U S Forces Launch Operation Epic Fury (9542614).jpg"
     },
     {
       "id": "img03",
@@ -143,7 +176,7 @@
     },
     {
       "id": "img06",
-      "query": "File:Flight Operations Aboard USS Tripoli (LHA 7) (9662411).jpg"
+      "query": "File:Boeing FA-18F Super Hornet of VFA-103 lands aboard USS Abraham Lincoln (CVN-72) on 24 October 2019 (191024-N-MM912-1015).JPG"
     },
     {
       "id": "img07",
@@ -151,7 +184,11 @@
     },
     {
       "id": "img08",
-      "query": "File:Flickr - Official U.S. Navy Imagery - U.S. Navy ships transit the Strait of Hormuz..jpg"
+      "query": "File:US Navy 101205-N-2937R-205 The aircraft carrier USS Abraham Lincoln (CVN 72) transits the Arabian Sea while conducting flight operations.jpg"
+    },
+    {
+      "id": "img09",
+      "query": "File:Tehran Milad Tower.jpg"
     }
   ],
   "agendamento": {
@@ -172,19 +209,6 @@
       "id": "img01",
       "arquivo": "imagens/img01.jpg",
       "query": "File:CVN 69 transits the Strait of Hormuz (28465403076).jpg"
-    },
-    {
-      "titulo": "The Eisenhower Carrier Strike Group Transits the Strait of Hormuz (8170044).jpg",
-      "autor": "U.S. Navy photo by Petty Officer 3rd Class Janae Chambers",
-      "licenca": "Public domain",
-      "exige_credito": false,
-      "url_origem": "https://commons.wikimedia.org/wiki/File:The_Eisenhower_Carrier_Strike_Group_Transits_the_Strait_of_Hormuz_(8170044).jpg",
-      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/The_Eisenhower_Carrier_Strike_Group_Transits_the_Strait_of_Hormuz_%288170044%29.jpg/1920px-The_Eisenhower_Carrier_Strike_Group_Transits_the_Strait_of_Hormuz_%288170044%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "largura": 5206,
-      "altura": 3471,
-      "id": "img02",
-      "arquivo": "imagens/img02.jpg",
-      "query": "File:The Eisenhower Carrier Strike Group Transits the Strait of Hormuz (8170044).jpg"
     },
     {
       "titulo": "Azadi Tower, Tehran.jpg",
@@ -226,19 +250,6 @@
       "query": "File:American Embassy in Amman.jpg"
     },
     {
-      "titulo": "Flight Operations Aboard USS Tripoli (LHA 7) (9662411).jpg",
-      "autor": "NAVCENT Public Affairs",
-      "licenca": "Public domain",
-      "exige_credito": false,
-      "url_origem": "https://commons.wikimedia.org/wiki/File:Flight_Operations_Aboard_USS_Tripoli_(LHA_7)_(9662411).jpg",
-      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Flight_Operations_Aboard_USS_Tripoli_%28LHA_7%29_%289662411%29.jpg/1920px-Flight_Operations_Aboard_USS_Tripoli_%28LHA_7%29_%289662411%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "largura": 2736,
-      "altura": 1824,
-      "id": "img06",
-      "arquivo": "imagens/img06.jpg",
-      "query": "File:Flight Operations Aboard USS Tripoli (LHA 7) (9662411).jpg"
-    },
-    {
       "titulo": "United States Capitol dome daylight.jpg",
       "autor": "Autor desconhecido",
       "licenca": "Public domain",
@@ -250,19 +261,6 @@
       "id": "img07",
       "arquivo": "imagens/img07.jpg",
       "query": "File:United States Capitol dome daylight.jpg"
-    },
-    {
-      "titulo": "Flickr - Official U.S. Navy Imagery - U.S. Navy ships transit the Strait of Hormuz..jpg",
-      "autor": "Official Navy Page from United States of America\n\nAlex R. Forster/U.S. Navy",
-      "licenca": "Public domain",
-      "exige_credito": false,
-      "url_origem": "https://commons.wikimedia.org/wiki/File:Flickr_-_Official_U.S._Navy_Imagery_-_U.S._Navy_ships_transit_the_Strait_of_Hormuz..jpg",
-      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Flickr_-_Official_U.S._Navy_Imagery_-_U.S._Navy_ships_transit_the_Strait_of_Hormuz..jpg/1920px-Flickr_-_Official_U.S._Navy_Imagery_-_U.S._Navy_ships_transit_the_Strait_of_Hormuz..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "largura": 6048,
-      "altura": 4032,
-      "id": "img08",
-      "arquivo": "imagens/img08.jpg",
-      "query": "File:Flickr - Official U.S. Navy Imagery - U.S. Navy ships transit the Strait of Hormuz..jpg"
     }
   ]
 }
