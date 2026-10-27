@@ -1,3 +1,37 @@
+APROVADO
+
+# Revisão rodada 2: 2026-10-29-divida-publica (SHA 2347ca8), 27 out 2026
+
+Li os 10 JPEGs e o `post.json`, conferi os números contra `dados_oficiais.md` e a planilha (já verificados na rodada 1) e conferi de novo a Selic de 13,75% (corte de 16 set 2026, sem Copom depois disso). O payload `metricool.py payload ... --sha 2347ca8 --rascunho` saiu com rc=0, e a legenda tem 1.500 caracteres (máximo de 2.200).
+
+| Item | Situação |
+|---|---|
+| 1. Capa e 1ª linha da legenda ("Quase 29% do Orçamento de 2026 é só rolagem...") | ok, aplicado |
+| 2. Slide 2 (receita líquida R$ 2,33 tri, despesa R$ 2,39 tri, 61,7 / 950,6) | ok, aplicado |
+| 3. Slide 5, etapa 4 ("Paga títulos que vencem e demais despesas") | ok, aplicado |
+| 4. Slide 7 (custo segue a taxa básica, governo central, R$ 891,9 bi, 82,9%) e legenda | ok, aplicado |
+| 5. Slide 4 (título "dívida interna federal", base R$ 8,94 tri, nota 99,9%) | ok, aplicado |
+| 6. Slide 9 ("Juros + amortização sem rolagem"; dotação, não gasto; 28,7 + 16,4 = 45,1%) | ok, aplicado. Soma das fatias: 6.344,7 |
+| 7. Slide 8 (nota dos juros por competência, soma 99,9%, subtítulo) | ok, aplicado. O subtítulo está legível (ver observação) |
+| Frase nova do slide 5 ("paga o conjunto das despesas, sobretudo títulos que vencem") | ok. É correta (caixa único, e a maior parte do dinheiro de títulos vai para títulos que vencem) e é coerente com a etapa 4 e com a regra de ouro |
+| Subtítulo novo do slide 8 ("Despesas de 2025, em R$ bi. Fonte: Tesouro e Banco Central.") | ok. A nota da pizza mantém o detalhe da fonte |
+| Recomendações da rodada 1 (slide 6, taxas do slide 3, legenda sem "O mecanismo é simples", img06 em uso) | ok, todas aplicadas |
+| Gradiente `escuro` (render.py e template) | ok. É opcional, não muda os outros posts e melhora a leitura dos gráficos (slides 2, 4, 6, 7 e 8) |
+| Estilo: palavras por slide 43/43/22/37/29/45/11/27, 2 títulos (slides 8 e 9), sem emoji, sem perguntas, 1º comentário vazio | ok |
+| Isenção | ok. Não culpa governos e trata a Selic como mecanismo |
+| Imagens: licenças (CC BY-SA 4.0, CC BY 2.0, domínio público), créditos no slide e na legenda, fotos coloridas | ok |
+| Visual: números de slide 1/10 a 10/10, nada cortado, texto legível | ok |
+| Fotos repetidas (img01 nos slides 1 e 6, img02 nos 2 e 8, img05 nos 5 e 9) | aceito. Só há 6 fotos livres e o visual está bom |
+
+## Observações (não bloqueiam)
+- **Slide 2:** "R$" fica no fim da linha e o número cai na linha seguinte ("R$ / 2,33 tri" e "R$ / 950,6 bi"). Para corrigir, use `R$&nbsp;2,33 tri` e `<em>R$&nbsp;950,6 bi</em>` no `texto_html`.
+- **Slide 8:** `"foco": "center 100%"` não tem efeito na img02, que é panorâmica e é cortada nas laterais. O subtítulo continua sobre os prédios, mas o negrito com o gradiente escuro está legível. Se houver uma nova renderização, vale `"foco": "30% center"` ou outra foto com céu atrás do título.
+- **Slide 3:** as taxas são de 26 out. O coordenador deve conferi-las na manhã de 28 out, antes de pedir a aprovação ao João, e atualizar os números e a data se mudarem.
+
+---
+
+# Rodada 1 (histórico)
+
 REPROVADO
 
 # Revisão: 2026-10-29-divida-publica (SHA d176514), 27 out 2026

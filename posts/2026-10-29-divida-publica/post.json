@@ -14,7 +14,7 @@
   "slides": [
     {
       "imagem": "img02",
-      "texto_html": "Em 2025, o governo central teve receita líquida de R$ 2,33 tri e despesa de R$ 2,39 tri: déficit primário de <strong>R$ 61,7 bi</strong>. Com os juros, o déficit nominal foi de <em>R$ 950,6 bi</em>. Para cobrir a diferença, o Tesouro vende títulos.",
+      "texto_html": "Em 2025, o governo central teve receita líquida de R$&nbsp;2,33 tri e despesa de R$&nbsp;2,39 tri: déficit primário de <strong>R$&nbsp;61,7 bi</strong>. Com os juros, o déficit nominal foi de <em>R$&nbsp;950,6 bi</em>. Para cobrir a diferença, o Tesouro vende títulos.",
       "grafico": {
         "tipo": "barras",
         "titulo": "Governo Central, 2025 (R$ bi)",
@@ -46,7 +46,7 @@
     },
     {
       "imagem": "img04",
-      "texto_html": "<strong>Quem empresta são, sobretudo, instituições. O Tesouro Direto, de 3,8 milhões de investidores, soma R$ 272 bi: cerca de 3% da dívida.</strong>",
+      "texto_html": "<strong>Quem empresta são, sobretudo, instituições. O Tesouro Direto, de 3,8 milhões de investidores, soma R$&nbsp;272 bi: cerca de 3% da dívida.</strong>",
       "grafico": {
         "tipo": "pizza",
         "titulo": "Quem detém a dívida interna federal (ago/26)",
@@ -145,7 +145,7 @@
     },
     {
       "imagem": "img03",
-      "texto_html": "Com a Selic em 13,75% e mais da metade da dívida atrelada a ela, o custo segue a taxa básica, e juros não pagos viram dívida. Em 2025, o governo central teve R$ 891,9 bi de juros. A dívida bruta chegou a 82,9% do PIB.",
+      "texto_html": "Com a Selic em 13,75% e mais da metade da dívida atrelada a ela, o custo segue a taxa básica, e juros não pagos viram dívida. Em 2025, o governo central teve R$&nbsp;891,9 bi de juros. A dívida bruta chegou a 82,9% do PIB.",
       "grafico": {
         "tipo": "barras",
         "titulo": "Dívida bruta do governo geral (% do PIB)",
