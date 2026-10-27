@@ -62,24 +62,221 @@
   "alt_text": "Carrossel sobre os 70 anos da Revolução Húngara de 1956, com fotos históricas e a sequência dos fatos.",
   "ia_gerado": false,
   "fontes": [
-    {"nome": "Office of the Historian (Dep. de Estado dos EUA), FRUS 1955-57 vol. XXV, Eastern Europe", "url": "https://history.state.gov/historicaldocuments/frus1955-57v25"},
-    {"nome": "Encyclopaedia Britannica, Hungarian Revolution", "url": "https://www.britannica.com/event/Hungarian-Revolution-1956"},
-    {"nome": "ACNUR, Refugiados húngaros de 1956", "url": "https://www.unhcr.org/news/stories/hungarian-refugees-1956"},
-    {"nome": "National Security Archive (GWU), The 1956 Hungarian Revolution", "url": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB76/"}
+    {
+      "nome": "Office of the Historian (Dep. de Estado dos EUA), FRUS 1955-57 vol. XXV, Eastern Europe",
+      "url": "https://history.state.gov/historicaldocuments/frus1955-57v25"
+    },
+    {
+      "nome": "Encyclopaedia Britannica, Hungarian Revolution",
+      "url": "https://www.britannica.com/event/Hungarian-Revolution-1956"
+    },
+    {
+      "nome": "ACNUR, Refugiados húngaros de 1956",
+      "url": "https://www.unhcr.org/news/stories/hungarian-refugees-1956"
+    },
+    {
+      "nome": "National Security Archive (GWU), The 1956 Hungarian Revolution",
+      "url": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB76/"
+    }
   ],
   "busca_imagens": [
-    {"id": "img01", "query": "incategory:\"Hungarian Revolution of 1956\" Budapest flag hole", "alternativas": ["Hungarian revolution 1956 flag Budapest", "Hungarian Revolution 1956 Budapest crowd"], "pb": true},
-    {"id": "img02", "query": "Stalin Monument Budapest 1956 toppled", "alternativas": ["incategory:\"Stalin Monument (Budapest)\"", "Stalin statue head Budapest 1956"], "pb": true},
-    {"id": "img03", "query": "Imre Nagy portrait", "alternativas": ["Nagy Imre Fortepan"], "pb": true},
-    {"id": "img04", "query": "Kossuth Square Budapest 1956 Parliament", "alternativas": ["Hungarian Parliament Building Kossuth tér"], "pb": true},
-    {"id": "img05", "query": "incategory:\"Hungarian Revolution of 1956\" Soviet tank Budapest", "alternativas": ["Hungarian Revolution 1956 tank Budapest Fortepan"], "pb": true},
-    {"id": "img06", "query": "Hungarian Revolution 1956 Budapest street Fortepan", "alternativas": ["incategory:\"Hungarian Revolution of 1956\" street"], "pb": true},
-    {"id": "img07", "query": "File:1956 Suez war - conquest of Sinai.jpg", "alternativas": ["Suez crisis 1956 Port Said"], "pb": true},
-    {"id": "img08", "query": "Hungarian Revolution 1956 destroyed building Budapest", "alternativas": ["incategory:\"Hungarian Revolution of 1956\" ruins", "Corvin köz 1956"], "pb": true},
-    {"id": "img09", "query": "Imre Nagy reburial 1989 Heroes Square", "alternativas": ["Nagy Imre újratemetése 1989", "Heroes Square Budapest"]}
+    {
+      "id": "img01",
+      "query": "incategory:\"Hungarian Revolution of 1956\" Budapest flag hole",
+      "alternativas": [
+        "Hungarian revolution 1956 flag Budapest",
+        "Hungarian Revolution 1956 Budapest crowd"
+      ],
+      "pb": true
+    },
+    {
+      "id": "img02",
+      "query": "Stalin Monument Budapest 1956 toppled",
+      "alternativas": [
+        "incategory:\"Stalin Monument (Budapest)\"",
+        "Stalin statue head Budapest 1956"
+      ],
+      "pb": true
+    },
+    {
+      "id": "img03",
+      "query": "Imre Nagy portrait",
+      "alternativas": [
+        "Nagy Imre Fortepan"
+      ],
+      "pb": true
+    },
+    {
+      "id": "img04",
+      "query": "Kossuth Square Budapest 1956 Parliament",
+      "alternativas": [
+        "Hungarian Parliament Building Kossuth tér"
+      ],
+      "pb": true
+    },
+    {
+      "id": "img05",
+      "query": "incategory:\"Hungarian Revolution of 1956\" Soviet tank Budapest",
+      "alternativas": [
+        "Hungarian Revolution 1956 tank Budapest Fortepan"
+      ],
+      "pb": true
+    },
+    {
+      "id": "img06",
+      "query": "Hungarian Revolution 1956 Budapest street Fortepan",
+      "alternativas": [
+        "incategory:\"Hungarian Revolution of 1956\" street"
+      ],
+      "pb": true
+    },
+    {
+      "id": "img07",
+      "query": "File:1956 Suez war - conquest of Sinai.jpg",
+      "alternativas": [
+        "Suez crisis 1956 Port Said"
+      ],
+      "pb": true
+    },
+    {
+      "id": "img08",
+      "query": "Hungarian Revolution 1956 destroyed building Budapest",
+      "alternativas": [
+        "incategory:\"Hungarian Revolution of 1956\" ruins",
+        "Corvin köz 1956"
+      ],
+      "pb": true
+    },
+    {
+      "id": "img09",
+      "query": "Imre Nagy reburial 1989 Heroes Square",
+      "alternativas": [
+        "Nagy Imre újratemetése 1989",
+        "Heroes Square Budapest"
+      ]
+    }
   ],
   "agendamento": {
     "data_hora": "2026-10-27T18:01:00-03:00",
     "slot": "18:01"
-  }
+  },
+  "imagens": [
+    {
+      "titulo": "Veteránok (3).jpg",
+      "autor": "Elekes Andor",
+      "licenca": "CC BY-SA 4.0",
+      "exige_credito": true,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Veter%C3%A1nok_(3).jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Veter%C3%A1nok_%283%29.jpg/1920px-Veter%C3%A1nok_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 4000,
+      "altura": 3000,
+      "id": "img01",
+      "arquivo": "imagens/img01.jpg",
+      "query": "incategory:\"Hungarian Revolution of 1956\" Budapest flag hole"
+    },
+    {
+      "titulo": "Hungarian Revolution of 1956 collage.jpg",
+      "autor": "Главцентроархив",
+      "licenca": "CC0",
+      "exige_credito": false,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Hungarian_Revolution_of_1956_collage.jpg",
+      "url_download": "https://upload.wikimedia.org/wikipedia/commons/9/91/Hungarian_Revolution_of_1956_collage.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largura": 1088,
+      "altura": 1452,
+      "id": "img02",
+      "arquivo": "imagens/img02.jpg",
+      "query": "Stalin Monument Budapest 1956 toppled"
+    },
+    {
+      "titulo": "Imre Nagy portrait.jpg",
+      "autor": "ismeretlen szerző(Nagy Imre Emlékház tulajdona)",
+      "licenca": "Public domain",
+      "exige_credito": false,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Imre_Nagy_portrait.jpg",
+      "url_download": "https://upload.wikimedia.org/wikipedia/commons/6/69/Imre_Nagy_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largura": 800,
+      "altura": 1076,
+      "id": "img03",
+      "arquivo": "imagens/img03.jpg",
+      "query": "Imre Nagy portrait"
+    },
+    {
+      "titulo": "Budapest - IN MEMORIAM 1956. Oktober 25 (38426112816).jpg",
+      "autor": "Fred Romero from Paris, France",
+      "licenca": "CC BY 2.0",
+      "exige_credito": true,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Budapest_-_IN_MEMORIAM_1956._Oktober_25_(38426112816).jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Budapest_-_IN_MEMORIAM_1956._Oktober_25_%2838426112816%29.jpg/1920px-Budapest_-_IN_MEMORIAM_1956._Oktober_25_%2838426112816%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 5184,
+      "altura": 3456,
+      "id": "img04",
+      "arquivo": "imagens/img04.jpg",
+      "query": "Kossuth Square Budapest 1956 Parliament"
+    },
+    {
+      "titulo": "Tank és sétáló, bámészkodó emberek, 1956 Budapest. Fortepan 93007.jpg",
+      "autor": "FOTO:Fortepan — ID 93007: Adományozó/Donor: Hofbauer Róbert. archive copy at the Wayback Machine",
+      "licenca": "CC BY-SA 3.0",
+      "exige_credito": true,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Tank_%C3%A9s_s%C3%A9t%C3%A1l%C3%B3,_b%C3%A1m%C3%A9szkod%C3%B3_emberek,_1956_Budapest._Fortepan_93007.jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Tank_%C3%A9s_s%C3%A9t%C3%A1l%C3%B3%2C_b%C3%A1m%C3%A9szkod%C3%B3_emberek%2C_1956_Budapest._Fortepan_93007.jpg/1920px-Tank_%C3%A9s_s%C3%A9t%C3%A1l%C3%B3%2C_b%C3%A1m%C3%A9szkod%C3%B3_emberek%2C_1956_Budapest._Fortepan_93007.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 8346,
+      "altura": 5892,
+      "id": "img05",
+      "arquivo": "imagens/img05.jpg",
+      "query": "incategory:\"Hungarian Revolution of 1956\" Soviet tank Budapest"
+    },
+    {
+      "titulo": "Corvin köz, Üllői út, József körút kereszteződés, ISZU-152 rohamlöveg (1956) Fortepan 6412.jpg",
+      "autor": "Fortepan",
+      "licenca": "CC BY-SA 3.0",
+      "exige_credito": true,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Corvin_k%C3%B6z,_%C3%9Cll%C5%91i_%C3%BAt,_J%C3%B3zsef_k%C3%B6r%C3%BAt_keresztez%C5%91d%C3%A9s,_ISZU-152_rohaml%C3%B6veg_(1956)_Fortepan_6412.jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Corvin_k%C3%B6z%2C_%C3%9Cll%C5%91i_%C3%BAt%2C_J%C3%B3zsef_k%C3%B6r%C3%BAt_keresztez%C5%91d%C3%A9s%2C_ISZU-152_rohaml%C3%B6veg_%281956%29_Fortepan_6412.jpg/1920px-Corvin_k%C3%B6z%2C_%C3%9Cll%C5%91i_%C3%BAt%2C_J%C3%B3zsef_k%C3%B6r%C3%BAt_keresztez%C5%91d%C3%A9s%2C_ISZU-152_rohaml%C3%B6veg_%281956%29_Fortepan_6412.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 2712,
+      "altura": 1995,
+      "id": "img06",
+      "arquivo": "imagens/img06.jpg",
+      "query": "Hungarian Revolution 1956 Budapest street Fortepan"
+    },
+    {
+      "titulo": "1956 Suez war - conquest of Sinai.jpg",
+      "autor": "Autor desconhecido",
+      "licenca": "Public domain",
+      "exige_credito": false,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:1956_Suez_war_-_conquest_of_Sinai.jpg",
+      "url_download": "https://upload.wikimedia.org/wikipedia/commons/9/96/1956_Suez_war_-_conquest_of_Sinai.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largura": 740,
+      "altura": 918,
+      "id": "img07",
+      "arquivo": "imagens/img07.jpg",
+      "query": "File:1956 Suez war - conquest of Sinai.jpg"
+    },
+    {
+      "titulo": "Üllői út 61-63., a Berzenczey utca sarkánál a Tátra (később Balaton) mozi. Fortepan 24429.jpg",
+      "autor": "FOTO:Fortepan — ID 24429: Adományozó/Donor: Nagy Gyula. archive copy at the Wayback Machine",
+      "licenca": "CC BY-SA 3.0",
+      "exige_credito": true,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:%C3%9Cll%C5%91i_%C3%BAt_61-63.,_a_Berzenczey_utca_sark%C3%A1n%C3%A1l_a_T%C3%A1tra_(k%C3%A9s%C5%91bb_Balaton)_mozi._Fortepan_24429.jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/%C3%9Cll%C5%91i_%C3%BAt_61-63.%2C_a_Berzenczey_utca_sark%C3%A1n%C3%A1l_a_T%C3%A1tra_%28k%C3%A9s%C5%91bb_Balaton%29_mozi._Fortepan_24429.jpg/1920px-%C3%9Cll%C5%91i_%C3%BAt_61-63.%2C_a_Berzenczey_utca_sark%C3%A1n%C3%A1l_a_T%C3%A1tra_%28k%C3%A9s%C5%91bb_Balaton%29_mozi._Fortepan_24429.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 4840,
+      "altura": 3057,
+      "id": "img08",
+      "arquivo": "imagens/img08.jpg",
+      "query": "Hungarian Revolution 1956 destroyed building Budapest"
+    },
+    {
+      "titulo": "Lascar Hősök tere (Heroes' Square) (4544237936).jpg",
+      "autor": "Jorge Láscar from Australia",
+      "licenca": "CC BY 2.0",
+      "exige_credito": true,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Lascar_H%C5%91s%C3%B6k_tere_(Heroes%27_Square)_(4544237936).jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Lascar_H%C5%91s%C3%B6k_tere_%28Heroes%27_Square%29_%284544237936%29.jpg/1920px-Lascar_H%C5%91s%C3%B6k_tere_%28Heroes%27_Square%29_%284544237936%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 3216,
+      "altura": 2136,
+      "id": "img09",
+      "arquivo": "imagens/img09.jpg",
+      "query": "Imre Nagy reburial 1989 Heroes Square"
+    }
+  ]
 }
