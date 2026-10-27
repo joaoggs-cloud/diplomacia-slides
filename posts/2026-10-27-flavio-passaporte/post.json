@@ -72,6 +72,16 @@
     {
       "id": "img05",
       "query": "File:Alexandre de Moraes (2023).jpg"
+    },
+    {
+      "id": "img06",
+      "query": "File:Sessão plenária do STF - 2026 02 12 (55092599809).jpg",
+      "alternativas": []
+    },
+    {
+      "id": "img07",
+      "query": "File:Flávio Bolsonaro - 55503046138 (cropped).jpg",
+      "alternativas": []
     }
   ],
   "agendamento": {
