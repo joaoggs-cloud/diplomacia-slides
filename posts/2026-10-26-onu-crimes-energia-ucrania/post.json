@@ -12,25 +12,83 @@
     "titulo_html": "ONU conclui que ataques russos à <span class=\"hl2\">rede de energia</span> da Ucrânia são crimes de guerra",
     "gancho": "A comissão de inquérito da ONU também vê crimes contra a humanidade. O relatório foi apresentado à Assembleia Geral nesta segunda (26).",
     "graficos": [
-      {"tipo": "numero", "titulo": "Relatos ouvidos", "texto": "255", "nota": "Pessoas que enfrentaram o inverno"},
-      {"tipo": "numero", "titulo": "Crimes apontados", "texto": "2", "nota": "Guerra e contra a humanidade"},
-      {"tipo": "numero", "titulo": "Presidente", "texto": "Erik Møse", "nota": "Comissão de Inquérito da ONU"}
+      {
+        "tipo": "numero",
+        "titulo": "Relatos ouvidos",
+        "texto": "255",
+        "nota": "Pessoas que enfrentaram o inverno"
+      },
+      {
+        "tipo": "numero",
+        "titulo": "Crimes apontados",
+        "texto": "2",
+        "nota": "Guerra e contra a humanidade"
+      },
+      {
+        "tipo": "numero",
+        "titulo": "Presidente",
+        "texto": "Erik Møse",
+        "nota": "Comissão de Inquérito da ONU"
+      }
     ]
   },
   "slides": [],
   "legenda": "A comissão de inquérito da ONU concluiu que os ataques russos à infraestrutura de energia da Ucrânia constituem crimes de guerra e crimes contra a humanidade.\n\nO relatório foi apresentado à Assembleia Geral nesta segunda (26) pela comissão, presidida por Erik Møse, e se baseia em relatos de 255 pessoas que enfrentaram o inverno em condições duras em várias regiões. Segundo o órgão, os ataques atingiram bens civis e causaram grande sofrimento à população.\n\nA comissão é um órgão de investigação ligado ao Conselho de Direitos Humanos da ONU, não um tribunal: as conclusões não são sentenças.\n\nA pergunta que fica: o que a comunidade internacional pode fazer, na prática, a partir de conclusões como essas?",
   "primeiro_comentario": "Relatórios de comissões da ONU costumam servir de base para processos futuros, mas não têm poder de punir. Na sua leitura, qual é o peso real desse tipo de documento?",
-  "hashtags": ["#ucrania", "#onu", "#russia", "#direitointernacional", "#crimesdeguerra", "#diplomaciadaguerra"],
+  "hashtags": [
+    "#ucrania",
+    "#onu",
+    "#russia",
+    "#direitointernacional",
+    "#crimesdeguerra",
+    "#diplomaciadaguerra"
+  ],
   "fontes": [
-    {"nome": "OHCHR", "url": "https://www.ohchr.org/en/press-releases/2026/10/russian-authorities-committed-crimes-against-humanity-through-attacks"},
-    {"nome": "ONU News", "url": "https://news.un.org/en/story/2026/10/1168670"},
-    {"nome": "CNN", "url": "https://edition.cnn.com/2026/10/26/europe/un-report-russia-ukraine-intl"},
-    {"nome": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/10/26/russian-attacks-on-ukraines-energy-infrastructure-a-war-crime-un"}
+    {
+      "nome": "OHCHR",
+      "url": "https://www.ohchr.org/en/press-releases/2026/10/russian-authorities-committed-crimes-against-humanity-through-attacks"
+    },
+    {
+      "nome": "ONU News",
+      "url": "https://news.un.org/en/story/2026/10/1168670"
+    },
+    {
+      "nome": "CNN",
+      "url": "https://edition.cnn.com/2026/10/26/europe/un-report-russia-ukraine-intl"
+    },
+    {
+      "nome": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/26/russian-attacks-on-ukraines-energy-infrastructure-a-war-crime-un"
+    }
   ],
   "busca_imagens": [
-    {"id": "img01", "query": "File:CHP Station (TEC-5) in Kiev several hours after missile strike (54201641094).jpg", "alternativas": ["File:Kyiv after Russian shelling, 2022-10-10 (303).webp", "File:UN General Assembly hall.jpg"]}
+    {
+      "id": "img01",
+      "query": "File:CHP Station (TEC-5) in Kiev several hours after missile strike (54201641094).jpg",
+      "alternativas": [
+        "File:Kyiv after Russian shelling, 2022-10-10 (303).webp",
+        "File:UN General Assembly hall.jpg"
+      ]
+    }
   ],
-  "imagens": [],
-  "agendamento": {"data_hora": "2026-10-26T23:05:00-03:00", "slot": "extra"},
+  "imagens": [
+    {
+      "titulo": "CHP Station (TEC-5) in Kiev several hours after missile strike (54201641094).jpg",
+      "autor": "Estemelmo Nólemë",
+      "licenca": "CC BY 2.0",
+      "exige_credito": true,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:CHP_Station_(TEC-5)_in_Kiev_several_hours_after_missile_strike_(54201641094).jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/CHP_Station_%28TEC-5%29_in_Kiev_several_hours_after_missile_strike_%2854201641094%29.jpg/1920px-CHP_Station_%28TEC-5%29_in_Kiev_several_hours_after_missile_strike_%2854201641094%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 3120,
+      "altura": 2080,
+      "id": "img01",
+      "arquivo": "imagens/img01.jpg",
+      "query": "File:CHP Station (TEC-5) in Kiev several hours after missile strike (54201641094).jpg"
+    }
+  ],
+  "agendamento": {
+    "data_hora": "2026-10-26T23:05:00-03:00",
+    "slot": "extra"
+  },
   "metricool": {}
 }
