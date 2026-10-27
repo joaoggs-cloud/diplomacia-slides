@@ -135,4 +135,4 @@ Sugestão de uso (6-8 imagens): capa = Port Said de cima (IWM) ou canal ISS (col
 
 ## Reservas
 1. **Pearson e os primeiros capacetes azuis (UNEF)**: como o Canadá inventou o peacekeeping em 1956 (fatos 12 e 15 já levantados).
-2. **Tratado de Brest-Litovsk / ou 70 anos da Revolução Húngara de 1956 (23 out-11 nov)**: levante húngaro e invasão soviética de 4 nov, em paralelo à Suez (fato 16 como ponto de partida).
+2. **70 anos da Revolução Húngara de 1956 (23 out-11 nov)**: levante húngaro e invasão soviética de 4 nov, em paralelo à Suez (fato 16 como ponto de partida).
