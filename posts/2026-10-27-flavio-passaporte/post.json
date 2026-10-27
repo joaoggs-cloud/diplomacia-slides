@@ -135,6 +135,32 @@
       "id": "img05",
       "arquivo": "imagens/img05.jpg",
       "query": "File:Alexandre de Moraes (2023).jpg"
+    },
+    {
+      "titulo": "Sessão plenária do STF - 2026 02 12 (55092599809).jpg",
+      "autor": "Rosinei Coutinho / STF",
+      "licenca": "Attribution",
+      "exige_credito": true,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Sess%C3%A3o_plen%C3%A1ria_do_STF_-_2026_02_12_(55092599809).jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Sess%C3%A3o_plen%C3%A1ria_do_STF_-_2026_02_12_%2855092599809%29.jpg/1920px-Sess%C3%A3o_plen%C3%A1ria_do_STF_-_2026_02_12_%2855092599809%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 7484,
+      "altura": 5464,
+      "id": "img06",
+      "arquivo": "imagens/img06.jpg",
+      "query": "File:Sessão plenária do STF - 2026 02 12 (55092599809).jpg"
+    },
+    {
+      "titulo": "Flávio Bolsonaro - 55503046138 (cropped).jpg",
+      "autor": "Carlos Moura/Agência Senado",
+      "licenca": "CC BY-SA 4.0",
+      "exige_credito": true,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Fl%C3%A1vio_Bolsonaro_-_55503046138_(cropped).jpg",
+      "url_download": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Fl%C3%A1vio_Bolsonaro_-_55503046138_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largura": 785,
+      "altura": 997,
+      "id": "img07",
+      "arquivo": "imagens/img07.jpg",
+      "query": "File:Flávio Bolsonaro - 55503046138 (cropped).jpg"
     }
   ]
 }
