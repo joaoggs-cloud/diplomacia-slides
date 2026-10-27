@@ -271,6 +271,10 @@
   "metricool": {
     "id": 407322437,
     "uuid": "-2592814098299206187",
-    "sha_slides": "ca860226193e3fa39f886989e97eee28acab9f1b"
+    "sha_slides": "ca860226193e3fa39f886989e97eee28acab9f1b",
+    "story": {
+      "id": 407340588,
+      "uuid": "-3946376744387852029"
+    }
   }
 }

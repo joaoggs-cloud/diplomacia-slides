@@ -308,7 +308,11 @@
     "id": "406143712",
     "uuid": "4746329638521029185",
     "sha_slides": "e960f80b7e42b3d1bc620cc453f19c6452b504fc",
-    "planner_url": "https://app.metricool.com/planner/calendar?blogId=7647378&openWithPostUuid=4746329638521029185"
+    "planner_url": "https://app.metricool.com/planner/calendar?blogId=7647378&openWithPostUuid=4746329638521029185",
+    "story": {
+      "id": 407340447,
+      "uuid": "-4209317719840636374"
+    }
   },
   "verificacao": "Datas e fatos conferidos com JFK Library, Office of the Historian e National Security Archive.",
   "aprovado_em": "2026-10-25"
