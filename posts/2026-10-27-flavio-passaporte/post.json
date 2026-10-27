@@ -1,7 +1,7 @@
 {
   "slug": "2026-10-27-flavio-passaporte",
   "titulo_interno": "STF manda Flávio Bolsonaro entregar passaportes à PF",
-  "status": "rascunho",
+  "status": "aguardando_aprovacao",
   "formato": "noticia",
   "layout": "moderno",
   "pilar": "atualidade_brasil",
@@ -73,7 +73,15 @@
     "data_hora": "2026-10-27T08:01:00-03:00",
     "slot": "extra"
   },
-  "metricool": {},
+  "metricool": {
+    "id": 407350674,
+    "uuid": "-7172221869890649191",
+    "sha_slides": "d6dff4ff631014fe7353bc3270a72d56f3fc5f8d",
+    "story": {
+      "id": 407350711,
+      "uuid": "6638246291581192812"
+    }
+  },
   "verificacao": "Fatos da pauta (Agência Brasil, Poder360, CNN, Folhapress). Sem R$ 6 bi, sem Dark Horse, sem afirmar recurso ou cumprimento; fundamento atribuído à imprensa; decisão sob sigilo.",
   "imagens": [
     {
