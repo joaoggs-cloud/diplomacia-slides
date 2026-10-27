@@ -1,0 +1,381 @@
+{
+  "slug": "2026-10-29-divida-publica",
+  "titulo_interno": "Dívida pública: o caminho do dinheiro",
+  "status": "rascunho",
+  "pilar": "fatos_rapidos",
+  "categoria": "Economia · Brasil",
+  "gancho_tipo": "numero_contraste",
+  "layout": "moderno",
+  "capa": {
+    "imagem": "img01",
+    "titulo_html": "Quase 29 de cada 100 reais do Orçamento de 2026 servem só para <span class=\"hl\">rolar</span> a <span class=\"hl2\">dívida</span>",
+    "gancho": "O caminho do dinheiro: do título que o Tesouro vende até a conta de juros."
+  },
+  "slides": [
+    {
+      "imagem": "img02",
+      "texto_html": "Em 2025, o governo central arrecadou R$ 2,33 tri e gastou R$ 2,39 tri: déficit primário de <strong>R$ 61,7 bi</strong>. Com os juros, o déficit nominal foi de <em>R$ 950,6 bi</em>. Para cobrir a diferença, o Tesouro vende títulos públicos.",
+      "grafico": {
+        "tipo": "barras",
+        "titulo": "Governo Central, 2025 (R$ bi)",
+        "itens": [
+          {
+            "rotulo": "Receita líquida",
+            "valor": 2332,
+            "texto": "2.332"
+          },
+          {
+            "rotulo": "Despesa total",
+            "valor": 2394,
+            "texto": "2.394",
+            "destaque": true
+          }
+        ],
+        "nota": "Fonte: Tesouro Nacional (RTN). Despesa primária, sem juros."
+      }
+    },
+    {
+      "imagem": "img03",
+      "texto_html": "O Tesouro Selic segue a taxa básica (Selic + 0,10% ao ano no de 2031, em 22 out). O Prefixado trava a taxa (cerca de 15,3% no de 2029, em 26 out). O IPCA+ soma inflação e taxa (perto de 8% nos longos, em 26 out).",
+      "numero": {
+        "valor": "R$ 9,29 TRI",
+        "label": "Dívida Pública Federal em ago/26. Taxas são indicativas e mudam todo dia."
+      }
+    },
+    {
+      "imagem": "img04",
+      "texto_html": "Quem empresta são, sobretudo, instituições. O Tesouro Direto, de 3,8 milhões de investidores, soma R$ 272 bi: cerca de 3% da dívida.",
+      "grafico": {
+        "tipo": "pizza",
+        "titulo": "Quem detém a dívida federal (ago/26)",
+        "itens": [
+          {
+            "rotulo": "Instituições financeiras",
+            "valor": 31.2,
+            "texto": "31,2%"
+          },
+          {
+            "rotulo": "Previdência",
+            "valor": 22.6,
+            "texto": "22,6%"
+          },
+          {
+            "rotulo": "Fundos de investimento",
+            "valor": 22.5,
+            "texto": "22,5%"
+          },
+          {
+            "rotulo": "Não residentes",
+            "valor": 9.9,
+            "texto": "9,9%"
+          },
+          {
+            "rotulo": "Seguradoras, governo e outros",
+            "valor": 13.7,
+            "texto": "13,7%"
+          }
+        ],
+        "nota": "Fonte: Tesouro Nacional, Relatório Mensal da Dívida (ago/26). Soma 99,9% por arredondamento."
+      }
+    },
+    {
+      "imagem": "img05",
+      "texto_html": "O dinheiro cai no caixa único da União e paga o conjunto das despesas, de escolas a benefícios. Pela regra de ouro, a Constituição não deixa emitir dívida acima dos investimentos e amortizações, salvo autorização do Congresso.",
+      "grafico": {
+        "tipo": "linha_do_tempo",
+        "titulo": "O caminho do dinheiro",
+        "itens": [
+          {
+            "quando": "1. Venda",
+            "texto": "O Tesouro emite o título"
+          },
+          {
+            "quando": "2. Compra",
+            "texto": "Banco, fundo ou pessoa paga por ele"
+          },
+          {
+            "quando": "3. Caixa único",
+            "texto": "O dinheiro entra nas contas da União"
+          },
+          {
+            "quando": "4. Gasto",
+            "texto": "Salários, saúde, educação, benefícios"
+          }
+        ]
+      }
+    },
+    {
+      "imagem": "img06",
+      "texto_html": "No vencimento, o Tesouro paga o valor com juros e rola a dívida, emitindo títulos novos. Mais da metade já segue a Selic.",
+      "grafico": {
+        "tipo": "pizza",
+        "titulo": "Indexadores da dívida federal (ago/26)",
+        "itens": [
+          {
+            "rotulo": "Selic (flutuante)",
+            "valor": 52.74,
+            "texto": "52,7%",
+            "cor": "#e0b84f"
+          },
+          {
+            "rotulo": "Inflação (IPCA)",
+            "valor": 23.22,
+            "texto": "23,2%",
+            "cor": "#5fa8d3"
+          },
+          {
+            "rotulo": "Prefixado",
+            "valor": 20.31,
+            "texto": "20,3%",
+            "cor": "#d97b66"
+          },
+          {
+            "rotulo": "Câmbio",
+            "valor": 3.74,
+            "texto": "3,7%",
+            "cor": "#8fbf7f"
+          }
+        ],
+        "nota": "Fonte: Tesouro Nacional (RMD ago/26). Selic: recorde da série, iniciada em dez/2000."
+      }
+    },
+    {
+      "imagem": "img04",
+      "foco": "center 40%",
+      "texto_html": "Com a Selic em 13,75% e metade da dívida atrelada a ela, os juros entram no estoque. Em 2025, os juros nominais da União foram de R$ 891,9 bi. A dívida bruta passou de 74,4% do PIB em 2019 para 82,9% em ago/26.",
+      "grafico": {
+        "tipo": "barras",
+        "titulo": "Dívida bruta do governo geral (% do PIB)",
+        "itens": [
+          {
+            "rotulo": "2019",
+            "valor": 74.4,
+            "texto": "74,4"
+          },
+          {
+            "rotulo": "2020",
+            "valor": 86.9,
+            "texto": "86,9"
+          },
+          {
+            "rotulo": "2021",
+            "valor": 77.3,
+            "texto": "77,3"
+          },
+          {
+            "rotulo": "2022",
+            "valor": 71.7,
+            "texto": "71,7"
+          },
+          {
+            "rotulo": "2023",
+            "valor": 73.8,
+            "texto": "73,8"
+          },
+          {
+            "rotulo": "2024",
+            "valor": 76.3,
+            "texto": "76,3"
+          },
+          {
+            "rotulo": "2025",
+            "valor": 78.6,
+            "texto": "78,6"
+          },
+          {
+            "rotulo": "ago/26",
+            "valor": 82.9,
+            "texto": "82,9",
+            "destaque": true
+          }
+        ],
+        "nota": "Fonte: Banco Central (série 13762). Dezembro de cada ano; último ponto: ago/26."
+      }
+    },
+    {
+      "imagem": "img01",
+      "titulo": "Para onde foi o dinheiro da União em 2025",
+      "texto_html": "Salários de professores, médicos e militares estão em “Servidores”, não em saúde, educação ou defesa. Fonte: Tesouro Nacional (RTN).",
+      "grafico": {
+        "tipo": "pizza",
+        "titulo": "Total: R$ 3.855,8 bi (R$ bi · %)",
+        "itens": [
+          {
+            "rotulo": "Previdência (INSS)",
+            "valor": 1026.9,
+            "texto": "1.026,9 · 26,6%"
+          },
+          {
+            "rotulo": "Juros da dívida",
+            "valor": 891.9,
+            "texto": "891,9 · 23,1%"
+          },
+          {
+            "rotulo": "Repasses a estados e municípios",
+            "valor": 569.7,
+            "texto": "569,7 · 14,8%"
+          },
+          {
+            "rotulo": "Servidores",
+            "valor": 402.6,
+            "texto": "402,6 · 10,4%"
+          },
+          {
+            "rotulo": "Saúde",
+            "valor": 228.6,
+            "texto": "228,6 · 5,9%"
+          },
+          {
+            "rotulo": "Bolsa Família",
+            "valor": 158.1,
+            "texto": "158,1 · 4,1%"
+          },
+          {
+            "rotulo": "BPC",
+            "valor": 127.2,
+            "texto": "127,2 · 3,3%"
+          },
+          {
+            "rotulo": "Educação",
+            "valor": 101.0,
+            "texto": "101,0 · 2,6%"
+          },
+          {
+            "rotulo": "Abono e seguro-desemprego",
+            "valor": 87.8,
+            "texto": "87,8 · 2,3%"
+          },
+          {
+            "rotulo": "Defesa e segurança*",
+            "valor": 18.2,
+            "texto": "18,2 · 0,5%"
+          },
+          {
+            "rotulo": "Demais despesas",
+            "valor": 243.9,
+            "texto": "243,9 · 6,3%"
+          }
+        ],
+        "nota": "*Só discricionárias. Governo Central + repasses + juros nominais, 2025."
+      }
+    },
+    {
+      "imagem": "img05",
+      "foco": "center 30%",
+      "titulo": "O “45%” do Orçamento de 2026",
+      "texto_html": "Rolagem é trocar dívida velha por nova. Com juros e amortização, soma 45,1% do Orçamento de 2026, que é dotação aprovada, não gasto.",
+      "grafico": {
+        "tipo": "pizza",
+        "titulo": "Orçamento 2026: R$ 6.344,7 bi",
+        "itens": [
+          {
+            "rotulo": "Rolagem da dívida",
+            "valor": 1822.9,
+            "texto": "R$ 1.823 bi · 28,7%",
+            "cor": "#d97b66"
+          },
+          {
+            "rotulo": "Juros + amortização",
+            "valor": 1041.0,
+            "texto": "R$ 1.041 bi · 16,4%",
+            "cor": "#e0b84f"
+          },
+          {
+            "rotulo": "Previdência (aprox.)",
+            "valor": 1110,
+            "texto": "R$ 1.110 bi · 17,5%"
+          },
+          {
+            "rotulo": "Demais despesas",
+            "valor": 2370.8,
+            "texto": "R$ 2.371 bi · 37,4%",
+            "cor": "#8a8a8a"
+          }
+        ],
+        "nota": "Fonte: LOA 2026 (Lei 15.346), Orçamento Fiscal e da Seguridade."
+      }
+    }
+  ],
+  "cta": {
+    "titulo": "Salve este post",
+    "subtitulo": "e compartilhe com quem precisa saber"
+  },
+  "legenda": "Quase 29 de cada 100 reais do Orçamento de 2026 servem só para rolar a dívida pública.\n\nO mecanismo é simples. O governo gasta mais do que arrecada, o Tesouro vende títulos, instituições e investidores compram, o dinheiro entra no caixa único da União e, no vencimento, a dívida é paga com juros ou trocada por títulos novos. Como mais da metade do estoque (52,7% em ago/26, recorde da série) segue a Selic, os juros se somam à dívida todos os meses.\n\nNos slides, o caminho completo, com os números oficiais do Tesouro Nacional, do Banco Central e do Orçamento. Taxas dos títulos são indicativas e mudam todo dia. O Orçamento de 2026 mostra valores aprovados, não gastos realizados.\n\nArraste para o lado.",
+  "primeiro_comentario": "",
+  "hashtags": [
+    "#dividapublica",
+    "#economia",
+    "#tesourodireto",
+    "#selic",
+    "#orcamento",
+    "#brasil",
+    "#financaspublicas"
+  ],
+  "usar_hashtags_base": false,
+  "alt_text": "Carrossel explicando como funciona a dívida pública brasileira, com gráficos de pizza e barras sobre detentores, indexadores, gastos da União e Orçamento 2026.",
+  "fontes": [
+    {
+      "nome": "Tesouro Nacional/Fazenda: Dívida Pública Federal ago/26",
+      "url": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/setembro/divida-publica-federal-totaliza-r-9-29-trilhoes-em-agosto"
+    },
+    {
+      "nome": "Tesouro Nacional: Resultado do Tesouro Nacional, série histórica (jul/26)",
+      "url": "https://www.tesourotransparente.gov.br/publicacoes/boletim-resultado-do-tesouro-nacional-rtn/2025/12"
+    },
+    {
+      "nome": "Banco Central: Estatísticas fiscais, DBGG (SGS 13762)",
+      "url": "https://www.bcb.gov.br/estatisticas/estatisticasfiscais"
+    },
+    {
+      "nome": "Agência Brasil: Dívida Pública Federal fica estável em agosto",
+      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/divida-publica-federal-fica-estavel-em-agosto-e-chega-r-929-tri"
+    },
+    {
+      "nome": "Câmara dos Deputados: Raio X da Dívida Pública de agosto",
+      "url": "https://www.camara.leg.br/assessoria-de-imprensa/1310671-camara-dos-deputados-apresenta-raio-x-da-divida-publica-de-agosto"
+    },
+    {
+      "nome": "Câmara dos Deputados: Orçamento de 2026 aprovado",
+      "url": "https://www.camara.leg.br/noticias/1235253-congresso-nacional-aprova-orcamento-de-2026-com-r-65-trilhoes-em-despesas"
+    },
+    {
+      "nome": "Tesouro Transparente: Regra de ouro",
+      "url": "https://www.tesourotransparente.gov.br/videos/regra-de-ouro/informe-regra-de-ouro.pdf"
+    },
+    {
+      "nome": "InvestNews / Brasil 247: taxas do Tesouro Direto (22 e 26 out)",
+      "url": "https://investnews.com.br/investimentos/tesouro-direto-taxas-rendimento-hoje-prefixados-sobem-22102026/"
+    }
+  ],
+  "busca_imagens": [
+    {
+      "id": "img01",
+      "query": "File:Palácio do Congresso Nacional - Câmara dos Deputados.jpg"
+    },
+    {
+      "id": "img02",
+      "query": "File:Esplanada dos Ministérios, Brasília DF 04 2006.jpg"
+    },
+    {
+      "id": "img03",
+      "query": "File:Imagens de Brasília - Praça dos Três Poderes - 49731519283.jpg"
+    },
+    {
+      "id": "img04",
+      "query": "File:Edifício \"Sede\" do Banco Central do Brasil em Brasília.jpg"
+    },
+    {
+      "id": "img05",
+      "query": "File:Imagens de Brasília - Palácio do Congresso Nacional (52730914148).jpg"
+    },
+    {
+      "id": "img06",
+      "query": "File:Palacio do Planalto.jpeg"
+    }
+  ],
+  "agendamento": {
+    "data_hora": "2026-10-29T06:01:00-03:00",
+    "slot": "06:01"
+  },
+  "verificacao": "Dados da pauta e de dados_oficiais.md (RTN série histórica, BC SGS 13762). Seguradoras agrupadas com governo e outros (13,7%) por pendência na pauta. Revisor deve conferir RMD ago/26, DBGG ago/26 e taxas do Tesouro Direto."
+}
