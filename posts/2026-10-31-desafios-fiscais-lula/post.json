@@ -50,7 +50,8 @@
           }
         ],
         "nota": "Banda de ±0,25 p.p. em 2026 e 2027. Metas de 2029 e 2030 constam do PLDO 2027"
-      }
+      },
+      "foco": "center 100%"
     },
     {
       "imagem": "img04",
@@ -106,8 +107,9 @@
       }
     },
     {
-      "imagem": "img08",
-      "texto_html": "Economistas citam outras frentes. Tiago Sbardelotto, da XP, defende rever os pisos de saúde e educação. Salto e Pellegrini, no Estadão, propõem um plano gradual de 3 a 4 anos. José Luis Oreiro, da UnB, critica: o ajuste recairia sobre os mais pobres."
+      "imagem": "img04",
+      "texto_html": "Economistas citam outras frentes. Tiago Sbardelotto, da XP, defende rever os pisos de saúde e educação. Salto e Pellegrini, no Estadão, propõem um plano gradual de 3 a 4 anos. José Luis Oreiro, da UnB, critica: o ajuste recairia sobre os mais pobres.",
+      "foco": "15% center"
     },
     {
       "imagem": "img09",
@@ -240,13 +242,6 @@
       ]
     },
     {
-      "id": "img08",
-      "query": "File:Esplanada dos Ministérios - 50494085438.jpg",
-      "alternativas": [
-        "File:Congresso Nacional (28348723292).jpg"
-      ]
-    },
-    {
       "id": "img09",
       "query": "File:Palácio do Congresso Nacional (48205178687).jpg",
       "alternativas": [
@@ -351,19 +346,6 @@
       "id": "img07",
       "arquivo": "imagens/img07.jpg",
       "query": "File:Imagens de Brasília - Palácio do Congresso Nacional (52730914148).jpg"
-    },
-    {
-      "titulo": "Esplanada dos Ministérios - 50494085438.jpg",
-      "autor": "Senado Federal",
-      "licenca": "CC BY 2.0",
-      "exige_credito": true,
-      "url_origem": "https://commons.wikimedia.org/wiki/File:Esplanada_dos_Minist%C3%A9rios_-_50494085438.jpg",
-      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Esplanada_dos_Minist%C3%A9rios_-_50494085438.jpg/1920px-Esplanada_dos_Minist%C3%A9rios_-_50494085438.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "largura": 3888,
-      "altura": 2592,
-      "id": "img08",
-      "arquivo": "imagens/img08.jpg",
-      "query": "File:Esplanada dos Ministérios - 50494085438.jpg"
     },
     {
       "titulo": "Palácio do Congresso Nacional (48205178687).jpg",
