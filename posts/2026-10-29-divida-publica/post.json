@@ -1,7 +1,7 @@
 {
   "slug": "2026-10-29-divida-publica",
   "titulo_interno": "Dívida pública: o caminho do dinheiro",
-  "status": "rascunho",
+  "status": "aguardando_aprovacao",
   "pilar": "fatos_rapidos",
   "categoria": "Economia · Brasil",
   "gancho_tipo": "numero_contraste",
@@ -464,5 +464,14 @@
       "arquivo": "imagens/img06.jpg",
       "query": "File:Palacio do Planalto.jpeg"
     }
-  ]
+  ],
+  "metricool": {
+    "id": 407760709,
+    "uuid": "-29215385990577509",
+    "sha_slides": "4de58c19562d927ec204ed710effd6a3a1c60e51",
+    "story": {
+      "id": 407760842,
+      "uuid": "5554042105228251025"
+    }
+  }
 }

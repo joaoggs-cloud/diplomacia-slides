@@ -1,4 +1,56 @@
-REPROVADO
+APROVADO
+
+Rodada 2 de `posts/2026-10-31-desafios-fiscais-lula` (HEAD 604dac7) · revisor · 27 out 2026. Aprovado com duas condições para o coordenador, listadas em C1 e C2. Nenhuma delas pede novo render.
+
+| Item | Resultado |
+|---|---|
+| 1. Fatos | ok |
+| 2. Isenção | ok |
+| 3. Imagens | ok (fotos repetidas aceitas; motivo abaixo) |
+| 4. Texto | ok (slides de 30 a 45 palavras, sem emoji, sem pergunta, `primeiro_comentario` vazio) |
+| 5. Visual | ok (10 JPEGs lidos; numeração de 2/10 a 10/10; nada cortado; barras do slide 4 com a mesma base) |
+| 6. Legenda | ok (1.631 caracteres; o payload `--rascunho` roda sem erro). Veja C1 |
+
+## Itens da rodada 1
+- F1 e F2 (Oreiro, Sbardelotto): aplicados. O slide 8 tem o texto sugerido, e PlatôBR e Times Brasil estão em `fontes`.
+- I1 (a), (b) e (c): aplicados. O factbox da IFI substituiu o editorial, o slide 6 traz a posição de Lula de setembro (Band nas fontes) e a legenda foi ajustada.
+- F3: aplicado. A nota do FMI cita abr/2026, a CNN Brasil entrou como fonte do Copom e o Poder360 como fonte da IFI.
+- F4: aplicado. O slide 9 diz "por mês" e "por ano".
+- F5: aplicado. O slide 3 diz "O governo central fechou 2025…" e a nota fala do PLDO "ainda em votação".
+- T1: aplicado. O slide 6 tem 44 palavras.
+- V1: aplicado. O rótulo virou "Ago/2026" e as 4 barras partem da mesma linha de base, com altura proporcional ao valor (82,9 / 86,0 / 86,4 / 100).
+- V2, V3 e I2 (fotos): aceitos com outra solução. As fotos sugeridas foram recusadas por isenção: placa do Ministério da Defesa e faixas de protesto na Fazenda. A recusa procede. Os substitutos:
+  - Slides 1, 3 e 6: a mesma foto do Planalto (Senado Federal, CC BY 2.0), com focos diferentes. O crédito "Michel Temer" sumiu. Em cada slide o prédio aparece nítido acima do texto, a foto é colorida e tem alta resolução (4036 px).
+  - Slides 4 e 8: a mesma panorâmica da Esplanada (Sintegrity), também com focos diferentes.
+  
+  A repetição é visível, mas é visual institucional neutro, sem pessoas e sem símbolos. Não bloqueia.
+- L1: **pendente, ver C1.**
+- D1: conferido hoje (C2).
+
+## Fatos refeitos nesta rodada
+- 82,9% do PIB em agosto e R$ 11,055 tri (Poder360, Jornal do Comércio, Gazeta do Povo). **A DBGG de setembro ainda não saiu.**
+- "4,2 pontos a mais no ano": a DBGG fechou 2025 em 78,7% (BC, 30 jan 2026, via Revista Oeste e Bem Paraná). 82,9 − 78,7 = 4,2. Ok.
+- Fala nova de Lula sobre o fiscal desde 27 out: não achei. O "Ajuste fiscal eu faço na prática" é da entrevista ao SBT de 10 set (O Liberal/Estadão Conteúdo, Tribuna do Sertão), anterior à eleição e coerente com o slide 6. Fato novo de 27 out: a IFI estimou um esforço de até R$ 450 bi para estabilizar a dívida (Forbes). Incluir é opcional e não bloqueia.
+
+## Condições (coordenador, sem re-render)
+**C1. Legenda, última linha: "Continuação do post sobre dívida pública de 29 de outubro."** O post `2026-10-29-divida-publica` foi aprovado pelo revisor, mas o status ainda é `rascunho`.
+→ Se, quando este post for ao João, o de 29 out não estiver `agendado`, apague a linha da `legenda`. Se o João descartar o de 29 out depois, apague também e faça `updateScheduledPost`.
+
+**C2. Dado que vence: a DBGG de setembro.** O BC deve divulgar entre 29 e 30 out. Se sair antes de 31 out 06:01, troque 82,9% e "agosto" na capa, no slide 2, no gráfico do slide 4 e na legenda, renderize e passe de novo pelo revisor. Reconfira também se Lula falou sobre o fiscal entre 28 e 30 out. Se falou, o slide 6 precisa citar.
+
+Opcional: no slide 7, texto e factbox somam 73 palavras. Cabe sem corte e está legível, mas é o slide mais denso do post.
+
+## Fontes da verificação (rodada 2)
+- https://www.poder360.com.br/poder-economia/divida-bruta-atinge-829-do-pib-em-agosto-diz-banco-central/
+- https://www.jornaldocomercio.com/economia/2026/09/1265225-divida-bruta-do-governo-geral-sobe-para-829-do-pib-em-agosto-mostra-bc.html
+- https://revistaoeste.com/economia/divida-bruta-do-governo-encerra-2025-em-787-do-pib/
+- https://www.oliberal.com/politica/no-meu-governo-nao-tem-essa-de-ficar-discutindo-ajuste-fiscal-faco-ajuste-na-pratica-diz-lula-1.1167416
+- https://tribunadosertao.com.br/politica/2026/09/10/976772-no-meu-governo-nao-tem-essa-de-ficar-discutindo-ajuste-fiscal-faco-ajuste-na-pratica-diz-lula
+- https://forbes.com.br/forbes-money/2026/10/ajuste-fiscal-lula-divida-publica-450-bilhoes/
+
+---
+
+# Rodada 1 (histórico): REPROVADO
 
 Revisão de `posts/2026-10-31-desafios-fiscais-lula` (SHA e00b9f7) · revisor · 27 out 2026
 
