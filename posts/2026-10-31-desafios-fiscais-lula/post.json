@@ -1,7 +1,7 @@
 {
   "slug": "2026-10-31-desafios-fiscais-lula",
   "titulo_interno": "Desafios fiscais do novo mandato — dívida, primário e opções em debate",
-  "status": "rascunho",
+  "status": "aguardando_aprovacao",
   "layout": "moderno",
   "pilar": "atualidade_brasil",
   "usar_hashtags_base": false,
@@ -331,5 +331,14 @@
       "arquivo": "imagens/img09.jpg",
       "query": "File:Palácio do Congresso Nacional (48205178687).jpg"
     }
-  ]
+  ],
+  "metricool": {
+    "id": 407763169,
+    "uuid": "-6440029359605594570",
+    "sha_slides": "0f9682b1b3f9d55b8fa4a45f7d398e06a77e14ab",
+    "story": {
+      "id": 407763223,
+      "uuid": "1296991621557994795"
+    }
+  }
 }
