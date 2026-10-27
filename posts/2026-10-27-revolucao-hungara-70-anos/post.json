@@ -1,0 +1,85 @@
+{
+  "slug": "2026-10-27-revolucao-hungara-70-anos",
+  "titulo_interno": "Revolução Húngara, 70 anos",
+  "status": "rascunho",
+  "pilar": "historia_militar",
+  "categoria": "Guerra Fria · Europa Oriental",
+  "gancho_tipo": "numero",
+  "capa": {
+    "imagem": "img01",
+    "titulo_html": "<span class=\"hl2\">13 dias</span> de <span class=\"hl\">liberdade</span>",
+    "gancho": "Há 70 anos, a Hungria desafiou a União Soviética, e o mundo assistiu sem agir."
+  },
+  "slides": [
+    {
+      "imagem": "img02",
+      "texto_html": "Em 23 out 1956, estudantes marcharam em Budapeste pedindo eleições livres e a saída das tropas soviéticas. Milhares se juntaram a eles. À noite, a multidão derrubou a <strong>estátua gigante de Stálin</strong>, e só as botas ficaram no pedestal."
+    },
+    {
+      "imagem": "img03",
+      "texto_html": "No dia 24, o reformista <strong>Imre Nagy</strong> foi chamado de volta à chefia do governo. Ao mesmo tempo, tanques soviéticos entraram na cidade, e os combates se espalharam pelas ruas."
+    },
+    {
+      "imagem": "img04",
+      "texto_html": "Em 25 out, tiros contra manifestantes diante do Parlamento, na <strong>Praça Kossuth</strong>, deixaram dezenas de mortos. A partir dali, o protesto virou insurreição armada, com jovens e operários enfrentando blindados."
+    },
+    {
+      "imagem": "img05",
+      "texto_html": "Em 28 out, Nagy anunciou um <strong>cessar-fogo</strong>. Nos dias seguintes, as tropas soviéticas deixaram Budapeste. Por alguns dias, parecia que a Hungria tinha vencido."
+    },
+    {
+      "imagem": "img06",
+      "texto_html": "Em 1º nov, Nagy declarou a Hungria <strong>neutra</strong> e anunciou a saída do Pacto de Varsóvia. Para Moscou, era a linha que nenhum país do bloco podia cruzar."
+    },
+    {
+      "imagem": "img07",
+      "texto_html": "Ao mesmo tempo, Reino Unido, França e Israel atacavam o Egito na <strong>Crise de Suez</strong>. Com o Ocidente dividido e os EUA sem intenção de intervir, os soviéticos tinham as mãos livres."
+    },
+    {
+      "imagem": "img08",
+      "texto_html": "Em 4 nov, milhares de soldados e tanques soviéticos voltaram. Em poucos dias, a resistência foi esmagada. Cerca de <strong>2.500 húngaros</strong> morreram, e perto de <strong>200 mil</strong> fugiram do país."
+    },
+    {
+      "imagem": "img09",
+      "texto_html": "Imre Nagy foi preso, julgado em segredo e <strong>executado em 1958</strong>. Em 16 jun 1989, foi enterrado novamente com honras, diante de uma multidão. Meses depois, a Hungria deixava o comunismo."
+    }
+  ],
+  "cta": {
+    "titulo": "Salve este post",
+    "subtitulo": "e compartilhe com quem curte história"
+  },
+  "legenda": "Em outubro de 1956, a Hungria viveu 13 dias de liberdade.\n\nEstudantes e operários se levantaram contra o regime apoiado por Moscou, derrubaram a estátua de Stálin e chegaram a ver as tropas soviéticas deixarem Budapeste. Quando o governo de Imre Nagy anunciou a saída do Pacto de Varsóvia, os tanques voltaram. Enquanto o mundo olhava para Suez, a revolução foi esmagada em poucos dias.\n\nArraste para o lado e acompanhe a história, da marcha dos estudantes à execução de Nagy.",
+  "primeiro_comentario": "",
+  "hashtags": [
+    "#revolucaohungara",
+    "#hungria",
+    "#guerrafria",
+    "#urss",
+    "#historia",
+    "#budapeste",
+    "#imrenagy"
+  ],
+  "alt_text": "Carrossel sobre os 70 anos da Revolução Húngara de 1956, com fotos históricas e a sequência dos fatos.",
+  "ia_gerado": false,
+  "fontes": [
+    {"nome": "Office of the Historian (Dep. de Estado dos EUA), FRUS 1955-57 vol. XXV, Eastern Europe", "url": "https://history.state.gov/historicaldocuments/frus1955-57v25"},
+    {"nome": "Encyclopaedia Britannica, Hungarian Revolution", "url": "https://www.britannica.com/event/Hungarian-Revolution-1956"},
+    {"nome": "ACNUR, Refugiados húngaros de 1956", "url": "https://www.unhcr.org/news/stories/hungarian-refugees-1956"},
+    {"nome": "National Security Archive (GWU), The 1956 Hungarian Revolution", "url": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB76/"}
+  ],
+  "busca_imagens": [
+    {"id": "img01", "query": "incategory:\"Hungarian Revolution of 1956\" Budapest flag hole", "alternativas": ["Hungarian revolution 1956 flag Budapest", "Hungarian Revolution 1956 Budapest crowd"], "pb": true},
+    {"id": "img02", "query": "Stalin Monument Budapest 1956 toppled", "alternativas": ["incategory:\"Stalin Monument (Budapest)\"", "Stalin statue head Budapest 1956"], "pb": true},
+    {"id": "img03", "query": "Imre Nagy portrait", "alternativas": ["Nagy Imre Fortepan"], "pb": true},
+    {"id": "img04", "query": "Kossuth Square Budapest 1956 Parliament", "alternativas": ["Hungarian Parliament Building Kossuth tér"], "pb": true},
+    {"id": "img05", "query": "incategory:\"Hungarian Revolution of 1956\" Soviet tank Budapest", "alternativas": ["Hungarian Revolution 1956 tank Budapest Fortepan"], "pb": true},
+    {"id": "img06", "query": "Hungarian Revolution 1956 Budapest street Fortepan", "alternativas": ["incategory:\"Hungarian Revolution of 1956\" street"], "pb": true},
+    {"id": "img07", "query": "File:1956 Suez war - conquest of Sinai.jpg", "alternativas": ["Suez crisis 1956 Port Said"], "pb": true},
+    {"id": "img08", "query": "Hungarian Revolution 1956 destroyed building Budapest", "alternativas": ["incategory:\"Hungarian Revolution of 1956\" ruins", "Corvin köz 1956"], "pb": true},
+    {"id": "img09", "query": "Imre Nagy reburial 1989 Heroes Square", "alternativas": ["Nagy Imre újratemetése 1989", "Heroes Square Budapest"]}
+  ],
+  "agendamento": {
+    "data_hora": "2026-10-27T18:01:00-03:00",
+    "slot": "18:01"
+  }
+}
