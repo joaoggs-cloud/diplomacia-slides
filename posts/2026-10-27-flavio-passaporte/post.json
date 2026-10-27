@@ -138,6 +138,32 @@
       "id": "img03",
       "arquivo": "imagens/img03.jpg",
       "query": "File:Foto oficial do senador Flávio Bolsonaro (v. AgSen).jpg"
+    },
+    {
+      "titulo": "Alexandre de Moraes (2023).jpg",
+      "autor": "Palácio do Planalto from Brasilia, Brasil",
+      "licenca": "CC BY 2.0",
+      "exige_credito": true,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Alexandre_de_Moraes_(2023).jpg",
+      "url_download": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Alexandre_de_Moraes_%282023%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largura": 1179,
+      "altura": 1614,
+      "id": "img05",
+      "arquivo": "imagens/img05.jpg",
+      "query": "File:Alexandre de Moraes (2023).jpg"
+    },
+    {
+      "titulo": "Alexandre de Moraes, 2017 (cropped).jpg",
+      "autor": "Marcelo Camargo",
+      "licenca": "CC BY 3.0 br",
+      "exige_credito": true,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Alexandre_de_Moraes,_2017_(cropped).jpg",
+      "url_download": "https://upload.wikimedia.org/wikipedia/commons/4/49/Alexandre_de_Moraes%2C_2017_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largura": 1782,
+      "altura": 2378,
+      "id": "img06",
+      "arquivo": "imagens/img06.jpg",
+      "query": "File:Alexandre de Moraes, 2017 (cropped).jpg"
     }
   ]
 }
