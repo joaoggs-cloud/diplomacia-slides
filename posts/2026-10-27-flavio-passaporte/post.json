@@ -62,10 +62,18 @@
   ],
   "busca_imagens": [
     {
-      "id": "img01",
-      "query": "File:Fachada do Supremo Tribunal Federal (STF) (54334559198).jpg",
+      "id": "img02",
+      "query": "File:Alexandre de Moraes (32629948352).jpg",
       "alternativas": [
-        "File:Palácio do STF - Praça dos Três Poderes.02.jpg"
+        "File:Alexandre de Moraes (2023).jpg",
+        "File:Alexandre de Moraes, 2017 (cropped).jpg"
+      ]
+    },
+    {
+      "id": "img03",
+      "query": "File:Foto oficial do senador Flávio Bolsonaro (v. AgSen).jpg",
+      "alternativas": [
+        "File:Senadores da 56ª Legislatura Flávio Bolsonaro Senador (40052640253).jpg"
       ]
     }
   ],
