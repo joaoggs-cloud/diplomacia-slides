@@ -1,0 +1,62 @@
+[
+  {
+    "url": "https://www.tesourotransparente.gov.br/ckan/api/3/action/package_show?id=resultado-do-tesouro-nacional-rtn",
+    "erro": "404 Client Error: Not Found for url: https://www.tesourotransparente.gov.br/ckan/api/3/action/package_show?id=resultado-do-tesouro-nacional-rtn",
+    "ok": false
+  },
+  {
+    "url": "https://www.tesourotransparente.gov.br/ckan/api/3/action/package_show?id=resultado-do-tesouro-nacional",
+    "arquivo": "02-package_show",
+    "ok": true
+  },
+  {
+    "url": "https://www.tesourotransparente.gov.br/ckan/dataset/ab56485b-9c40-4efb-8563-9ce3e1973c4b/resource/527ccdb1-3059-42f3-bf23-b5e3ab4c6dc6/download/seriehistoricajul26.xlsx",
+    "erro": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
+    "ok": false
+  },
+  {
+    "url": "https://www.tesourotransparente.gov.br/ckan/dataset/ab56485b-9c40-4efb-8563-9ce3e1973c4b/resource/7a535375-4e15-4ebb-bb49-25daf05330bb/download/metadados---nfgc.xlsx",
+    "arquivo": "04-metadados---nfgc.xlsx",
+    "ok": true
+  },
+  {
+    "url": "https://www.tesourotransparente.gov.br/ckan/dataset/ab56485b-9c40-4efb-8563-9ce3e1973c4b/resource/aaf7f695-9370-46ae-9d7c-1d5cb28b1db4/download/metadados-serie-rtn.pdf",
+    "erro": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
+    "ok": false
+  },
+  {
+    "url": "https://apiapex.tesouro.gov.br/aria/v1/series-temporais/docs",
+    "arquivo": "06-docs",
+    "ok": true
+  },
+  {
+    "url": "https://apiapex.tesouro.gov.br/aria/v1/series-temporais/docs",
+    "arquivo": "07-docs",
+    "ok": true
+  },
+  {
+    "url": "https://www.tesourotransparente.gov.br/ckan/api/3/action/package_search?q=resultado%20do%20tesouro%20nacional&rows=10",
+    "arquivo": "08-package_search",
+    "ok": true
+  },
+  {
+    "url": "https://www.tesourotransparente.gov.br/ckan/api/3/action/package_search?q=despesa%20por%20funcao&rows=10",
+    "arquivo": "09-package_search",
+    "ok": true
+  },
+  {
+    "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.4649/dados/ultimos/24?formato=json",
+    "erro": "400 Client Error: Bad Request for url: https://api.bcb.gov.br/dados/serie/bcdata.sgs.4649/dados/ultimos/24?formato=json",
+    "ok": false
+  },
+  {
+    "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.5727/dados/ultimos/24?formato=json",
+    "erro": "400 Client Error: Bad Request for url: https://api.bcb.gov.br/dados/serie/bcdata.sgs.5727/dados/ultimos/24?formato=json",
+    "ok": false
+  },
+  {
+    "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.13762/dados/ultimos/120?formato=json",
+    "erro": "400 Client Error: Bad Request for url: https://api.bcb.gov.br/dados/serie/bcdata.sgs.13762/dados/ultimos/120?formato=json",
+    "ok": false
+  }
+]
