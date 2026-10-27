@@ -8,9 +8,9 @@
   "usar_hashtags_base": false,
   "categoria": "Política · STF",
   "capa": {
-    "imagem": "img01",
-    "titulo_html": "Moraes (STF) manda senador <span class=\"hl2\">Flávio Bolsonaro (PL)</span> entregar passaportes à PF",
-    "gancho": "Ele também fica proibido de sair do país e de falar com o advogado Willer Tomaz. Os dois são investigados por suspeita de lavagem de dinheiro e negam irregularidades. O senador diz que nunca planejou deixar o Brasil, chama a ordem de intimidação e vai entregar os documentos e contestar.",
+    "imagem": "img04",
+    "titulo_html": "Moraes manda <span class=\"hl2\">Flávio Bolsonaro (PL)</span> entregar passaportes",
+    "gancho": "Medida cautelar no inquérito por suspeita de lavagem de dinheiro. O senador nega irregularidades e diz que vai contestar.",
     "graficos": [
       {
         "tipo": "numero",
@@ -30,7 +30,8 @@
         "texto": "Cautelar",
         "nota": "Não é condenação; decisão sob sigilo"
       }
-    ]
+    ],
+    "credito": "Fotos: Moraes: Palácio do Planalto (CC BY 2.0); Flávio Bolsonaro: Agência Senado (CC BY)"
   },
   "slides": [],
   "legenda": "O ministro Alexandre de Moraes, do STF, determinou que o senador Flávio Bolsonaro (PL-RJ) entregue seus passaportes, comum e diplomático, à Polícia Federal em até 24 horas. A decisão, divulgada na segunda-feira (26), também o proíbe de deixar o país e de ter contato com o advogado Willer Tomaz.\n\nOs dois são investigados em inquérito no STF por suspeita de lavagem de dinheiro. Trata-se de medida cautelar: não há condenação. A decisão tramita sob sigilo, e, segundo o senador e a imprensa, o fundamento teria relação com declaração de Eduardo Bolsonaro sobre uma possível saída do irmão do país.\n\nO senador diz que nunca disse nem planejou deixar o país, chama a medida de intimidação, afirma que vai entregar os documentos e contestar a decisão, e nega irregularidades. A defesa de Willer Tomaz também nega ilegalidade.\n\nVocê costuma acompanhar as decisões do STF sobre medidas cautelares? Conte nos comentários onde prefere se informar.",
@@ -62,14 +63,6 @@
   ],
   "busca_imagens": [
     {
-      "id": "img02",
-      "query": "File:Alexandre de Moraes (32629948352).jpg",
-      "alternativas": [
-        "File:Alexandre de Moraes (2023).jpg",
-        "File:Alexandre de Moraes, 2017 (cropped).jpg"
-      ]
-    },
-    {
       "id": "img03",
       "query": "File:Foto oficial do senador Flávio Bolsonaro (v. AgSen).jpg",
       "alternativas": [
@@ -79,10 +72,6 @@
     {
       "id": "img05",
       "query": "File:Alexandre de Moraes (2023).jpg"
-    },
-    {
-      "id": "img06",
-      "query": "File:Alexandre de Moraes, 2017 (cropped).jpg"
     }
   ],
   "agendamento": {
@@ -100,32 +89,6 @@
   },
   "verificacao": "Fatos da pauta (Agência Brasil, Poder360, CNN, Folhapress). Sem R$ 6 bi, sem Dark Horse, sem afirmar recurso ou cumprimento; fundamento atribuído à imprensa; decisão sob sigilo.",
   "imagens": [
-    {
-      "titulo": "Fachada do Supremo Tribunal Federal (STF) (54334559198).jpg",
-      "autor": "Pedro França/Agência Senado",
-      "licenca": "CC BY 2.0",
-      "exige_credito": true,
-      "url_origem": "https://commons.wikimedia.org/wiki/File:Fachada_do_Supremo_Tribunal_Federal_(STF)_(54334559198).jpg",
-      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Fachada_do_Supremo_Tribunal_Federal_%28STF%29_%2854334559198%29.jpg/1920px-Fachada_do_Supremo_Tribunal_Federal_%28STF%29_%2854334559198%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "largura": 1993,
-      "altura": 1329,
-      "id": "img01",
-      "arquivo": "imagens/img01.jpg",
-      "query": "File:Fachada do Supremo Tribunal Federal (STF) (54334559198).jpg"
-    },
-    {
-      "titulo": "Alexandre de Moraes (32629948352).jpg",
-      "autor": "Senado Federal",
-      "licenca": "CC BY 2.0",
-      "exige_credito": true,
-      "url_origem": "https://commons.wikimedia.org/wiki/File:Alexandre_de_Moraes_(32629948352).jpg",
-      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Alexandre_de_Moraes_%2832629948352%29.jpg/1920px-Alexandre_de_Moraes_%2832629948352%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "largura": 2956,
-      "altura": 1876,
-      "id": "img02",
-      "arquivo": "imagens/img02.jpg",
-      "query": "File:Alexandre de Moraes (32629948352).jpg"
-    },
     {
       "titulo": "Foto oficial do senador Flávio Bolsonaro (v. AgSen).jpg",
       "autor": "Agência Senado",
@@ -153,17 +116,15 @@
       "query": "File:Alexandre de Moraes (2023).jpg"
     },
     {
-      "titulo": "Alexandre de Moraes, 2017 (cropped).jpg",
-      "autor": "Marcelo Camargo",
-      "licenca": "CC BY 3.0 br",
+      "titulo": "Composição: Moraes (2023) e Flávio Bolsonaro (retrato oficial)",
+      "autor": "Moraes: Palácio do Planalto; Flávio: Agência Senado",
+      "licenca": "CC BY 2.0 (Moraes); Attribution/Agência Senado (Flávio)",
       "exige_credito": true,
-      "url_origem": "https://commons.wikimedia.org/wiki/File:Alexandre_de_Moraes,_2017_(cropped).jpg",
-      "url_download": "https://upload.wikimedia.org/wikipedia/commons/4/49/Alexandre_de_Moraes%2C_2017_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "largura": 1782,
-      "altura": 2378,
-      "id": "img06",
-      "arquivo": "imagens/img06.jpg",
-      "query": "File:Alexandre de Moraes, 2017 (cropped).jpg"
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Alexandre_de_Moraes_(2023).jpg",
+      "id": "img04",
+      "arquivo": "imagens/img04.jpg",
+      "largura": 1080,
+      "altura": 1350
     }
   ]
 }
