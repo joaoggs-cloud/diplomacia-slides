@@ -53,6 +53,8 @@ def score(p):
 
 def parse_data(v, tz):
     v = str(v)
+    if len(v) == 14 and v.isdigit():  # formato do Metricool: AAAAMMDDHHMMSS em UTC
+        return datetime.strptime(v, "%Y%m%d%H%M%S").replace(tzinfo=ZoneInfo("UTC")).astimezone(tz)
     for fmt in ("%Y-%m-%dT%H:%M:%S%z", "%Y-%m-%dT%H:%M:%S", "%Y-%m-%d %H:%M:%S", "%Y%m%d%H%M", "%Y%m%d"):
         try:
             dt = datetime.strptime(v, fmt)
