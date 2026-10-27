@@ -275,6 +275,32 @@
       "query": "File:Fachada do Palácio do Planalto - 49727772326.jpg"
     },
     {
+      "titulo": "Edifício sede do Banco Central do Brasil (16011635094).jpg",
+      "autor": "Senado Federal",
+      "licenca": "CC BY 2.0",
+      "exige_credito": true,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Edif%C3%ADcio_sede_do_Banco_Central_do_Brasil_(16011635094).jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Edif%C3%ADcio_sede_do_Banco_Central_do_Brasil_%2816011635094%29.jpg/1920px-Edif%C3%ADcio_sede_do_Banco_Central_do_Brasil_%2816011635094%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 2051,
+      "altura": 3081,
+      "id": "img02",
+      "arquivo": "imagens/img02.jpg",
+      "query": "File:Edifício sede do Banco Central do Brasil (16011635094).jpg"
+    },
+    {
+      "titulo": "Palacio do Planalto (5348220087).jpg",
+      "autor": "Eduardo Aigner from Brasilia, Brazil",
+      "licenca": "CC BY 2.0",
+      "exige_credito": true,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Palacio_do_Planalto_(5348220087).jpg",
+      "url_download": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Palacio_do_Planalto_%285348220087%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largura": 800,
+      "altura": 533,
+      "id": "img03",
+      "arquivo": "imagens/img03.jpg",
+      "query": "File:Palacio do Planalto (5348220087).jpg"
+    },
+    {
       "titulo": "Brasília - Eixo monumental - teatro, museu, catedral, ministérios, congresso e ponte JK.jpg",
       "autor": "Sintegrity",
       "licenca": "CC BY-SA 4.0",
@@ -312,6 +338,32 @@
       "id": "img06",
       "arquivo": "imagens/img06.jpg",
       "query": "File:Planalto panorama.jpg"
+    },
+    {
+      "titulo": "Imagens de Brasília - Palácio do Congresso Nacional (52730914148).jpg",
+      "autor": "Agência Senado from Brasilia, Brazil",
+      "licenca": "CC BY 2.0",
+      "exige_credito": true,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Imagens_de_Bras%C3%ADlia_-_Pal%C3%A1cio_do_Congresso_Nacional_(52730914148).jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Imagens_de_Bras%C3%ADlia_-_Pal%C3%A1cio_do_Congresso_Nacional_%2852730914148%29.jpg/1920px-Imagens_de_Bras%C3%ADlia_-_Pal%C3%A1cio_do_Congresso_Nacional_%2852730914148%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 3001,
+      "altura": 4001,
+      "id": "img07",
+      "arquivo": "imagens/img07.jpg",
+      "query": "File:Imagens de Brasília - Palácio do Congresso Nacional (52730914148).jpg"
+    },
+    {
+      "titulo": "Esplanada dos Ministérios - 50494085438.jpg",
+      "autor": "Senado Federal",
+      "licenca": "CC BY 2.0",
+      "exige_credito": true,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Esplanada_dos_Minist%C3%A9rios_-_50494085438.jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Esplanada_dos_Minist%C3%A9rios_-_50494085438.jpg/1920px-Esplanada_dos_Minist%C3%A9rios_-_50494085438.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 3888,
+      "altura": 2592,
+      "id": "img08",
+      "arquivo": "imagens/img08.jpg",
+      "query": "File:Esplanada dos Ministérios - 50494085438.jpg"
     },
     {
       "titulo": "Palácio do Congresso Nacional (48205178687).jpg",
