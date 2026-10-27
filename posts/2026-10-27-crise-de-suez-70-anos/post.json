@@ -157,5 +157,124 @@
   "agendamento": {
     "data_hora": "2026-10-27T06:01:00-03:00",
     "slot": "06:01"
-  }
+  },
+  "imagens": [
+    {
+      "titulo": "Port Said from air.jpg",
+      "autor": "Fleet Air Arm official photographer",
+      "licenca": "Public domain",
+      "exige_credito": false,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Port_Said_from_air.jpg",
+      "url_download": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Port_Said_from_air.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largura": 1300,
+      "altura": 956,
+      "id": "img01",
+      "arquivo": "imagens/img01.jpg",
+      "query": "File:Port Said from air.jpg"
+    },
+    {
+      "titulo": "Suez Canal, Port Said - ISS 2.jpg",
+      "autor": "NASA astronaut",
+      "licenca": "Public domain",
+      "exige_credito": false,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Suez_Canal,_Port_Said_-_ISS_2.jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Suez_Canal%2C_Port_Said_-_ISS_2.jpg/1920px-Suez_Canal%2C_Port_Said_-_ISS_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 2744,
+      "altura": 2008,
+      "id": "img02",
+      "arquivo": "imagens/img02.jpg",
+      "query": "File:Suez Canal, Port Said - ISS 2.jpg"
+    },
+    {
+      "titulo": "British carriers during Suez Crisis 1956.jpg",
+      "autor": "Royal Navy official photographer",
+      "licenca": "Public domain",
+      "exige_credito": false,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:British_carriers_during_Suez_Crisis_1956.jpg",
+      "url_download": "https://upload.wikimedia.org/wikipedia/commons/f/f6/British_carriers_during_Suez_Crisis_1956.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largura": 800,
+      "altura": 614,
+      "id": "img03",
+      "arquivo": "imagens/img03.jpg",
+      "query": "File:British carriers during Suez Crisis 1956.jpg"
+    },
+    {
+      "titulo": "1956 Suez war - conquest of Sinai.jpg",
+      "autor": "Autor desconhecido",
+      "licenca": "Public domain",
+      "exige_credito": false,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:1956_Suez_war_-_conquest_of_Sinai.jpg",
+      "url_download": "https://upload.wikimedia.org/wikipedia/commons/9/96/1956_Suez_war_-_conquest_of_Sinai.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largura": 740,
+      "altura": 918,
+      "id": "img04",
+      "arquivo": "imagens/img04.jpg",
+      "query": "File:1956 Suez war - conquest of Sinai.jpg"
+    },
+    {
+      "titulo": "810 Naval Air Squadron bombing.jpg",
+      "autor": "Fleet Air Arm official photographer",
+      "licenca": "Public domain",
+      "exige_credito": false,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:810_Naval_Air_Squadron_bombing.jpg",
+      "url_download": "https://upload.wikimedia.org/wikipedia/commons/f/f6/810_Naval_Air_Squadron_bombing.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largura": 1300,
+      "altura": 969,
+      "id": "img05",
+      "arquivo": "imagens/img05.jpg",
+      "query": "File:810 Naval Air Squadron bombing.jpg"
+    },
+    {
+      "titulo": "British tanks in Port Said.jpg",
+      "autor": "Unknown authorUnknown author",
+      "licenca": "Public domain",
+      "exige_credito": false,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:British_tanks_in_Port_Said.jpg",
+      "url_download": "https://upload.wikimedia.org/wikipedia/commons/c/ce/British_tanks_in_Port_Said.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largura": 1300,
+      "altura": 808,
+      "id": "img06",
+      "arquivo": "imagens/img06.jpg",
+      "query": "File:British tanks in Port Said.jpg"
+    },
+    {
+      "titulo": "Eisenhower official.jpg",
+      "autor": "White House",
+      "licenca": "Public domain",
+      "exige_credito": false,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Eisenhower_official.jpg",
+      "url_download": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Eisenhower_official.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largura": 1663,
+      "altura": 2100,
+      "id": "img07",
+      "arquivo": "imagens/img07.jpg",
+      "query": "File:Eisenhower official.jpg"
+    },
+    {
+      "titulo": "Moshe Dayan - Burns- Lod 16-12-1956.jpg",
+      "autor": "Israeli GPO photographer",
+      "licenca": "Public domain",
+      "exige_credito": false,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Moshe_Dayan_-_Burns-_Lod_16-12-1956.jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Moshe_Dayan_-_Burns-_Lod_16-12-1956.jpg/1920px-Moshe_Dayan_-_Burns-_Lod_16-12-1956.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 3072,
+      "altura": 2048,
+      "id": "img08",
+      "arquivo": "imagens/img08.jpg",
+      "query": "File:Moshe Dayan - Burns- Lod 16-12-1956.jpg"
+    },
+    {
+      "titulo": "Lester B. Pearson 1957 (4951614).jpg",
+      "autor": "Capital Press",
+      "licenca": "Public domain",
+      "exige_credito": false,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Lester_B._Pearson_1957_(4951614).jpg",
+      "url_download": "https://upload.wikimedia.org/wikipedia/commons/7/73/Lester_B._Pearson_1957_%284951614%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largura": 1499,
+      "altura": 1920,
+      "id": "img09",
+      "arquivo": "imagens/img09.jpg",
+      "query": "File:Lester B. Pearson.jpg"
+    }
+  ]
 }
