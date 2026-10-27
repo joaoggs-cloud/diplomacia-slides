@@ -1,0 +1,267 @@
+{
+  "slug": "2026-10-31-desafios-fiscais-lula",
+  "titulo_interno": "Desafios fiscais do novo mandato — dívida, primário e opções em debate",
+  "status": "rascunho",
+  "layout": "moderno",
+  "pilar": "atualidade_brasil",
+  "usar_hashtags_base": false,
+  "categoria": "Economia · Brasil",
+  "capa": {
+    "imagem": "img01",
+    "titulo_html": "Dívida em <span class=\"hl2\">82,9% do PIB</span>: o ponto de partida das contas do novo mandato",
+    "gancho": "Os números oficiais e as opções em debate, segundo quem defende cada uma."
+  },
+  "slides": [
+    {
+      "imagem": "img02",
+      "texto_html": "A dívida bruta do governo geral chegou a <strong>82,9% do PIB</strong> (R$ 11,1 tri) em <em>agosto de 2026</em>, segundo o Banco Central. São 4,2 pontos percentuais a mais no ano. Em maio, era 81,1%; em junho, 81,9%.",
+      "grafico": {
+        "tipo": "numero",
+        "titulo": "Dívida bruta, agosto de 2026",
+        "texto": "82,9% do PIB"
+      }
+    },
+    {
+      "imagem": "img03",
+      "texto_html": "No resultado primário, 2025 fechou com déficit de <strong>R$ 13 bi</strong> na conta da meta, que exclui precatórios e outras despesas. Sem as exclusões, foram R$ 61,69 bi. A meta foi considerada cumprida.",
+      "grafico": {
+        "tipo": "linha_do_tempo",
+        "titulo": "Metas de primário (% do PIB)",
+        "itens": [
+          {
+            "quando": "2026",
+            "texto": "Superávit de 0,25 (cerca de R$ 34 bi)"
+          },
+          {
+            "quando": "2027",
+            "texto": "0,5"
+          },
+          {
+            "quando": "2028",
+            "texto": "1,0"
+          },
+          {
+            "quando": "2029",
+            "texto": "1,25"
+          },
+          {
+            "quando": "2030",
+            "texto": "1,5"
+          }
+        ],
+        "nota": "Banda de ±0,25 p.p. em 2026 e 2027. Metas de 2029 e 2030 constam do PLDO 2027"
+      }
+    },
+    {
+      "imagem": "img04",
+      "texto_html": "O governo projeta dívida de <strong>86,0% em 2027</strong>, com pico de 87,9% em 2029. A IFI, do Senado, vê 86,4% em 2027. O FMI chega a 100%, mas inclui títulos na carteira do BC: <em>outra metodologia</em>.",
+      "grafico": {
+        "tipo": "barras",
+        "titulo": "Dívida bruta (% do PIB)",
+        "itens": [
+          {
+            "rotulo": "Ago/2026 (observado)",
+            "valor": 82.9,
+            "texto": "82,9%",
+            "destaque": true
+          },
+          {
+            "rotulo": "2027 governo",
+            "valor": 86.0,
+            "texto": "86,0%"
+          },
+          {
+            "rotulo": "2027 IFI",
+            "valor": 86.4,
+            "texto": "86,4%"
+          },
+          {
+            "rotulo": "2027 FMI*",
+            "valor": 100.0,
+            "texto": "100%"
+          }
+        ],
+        "nota": "Projeções, exceto ago/2026. *Metodologia do FMI difere da do BC"
+      }
+    },
+    {
+      "imagem": "img05",
+      "texto_html": "Em 16 set, o Copom cortou a Selic de 14,00% para <strong>13,75%</strong> ao ano, em decisão unânime. Foi o quinto corte seguido. A próxima reunião do comitê é em novembro.",
+      "grafico": {
+        "tipo": "numero",
+        "titulo": "Selic após o Copom de 16 set",
+        "texto": "13,75% ao ano"
+      }
+    },
+    {
+      "imagem": "img06",
+      "texto_html": "No discurso da vitória, em 25 out, Lula falou de economia digital, saúde e ensino integral, sem tratar de ajuste fiscal. Em 26 out, o ministro da Fazenda, <strong>Dario Durigan</strong>, disse que o governo quer ampliar o superávit de 2027 e alterar a lei, ou a Constituição, para chegar mais perto do centro da meta."
+    },
+    {
+      "imagem": "img07",
+      "texto_html": "Durigan diz que o arcabouço deve ser preservado, com melhora gradual. Segundo a Folha, antes do 2º turno ele discutia com Lula baixar de 2,5% para 1,5% o teto de alta real da despesa e criar gatilhos para outras despesas obrigatórias. Não há proposta formal.",
+      "factbox": {
+        "label": "Contraponto",
+        "texto": "Editorial da Gazeta do Povo diz que as medidas não bastariam para frear a dívida."
+      }
+    },
+    {
+      "imagem": "img08",
+      "texto_html": "Economistas citam outras frentes. Tiago Sbardelotto, da XP, defende rever os pisos de saúde e educação. Salto e Pellegrini, no Estadão, propõem um plano gradual de 3 a 4 anos. José Luis Oreiro, da UnB, critica: o ajuste recairia sobre os mais pobres."
+    },
+    {
+      "imagem": "img09",
+      "texto_html": "Na receita, a Lei 15.270/2025 isenta quem ganha até R$ 5 mil e cobra até 10% sobre rendas acima de R$ 600 mil; sem anúncio novo. Mudar a regra fiscal passa pelo Congresso, onde o PL terá a maior bancada da Câmara: <strong>121 de 513</strong>."
+    }
+  ],
+  "cta": {
+    "titulo": "Salve este post",
+    "subtitulo": "e compartilhe com quem acompanha as contas públicas"
+  },
+  "legenda": "Dívida bruta em 82,9% do PIB em agosto de 2026, meta de superávit primário de 0,25% neste ano e juros em 13,75%. Esse é o ponto de partida das contas públicas no novo mandato, segundo dados do Banco Central, do Tesouro e do Congresso.\n\nNo carrossel, os números oficiais, as projeções do governo, da IFI e do FMI (que usa metodologia diferente), o que o ministro da Fazenda, Dario Durigan, disse em 26 de outubro e as opções que economistas e a imprensa colocam em debate, cada uma atribuída a quem a defende e com o contraponto.\n\nNenhuma medida foi formalizada até aqui. O discurso da vitória, em 25 de outubro, não tratou do tema.\n\nArraste para o lado.\n\nContinuação do post sobre dívida pública de 29 de outubro.",
+  "primeiro_comentario": "",
+  "hashtags": [
+    "#economia",
+    "#contaspublicas",
+    "#dividapublica",
+    "#arcabouçofiscal",
+    "#selic",
+    "#politicaeconomica",
+    "#brasil"
+  ],
+  "alt_text": "Carrossel sobre dívida pública, metas de primário, juros e opções em debate nas contas públicas do novo mandato, com gráficos e fotos de prédios de Brasília.",
+  "fontes": [
+    {
+      "nome": "CNN Brasil (Banco Central, dívida bruta)",
+      "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/bc-divida-bruta-do-governo-geral-avanca-para-829-do-pib-em-agosto/"
+    },
+    {
+      "nome": "Estadão/PlatôBR: discurso da vitória",
+      "url": "https://www.em.com.br/politica/platobr/2026/10/7527784-no-discurso-da-vitoria-poucos-sinais-sobre-a-economia-e-nada-sobre-contas-publicas.html"
+    },
+    {
+      "nome": "InfoMoney: primário 2025",
+      "url": "https://www.infomoney.com.br/economia/governo-central-tem-deficit-de-r13-bi-em-2025-e-cumpre-meta-com-gastos-fora-da-conta/"
+    },
+    {
+      "nome": "Agência Brasil: meta 2026",
+      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2025-08/orcamento-de-2026-tem-meta-de-superavit-de-r-343-bilhoes"
+    },
+    {
+      "nome": "Câmara: informativo PLDO 2027",
+      "url": "https://www2.camara.leg.br/orcamento-da-uniao/estudos/2026/informativo_pldo2027.pdf"
+    },
+    {
+      "nome": "IFI (Senado): RAF 113",
+      "url": "https://www12.senado.leg.br/ifi/pdf/raf113_jun2026.pdf"
+    },
+    {
+      "nome": "Exame: projeção do FMI",
+      "url": "https://exame.com/economia/divida-do-brasil-pode-chegar-a-100-do-pib-em-2027-diz-fmi/"
+    },
+    {
+      "nome": "Banco Central: Copom (via Atlas Público)",
+      "url": "https://atlaspublico.com.br/bcb/noticias/copom-reduz-selic-para-13-75pct-ao-ano-em-decisao-unanime-87748"
+    },
+    {
+      "nome": "Poder360: Durigan e a meta de 2027",
+      "url": "https://www.poder360.com.br/poder-economia/apos-reacao-negativa-do-mercado-durigan-diz-que-vai-ampliar-superavit/"
+    },
+    {
+      "nome": "InfoMoney: Durigan e o arcabouço",
+      "url": "https://www.infomoney.com.br/politica/o-que-lula-ja-disse-sobre-ajuste-fiscal-e-o-que-falta-esclarecer-para-o-4o-mandato/"
+    },
+    {
+      "nome": "Folha via Jornal de Brasília: 2,5% para 1,5%",
+      "url": "https://jornaldebrasilia.com.br/noticias/economia/durigan-discute-com-lula-aperto-no-arcabouco-em-4o-mandato-e-novos-gatilhos-para-restringir-despesas/"
+    },
+    {
+      "nome": "Gazeta do Povo (editorial)",
+      "url": "https://www.gazetadopovo.com.br/opiniao/editoriais/dario-durigan-lula-contas-publicas-arcabouco-fiscal/"
+    },
+    {
+      "nome": "Jornal de Brasília: economistas e ajuste",
+      "url": "https://jornaldebrasilia.com.br/noticias/economia/governo-lula-ganha-folego-para-o-orcamento-mas-ajuste-em-2027-segue-inevitavel-dizem-economistas/"
+    },
+    {
+      "nome": "Senado: regras do IR",
+      "url": "https://www12.senado.leg.br/noticias/materias/2025/11/05/entenda-as-regras-para-isencao-do-imposto-de-renda-e-taxacao-de-altas-rendas"
+    },
+    {
+      "nome": "Jornal do Comércio: bancadas 2027",
+      "url": "https://jornaldocomercio.com/politica/2026/10/1267596-pl-tera-a-maior-bancada-da-camara-dos-deputados-seguido-por-federacoes-pt-pcdob-pv-e-uniao-pp.html"
+    }
+  ],
+  "busca_imagens": [
+    {
+      "id": "img01",
+      "query": "File:Fachada do Palácio do Planalto - 49727772326.jpg",
+      "alternativas": [
+        "File:Planalto panorama.jpg",
+        "File:Palacio do Planalto (5348220087).jpg"
+      ]
+    },
+    {
+      "id": "img02",
+      "query": "File:Esplanada dos Ministérios - 50494849186.jpg",
+      "alternativas": [
+        "File:Esplanada dos Ministérios - 50494085438.jpg"
+      ]
+    },
+    {
+      "id": "img03",
+      "query": "File:Esplanada dos Ministérios - 50494031418.jpg",
+      "alternativas": [
+        "File:Esplanada dos Ministérios - 50494891207.jpg"
+      ]
+    },
+    {
+      "id": "img04",
+      "query": "File:Brasília - Eixo monumental - teatro, museu, catedral, ministérios, congresso e ponte JK.jpg",
+      "alternativas": [
+        "File:Esplanada dos Ministérios - 50494085438.jpg"
+      ]
+    },
+    {
+      "id": "img05",
+      "query": "File:Edifício \"Sede\" do Banco Central do Brasil em Brasília.jpg",
+      "alternativas": [
+        "File:Edifício sede do Banco Central do Brasil (16011635094).jpg"
+      ]
+    },
+    {
+      "id": "img06",
+      "query": "File:Planalto panorama.jpg",
+      "alternativas": [
+        "File:Palacio do Planalto (5348220087).jpg"
+      ]
+    },
+    {
+      "id": "img07",
+      "query": "File:Prédio do Ministério da Fazenda.jpg",
+      "alternativas": [
+        "incategory:\"Esplanada dos Ministérios, Bloco P (Brasília)\""
+      ]
+    },
+    {
+      "id": "img08",
+      "query": "File:Esplanada dos Ministérios - 50494891207.jpg",
+      "alternativas": [
+        "File:Esplanada dos Ministérios - 50494085438.jpg"
+      ]
+    },
+    {
+      "id": "img09",
+      "query": "File:Palácio do Congresso Nacional (48205178687).jpg",
+      "alternativas": [
+        "File:Congresso Nacional (30940584791).jpg",
+        "File:Congresso Nacional (28348723292).jpg"
+      ]
+    }
+  ],
+  "agendamento": {
+    "data_hora": "2026-10-31T06:01:00-03:00",
+    "slot": "06:01"
+  },
+  "ia_gerado": false
+}
