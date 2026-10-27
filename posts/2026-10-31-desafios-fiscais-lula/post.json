@@ -22,7 +22,7 @@
       }
     },
     {
-      "imagem": "img03",
+      "imagem": "img01",
       "texto_html": "O governo central fechou 2025 com déficit primário de <strong>R$ 13 bi</strong> na conta da meta, que exclui precatórios e outras despesas. Sem as exclusões, foram R$ 61,69 bi. A meta foi considerada cumprida.",
       "grafico": {
         "tipo": "linha_do_tempo",
@@ -50,7 +50,8 @@
           }
         ],
         "nota": "Banda de ±0,25 p.p. em 2026 e 2027. Metas de 2027 a 2030 constam do PLDO 2027, ainda em votação"
-      }
+      },
+      "foco": "5% center"
     },
     {
       "imagem": "img04",
@@ -107,8 +108,9 @@
       }
     },
     {
-      "imagem": "img08",
-      "texto_html": "Economistas debatem outras frentes. Tiago Sbardelotto, da XP, calcula que, com teto de 1,5%, a regra exigiria rever os pisos de saúde e educação em 2028. Salto e Pellegrini, no Estadão, propõem ajuste gradual em 3 a 4 anos, sem corte brusco, que seria recessivo."
+      "imagem": "img04",
+      "texto_html": "Economistas debatem outras frentes. Tiago Sbardelotto, da XP, calcula que, com teto de 1,5%, a regra exigiria rever os pisos de saúde e educação em 2028. Salto e Pellegrini, no Estadão, propõem ajuste gradual em 3 a 4 anos, sem corte brusco, que seria recessivo.",
+      "foco": "15% center"
     },
     {
       "imagem": "img09",
@@ -216,13 +218,6 @@
       "alternativas": []
     },
     {
-      "id": "img03",
-      "query": "File:Ministério da Fazenda 2017 03 15 1.jpg",
-      "alternativas": [
-        "incategory:\"Esplanada dos Ministérios, Bloco P (Brasília)\""
-      ]
-    },
-    {
       "id": "img04",
       "query": "File:Brasília - Eixo monumental - teatro, museu, catedral, ministérios, congresso e ponte JK.jpg",
       "alternativas": [
@@ -241,13 +236,6 @@
       "query": "File:Imagens de Brasília - Palácio do Congresso Nacional (52730914148).jpg",
       "alternativas": [
         "File:Congresso Nacional (30940584791).jpg"
-      ]
-    },
-    {
-      "id": "img08",
-      "query": "File:Ministério da Fazenda 2017 03 15 2.jpg",
-      "alternativas": [
-        "File:Ministério da Fazenda 2017 03 15 3.jpg"
       ]
     },
     {
@@ -292,19 +280,6 @@
       "query": "File:Edifício sede do Banco Central do Brasil (16011635094).jpg"
     },
     {
-      "titulo": "Ministério da Fazenda 2017 03 15 1.jpg",
-      "autor": "Marcelo Camargo/Agência Brasil",
-      "licenca": "CC BY 2.0",
-      "exige_credito": true,
-      "url_origem": "https://commons.wikimedia.org/wiki/File:Minist%C3%A9rio_da_Fazenda_2017_03_15_1.jpg",
-      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Minist%C3%A9rio_da_Fazenda_2017_03_15_1.jpg/1920px-Minist%C3%A9rio_da_Fazenda_2017_03_15_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "largura": 3464,
-      "altura": 2309,
-      "id": "img03",
-      "arquivo": "imagens/img03.jpg",
-      "query": "File:Ministério da Fazenda 2017 03 15 1.jpg"
-    },
-    {
       "titulo": "Brasília - Eixo monumental - teatro, museu, catedral, ministérios, congresso e ponte JK.jpg",
       "autor": "Sintegrity",
       "licenca": "CC BY-SA 4.0",
@@ -342,19 +317,6 @@
       "id": "img07",
       "arquivo": "imagens/img07.jpg",
       "query": "File:Imagens de Brasília - Palácio do Congresso Nacional (52730914148).jpg"
-    },
-    {
-      "titulo": "Ministério da Fazenda 2017 03 15 2.jpg",
-      "autor": "Marcelo Camargo/Agência Brasil",
-      "licenca": "CC BY 2.0",
-      "exige_credito": true,
-      "url_origem": "https://commons.wikimedia.org/wiki/File:Minist%C3%A9rio_da_Fazenda_2017_03_15_2.jpg",
-      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Minist%C3%A9rio_da_Fazenda_2017_03_15_2.jpg/1920px-Minist%C3%A9rio_da_Fazenda_2017_03_15_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "largura": 3464,
-      "altura": 2309,
-      "id": "img08",
-      "arquivo": "imagens/img08.jpg",
-      "query": "File:Ministério da Fazenda 2017 03 15 2.jpg"
     },
     {
       "titulo": "Palácio do Congresso Nacional (48205178687).jpg",
