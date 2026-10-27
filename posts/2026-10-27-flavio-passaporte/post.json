@@ -10,28 +10,8 @@
   "capa": {
     "imagem": "img04",
     "titulo_html": "Moraes manda <span class=\"hl2\">Flávio Bolsonaro (PL)</span> entregar passaportes",
-    "gancho": "Medida cautelar no inquérito por suspeita de evasão de divisas e lavagem de dinheiro. O senador nega irregularidades e diz que vai contestar.",
-    "graficos": [
-      {
-        "tipo": "numero",
-        "titulo": "Prazo",
-        "texto": "24 h",
-        "nota": "Para entrega à Polícia Federal"
-      },
-      {
-        "tipo": "numero",
-        "titulo": "Documentos",
-        "texto": "2 passaportes",
-        "nota": "Comum e diplomático"
-      },
-      {
-        "tipo": "numero",
-        "titulo": "Situação",
-        "texto": "Cautelar",
-        "nota": "Não é condenação; decisão sob sigilo"
-      }
-    ],
-    "credito": "Fotos: Moraes: Palácio do Planalto (CC BY 2.0); Flávio Bolsonaro: Agência Senado (CC BY)"
+    "gancho": "Medida cautelar, não condenação, no inquérito por suspeita de evasão de divisas e lavagem de dinheiro. Prazo de 24 horas para a entrega. O senador nega irregularidades e diz que vai contestar.",
+    "credito": "Fotos: Rosinei Coutinho/STF (fev 2026) · Carlos Moura/Agência Senado (set 2026)"
   },
   "slides": [],
   "legenda": "O ministro Alexandre de Moraes, do STF, determinou que o senador Flávio Bolsonaro (PL-RJ) entregue seus passaportes, comum e diplomático, à Polícia Federal em até 24 horas. A decisão, divulgada na segunda-feira (26), também o proíbe de deixar o país e de ter contato com o advogado e empresário Willer Tomaz, amigo do senador.\n\nOs dois são investigados no mesmo inquérito por suspeita de evasão de divisas e lavagem de dinheiro. Trata-se de medida cautelar: não há condenação. A decisão tramita sob sigilo, e, segundo o senador e a imprensa, o fundamento teria relação com declaração de Eduardo Bolsonaro sobre uma possível saída do irmão do país.\n\nO senador diz que nunca disse nem planejou deixar o país, chama a medida de intimidação, afirma que vai entregar os documentos e contestar a decisão, e nega irregularidades. A defesa de Willer Tomaz também nega ilegalidade.",
@@ -63,17 +43,6 @@
   ],
   "busca_imagens": [
     {
-      "id": "img03",
-      "query": "File:Foto oficial do senador Flávio Bolsonaro (v. AgSen).jpg",
-      "alternativas": [
-        "File:Senadores da 56ª Legislatura Flávio Bolsonaro Senador (40052640253).jpg"
-      ]
-    },
-    {
-      "id": "img05",
-      "query": "File:Alexandre de Moraes (2023).jpg"
-    },
-    {
       "id": "img06",
       "query": "File:Sessão plenária do STF - 2026 02 12 (55092599809).jpg",
       "alternativas": []
@@ -100,41 +69,15 @@
   "verificacao": "Fatos da pauta (Agência Brasil, Poder360, CNN, Folhapress). Sem R$ 6 bi, sem Dark Horse, sem afirmar recurso ou cumprimento; fundamento atribuído à imprensa; decisão sob sigilo.",
   "imagens": [
     {
-      "titulo": "Foto oficial do senador Flávio Bolsonaro (v. AgSen).jpg",
-      "autor": "Agência Senado",
-      "licenca": "Attribution",
+      "titulo": "Composição: Moraes (STF, 12 fev 2026) e Flávio Bolsonaro (Senado, 1 set 2026)",
+      "autor": "Moraes: Rosinei Coutinho/STF; Flávio: Carlos Moura/Agência Senado",
+      "licenca": "uso livre com crédito / CC BY-SA 4.0",
       "exige_credito": true,
-      "url_origem": "https://commons.wikimedia.org/wiki/File:Foto_oficial_do_senador_Fl%C3%A1vio_Bolsonaro_(v._AgSen).jpg",
-      "url_download": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Foto_oficial_do_senador_Fl%C3%A1vio_Bolsonaro_%28v._AgSen%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "largura": 1358,
-      "altura": 1441,
-      "id": "img03",
-      "arquivo": "imagens/img03.jpg",
-      "query": "File:Foto oficial do senador Flávio Bolsonaro (v. AgSen).jpg"
-    },
-    {
-      "titulo": "Composição: Moraes (2023) e Flávio Bolsonaro (retrato oficial)",
-      "autor": "Moraes: Ricardo Stuckert/PR, CC BY 2.0; Flávio: Agência Senado",
-      "licenca": "uso livre com crédito",
-      "exige_credito": true,
-      "url_origem": "https://commons.wikimedia.org/wiki/File:Alexandre_de_Moraes_(2023).jpg",
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Sess%C3%A3o_plen%C3%A1ria_do_STF_-_2026_02_12_(55092599809).jpg ; https://commons.wikimedia.org/wiki/File:Fl%C3%A1vio_Bolsonaro_-_55503046138_(cropped).jpg",
       "id": "img04",
       "arquivo": "imagens/img04.jpg",
       "largura": 1080,
       "altura": 1350
-    },
-    {
-      "titulo": "Alexandre de Moraes (2023).jpg",
-      "autor": "Palácio do Planalto from Brasilia, Brasil",
-      "licenca": "CC BY 2.0",
-      "exige_credito": true,
-      "url_origem": "https://commons.wikimedia.org/wiki/File:Alexandre_de_Moraes_(2023).jpg",
-      "url_download": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Alexandre_de_Moraes_%282023%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "largura": 1179,
-      "altura": 1614,
-      "id": "img05",
-      "arquivo": "imagens/img05.jpg",
-      "query": "File:Alexandre de Moraes (2023).jpg"
     },
     {
       "titulo": "Sessão plenária do STF - 2026 02 12 (55092599809).jpg",
