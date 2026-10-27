@@ -74,5 +74,20 @@
     "slot": "extra"
   },
   "metricool": {},
-  "verificacao": "Fatos da pauta (Agência Brasil, Poder360, CNN, Folhapress). Sem R$ 6 bi, sem Dark Horse, sem afirmar recurso ou cumprimento; fundamento atribuído à imprensa; decisão sob sigilo."
+  "verificacao": "Fatos da pauta (Agência Brasil, Poder360, CNN, Folhapress). Sem R$ 6 bi, sem Dark Horse, sem afirmar recurso ou cumprimento; fundamento atribuído à imprensa; decisão sob sigilo.",
+  "imagens": [
+    {
+      "titulo": "Fachada do Supremo Tribunal Federal (STF) (54334559198).jpg",
+      "autor": "Agência Senado from Brasilia, Brazil",
+      "licenca": "CC BY 2.0",
+      "exige_credito": true,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Fachada_do_Supremo_Tribunal_Federal_(STF)_(54334559198).jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Fachada_do_Supremo_Tribunal_Federal_%28STF%29_%2854334559198%29.jpg/1920px-Fachada_do_Supremo_Tribunal_Federal_%28STF%29_%2854334559198%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 1993,
+      "altura": 1329,
+      "id": "img01",
+      "arquivo": "imagens/img01.jpg",
+      "query": "File:Fachada do Supremo Tribunal Federal (STF) (54334559198).jpg"
+    }
+  ]
 }
