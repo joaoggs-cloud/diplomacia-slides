@@ -23,7 +23,7 @@
     },
     {
       "imagem": "img03",
-      "texto_html": "No resultado primário, 2025 fechou com déficit de <strong>R$ 13 bi</strong> na conta da meta, que exclui precatórios e outras despesas. Sem as exclusões, foram R$ 61,69 bi. A meta foi considerada cumprida.",
+      "texto_html": "O governo central fechou 2025 com déficit primário de <strong>R$ 13 bi</strong> na conta da meta, que exclui precatórios e outras despesas. Sem as exclusões, foram R$ 61,69 bi. A meta foi considerada cumprida.",
       "grafico": {
         "tipo": "linha_do_tempo",
         "titulo": "Metas de primário (% do PIB)",
@@ -49,9 +49,8 @@
             "texto": "1,5"
           }
         ],
-        "nota": "Banda de ±0,25 p.p. em 2026 e 2027. Metas de 2029 e 2030 constam do PLDO 2027"
-      },
-      "foco": "center 100%"
+        "nota": "Banda de ±0,25 p.p. em 2026 e 2027. Metas de 2027 a 2030 constam do PLDO 2027, ainda em votação"
+      }
     },
     {
       "imagem": "img04",
@@ -61,7 +60,7 @@
         "titulo": "Dívida bruta (% do PIB)",
         "itens": [
           {
-            "rotulo": "Ago/2026 (observado)",
+            "rotulo": "Ago/2026",
             "valor": 82.9,
             "texto": "82,9%",
             "destaque": true
@@ -82,7 +81,7 @@
             "texto": "100%"
           }
         ],
-        "nota": "Projeções, exceto ago/2026. *Metodologia do FMI difere da do BC"
+        "nota": "Projeções, exceto ago/2026. *FMI, Monitor Fiscal de abr/2026: inclui títulos na carteira do BC"
       }
     },
     {
@@ -95,32 +94,32 @@
       }
     },
     {
-      "imagem": "img06",
-      "texto_html": "No discurso da vitória, em 25 out, Lula falou de economia digital, saúde e ensino integral, sem tratar de ajuste fiscal. Em 26 out, o ministro da Fazenda, <strong>Dario Durigan</strong>, disse que o governo quer ampliar o superávit de 2027 e alterar a lei, ou a Constituição, para chegar mais perto do centro da meta."
+      "imagem": "img01",
+      "texto_html": "Lula não tratou de ajuste fiscal no discurso da vitória, em 25 out. Em setembro, disse que o melhor caminho para reduzir a dívida é fazer a economia crescer. Em 26 out, o ministro da Fazenda, <strong>Dario Durigan</strong>, prometeu ampliar o superávit de 2027.",
+      "foco": "85% center"
     },
     {
       "imagem": "img07",
       "texto_html": "Durigan diz que o arcabouço deve ser preservado, com melhora gradual. Segundo a Folha, antes do 2º turno ele discutia com Lula baixar de 2,5% para 1,5% o teto de alta real da despesa e criar gatilhos para outras despesas obrigatórias. Não há proposta formal.",
       "factbox": {
-        "label": "Contraponto",
-        "texto": "Editorial da Gazeta do Povo diz que as medidas não bastariam para frear a dívida."
+        "label": "IFI",
+        "texto": "A IFI, do Senado, considera otimistas as premissas do governo: projeta déficit primário de R$ 86,1 bi em 2027, contra superávit de R$ 18,6 bi previsto no Orçamento."
       }
     },
     {
-      "imagem": "img04",
-      "texto_html": "Economistas citam outras frentes. Tiago Sbardelotto, da XP, defende rever os pisos de saúde e educação. Salto e Pellegrini, no Estadão, propõem um plano gradual de 3 a 4 anos. José Luis Oreiro, da UnB, critica: o ajuste recairia sobre os mais pobres.",
-      "foco": "15% center"
+      "imagem": "img08",
+      "texto_html": "Economistas debatem outras frentes. Tiago Sbardelotto, da XP, calcula que, com teto de 1,5%, a regra exigiria rever os pisos de saúde e educação em 2028. Salto e Pellegrini, no Estadão, propõem ajuste gradual em 3 a 4 anos, sem corte brusco, que seria recessivo."
     },
     {
       "imagem": "img09",
-      "texto_html": "Na receita, a Lei 15.270/2025 isenta quem ganha até R$ 5 mil e cobra até 10% sobre rendas acima de R$ 600 mil; sem anúncio novo. Mudar a regra fiscal passa pelo Congresso, onde o PL terá a maior bancada da Câmara: <strong>121 de 513</strong>."
+      "texto_html": "Na receita, a Lei 15.270/2025 isenta quem ganha até R$ 5 mil por mês e cobra imposto mínimo de até 10% sobre rendas acima de R$ 600 mil por ano; não houve anúncio novo. Mudar a regra fiscal depende do Congresso, onde o PL terá a maior bancada da Câmara: <strong>121 de 513</strong>."
     }
   ],
   "cta": {
     "titulo": "Salve este post",
     "subtitulo": "e compartilhe com quem acompanha as contas públicas"
   },
-  "legenda": "Dívida bruta em 82,9% do PIB em agosto de 2026, meta de superávit primário de 0,25% neste ano e juros em 13,75%. Esse é o ponto de partida das contas públicas no novo mandato, segundo dados do Banco Central, do Tesouro e do Congresso.\n\nNo carrossel, os números oficiais, as projeções do governo, da IFI e do FMI (que usa metodologia diferente), o que o ministro da Fazenda, Dario Durigan, disse em 26 de outubro e as opções que economistas e a imprensa colocam em debate, cada uma atribuída a quem a defende e com o contraponto.\n\nNenhuma medida foi formalizada até aqui. O discurso da vitória, em 25 de outubro, não tratou do tema.\n\nArraste para o lado.\n\nContinuação do post sobre dívida pública de 29 de outubro.",
+  "legenda": "Dívida bruta em 82,9% do PIB em agosto de 2026, meta de superávit primário de 0,25% neste ano e juros em 13,75%. Esse é o ponto de partida das contas públicas no novo mandato, segundo dados do Banco Central, do Tesouro e do Congresso.\n\nNo carrossel, os números oficiais, as projeções do governo, da IFI e do FMI (que usa metodologia diferente), o que o ministro da Fazenda, Dario Durigan, disse em 26 de outubro e as opções que economistas e a imprensa colocam em debate, cada uma atribuída a quem a defende, com a avaliação da IFI.\n\nNenhuma medida foi formalizada até aqui. O discurso da vitória, em 25 de outubro, não tratou do tema.\n\nArraste para o lado.\n\nContinuação do post sobre dívida pública de 29 de outubro.",
   "primeiro_comentario": "",
   "hashtags": [
     "#economia",
@@ -154,16 +153,8 @@
       "url": "https://www2.camara.leg.br/orcamento-da-uniao/estudos/2026/informativo_pldo2027.pdf"
     },
     {
-      "nome": "IFI (Senado): RAF 113",
-      "url": "https://www12.senado.leg.br/ifi/pdf/raf113_jun2026.pdf"
-    },
-    {
       "nome": "Exame: projeção do FMI",
       "url": "https://exame.com/economia/divida-do-brasil-pode-chegar-a-100-do-pib-em-2027-diz-fmi/"
-    },
-    {
-      "nome": "Banco Central: Copom (via Atlas Público)",
-      "url": "https://atlaspublico.com.br/bcb/noticias/copom-reduz-selic-para-13-75pct-ao-ano-em-decisao-unanime-87748"
     },
     {
       "nome": "Poder360: Durigan e a meta de 2027",
@@ -178,10 +169,6 @@
       "url": "https://jornaldebrasilia.com.br/noticias/economia/durigan-discute-com-lula-aperto-no-arcabouco-em-4o-mandato-e-novos-gatilhos-para-restringir-despesas/"
     },
     {
-      "nome": "Gazeta do Povo (editorial)",
-      "url": "https://www.gazetadopovo.com.br/opiniao/editoriais/dario-durigan-lula-contas-publicas-arcabouco-fiscal/"
-    },
-    {
       "nome": "Jornal de Brasília: economistas e ajuste",
       "url": "https://jornaldebrasilia.com.br/noticias/economia/governo-lula-ganha-folego-para-o-orcamento-mas-ajuste-em-2027-segue-inevitavel-dizem-economistas/"
     },
@@ -192,6 +179,26 @@
     {
       "nome": "Jornal do Comércio: bancadas 2027",
       "url": "https://jornaldocomercio.com/politica/2026/10/1267596-pl-tera-a-maior-bancada-da-camara-dos-deputados-seguido-por-federacoes-pt-pcdob-pv-e-uniao-pp.html"
+    },
+    {
+      "nome": "CNN Brasil: Copom corta a Selic para 13,75%",
+      "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/bc-copom-selic-juros-setembro-2026/"
+    },
+    {
+      "nome": "Poder360: IFI projeta déficit de R$ 86,1 bi em 2027",
+      "url": "https://www.poder360.com.br/poder-economia/instituicao-fiscal-independente-projeta-deficit-de-r-861-bi-em-2027/"
+    },
+    {
+      "nome": "PlatôBR: cálculo da XP",
+      "url": "https://platobr.com.br/como-uma-reducao-das-despesas-impactara-as-contas-publicas-a-xp-fez-esse-calculo"
+    },
+    {
+      "nome": "Times Brasil: Felipe Salto",
+      "url": "https://timesbrasil.com.br/brasil/ajuste-fiscal-deveria-ser-anunciado-apos-eleicao-e-diluido-em-ate-4-anos-diz-felipe-salto/"
+    },
+    {
+      "nome": "Band: Lula sobre a dívida pública",
+      "url": "https://www.band.com.br/politica/divida-publica-nao-me-causa-panico-e-irreal-diz-lula"
     }
   ],
   "busca_imagens": [
@@ -210,8 +217,10 @@
     },
     {
       "id": "img03",
-      "query": "File:Palacio do Planalto (5348220087).jpg",
-      "alternativas": []
+      "query": "File:Ministério da Fazenda 2017 03 15 1.jpg",
+      "alternativas": [
+        "incategory:\"Esplanada dos Ministérios, Bloco P (Brasília)\""
+      ]
     },
     {
       "id": "img04",
@@ -228,17 +237,17 @@
       ]
     },
     {
-      "id": "img06",
-      "query": "File:Planalto panorama.jpg",
-      "alternativas": [
-        "File:Palacio do Planalto (5348220087).jpg"
-      ]
-    },
-    {
       "id": "img07",
       "query": "File:Imagens de Brasília - Palácio do Congresso Nacional (52730914148).jpg",
       "alternativas": [
         "File:Congresso Nacional (30940584791).jpg"
+      ]
+    },
+    {
+      "id": "img08",
+      "query": "File:Ministério da Fazenda 2017 03 15 2.jpg",
+      "alternativas": [
+        "File:Ministério da Fazenda 2017 03 15 3.jpg"
       ]
     },
     {
@@ -283,19 +292,6 @@
       "query": "File:Edifício sede do Banco Central do Brasil (16011635094).jpg"
     },
     {
-      "titulo": "Palacio do Planalto (5348220087).jpg",
-      "autor": "Eduardo Aigner from Brasilia, Brazil",
-      "licenca": "CC BY 2.0",
-      "exige_credito": true,
-      "url_origem": "https://commons.wikimedia.org/wiki/File:Palacio_do_Planalto_(5348220087).jpg",
-      "url_download": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Palacio_do_Planalto_%285348220087%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "largura": 800,
-      "altura": 533,
-      "id": "img03",
-      "arquivo": "imagens/img03.jpg",
-      "query": "File:Palacio do Planalto (5348220087).jpg"
-    },
-    {
       "titulo": "Brasília - Eixo monumental - teatro, museu, catedral, ministérios, congresso e ponte JK.jpg",
       "autor": "Sintegrity",
       "licenca": "CC BY-SA 4.0",
@@ -320,19 +316,6 @@
       "id": "img05",
       "arquivo": "imagens/img05.jpg",
       "query": "File:Edifício \"Sede\" do Banco Central do Brasil em Brasília.jpg"
-    },
-    {
-      "titulo": "Planalto panorama.jpg",
-      "autor": "Michel Temer",
-      "licenca": "CC BY 2.0",
-      "exige_credito": true,
-      "url_origem": "https://commons.wikimedia.org/wiki/File:Planalto_panorama.jpg",
-      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Planalto_panorama.jpg/1920px-Planalto_panorama.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "largura": 5760,
-      "altura": 2840,
-      "id": "img06",
-      "arquivo": "imagens/img06.jpg",
-      "query": "File:Planalto panorama.jpg"
     },
     {
       "titulo": "Imagens de Brasília - Palácio do Congresso Nacional (52730914148).jpg",
