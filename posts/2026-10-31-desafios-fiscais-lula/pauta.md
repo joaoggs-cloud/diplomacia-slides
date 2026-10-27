@@ -71,5 +71,5 @@ Gráficos (sem foto): barras de dívida (fatos 1, 6, 7, 8), régua/linha do temp
 
 ## Reservas
 1. Cobertura das mudanças do Copom e da Selic: "Como os juros afetam a dívida" (aguardar Copom de 3–4 nov; pós-agendamento).
-2. Efeméride militar da semana: Crise de Suez, 70 anos (29 out 1956) — já há post `2026-10-27-crise-de-suez-70-anos`; alternativa: 31 out 1956/1517 não aplicável. Reserva real: "Operação Barbarossa e o inverno de 1941" ou outro tema histórico ligado a efeméride de 31 out–1 nov (ex.: Batalha de Beersheba, 31 out 1917, 109 anos, baixa relevância) — escolher conforme o pilar dos dois últimos posts.
-3. Se a pauta fiscal enfraquecer até 30 out: "O que muda na reforma tributária em 2027" (CBS plena, fim de PIS/Cofins), tema explicativo com fontes oficiais (Câmara, Poder360 ja levantados nos fatos 22).
+2. Pilar histórico (a escolher conforme os dois últimos posts): efeméride militar de 31 out–1 nov; sem pesquisa feita, a validar pelo pesquisador antes de usar (Suez 70 anos já tem post).
+3. Se a pauta fiscal enfraquecer até 30 out: "O que muda na reforma tributária em 2027" (CBS plena, fim de PIS/Cofins), tema explicativo com fontes oficiais (Câmara, Poder360 já levantados nos fatos 22).
