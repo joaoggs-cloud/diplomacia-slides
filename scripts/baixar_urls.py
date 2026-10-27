@@ -8,6 +8,7 @@ Linhas "ckan:<url do package_show>" também baixam todos os recursos listados.
 import json
 import re
 import sys
+import time
 from pathlib import Path
 
 import requests
@@ -55,11 +56,17 @@ def main():
     log = []
     for n, url in enumerate(urls, start=1):
         arq = pasta / nome_arquivo(n, url)
-        try:
-            baixar(url, arq)
-            log.append({"url": url, "arquivo": arq.name, "ok": True})
-        except Exception as e:
-            log.append({"url": url, "erro": str(e), "ok": False})
+        erro = None
+        for tentativa in range(4):  # o Tesouro às vezes derruba a conexão
+            try:
+                baixar(url, arq)
+                erro = None
+                break
+            except Exception as e:
+                erro = str(e)
+                time.sleep(5 * (tentativa + 1))
+        log.append({"url": url, "arquivo": arq.name, "ok": True} if erro is None
+                   else {"url": url, "erro": erro, "ok": False})
     (pasta / "log.json").write_text(json.dumps(log, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     print(f"{sum(l['ok'] for l in log)}/{len(log)} baixados em {pasta}")
 
