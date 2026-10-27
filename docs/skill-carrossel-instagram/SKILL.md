@@ -33,7 +33,7 @@ Mesmo visual dos posts automáticos do sistema `diplomacia-slides`. Inspirado em
 2. **Slides de conteúdo (6 a 8)** — contador "2/9" no canto superior esquerdo e um parágrafo
    corrido de até **45 palavras** (fonte maior, trechos-chave em dourado), que continua a história
    do slide anterior. **Sem título nem etiqueta** — no máximo 2 slides com título e 1 caixa de
-   destaque por post; título em todo slide dá cara de conteúdo de IA. Legenda sem emojis.
+   destaque por post; título em todo slide dá cara de conteúdo de IA. Legenda sem emojis e sem perguntas ao leitor.
 3. **Slide final** — fundo escuro, logo grande, "Salve este post", subtítulo e botão dourado
    "Siga @diplomaciadaguerra".
 

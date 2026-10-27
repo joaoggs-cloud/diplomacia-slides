@@ -131,6 +131,11 @@ def montar_legenda(post, est):
     partes.append(creditos(post))
     partes.append(" ".join(hashtags))
     texto = "\n\n".join(partes)
+    # Perguntas ao leitor soam artificiais (pedido do João): o fim da legenda e o
+    # primeiro comentário não podem terminar em pergunta.
+    ultimo = post["legenda"].strip().split("\n\n")[-1]
+    if ultimo.rstrip().endswith("?") or post.get("primeiro_comentario", "").rstrip().endswith("?"):
+        sys.exit("Legenda ou primeiro comentário termina com pergunta ao leitor. Tire a pergunta do post.json.")
     achados = EMOJI.findall(texto + post.get("primeiro_comentario", ""))
     if achados:
         sys.exit(f"Legenda/primeiro comentário com emoji ({' '.join(dict.fromkeys(achados))}). Tire os emojis do post.json.")

@@ -20,8 +20,8 @@ ou o pedido de ajuste do João.
    - carrossel: 8–10 slides (capa + conteúdo + CTA), máx. 45 palavras por slide;
    - slides de conteúdo em **texto corrido**, sem `titulo`/`tag` (máx. 2 títulos e
      1 factbox por post) — a história flui de um slide para o outro;
-   - legenda com gancho, contexto, "arraste para o lado" e pergunta final, **sem emoji**
-     (nem no primeiro comentário) e sem tom de lista;
+   - legenda com gancho, contexto e "arraste para o lado", **sem perguntas ao leitor**,
+     **sem emoji** e sem tom de lista; `primeiro_comentario` vazio (ou um dado extra, sem pergunta);
    - `fontes` = as fontes da pauta; `busca_imagens` com `File:...` exatos quando houver;
    - `agendamento` = horário informado pelo coordenador.
 3. Imagens: `python3 scripts/imagens.py posts/<slug> --candidatos 3`. Se a rede bloquear,

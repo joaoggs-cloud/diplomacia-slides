@@ -101,9 +101,10 @@ referência dos agentes.
    - `categoria` vira as etiquetas da capa: use "Tema · Região/Época" (ex.:
      "Tecnologia militar · Ucrânia"); a capa **não** mostra etiqueta com nº de fontes (decisão do João);
    - capa com gancho forte (número, contradição, "o erro que…", "X fatos…");
-   - legenda: abertura que prende, contexto em 3–5 linhas, "arraste para o lado",
-     e uma **pergunta** no fim para gerar comentários; `primeiro_comentario` com
-     outra pergunta; 5–7 hashtags específicas (as de base entram sozinhas).
+   - legenda: abertura que prende, contexto em 3–5 linhas e "arraste para o lado".
+     **Sem perguntas ao leitor** (pedido do João: soa artificial) — nem no fim da
+     legenda nem no `primeiro_comentario`, que fica vazio salvo se trouxer um dado
+     ou contexto extra; 5–7 hashtags específicas (as de base entram sozinhas).
      **Nenhum emoji** na legenda nem no primeiro comentário (pedido do João: dá cara
      de IA); escreva como gente, sem listas de marcadores. O `metricool.py` recusa emoji;
    - `fontes` com nome e URL; `busca_imagens` em inglês, com `alternativas`.
@@ -148,8 +149,8 @@ use `"formato": "noticia"` e um bloco `noticia` (`imagem`, `tag`, `titulo_html`,
 `placar` opcional com `nome`/`partido`/`valor`, `subtitulo_html`, `rodape`) —
 veja `posts/2026-10-25-apuracao-2turno/post.json`. Legenda curta e direta.
 Em política: **isenção total** — candidatos com nome e partido, mesmo destaque
-visual, sem adjetivos, sem fotos de candidatos, pergunta de engajamento que não
-peça preferência; use `"usar_hashtags_base": false` se o tema não for militar.
+visual, sem adjetivos, sem fotos de candidatos (salvo pedido do João, sempre com o mesmo destaque),
+sem perguntas ao leitor; use `"usar_hashtags_base": false` se o tema não for militar.
 Dados parciais mudam rápido: confira o número mais recente imediatamente antes
 de pedir aprovação e informe o horário/percentual da parcial.
 
