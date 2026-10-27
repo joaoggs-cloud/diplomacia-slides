@@ -14,7 +14,7 @@
   "slides": [
     {
       "imagem": "img02",
-      "texto_html": "Em 2025, o governo central teve receita líquida de R$&nbsp;2,33 tri e despesa de R$&nbsp;2,39 tri: déficit primário de <strong>R$&nbsp;61,7 bi</strong>. Com os juros, o déficit nominal foi de <em>R$&nbsp;950,6 bi</em>. Para cobrir a diferença, o Tesouro vende títulos.",
+      "texto_html": "Em 2025, o governo central teve receita líquida de R$&nbsp;2,33 tri e despesa de R$&nbsp;2,39 tri: déficit primário de <strong>R$&nbsp;61,7 bi</strong>. Com juros, o déficit nominal foi de <em>R$&nbsp;950,6 bi</em>. Para cobrir o buraco, o governo pega dinheiro emprestado: emite títulos da dívida.",
       "grafico": {
         "tipo": "barras",
         "titulo": "Governo Central, 2025 (R$ bi)",
@@ -37,7 +37,7 @@
     },
     {
       "imagem": "img06",
-      "texto_html": "O Tesouro Selic segue a taxa básica (Selic + 0,10% no de 2031). O Prefixado trava a taxa (cerca de 15,3% no de 2029). O IPCA+ soma inflação e taxa (de 7,6% a 7,8% nos de 2032 a 2050). Dados de 26 out.",
+      "texto_html": "Vender um título é pegar dinheiro emprestado: quem compra empresta ao governo e recebe com juros. São três tipos: <strong>Tesouro Selic</strong>, que segue a taxa básica; <strong>Prefixado</strong>, de taxa travada (15,3% em 2029); e <strong>IPCA+</strong>, inflação mais 7,6% a 7,8% (26 out).",
       "numero": {
         "valor": "R$ 9,29 TRI",
         "label": "Dívida Pública Federal em ago/26. Taxas indicativas, mudam todo dia."
