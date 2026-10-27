@@ -1,0 +1,48 @@
+# A sessão do Claude não alcança o Wikimedia Commons: para escolher fotos, ela
+# envia consultas/<nome>.txt (categorias ou buscas, uma por linha) e o GitHub
+# devolve consultas/<nome>/resultado.json com data, autor e licença, mais miniaturas.
+name: Consultar Commons
+
+on:
+  push:
+    paths:
+      - "consultas/*.txt"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: consultar-commons-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  consultar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Consultar
+        run: |
+          pip install requests pillow numpy
+          if [ "${{ github.event.before }}" = "0000000000000000000000000000000000000000" ]; then
+            arquivos=$(git ls-files 'consultas/*.txt')
+          else
+            arquivos=$(git diff --name-only "${{ github.event.before }}" "${{ github.sha }}" -- 'consultas/*.txt')
+          fi
+          for f in $arquivos; do [ -f "$f" ] && python3 scripts/consulta_commons.py "$f"; done
+
+      - name: Commit
+        run: |
+          git config user.name "diplomacia-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add consultas
+          if git diff --cached --quiet; then echo "Nada novo."; exit 0; fi
+          git commit -m "Consulta ao Commons: resultados"
+          for i in 1 2 3; do git pull --rebase && git push && exit 0; sleep 5; done
+          exit 1
