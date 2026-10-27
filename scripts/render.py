@@ -187,7 +187,7 @@ def painel_grafico(g):
         corpo = f'<div class="r-trilho">{marcas}</div>'
     elif g["tipo"] == "pizza":
         # Fatias proporcionais a "valor"; o rótulo de cada fatia traz o número com fonte.
-        cores = ["#e0b84f", "#5fa8d3", "#d97b66", "#8fbf7f", "#b9a3d6", "#8a8a8a", "#e6d3a3"]
+        cores = ["#e0b84f", "#5fa8d3", "#d97b66", "#8fbf7f", "#b9a3d6", "#f0a35e", "#6fc2b5", "#e68fb0", "#c9c26b", "#8a8a8a", "#e6d3a3"]
         total = sum(i["valor"] for i in g["itens"])
         acum, fatias, legenda = 0.0, [], ""
         for n, i in enumerate(g["itens"]):
