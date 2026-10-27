@@ -1,7 +1,7 @@
 {
   "slug": "2026-10-26-onu-crimes-energia-ucrania",
   "titulo_interno": "ONU: ataques russos à energia da Ucrânia são crimes de guerra",
-  "status": "agendado",
+  "status": "publicado",
   "formato": "noticia",
   "layout": "moderno",
   "pilar": "diplomacia",
@@ -92,6 +92,7 @@
     "story": {
       "id": 407349674,
       "uuid": "-3192887963466316029"
-    }
+    },
+    "url_instagram": "https://www.instagram.com/p/De-uV51CDa6/"
   }
 }
