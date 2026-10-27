@@ -171,3 +171,47 @@ Divergências a resolver antes de publicar:
 1. Efeméride: 70 anos da Crise de Suez (já usada em 2026-10-27; não repetir) -> alternativa: 29 out 1929 (Crash da Bolsa de NY, 97 anos) e a diplomacia da dívida de guerra (reparações da Alemanha).
 2. Tecnologia militar: custo por drone interceptado vs. o drone atacante (economia da defesa aérea, Ucrânia/Oriente Médio).
 (Pesquisa de reservas rasa; não validadas com 2 fontes. O tema dívida foi pedido direto pelo João.)
+
+---
+## ATUALIZAÇÃO 27 out (pedido do João via coordenador): pizza sem sobreposição, base RTN 2025
+
+RESULTADO HONESTO: NÃO consegui a tabela anual de rubricas do RTN 2025 com 2 fontes. A busca devolve só o resumo do boletim (déficit, aumentos em relação a 2024); a tabela completa está no PDF/planilha do Tesouro (WebFetch/curl bloqueados aqui). Não inventei valores. Abaixo, o que está confirmado, o que falta e como obter.
+
+### Pizza "para onde vai o dinheiro" (execução 2025, sem rolagem): estrutura pronta, valores pendentes
+Fatias (classificação do RTN, sem sobreposição): Benefícios previdenciários (RGPS); Pessoal e encargos sociais; Transferências a estados e municípios (FPE/FPM etc., a rubrica é de "transferências constitucionais", normalmente deduzida da receita no RTN, não somada à despesa: CONFERIR tratamento); BPC/LOAS; Abono e seguro-desemprego; Bolsa Família; Demais obrigatórias; Discricionárias (Saúde, Educação, investimentos e emendas discricionárias, se detalhadas); Juros.
+Confirmado até agora (execução 2025):
+| Item | Valor | Fontes | Status |
+|---|---|---|---|
+| Despesa total do Governo Central 2025 | R$ 2.394 bi (R$ 2.345 bi sem deduções, segundo busca) | Tesouro/Fazenda e Agência Brasil (links F1) | [OK], mas a diferença 2.394/2.345 precisa ser entendida |
+| Receita líquida | R$ 2.332 bi | idem | [OK] |
+| Déficit primário | R$ 61,7 bi (0,48% PIB) | idem | [OK] |
+| Déficit do RGPS | R$ 317,2 bi (CNN cita 317,1) | Tesouro/Fazenda; CNN | [OK, divergência de R$ 0,1 bi] |
+| Benefícios previdenciários 2025 | ~R$ 1,026 tri | CNN https://www.cnnbrasil.com.br/economia/money/macroeconomia/previdencia-social-ultrapassa-r-1-trilhao-no-orcamento-de-2026/ (citando contas do governo central) | [1 FONTE]; outra busca não confirmou. Dotação LOA 2025: R$ 1,012-1,015 tri |
+| Variação 2025 vs 2024 (real/nominal conforme matéria) | benefícios previdenciários +R$ 41,4 bi (+4,1%); BPC +R$ 10,8 bi (+9,1%); pessoal +R$ 16,9 bi (+4,3%) (1 fonte); Fundeb +R$ 10 bi | Agência Brasil https://agenciabrasil.ebc.com.br/economia/noticia/2026-01/deficit-primario-do-governo-central-totaliza-r-617-bilhoes-em-2025 | [1 FONTE], só variações, não níveis |
+| BPC jan-mai 2025 | R$ 52,3 bi (+10,6%) | Poder360 https://www.poder360.com.br/poder-economia/gastos-com-bpc-atingem-r-523-bi-e-crescem-106-em-2025/ | parcial, não anual |
+| Juros nominais 2025 (setor público consolidado) | ~R$ 1 tri = 7,91% do PIB (2024: R$ 950,4 bi, 8,07%); swap cambial deduziu R$ 105,9 bi | Monitor Mercantil https://monitormercantil.com.br/despesa-com-juros-chega-a-r-1-tri-em-2025/ ; Jornal Opção (link F16) ; Poder360 https://www.poder360.com.br/poder-economia/setor-publico-consolidado-tem-deficit-de-r-55-bilhoes-em-2025/ | [OK] mas é SETOR PÚBLICO (inclui estados, municípios, estatais), não só União |
+| Juros nominais só do Governo Central 2025 | PENDENTE | BC, Estatísticas Fiscais, quadro "Governo Central" | não encontrado |
+| Pessoal (nível anual), Bolsa Família, abono/seguro-desemprego, demais obrigatórias, discricionárias, saúde/educação discricionárias, emendas, investimentos, transferências | PENDENTE | RTN dez/2025, planilha série histórica | não encontrado |
+Dotação LOA 2025 para comparação (não é execução): benefícios R$ 1.011,9 bi; pessoal R$ 416,2 bi; Bolsa Família R$ 158,6 bi; BPC+RMV R$ 113,6-119,1 bi (IFI estimou 125,7); Saúde R$ 245 bi; Educação R$ 226 bi (Câmara Raio X 2025, IFI/Congresso em Foco, Senado Notícias https://www12.senado.leg.br/noticias/materias/2025/04/14/orcamento-2025-quase-r-1-trihao-para-previdencia-e-r-245-bilhoes-para-saude). Não usar como se fosse gasto realizado.
+
+Cuidados de método para quem montar a pizza:
+1. Misturar despesa primária do Governo Central com juros do SETOR PÚBLICO consolidado superestima a União. Usar juros do Governo Central (BC, quadro por esfera) ou rotular claramente "juros do setor público".
+2. Transferências constitucionais (FPE/FPM): no RTN são mostradas como "transferências por repartição de receita", abatidas da receita bruta, não da despesa. Incluí-las como fatia de despesa exige base "receita bruta / despesa + transferências"; decidir e dizer na legenda.
+3. Tudo na mesma base e ano (2025 execução). Soma dos % = 100%.
+
+### Como destravar (sugestão ao coordenador)
+- Baixar a planilha "Série histórica RTN" / boletim_dez25.pdf em https://www.tesourotransparente.gov.br/publicacoes/boletim-resultado-do-tesouro-nacional-rtn/2025/12 e o quadro de juros do Governo Central nas Estatísticas Fiscais do BC. A sessão não alcança esses hosts; o workflow do GitHub (`gerar-slides.yml`) tem internet: um workflow rápido com curl do PDF/xlsx para o repositório resolveria, ou o João/analista roda localmente. Alternativa mais rápida: Siga Brasil (Senado) para a LOA 2026 por função/elemento.
+- Enquanto isso, a pizza A/B da LOA 2026 (seção anterior) é a única com números fechados, com a ressalva de sobreposição função x grupo. Para evitar sobreposição usando só a LOA, a versão por GRUPO DE DESPESA é limpa: Pessoal 489,5 | Juros 643,9 | Outras correntes ~2.645 | Investimentos 79,7 | Inversões 229,1 | Amortização 2.220,0 (inclui rolagem 1.822,9) | Reserva 36,5 (total R$ 6.344,7 bi), mas a fatia "outras correntes" (41,7%) esconde Previdência, saúde, etc.
+
+### Pizza LOA 2026 simplificada, com rolagem (só para explicar o "45%")
+Base: LOA 2026, Orçamento Fiscal e da Seguridade, R$ 6.344,7 bi (dotação).
+| Rótulo | Valor | Texto |
+|---|---|---|
+| Refinanciamento (rolagem) | 1.822,9 | "R$ 1.823 bi · 28,7%" |
+| Juros + amortização além da rolagem | 1.041,0 | "R$ 1.041 bi · 16,4%" (643,9 + 397,1; a segunda parcela é cálculo meu, 2.220,0 - 1.822,9) |
+| Previdência (aprox.) | 1.110 | "R$ 1.110 bi · 17,5%" |
+| Demais | 2.370,8 | "R$ 2.371 bi · 37,4%" |
+Soma 100,0%. "45%" = 28,7 + 16,4 = 45,1% (R$ 2.863,9 bi). Previdência R$ 1,11 tri: PLOA/CNN e Raio X ("R$ 1,1 tri"); sem sobreposição com os outros três blocos, pois os três primeiros são da dívida.
+
+### Defesa e Segurança Pública na LOA 2026
+Não achei valor federal por função com 2 fontes. Um site de licitações (Effecti) cita "Defesa e Segurança R$ 120,9 bi" sem origem nem separação: NÃO USAR. Obter no Siga Brasil/Raio X pós-vetos (tabela por função): https://www.congressonacional.leg.br/documents/150599582/151112091/Raio+X+do+Orcamento+2026+-Pos+Vetos.pdf/0c18cf74-4a44-4c00-ab12-82bfbe51654e
