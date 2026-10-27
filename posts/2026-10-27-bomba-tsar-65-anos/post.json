@@ -202,6 +202,19 @@
       "query": "File:Russian Air Force, RF-94130, Tupolev Tu-95 Bear (51264552466).jpg"
     },
     {
+      "titulo": "John Kennedy, Nikita Khrushchev 1961.jpg",
+      "autor": "Photograph from the U. S. Department of State in the John F. Kennedy Presidential Library and Museum, Boston.",
+      "licenca": "Public domain",
+      "exige_credito": false,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:John_Kennedy,_Nikita_Khrushchev_1961.jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/John_Kennedy%2C_Nikita_Khrushchev_1961.jpg/1920px-John_Kennedy%2C_Nikita_Khrushchev_1961.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 2894,
+      "altura": 2315,
+      "id": "img10",
+      "arquivo": "imagens/img10.jpg",
+      "query": "File:John Kennedy, Nikita Khrushchev 1961.jpg"
+    },
+    {
       "titulo": "Nikita Khrushchev 1960.jpg",
       "autor": "Warren K. Leffler",
       "licenca": "Public domain",
@@ -239,6 +252,19 @@
       "id": "img13",
       "arquivo": "imagens/img13.jpg",
       "query": "Partial Test Ban Treaty signing Moscow 1963 Gromyko Rusk Home"
+    },
+    {
+      "titulo": "Roze Glacier, Novaya Zemlya.jpg",
+      "autor": "Jesse Allen and Robert Simmon",
+      "licenca": "Public domain",
+      "exige_credito": false,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Roze_Glacier,_Novaya_Zemlya.jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Roze_Glacier%2C_Novaya_Zemlya.jpg/1920px-Roze_Glacier%2C_Novaya_Zemlya.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 4222,
+      "altura": 3297,
+      "id": "img15",
+      "arquivo": "imagens/img15.jpg",
+      "query": "File:Roze Glacier, Novaya Zemlya.jpg"
     }
   ]
 }
