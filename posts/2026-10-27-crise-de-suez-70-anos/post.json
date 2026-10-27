@@ -228,6 +228,19 @@
       "query": "File:810 Naval Air Squadron bombing.jpg"
     },
     {
+      "titulo": "The Suez Crisis (operation Musketeer) 1956 MH23500.jpg",
+      "autor": "Royal Navy official photographer",
+      "licenca": "Public domain",
+      "exige_credito": false,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:The_Suez_Crisis_(operation_Musketeer)_1956_MH23500.jpg",
+      "url_download": "https://upload.wikimedia.org/wikipedia/commons/b/b6/The_Suez_Crisis_%28operation_Musketeer%29_1956_MH23500.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largura": 800,
+      "altura": 591,
+      "id": "img06",
+      "arquivo": "imagens/img06.jpg",
+      "query": "File:The Suez Crisis (operation Musketeer) 1956 MH23500.jpg"
+    },
+    {
       "titulo": "Eisenhower official.jpg",
       "autor": "White House",
       "licenca": "Public domain",
@@ -252,6 +265,19 @@
       "id": "img08",
       "arquivo": "imagens/img08.jpg",
       "query": "File:Moshe Dayan - Burns- Lod 16-12-1956.jpg"
+    },
+    {
+      "titulo": "UNEF Yugoslav soldiers 15-01-1957.jpg",
+      "autor": "Government Press Office",
+      "licenca": "Public domain",
+      "exige_credito": false,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:UNEF_Yugoslav_soldiers_15-01-1957.jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/UNEF_Yugoslav_soldiers_15-01-1957.jpg/1920px-UNEF_Yugoslav_soldiers_15-01-1957.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 2048,
+      "altura": 3025,
+      "id": "img09",
+      "arquivo": "imagens/img09.jpg",
+      "query": "File:UNEF Yugoslav soldiers 15-01-1957.jpg"
     }
   ]
 }
