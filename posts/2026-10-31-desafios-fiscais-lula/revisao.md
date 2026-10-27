@@ -1,4 +1,50 @@
-APROVADO
+REPROVADO
+
+# Rodada 3 (simplificação): REPROVADO, só ajustes de texto
+
+Rodada 3 de `posts/2026-10-31-desafios-fiscais-lula` (HEAD 028c343) · revisor · 27 out 2026. Nenhuma pesquisa nova: conferi o texto simplificado contra os fatos já verificados (rodada 2, `pauta.md` e `posts/2026-10-29-divida-publica/dados_oficiais.md`). Quase tudo bate. Quatro trechos distorcem ao simplificar e um tem erro de português. São só correções de texto: depois delas, renderizar de novo.
+
+| Item | Resultado |
+|---|---|
+| DBGG 82,9% ago/26, +4,2 p.p. no ano; 2027 em 86,0% (governo) e 86,4% (IFI) | ok (ver S1, recomendação) |
+| Primário 2025: R$ 61,7 bi (≈62; 2.394 − 2.332) e R$ 13 bi na conta da meta | ok |
+| "Por que ela cresce?" respondido só com o primário | problema S2 |
+| Selic 13,75% desde 16 set; "mais da metade da dívida" (52,7% da DPF); juros de R$ 891,9 bi (RTN) | ok, com ajuste S2 |
+| Metas 0,25 / 0,5 / 1,0 / 1,5% (2026/27/28/30), nota sobre o PLDO | problema S3 (falta "sem juros" e a banda) |
+| Lula e o crescimento (set); Durigan mantém a regra e amplia a sobra de 2027 | ok |
+| IFI: déficit de R$ 86,1 bi x superávit de R$ 18,6 bi | problema S4 ("rombo", "onde") |
+| XP: teto mais apertado leva a rever pisos (cálculo, não defesa) | ok |
+| Imposto mínimo como caminho para "arrecadar mais" | problema S5 |
+| Salto e Pellegrini, 3 a 4 anos | ok (ver S5) |
+| PL com 121 de 513, "partido de oposição"; nenhuma medida formalizada | ok (reconferir em 30 out, ver D1 da rodada 2) |
+| Isenção | ok: governo, IFI e economistas têm atribuição; sem adjetivo, exceto "rombo" (S4) |
+| Palavras por slide (máx. 45) | ok: 42, 38, 36, 29, 38, 36, 45, 33 |
+| Legenda: 1.492 caracteres, sem emoji, sem pergunta; 1º comentário vazio | ok |
+| Visual: 10 JPEGs, numeração 2/10 a 10/10, créditos presentes, fotos coloridas, nada cortado | ok (ver V1, recomendação) |
+
+## Correções obrigatórias
+
+**S2. Slides 3 e 4: o post atribui o aumento da dívida só ao déficit primário.** Em 2025, o primário foi de R$ 61,7 bi e os juros, de R$ 891,9 bi (déficit nominal de R$ 950,6 bi, `dados_oficiais.md`). Quem lê "Por que ela cresce?" e só a resposta do slide 3 sai com a ideia errada.
+- Slide 3: troque "Por que ela cresce? Em 2025," por "Por que ela cresce? Primeiro, porque em 2025,"
+- Slide 4: troque "em 2025, custou <strong>R$&nbsp;892 bi</strong> ao governo central." por "em 2025, custou <strong>R$&nbsp;892 bi</strong> ao governo central, bem mais que o déficit primário." (43 palavras)
+
+**S3. Slide 5: a meta parece exigir sobra em qualquer conta, e a banda sumiu.** A meta é de resultado **primário**, sem juros. Com juros, o governo segue no vermelho. Em 2026 e 2027 há tolerância de 0,25 ponto, e o piso de 2026 é zero.
+- Texto: troque "exige que o governo gaste menos do que arrecada" por "exige que o governo, sem contar os juros, gaste menos do que arrecada"
+- `grafico.nota`: "Margem de tolerância de 0,25 ponto em 2026 e 2027. Metas de 2027 a 2030 constam do PLDO 2027, ainda em votação."
+
+**S4. Slide 7: "rombo" é palavra carregada e "onde" está errado.** Troque o trecho por: "Para ela, as projeções do governo são otimistas: a IFI prevê <strong>déficit de R$&nbsp;86 bi em 2027</strong>, enquanto o Orçamento prevê sobra de R$&nbsp;19 bi."
+
+**S5. Slide 8: o imposto mínimo não é "caminho em debate" para arrecadar mais.** Ele já é lei (Lei 15.270/2025) e foi criado para compensar a isenção do IR até R$ 5 mil, sem anúncio de receita nova (F4 da rodada 2). Apresentado assim, sugere receita extra para a meta. Troque "(como o imposto mínimo sobre altas rendas, já em lei)" por "(por exemplo, revendo benefícios tributários)". A equipe de Lula pôs benefícios tributários na discussão (pauta, fato 18: SpaceMoney e Terra), e Salto e Pellegrini também citam gastos tributários. Na mesma frase, troque "(Salto e Pellegrini)" por "(proposta dos economistas Salto e Pellegrini)". Fica com 42 palavras.
+
+## Recomendações (não bloqueiam)
+
+**S1. Slides 2 e legenda: "o governo deve".** A DBGG soma União, estados e municípios. Se couber, use "o poder público deve" ou "União, estados e municípios devem".
+**V1. Slide 3:** a primeira linha do texto cai sobre a fachada clara do Planalto e o contraste é o mais fraco do post. Além disso, a img01 aparece três vezes (capa, 3 e 6). Troque a foto do slide 3 por `File:Esplanada dos Ministérios - 50494085438.jpg`, que já está nas alternativas, ou desça o `foco`.
+**S6.** Slide 6: "Lula afirma" se refere a uma fala de setembro. "Em setembro, Lula disse que…" é mais preciso (cabe: 40 palavras).
+
+---
+
+# Rodada 2: APROVADO
 
 Rodada 2 de `posts/2026-10-31-desafios-fiscais-lula` (HEAD 604dac7) · revisor · 27 out 2026. Aprovado com duas condições para o coordenador, listadas em C1 e C2. Nenhuma delas pede novo render.
 

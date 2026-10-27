@@ -14,7 +14,7 @@
   "slides": [
     {
       "imagem": "img02",
-      "texto_html": "<strong>Desafio 1: a dívida.</strong> O governo deve o equivalente a <strong>82,9% de tudo o que o país produz em um ano</strong> (o PIB), segundo o Banco Central. Só em 2026, subiu 4,2 pontos. Para 2027, governo e IFI projetam cerca de 86%.",
+      "texto_html": "<strong>Desafio 1: a dívida.</strong> O poder público (União, estados e municípios) deve o equivalente a <strong>82,9% de tudo o que o país produz em um ano</strong> (o PIB). Só em 2026, subiu 4,2 pontos. Para 2027, governo e IFI projetam cerca de 86%.",
       "grafico": {
         "tipo": "barras",
         "titulo": "Dívida bruta (% do PIB)",
@@ -41,7 +41,7 @@
     },
     {
       "imagem": "img01",
-      "texto_html": "Por que ela cresce? Em 2025, o governo central gastou <strong>R$&nbsp;62 bi a mais do que arrecadou</strong>, sem contar os juros. É o déficit primário. Quando falta dinheiro, o governo pega emprestado, e a dívida aumenta.",
+      "texto_html": "Por que ela cresce? Primeiro, porque em 2025, o governo central gastou <strong>R$&nbsp;62 bi a mais do que arrecadou</strong>, sem contar os juros. É o déficit primário. Quando falta dinheiro, o governo pega emprestado, e a dívida aumenta.",
       "grafico": {
         "tipo": "barras",
         "titulo": "Governo central, 2025 (R$ bi)",
@@ -60,11 +60,11 @@
         ],
         "nota": "Fonte: Tesouro Nacional. Sem juros. Na conta oficial da meta, que exclui precatórios, o déficit foi de R$ 13 bi."
       },
-      "foco": "5% center"
+      "foco": "center 15%"
     },
     {
       "imagem": "img04",
-      "texto_html": "<strong>Desafio 2: os juros.</strong> A Selic está em 13,75% ao ano, e mais da metade da dívida segue essa taxa. Por isso, a conta de juros pesa: em 2025, custou <strong>R$&nbsp;892 bi</strong> ao governo central.",
+      "texto_html": "<strong>Desafio 2: os juros.</strong> A Selic está em 13,75% ao ano, e mais da metade da dívida segue essa taxa. Por isso, a conta de juros pesa: em 2025, custou <strong>R$&nbsp;892 bi</strong> ao governo central, bem mais que o déficit primário.",
       "grafico": {
         "tipo": "numero",
         "titulo": "Selic desde 16 set 2026",
@@ -73,7 +73,7 @@
     },
     {
       "imagem": "img05",
-      "texto_html": "<strong>Desafio 3: a meta.</strong> A regra fiscal em vigor, o arcabouço, exige que o governo gaste menos do que arrecada e guarde uma sobra, que cresce a cada ano.",
+      "texto_html": "<strong>Desafio 3: a meta.</strong> A regra fiscal em vigor, o arcabouço, exige que o governo, sem contar os juros, gaste menos do que arrecada e guarde uma sobra, que cresce a cada ano.",
       "grafico": {
         "tipo": "linha_do_tempo",
         "titulo": "Sobra exigida (% do PIB)",
@@ -95,21 +95,21 @@
             "texto": "1,5%"
           }
         ],
-        "nota": "Metas de 2027 a 2030 constam do PLDO 2027, ainda em votação."
+        "nota": "Margem de tolerância de 0,25 ponto em 2026 e 2027. Metas de 2027 a 2030 constam do PLDO 2027, ainda em votação."
       }
     },
     {
       "imagem": "img01",
-      "texto_html": "O que diz o governo? Lula afirma que o melhor caminho para reduzir a dívida é <strong>fazer a economia crescer</strong>. O ministro da Fazenda, Dario Durigan, promete manter a regra fiscal e aumentar a sobra de 2027.",
+      "texto_html": "O que diz o governo? Em setembro, Lula disse que o melhor caminho para reduzir a dívida é <strong>fazer a economia crescer</strong>. O ministro da Fazenda, Dario Durigan, promete manter a regra fiscal e aumentar a sobra de 2027.",
       "foco": "85% center"
     },
     {
       "imagem": "img07",
-      "texto_html": "O alerta técnico vem da IFI, órgão independente do Senado. Para ela, as contas do governo são otimistas: prevê <strong>rombo de R$&nbsp;86 bi em 2027</strong>, onde o Orçamento prevê sobra de R$&nbsp;19 bi."
+      "texto_html": "O alerta técnico vem da IFI, órgão independente do Senado. Para ela, as projeções do governo são otimistas: a IFI prevê <strong>déficit de R$&nbsp;86 bi em 2027</strong>, enquanto o Orçamento prevê sobra de R$&nbsp;19 bi."
     },
     {
       "imagem": "img04",
-      "texto_html": "Três caminhos em debate: <strong>gastar menos</strong> (com teto mais apertado, a XP calcula ser preciso rever pisos de saúde e educação), <strong>arrecadar mais</strong> (como o imposto mínimo sobre altas rendas, já em lei) ou <strong>ajustar devagar</strong>, em 3 a 4 anos (Salto e Pellegrini).",
+      "texto_html": "Três caminhos em debate: <strong>gastar menos</strong> (com teto mais apertado, a XP calcula ser preciso rever pisos de saúde e educação), <strong>arrecadar mais</strong> (por exemplo, revendo benefícios tributários) ou <strong>ajustar devagar</strong>, em 3 a 4 anos (proposta dos economistas Salto e Pellegrini).",
       "foco": "15% center"
     },
     {
@@ -121,7 +121,7 @@
     "titulo": "Salve este post",
     "subtitulo": "e compartilhe com quem acompanha as contas públicas"
   },
-  "legenda": "Dívida alta, juros altos e uma meta difícil de cumprir: esses são os três desafios das contas públicas no novo mandato.\n\nO governo deve o equivalente a 82,9% do PIB, a Selic está em 13,75% e a regra fiscal exige uma sobra crescente a partir de 2026. Lula aposta no crescimento da economia; a IFI, do Senado, considera otimistas as contas do governo. Nenhuma medida foi formalizada até agora.\n\nArraste para o lado e entenda cada ponto, com os números oficiais e as opções em debate, cada uma atribuída a quem a defende.\n\nContinuação do post sobre dívida pública de 29 de outubro.",
+  "legenda": "Dívida alta, juros altos e uma meta difícil de cumprir: esses são os três desafios das contas públicas no novo mandato.\n\nUnião, estados e municípios devem o equivalente a 82,9% do PIB, a Selic está em 13,75% e a regra fiscal exige uma sobra crescente a partir de 2026. Lula aposta no crescimento da economia; a IFI, do Senado, considera otimistas as projeções do governo. Nenhuma medida foi formalizada até agora.\n\nArraste para o lado e entenda cada ponto, com os números oficiais e as opções em debate, cada uma atribuída a quem a defende.\n\nContinuação do post sobre dívida pública de 29 de outubro.",
   "primeiro_comentario": "",
   "hashtags": [
     "#economia",
