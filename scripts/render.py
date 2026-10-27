@@ -159,7 +159,7 @@ def montar_html(post, post_dir):
 def painel_grafico(g):
     """Mini gráfico estático para o card de notícia (barras partem do zero; sem dados inventados).
     tipos: "barras" (itens com rotulo/valor/texto, destaque opcional), "faixa" (queda min–max em %),
-    "numero" (valor de referência)."""
+    "pizza" (itens com rotulo/valor/texto, cor opcional), "numero" (valor de referência)."""
     titulo = f'<div class="g-tit">{escape(g["titulo"])}</div>'
     nota = f'<div class="g-nota">{escape(g.get("nota", ""))}</div>' if g.get("nota") else ""
     if g["tipo"] == "barras":
@@ -185,6 +185,20 @@ def painel_grafico(g):
                        f'<div class="r-val">{escape(m["texto"])}</div><div class="r-pino"></div>'
                        f'<div class="r-rot">{escape(m["rotulo"])}</div></div>')
         corpo = f'<div class="r-trilho">{marcas}</div>'
+    elif g["tipo"] == "pizza":
+        # Fatias proporcionais a "valor"; o rótulo de cada fatia traz o número com fonte.
+        cores = ["#e0b84f", "#5fa8d3", "#d97b66", "#8fbf7f", "#b9a3d6", "#8a8a8a", "#e6d3a3"]
+        total = sum(i["valor"] for i in g["itens"])
+        acum, fatias, legenda = 0.0, [], ""
+        for n, i in enumerate(g["itens"]):
+            cor = i.get("cor") or cores[n % len(cores)]
+            ini, acum = acum, acum + i["valor"] / total * 360
+            fatias.append(f"{cor} {ini:.2f}deg {acum:.2f}deg")
+            legenda += (f'<div class="p-item"><span class="p-cor" style="background:{cor}"></span>'
+                        f'<span class="p-rot">{escape(i["rotulo"])}</span>'
+                        f'<span class="p-val">{escape(i["texto"])}</span></div>')
+        corpo = (f'<div class="p-wrap"><div class="p-disco" style="background:conic-gradient({", ".join(fatias)})">'
+                 f'</div><div class="p-leg">{legenda}</div></div>')
     elif g["tipo"] == "linha_do_tempo":
         corpo = '<div class="t-lista">' + "".join(
             f'<div class="t-item"><div class="t-hora">{escape(i["quando"])}</div><div class="t-txt">{i["texto"]}</div></div>'
