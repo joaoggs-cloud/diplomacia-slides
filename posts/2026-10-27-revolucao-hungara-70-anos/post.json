@@ -1,7 +1,7 @@
 {
   "slug": "2026-10-27-revolucao-hungara-70-anos",
   "titulo_interno": "Revolução Húngara, 70 anos",
-  "status": "rascunho",
+  "status": "agendado",
   "pilar": "historia_militar",
   "categoria": "Guerra Fria · Europa Oriental",
   "gancho_tipo": "numero",
@@ -277,5 +277,12 @@
       "arquivo": "imagens/img09.jpg",
       "query": "Imre Nagy reburial 1989 Heroes Square"
     }
-  ]
+  ],
+  "metricool": {
+    "id": 408264303,
+    "uuid": "414641401732155380",
+    "sha_slides": "314bd43b9f0f6da5e659966ea162169f590705dc",
+    "story": null,
+    "obs_story": "Sem story automático: João quer repost clicável, feito pelo app."
+  }
 }
