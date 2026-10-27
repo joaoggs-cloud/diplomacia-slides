@@ -8,54 +8,13 @@
   "categoria": "Economia · Brasil",
   "capa": {
     "imagem": "img01",
-    "titulo_html": "Dívida em <span class=\"hl2\">82,9% do PIB</span>: o ponto de partida das contas do novo mandato",
-    "gancho": "Os números oficiais e as opções em debate, segundo quem defende cada uma."
+    "titulo_html": "Os <span class=\"hl2\">3 desafios</span> das contas públicas no novo mandato",
+    "gancho": "Dívida alta, juros altos e uma meta difícil. Entenda em linguagem simples."
   },
   "slides": [
     {
       "imagem": "img02",
-      "texto_html": "A dívida bruta do governo geral chegou a <strong>82,9% do PIB</strong> (R$ 11,1 tri) em <em>agosto de 2026</em>, segundo o Banco Central. São 4,2 pontos percentuais a mais no ano. Em maio, era 81,1%; em junho, 81,9%.",
-      "grafico": {
-        "tipo": "numero",
-        "titulo": "Dívida bruta, agosto de 2026",
-        "texto": "82,9% do PIB"
-      }
-    },
-    {
-      "imagem": "img01",
-      "texto_html": "O governo central fechou 2025 com déficit primário de <strong>R$ 13 bi</strong> na conta da meta, que exclui precatórios e outras despesas. Sem as exclusões, foram R$ 61,69 bi. A meta foi considerada cumprida.",
-      "grafico": {
-        "tipo": "linha_do_tempo",
-        "titulo": "Metas de primário (% do PIB)",
-        "itens": [
-          {
-            "quando": "2026",
-            "texto": "Superávit de 0,25 (cerca de R$ 34 bi)"
-          },
-          {
-            "quando": "2027",
-            "texto": "0,5"
-          },
-          {
-            "quando": "2028",
-            "texto": "1,0"
-          },
-          {
-            "quando": "2029",
-            "texto": "1,25"
-          },
-          {
-            "quando": "2030",
-            "texto": "1,5"
-          }
-        ],
-        "nota": "Banda de ±0,25 p.p. em 2026 e 2027. Metas de 2027 a 2030 constam do PLDO 2027, ainda em votação"
-      },
-      "foco": "5% center"
-    },
-    {
-      "imagem": "img04",
-      "texto_html": "O governo projeta dívida de <strong>86,0% em 2027</strong>, com pico de 87,9% em 2029. A IFI, do Senado, vê 86,4% em 2027. O FMI chega a 100%, mas inclui títulos na carteira do BC: <em>outra metodologia</em>.",
+      "texto_html": "<strong>Desafio 1: a dívida.</strong> O governo deve o equivalente a <strong>82,9% de tudo o que o país produz em um ano</strong> (o PIB), segundo o Banco Central. Só em 2026, subiu 4,2 pontos. Para 2027, governo e IFI projetam cerca de 86%.",
       "grafico": {
         "tipo": "barras",
         "titulo": "Dívida bruta (% do PIB)",
@@ -67,61 +26,102 @@
             "destaque": true
           },
           {
-            "rotulo": "2027 governo",
+            "rotulo": "2027 (governo)",
             "valor": 86.0,
             "texto": "86,0%"
           },
           {
-            "rotulo": "2027 IFI",
+            "rotulo": "2027 (IFI)",
             "valor": 86.4,
             "texto": "86,4%"
-          },
-          {
-            "rotulo": "2027 FMI*",
-            "valor": 100.0,
-            "texto": "100%"
           }
         ],
-        "nota": "Projeções, exceto ago/2026. *FMI, Monitor Fiscal de abr/2026: inclui títulos na carteira do BC"
-      }
-    },
-    {
-      "imagem": "img05",
-      "texto_html": "Em 16 set, o Copom cortou a Selic de 14,00% para <strong>13,75%</strong> ao ano, em decisão unânime. Foi o quinto corte seguido. A próxima reunião do comitê é em novembro.",
-      "grafico": {
-        "tipo": "numero",
-        "titulo": "Selic após o Copom de 16 set",
-        "texto": "13,75% ao ano"
+        "nota": "Fonte: Banco Central (ago/26); projeções do governo e da IFI, do Senado."
       }
     },
     {
       "imagem": "img01",
-      "texto_html": "Lula não tratou de ajuste fiscal no discurso da vitória, em 25 out. Em setembro, disse que o melhor caminho para reduzir a dívida é fazer a economia crescer. Em 26 out, o ministro da Fazenda, <strong>Dario Durigan</strong>, prometeu ampliar o superávit de 2027.",
+      "texto_html": "Por que ela cresce? Em 2025, o governo central gastou <strong>R$&nbsp;62 bi a mais do que arrecadou</strong>, sem contar os juros. É o déficit primário. Quando falta dinheiro, o governo pega emprestado, e a dívida aumenta.",
+      "grafico": {
+        "tipo": "barras",
+        "titulo": "Governo central, 2025 (R$ bi)",
+        "itens": [
+          {
+            "rotulo": "Receita líquida",
+            "valor": 2332,
+            "texto": "2.332"
+          },
+          {
+            "rotulo": "Despesa",
+            "valor": 2394,
+            "texto": "2.394",
+            "destaque": true
+          }
+        ],
+        "nota": "Fonte: Tesouro Nacional. Sem juros. Na conta oficial da meta, que exclui precatórios, o déficit foi de R$ 13 bi."
+      },
+      "foco": "5% center"
+    },
+    {
+      "imagem": "img04",
+      "texto_html": "<strong>Desafio 2: os juros.</strong> A Selic está em 13,75% ao ano, e mais da metade da dívida segue essa taxa. Por isso, a conta de juros pesa: em 2025, custou <strong>R$&nbsp;892 bi</strong> ao governo central.",
+      "grafico": {
+        "tipo": "numero",
+        "titulo": "Selic desde 16 set 2026",
+        "texto": "13,75% ao ano"
+      }
+    },
+    {
+      "imagem": "img05",
+      "texto_html": "<strong>Desafio 3: a meta.</strong> A regra fiscal em vigor, o arcabouço, exige que o governo gaste menos do que arrecada e guarde uma sobra, que cresce a cada ano.",
+      "grafico": {
+        "tipo": "linha_do_tempo",
+        "titulo": "Sobra exigida (% do PIB)",
+        "itens": [
+          {
+            "quando": "2026",
+            "texto": "0,25% (cerca de R$ 34 bi)"
+          },
+          {
+            "quando": "2027",
+            "texto": "0,5%"
+          },
+          {
+            "quando": "2028",
+            "texto": "1,0%"
+          },
+          {
+            "quando": "2030",
+            "texto": "1,5%"
+          }
+        ],
+        "nota": "Metas de 2027 a 2030 constam do PLDO 2027, ainda em votação."
+      }
+    },
+    {
+      "imagem": "img01",
+      "texto_html": "O que diz o governo? Lula afirma que o melhor caminho para reduzir a dívida é <strong>fazer a economia crescer</strong>. O ministro da Fazenda, Dario Durigan, promete manter a regra fiscal e aumentar a sobra de 2027.",
       "foco": "85% center"
     },
     {
       "imagem": "img07",
-      "texto_html": "Durigan diz que o arcabouço deve ser preservado, com melhora gradual. Segundo a Folha, antes do 2º turno ele discutia com Lula baixar de 2,5% para 1,5% o teto de alta real da despesa e criar gatilhos para outras despesas obrigatórias. Não há proposta formal.",
-      "factbox": {
-        "label": "IFI",
-        "texto": "A IFI, do Senado, considera otimistas as premissas do governo: projeta déficit primário de R$ 86,1 bi em 2027, contra superávit de R$ 18,6 bi previsto no Orçamento."
-      }
+      "texto_html": "O alerta técnico vem da IFI, órgão independente do Senado. Para ela, as contas do governo são otimistas: prevê <strong>rombo de R$&nbsp;86 bi em 2027</strong>, onde o Orçamento prevê sobra de R$&nbsp;19 bi."
     },
     {
       "imagem": "img04",
-      "texto_html": "Economistas debatem outras frentes. Tiago Sbardelotto, da XP, calcula que, com teto de 1,5%, a regra exigiria rever os pisos de saúde e educação em 2028. Salto e Pellegrini, no Estadão, propõem ajuste gradual em 3 a 4 anos, sem corte brusco, que seria recessivo.",
+      "texto_html": "Três caminhos estão em debate: <strong>gastar menos</strong> (com teto mais apertado, a XP calcula que seria preciso rever pisos de saúde e educação), <strong>arrecadar mais</strong> (como o imposto mínimo sobre altas rendas, já em lei) ou <strong>ajustar devagar</strong>, em 3 a 4 anos (Salto e Pellegrini).",
       "foco": "15% center"
     },
     {
       "imagem": "img09",
-      "texto_html": "A Lei 15.270/2025 isenta quem ganha até R$ 5 mil por mês e cobra imposto mínimo de até 10% sobre rendas acima de R$ 600 mil por ano; sem anúncio novo. Mudar a regra depende do Congresso, onde o PL terá <strong>121 das 513</strong> cadeiras."
+      "texto_html": "Quem decide é o Congresso: qualquer mudança nas regras passa por lá. A partir de 2027, o PL, partido de oposição, terá <strong>121 dos 513</strong> deputados. Até agora, <strong>nenhuma medida foi formalizada</strong>."
     }
   ],
   "cta": {
     "titulo": "Salve este post",
     "subtitulo": "e compartilhe com quem acompanha as contas públicas"
   },
-  "legenda": "Dívida bruta em 82,9% do PIB em agosto de 2026, meta de superávit primário de 0,25% neste ano e juros em 13,75%. Esse é o ponto de partida das contas públicas no novo mandato, segundo dados do Banco Central, do Tesouro e do Congresso.\n\nNo carrossel, os números oficiais, as projeções do governo, da IFI e do FMI (que usa metodologia diferente), o que o ministro da Fazenda, Dario Durigan, disse em 26 de outubro e as opções que economistas e a imprensa colocam em debate, cada uma atribuída a quem a defende, com a avaliação da IFI.\n\nNenhuma medida foi formalizada até aqui. O discurso da vitória, em 25 de outubro, não tratou do tema.\n\nArraste para o lado.\n\nContinuação do post sobre dívida pública de 29 de outubro.",
+  "legenda": "Dívida alta, juros altos e uma meta difícil de cumprir: esses são os três desafios das contas públicas no novo mandato.\n\nO governo deve o equivalente a 82,9% do PIB, a Selic está em 13,75% e a regra fiscal exige uma sobra crescente a partir de 2026. Lula aposta no crescimento da economia; a IFI, do Senado, considera otimistas as contas do governo. Nenhuma medida foi formalizada até agora.\n\nArraste para o lado e entenda cada ponto, com os números oficiais e as opções em debate, cada uma atribuída a quem a defende.\n\nContinuação do post sobre dívida pública de 29 de outubro.",
   "primeiro_comentario": "",
   "hashtags": [
     "#economia",
