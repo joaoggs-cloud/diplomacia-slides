@@ -104,6 +104,32 @@
       "id": "img01",
       "arquivo": "imagens/img01.jpg",
       "query": "File:Fachada do Supremo Tribunal Federal (STF) (54334559198).jpg"
+    },
+    {
+      "titulo": "Alexandre de Moraes (32629948352).jpg",
+      "autor": "Senado Federal",
+      "licenca": "CC BY 2.0",
+      "exige_credito": true,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Alexandre_de_Moraes_(32629948352).jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Alexandre_de_Moraes_%2832629948352%29.jpg/1920px-Alexandre_de_Moraes_%2832629948352%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 2956,
+      "altura": 1876,
+      "id": "img02",
+      "arquivo": "imagens/img02.jpg",
+      "query": "File:Alexandre de Moraes (32629948352).jpg"
+    },
+    {
+      "titulo": "Foto oficial do senador Flávio Bolsonaro (v. AgSen).jpg",
+      "autor": "Agência Senado",
+      "licenca": "Attribution",
+      "exige_credito": true,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Foto_oficial_do_senador_Fl%C3%A1vio_Bolsonaro_(v._AgSen).jpg",
+      "url_download": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Foto_oficial_do_senador_Fl%C3%A1vio_Bolsonaro_%28v._AgSen%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largura": 1358,
+      "altura": 1441,
+      "id": "img03",
+      "arquivo": "imagens/img03.jpg",
+      "query": "File:Foto oficial do senador Flávio Bolsonaro (v. AgSen).jpg"
     }
   ]
 }
