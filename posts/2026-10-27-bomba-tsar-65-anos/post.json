@@ -1,7 +1,7 @@
 {
   "slug": "2026-10-27-bomba-tsar-65-anos",
   "titulo_interno": "Bomba Tsar, 65 anos do maior teste nuclear",
-  "status": "rascunho",
+  "status": "agendado",
   "pilar": "fatos_rapidos",
   "categoria": "Curiosidades · Guerra Fria",
   "gancho_tipo": "efemeride_numero",
@@ -267,5 +267,10 @@
       "arquivo": "imagens/img15.jpg",
       "query": "File:Roze Glacier, Novaya Zemlya.jpg"
     }
-  ]
+  ],
+  "metricool": {
+    "id": 407322437,
+    "uuid": "-2592814098299206187",
+    "sha_slides": "ca860226193e3fa39f886989e97eee28acab9f1b"
+  }
 }
