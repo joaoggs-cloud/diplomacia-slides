@@ -1,0 +1,78 @@
+{
+  "slug": "2026-10-27-flavio-passaporte",
+  "titulo_interno": "STF manda Flávio Bolsonaro entregar passaportes à PF",
+  "status": "rascunho",
+  "formato": "noticia",
+  "layout": "moderno",
+  "pilar": "atualidade_brasil",
+  "usar_hashtags_base": false,
+  "categoria": "Política · STF",
+  "capa": {
+    "imagem": "img01",
+    "titulo_html": "STF manda senador <span class=\"hl2\">Flávio Bolsonaro (PL)</span> entregar passaportes à PF",
+    "gancho": "Ele também está proibido de deixar o país e de ter contato com o advogado Willer Tomaz. Ambos são investigados por suspeita de lavagem de dinheiro. A medida é cautelar, não é condenação. O senador diz que nunca planejou sair do país, chama a ordem de intimidação, vai entregar os documentos e contestar a decisão, e nega irregularidades.",
+    "graficos": [
+      {
+        "tipo": "numero",
+        "titulo": "Prazo",
+        "texto": "24 h",
+        "nota": "Para entrega à Polícia Federal"
+      },
+      {
+        "tipo": "numero",
+        "titulo": "Documentos",
+        "texto": "2 passaportes",
+        "nota": "Comum e diplomático"
+      },
+      {
+        "tipo": "numero",
+        "titulo": "Situação",
+        "texto": "Investigado",
+        "nota": "Decisão sob sigilo"
+      }
+    ]
+  },
+  "slides": [],
+  "legenda": "O ministro Alexandre de Moraes, do STF, determinou que o senador Flávio Bolsonaro (PL-RJ) entregue seus passaportes, comum e diplomático, à Polícia Federal em até 24 horas. A decisão, divulgada na segunda-feira (26), também o proíbe de deixar o país e de ter contato com o advogado Willer Tomaz.\n\nOs dois são investigados em inquérito no STF por suspeita de lavagem de dinheiro. Trata-se de medida cautelar: não há condenação. A decisão tramita sob sigilo, e, segundo a imprensa, o fundamento teria relação com declaração de Eduardo Bolsonaro sobre uma possível saída do irmão do país.\n\nO senador diz que nunca disse nem planejou deixar o país, chama a medida de intimidação, afirma que vai entregar os documentos e contestar a decisão, e nega irregularidades. A defesa de Willer Tomaz também nega ilegalidade.\n\nVocê costuma acompanhar as decisões do STF sobre medidas cautelares? Conte nos comentários onde prefere se informar.\n\nFotos: Agência Senado / Wikimedia Commons, conforme crédito na imagem.\nFontes: Agência Brasil, Poder360, CNN Brasil.",
+  "primeiro_comentario": "Que fontes você usa para acompanhar decisões judiciais de grande repercussão?",
+  "hashtags": [
+    "#stf",
+    "#supremotribunalfederal",
+    "#policiafederal",
+    "#medidacautelar",
+    "#politicabrasileira"
+  ],
+  "fontes": [
+    {
+      "nome": "Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/moraes-manda-flavio-entregar-passaporte-e-o-proibe-de-deixar-o-pais"
+    },
+    {
+      "nome": "Poder360",
+      "url": "https://www.poder360.com.br/poder-eleicoes-2026/flavio-diz-que-foi-intimado-pela-pf-a-entregar-passaportes/"
+    },
+    {
+      "nome": "CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/flavio-diz-que-pf-exigiu-seus-passaportes-apos-visita-a-bolsonaro/"
+    },
+    {
+      "nome": "Jornal de Brasília / Folhapress",
+      "url": "https://jornaldebrasilia.com.br/noticias/politica-e-poder/flavio-bolsonaro-diz-que-foi-intimado-pela-pf-a-entregar-passaporte-e-que-esta-proibido-de-deixar-o-pais/"
+    }
+  ],
+  "busca_imagens": [
+    {
+      "id": "img01",
+      "query": "File:Fachada do Supremo Tribunal Federal (STF) (54334559198).jpg",
+      "alternativas": [
+        "File:Palácio do STF - Praça dos Três Poderes.02.jpg"
+      ]
+    }
+  ],
+  "agendamento": {
+    "data_hora": "2026-10-27T08:01:00-03:00",
+    "slot": "extra"
+  },
+  "metricool": {},
+  "verificacao": "Fatos da pauta (Agência Brasil, Poder360, CNN, Folhapress). Sem R$ 6 bi, sem Dark Horse, sem afirmar recurso ou cumprimento; fundamento atribuído à imprensa; decisão sob sigilo."
+}
