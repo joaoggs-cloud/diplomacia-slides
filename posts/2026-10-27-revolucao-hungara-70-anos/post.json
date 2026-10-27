@@ -162,17 +162,16 @@
   },
   "imagens": [
     {
-      "titulo": "Veteránok (3).jpg",
-      "autor": "Elekes Andor",
-      "licenca": "CC BY-SA 4.0",
+      "titulo": "Üllői út 1956, tank, roncs teherautó, egy fegyveres és tucatnyi bámészkodó civil. Fortepan 79421.jpg",
+      "autor": "FOTO:Fortepan — ID 79421: Adományozó/Donor: Berkó Pál.",
+      "licenca": "CC BY-SA 3.0",
       "exige_credito": true,
-      "url_origem": "https://commons.wikimedia.org/wiki/File:Veter%C3%A1nok_(3).jpg",
-      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Veter%C3%A1nok_%283%29.jpg/1920px-Veter%C3%A1nok_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "largura": 4000,
-      "altura": 3000,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:%C3%9Cll%C5%91i_%C3%BAt_1956,_tank,_roncs_teheraut%C3%B3,_egy_fegyveres_%C3%A9s_tucatnyi_b%C3%A1m%C3%A9szkod%C3%B3_civil._Fortepan_79421.jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/%C3%9Cll%C5%91i_%C3%BAt_1956%2C_tank%2C_roncs_teheraut%C3%B3%2C_egy_fegyveres_%C3%A9s_tucatnyi_b%C3%A1m%C3%A9szkod%C3%B3_civil._Fortepan_79421.jpg/1920px-%C3%9Cll%C5%91i_%C3%BAt_1956%2C_tank%2C_roncs_teheraut%C3%B3%2C_egy_fegyveres_%C3%A9s_tucatnyi_b%C3%A1m%C3%A9szkod%C3%B3_civil._Fortepan_79421.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 6827,
+      "altura": 4503,
       "id": "img01",
-      "arquivo": "imagens/img01.jpg",
-      "query": "incategory:\"Hungarian Revolution of 1956\" Budapest flag hole"
+      "arquivo": "imagens/img01.jpg"
     },
     {
       "titulo": "Hungarian Revolution of 1956 collage.jpg",
