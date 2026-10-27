@@ -7,7 +7,7 @@
   "gancho_tipo": "contradicao",
   "capa": {
     "imagem": "img01",
-    "titulo_html": "O acordo <span class=\"hl\">secreto</span> que durou <span class=\"hl2\">9 dias</span>",
+    "titulo_html": "O plano <span class=\"hl\">secreto</span> que durou <span class=\"hl2\">9 dias</span>",
     "gancho": "Em 1956, três países combinaram uma guerra em segredo. Em pouco mais de uma semana, tiveram de recuar."
   },
   "slides": [
@@ -21,34 +21,36 @@
     },
     {
       "imagem": "img04",
-      "texto_html": "Em 29 out 1956, Israel invadiu o Sinai e avançou rumo ao canal. No dia 30, Londres e Paris lançaram um ultimato: Egito e Israel deveriam recuar 16 km do canal. Israel aceitou, o <strong>Egito recusou</strong>."
+      "texto_html": "Em 29 out 1956, Israel invadiu o Sinai e avançou rumo ao canal. No dia 30, Londres e Paris lançaram um ultimato: Egito e Israel deveriam recuar 16 km do canal. Israel aceitou, o <strong>Egito recusou</strong>.",
+      "foco": "40% 60%"
     },
     {
       "imagem": "img05",
-      "texto_html": "Em 31 out, aviões britânicos e franceses começaram a bombardear alvos no Egito. No Conselho de Segurança, Reino Unido e França vetaram um projeto dos EUA que pedia o recuo de Israel. A Assembleia Geral foi convocada em sessão de emergência."
+      "texto_html": "Em 31 out, aviões britânicos e franceses começaram a bombardear alvos no Egito. Na véspera, no Conselho de Segurança, Reino Unido e França tinham vetado um projeto dos EUA que pedia o recuo de Israel. O caso foi levado à Assembleia Geral."
     },
     {
       "imagem": "img06",
-      "texto_html": "Em 5 e 6 nov, paraquedistas e fuzileiros desembarcaram em <strong>Port Said</strong>. O Egito já tinha afundado cerca de 40 navios no canal, que ficou bloqueado. Na véspera, a União Soviética invadira a Hungria, e as atenções do mundo se dividiram."
+      "texto_html": "Em 5 nov, paraquedistas britânicos e franceses saltaram sobre <strong>Port Said</strong>; no dia 6, fuzileiros desembarcaram. O Egito já tinha afundado cerca de 40 navios no canal, bloqueando-o. Na véspera, a União Soviética invadira a Hungria, e as atenções se dividiram."
     },
     {
       "imagem": "img07",
-      "texto_html": "No mesmo 5 nov, o premiê soviético Bulganin enviou uma carta ameaçadora a Londres, Paris e Tel Aviv. Washington recusou uma ação conjunta com Moscou, mas pressionou do seu jeito: a libra esterlina sofria ataques e o apoio financeiro dos EUA dependia do cessar-fogo."
+      "texto_html": "No mesmo 5 nov, o premiê soviético Bulganin mandou cartas a Londres, Paris e Tel Aviv ameaçando usar foguetes e propôs a Eisenhower uma ação conjunta. Washington recusou, mas pressionou: a libra sofria ataques e o apoio financeiro dos EUA dependia do cessar-fogo."
     },
     {
       "imagem": "img08",
-      "texto_html": "Britânicos e franceses aceitaram parar em 6 nov. A ONU aprovou em 5 nov a <strong>UNEF</strong>, a primeira força de paz armada. As tropas anglo-francesas saíram em dez 1956, Israel deixou o Sinai e Gaza em março de 1957 e o canal reabriu em abril."
+      "texto_html": "Em 5 nov, a ONU aprovou a <strong>UNEF</strong>, a primeira força de paz armada. No dia 6, britânicos e franceses aceitaram o cessar-fogo. Suas tropas saíram em dez 1956, Israel deixou o Sinai e Gaza em março de 1957 e o canal reabriu em abril.",
+      "foco": "0% 30%"
     },
     {
       "imagem": "img09",
-      "texto_html": "A ideia da UNEF veio do canadense <strong>Lester Pearson</strong>, Nobel da Paz de 1957. Em 9 jan 1957, o premiê britânico Anthony Eden renunciou, alegando saúde. A crise mostrou que Londres e Paris já não decidiam sozinhas: o peso passara a Washington e Moscou."
+      "texto_html": "A ideia da UNEF veio do canadense <strong>Lester Pearson</strong>, Nobel da Paz de 1957. Em 9 jan 1957, o premiê britânico Anthony Eden renunciou, alegando saúde. Para historiadores, Suez marcou quando Londres e Paris deixaram de agir sozinhas: o peso passara a Washington e Moscou."
     }
   ],
   "cta": {
     "titulo": "Salve este post",
     "subtitulo": "e compartilhe com quem curte história"
   },
-  "legenda": "Em 1956, Reino Unido, França e Israel combinaram uma guerra em segredo. Em pouco mais de uma semana, a operação desabou.\n\nTudo começou quando o Egito nacionalizou o Canal de Suez. Em 29 de outubro, há 70 anos, Israel invadiu o Sinai e, no dia seguinte, britânicos e franceses lançaram um ultimato que servia de pretexto para ocupar o canal. A pressão dos Estados Unidos, as ameaças da União Soviética e a ONU os fizeram recuar, e dessa crise nasceu a primeira força de paz armada das Nações Unidas.\n\nArraste para o lado e acompanhe a história do discurso de Nasser à renúncia de Eden.\n\nA seu ver, o que pesou mais para a retirada: a pressão financeira dos EUA, a ameaça soviética ou a ONU?",
+  "legenda": "Em 1956, Reino Unido, França e Israel combinaram uma guerra em segredo. Em pouco mais de uma semana, a operação desabou.\n\nTudo começou quando o Egito nacionalizou o Canal de Suez. Em 29 de outubro, há 70 anos, Israel invadiu o Sinai e, no dia seguinte, britânicos e franceses lançaram um ultimato que, segundo documentos revelados depois, servia de pretexto para ocupar o canal. A pressão dos Estados Unidos, as ameaças da União Soviética e a ONU os fizeram recuar, e dessa crise nasceu a primeira força de paz armada das Nações Unidas.\n\nArraste para o lado e acompanhe a história do discurso de Nasser à renúncia de Eden.\n\nA seu ver, o que pesou mais para a retirada: a pressão financeira dos EUA, a ameaça soviética ou a ONU?",
   "primeiro_comentario": "Que outra crise do século 20 você gostaria de ver contada aqui no perfil?",
   "hashtags": [
     "#suez",
@@ -89,7 +91,8 @@
       "query": "File:Port Said from air.jpg",
       "alternativas": [
         "Suez crisis 1956 Port Said smoke"
-      ]
+      ],
+      "pb": true
     },
     {
       "id": "img02",
@@ -103,28 +106,32 @@
       "query": "File:British carriers during Suez Crisis 1956.jpg",
       "alternativas": [
         "Operation Musketeer 1956 aircraft carrier"
-      ]
+      ],
+      "pb": true
     },
     {
       "id": "img04",
       "query": "File:1956 Suez war - conquest of Sinai.jpg",
       "alternativas": [
         "Suez Crisis map 1956"
-      ]
+      ],
+      "pb": true
     },
     {
       "id": "img05",
       "query": "File:810 Naval Air Squadron bombing.jpg",
       "alternativas": [
         "Operation Musketeer Wyvern Sea Hawk 1956"
-      ]
+      ],
+      "pb": true
     },
     {
       "id": "img06",
-      "query": "File:British tanks in Port Said.jpg",
+      "query": "File:The Suez Crisis (operation Musketeer) 1956 MH23500.jpg",
       "alternativas": [
-        "Port Said 1956 British troops"
-      ]
+        "incategory:\"Suez Crisis\" Port Said MH"
+      ],
+      "pb": true
     },
     {
       "id": "img07",
@@ -139,14 +146,14 @@
       "alternativas": [
         "UNEF 1956 blue helmets",
         "Blue helmet UN peacekeeper 1957"
-      ]
+      ],
+      "pb": true
     },
     {
       "id": "img09",
-      "query": "File:Lester B. Pearson.jpg",
+      "query": "File:UNEF Yugoslav soldiers 15-01-1957.jpg",
       "alternativas": [
-        "Lester Pearson Nobel 1957",
-        "Anthony Eden 1956"
+        "File:Prime Minister Lester B Pearson with President Lyndon B Johnson.jpg"
       ]
     }
   ],
@@ -221,19 +228,6 @@
       "query": "File:810 Naval Air Squadron bombing.jpg"
     },
     {
-      "titulo": "British tanks in Port Said.jpg",
-      "autor": "Unknown authorUnknown author",
-      "licenca": "Public domain",
-      "exige_credito": false,
-      "url_origem": "https://commons.wikimedia.org/wiki/File:British_tanks_in_Port_Said.jpg",
-      "url_download": "https://upload.wikimedia.org/wikipedia/commons/c/ce/British_tanks_in_Port_Said.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "largura": 1300,
-      "altura": 808,
-      "id": "img06",
-      "arquivo": "imagens/img06.jpg",
-      "query": "File:British tanks in Port Said.jpg"
-    },
-    {
       "titulo": "Eisenhower official.jpg",
       "autor": "White House",
       "licenca": "Public domain",
@@ -258,19 +252,6 @@
       "id": "img08",
       "arquivo": "imagens/img08.jpg",
       "query": "File:Moshe Dayan - Burns- Lod 16-12-1956.jpg"
-    },
-    {
-      "titulo": "Lester B. Pearson 1957 (4951614).jpg",
-      "autor": "Capital Press",
-      "licenca": "Public domain",
-      "exige_credito": false,
-      "url_origem": "https://commons.wikimedia.org/wiki/File:Lester_B._Pearson_1957_(4951614).jpg",
-      "url_download": "https://upload.wikimedia.org/wikipedia/commons/7/73/Lester_B._Pearson_1957_%284951614%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "largura": 1499,
-      "altura": 1920,
-      "id": "img09",
-      "arquivo": "imagens/img09.jpg",
-      "query": "File:Lester B. Pearson.jpg"
     }
   ]
 }
