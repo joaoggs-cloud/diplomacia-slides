@@ -1,6 +1,43 @@
-REPROVADO
+APROVADO
 
-# Revisão: Crise de Suez, 70 anos (SHA a8679ea)
+# Revisão, rodada 2: Crise de Suez, 70 anos (SHA ed0b8ec)
+
+Revisor, 26 out 2026, 21h35 (Brasília). Li os 10 JPEGs e o `post.json`. O payload `--rascunho` rodou sem erro e a legenda
+tem 1.141 caracteres, com fontes, créditos e hashtags.
+
+| Item | Resultado |
+|---|---|
+| 1. Fatos | ok. Os cortes nos slides 5 a 9 não introduziram erro (ver abaixo) |
+| 2. Isenção | ok. O pretexto está atribuído no slide 3 e agora também na legenda (C9). A leitura do slide 9 está atribuída a historiadores |
+| 3. Imagens: licença | ok. img06 IWM MH 23500 (Royal Navy, oficial, PD-UKGov). img09 GPO Israel (PD-Israel) |
+| 3. Imagens: adequação | ok. Slide 6 mostra o HMS Buttress (L4099) desembarcando em Port Said, com fumaça ao fundo e sem vítimas. Slide 8 agora enquadra Burns com o boné da ONU. Slide 9 mostra capacetes azuis iugoslavos da UNEF no Sinai |
+| 4. Texto / cara de IA | ok. Slides de conteúdo entre 36 e 44 palavras, sem título, tag ou factbox, sem emoji |
+| 5. Visual | ok. Numeração de 2/10 a 10/10, nada cortado, texto legível. O P&B se justifica (1956) |
+| 6. Legenda | ok: 1.141 caracteres |
+
+## Correções da rodada 1
+- C1 (img09): aplicada, com a foto da UNEF (GPO).
+- C2 (img06): aplicada, com MH 23500. A descrição do arquivo confirma o HMS Buttress desembarcando tropas e veículos no porto de pesca de Port Said.
+- C3 (foco do slide 8): aplicada. Burns aparece à esquerda.
+- C4 (ordem do slide 8): aplicada. "aprovou a UNEF" (sem "a criação da") está correto, porque a Res. 1000 de 5 nov criou o Comando.
+- C5 (slide 9): aplicada em versão curta. "Para historiadores" mantém a atribuição.
+- C6 (slide 7): aplicada. Cortar "do seu jeito" não muda o sentido.
+- C7 (slide 6): aplicada. "bloqueando-o" e "as atenções se dividiram" seguem corretos (os navios foram afundados a partir de 31 out; a URSS entrou em Budapeste em 4 nov, véspera de 5 nov).
+- C8 (slide 5): aplicada. "O caso foi levado à Assembleia Geral" está correto (Res. 119, 31 out, sessão de emergência). Só perdeu o detalhe "de emergência".
+- C9 (legenda): aplicada.
+- Recomendações: capa ajustada ("O plano secreto que durou 9 dias") e `pb: true` marcado.
+
+## Recomendações não bloqueantes
+- Slide 4: o `"foco": "40% 60%"` não mudou o enquadramento visível. O logo ainda cobre parte do rótulo de Gaza e Khan Yunis no mapa, mas o assunto do slide (Sinai, setas, canal) está todo à mostra. Não reprovo.
+- Slide 9: "Suez marcou quando Londres e Paris" soa um pouco truncado. Se couber: "Suez marcou o fim da era em que Londres e Paris agiam sozinhas" (o slide ficaria com cerca de 46 palavras, então só use se cortar outra palavra, por exemplo "Em 9 jan 1957" → "Em jan 1957").
+- Legenda: o crédito genérico "domínio público via Wikimedia Commons" vale. O GPO de Israel pede crédito, então seria melhor "Fotos: IWM, Casa Branca, NASA, GPO Israel, via Wikimedia Commons".
+- Agendamento 27 out 06:01: agora são 21h35 de 26 out, então ainda há mais de 4 h até o slot. O coordenador deve confirmar que este post, e não a Bomba Tsar, ocupa o slot.
+
+---
+
+# Rodada 1 (histórico)
+
+Veredito da rodada 1: REPROVADO (SHA a8679ea)
 
 Revisor, 26 out 2026, 21h30 (Brasília). Rede da sessão: só o WebSearch funcionou. Commons, history.state.gov e
 upload.wikimedia.org voltaram 403/ENOTFOUND no curl e no WebFetch. As licenças foram conferidas pelo
