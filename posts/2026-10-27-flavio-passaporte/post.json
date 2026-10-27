@@ -103,6 +103,17 @@
       "query": "File:Foto oficial do senador Flávio Bolsonaro (v. AgSen).jpg"
     },
     {
+      "titulo": "Composição: Moraes (2023) e Flávio Bolsonaro (retrato oficial)",
+      "autor": "Moraes: Ricardo Stuckert/PR, CC BY 2.0; Flávio: Agência Senado",
+      "licenca": "uso livre com crédito",
+      "exige_credito": true,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Alexandre_de_Moraes_(2023).jpg",
+      "id": "img04",
+      "arquivo": "imagens/img04.jpg",
+      "largura": 1080,
+      "altura": 1350
+    },
+    {
       "titulo": "Alexandre de Moraes (2023).jpg",
       "autor": "Palácio do Planalto from Brasilia, Brasil",
       "licenca": "CC BY 2.0",
@@ -114,17 +125,6 @@
       "id": "img05",
       "arquivo": "imagens/img05.jpg",
       "query": "File:Alexandre de Moraes (2023).jpg"
-    },
-    {
-      "titulo": "Composição: Moraes (2023) e Flávio Bolsonaro (retrato oficial)",
-      "autor": "Moraes: Ricardo Stuckert/PR, CC BY 2.0; Flávio: Agência Senado",
-      "licenca": "uso livre com crédito",
-      "exige_credito": true,
-      "url_origem": "https://commons.wikimedia.org/wiki/File:Alexandre_de_Moraes_(2023).jpg",
-      "id": "img04",
-      "arquivo": "imagens/img04.jpg",
-      "largura": 1080,
-      "altura": 1350
     }
   ]
 }
