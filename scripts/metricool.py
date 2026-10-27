@@ -11,6 +11,7 @@ Uso:
     python3 scripts/metricool.py payload-story posts/<slug> --sha <commit> [--rascunho]
 """
 import argparse
+import html
 import json
 import re
 import sys
@@ -118,6 +119,7 @@ def textos_alternativos(post, n):
         resumo = s.get("titulo") or " ".join(re.sub(r"<[^>]+>", " ", s["texto_html"]).split()[:20])
         textos.append(f"Slide {i}: {resumo}")
     textos.append("Diplomacia da Guerra — salve este post e siga @diplomaciadaguerra")
+    textos = [html.unescape(t).replace("\xa0", " ") for t in textos]
     return textos[:n] if len(textos) >= n else textos + [post.get("alt_text", "")] * (n - len(textos))
 
 
