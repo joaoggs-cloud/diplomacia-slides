@@ -292,6 +292,19 @@
       "query": "File:Edifício sede do Banco Central do Brasil (16011635094).jpg"
     },
     {
+      "titulo": "Ministério da Fazenda 2017 03 15 1.jpg",
+      "autor": "Marcelo Camargo/Agência Brasil",
+      "licenca": "CC BY 2.0",
+      "exige_credito": true,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Minist%C3%A9rio_da_Fazenda_2017_03_15_1.jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Minist%C3%A9rio_da_Fazenda_2017_03_15_1.jpg/1920px-Minist%C3%A9rio_da_Fazenda_2017_03_15_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 3464,
+      "altura": 2309,
+      "id": "img03",
+      "arquivo": "imagens/img03.jpg",
+      "query": "File:Ministério da Fazenda 2017 03 15 1.jpg"
+    },
+    {
       "titulo": "Brasília - Eixo monumental - teatro, museu, catedral, ministérios, congresso e ponte JK.jpg",
       "autor": "Sintegrity",
       "licenca": "CC BY-SA 4.0",
@@ -329,6 +342,19 @@
       "id": "img07",
       "arquivo": "imagens/img07.jpg",
       "query": "File:Imagens de Brasília - Palácio do Congresso Nacional (52730914148).jpg"
+    },
+    {
+      "titulo": "Ministério da Fazenda 2017 03 15 2.jpg",
+      "autor": "Marcelo Camargo/Agência Brasil",
+      "licenca": "CC BY 2.0",
+      "exige_credito": true,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Minist%C3%A9rio_da_Fazenda_2017_03_15_2.jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Minist%C3%A9rio_da_Fazenda_2017_03_15_2.jpg/1920px-Minist%C3%A9rio_da_Fazenda_2017_03_15_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 3464,
+      "altura": 2309,
+      "id": "img08",
+      "arquivo": "imagens/img08.jpg",
+      "query": "File:Ministério da Fazenda 2017 03 15 2.jpg"
     },
     {
       "titulo": "Palácio do Congresso Nacional (48205178687).jpg",
