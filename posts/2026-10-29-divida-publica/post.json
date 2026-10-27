@@ -36,7 +36,7 @@
     },
     {
       "imagem": "img03",
-      "texto_html": "O Tesouro Selic segue a taxa básica (Selic + 0,10% ao ano no de 2031, em 22 out). O Prefixado trava a taxa (cerca de 15,3% no de 2029, em 26 out). O IPCA+ soma inflação e taxa (perto de 8% nos longos, em 26 out).",
+      "texto_html": "O Tesouro Selic segue a taxa básica (Selic + 0,10% no de 2031, em 22 out). O Prefixado trava a taxa (cerca de 15,3% no de 2029, em 26 out). O IPCA+ soma inflação e taxa (perto de 8% nos longos, em 26 out).",
       "numero": {
         "valor": "R$ 9,29 TRI",
         "label": "Dívida Pública Federal em ago/26. Taxas são indicativas e mudam todo dia."
@@ -44,7 +44,7 @@
     },
     {
       "imagem": "img04",
-      "texto_html": "Quem empresta são, sobretudo, instituições. O Tesouro Direto, de 3,8 milhões de investidores, soma R$ 272 bi: cerca de 3% da dívida.",
+      "texto_html": "<strong>Quem empresta são, sobretudo, instituições. O Tesouro Direto, de 3,8 milhões de investidores, soma R$ 272 bi: cerca de 3% da dívida.</strong>",
       "grafico": {
         "tipo": "pizza",
         "titulo": "Quem detém a dívida federal (ago/26)",
@@ -105,7 +105,7 @@
       }
     },
     {
-      "imagem": "img06",
+      "imagem": "img02",
       "texto_html": "No vencimento, o Tesouro paga o valor com juros e rola a dívida, emitindo títulos novos. Mais da metade já segue a Selic.",
       "grafico": {
         "tipo": "pizza",
@@ -137,11 +137,12 @@
           }
         ],
         "nota": "Fonte: Tesouro Nacional (RMD ago/26). Selic: recorde da série, iniciada em dez/2000."
-      }
+      },
+      "foco": "center 20%"
     },
     {
-      "imagem": "img04",
-      "foco": "center 40%",
+      "imagem": "img05",
+      "foco": "center 70%",
       "texto_html": "Com a Selic em 13,75% e metade da dívida atrelada a ela, os juros entram no estoque. Em 2025, os juros nominais da União foram de R$ 891,9 bi. A dívida bruta passou de 74,4% do PIB em 2019 para 82,9% em ago/26.",
       "grafico": {
         "tipo": "barras",
@@ -193,12 +194,12 @@
       }
     },
     {
-      "imagem": "img01",
-      "titulo": "Para onde foi o dinheiro da União em 2025",
-      "texto_html": "Salários de professores, médicos e militares estão em “Servidores”, não em saúde, educação ou defesa. Fonte: Tesouro Nacional (RTN).",
+      "imagem": "img02",
+      "titulo": "Para onde foi o dinheiro da União",
+      "texto_html": "<strong>Execução de 2025, em R$ bi. Fonte: Tesouro Nacional (RTN).</strong>",
       "grafico": {
         "tipo": "pizza",
-        "titulo": "Total: R$ 3.855,8 bi (R$ bi · %)",
+        "titulo": "Total 2025: R$ 3.855,8 bi",
         "itens": [
           {
             "rotulo": "Previdência (INSS)",
@@ -256,14 +257,15 @@
             "texto": "243,9 · 6,3%"
           }
         ],
-        "nota": "*Só discricionárias. Governo Central + repasses + juros nominais, 2025."
-      }
+        "nota": "Salários de professores, médicos e militares estão em “Servidores”. *Defesa e segurança: só discricionárias. Governo Central + repasses + juros nominais."
+      },
+      "foco": "center 0%"
     },
     {
-      "imagem": "img05",
-      "foco": "center 30%",
+      "imagem": "img01",
+      "foco": "center 20%",
       "titulo": "O “45%” do Orçamento de 2026",
-      "texto_html": "Rolagem é trocar dívida velha por nova. Com juros e amortização, soma 45,1% do Orçamento de 2026, que é dotação aprovada, não gasto.",
+      "texto_html": "<strong>Rolagem é trocar dívida velha por nova. Com juros e amortização, soma 45,1% do Orçamento de 2026, que é dotação aprovada, não gasto.</strong>",
       "grafico": {
         "tipo": "pizza",
         "titulo": "Orçamento 2026: R$ 6.344,7 bi",
@@ -283,7 +285,8 @@
           {
             "rotulo": "Previdência (aprox.)",
             "valor": 1110,
-            "texto": "R$ 1.110 bi · 17,5%"
+            "texto": "R$ 1.110 bi · 17,5%",
+            "cor": "#5fa8d3"
           },
           {
             "rotulo": "Demais despesas",
