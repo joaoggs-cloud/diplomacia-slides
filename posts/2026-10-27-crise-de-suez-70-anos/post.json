@@ -1,0 +1,161 @@
+{
+  "slug": "2026-10-27-crise-de-suez-70-anos",
+  "titulo_interno": "Crise de Suez, 70 anos",
+  "status": "rascunho",
+  "pilar": "historia_militar",
+  "categoria": "História militar · Oriente Médio",
+  "gancho_tipo": "contradicao",
+  "capa": {
+    "imagem": "img01",
+    "titulo_html": "O acordo <span class=\"hl\">secreto</span> que durou <span class=\"hl2\">9 dias</span>",
+    "gancho": "Em 1956, três países combinaram uma guerra em segredo. Em pouco mais de uma semana, tiveram de recuar."
+  },
+  "slides": [
+    {
+      "imagem": "img02",
+      "texto_html": "Em 26 jul 1956, num discurso em Alexandria, o presidente egípcio <strong>Gamal Abdel Nasser</strong> nacionalizou a Companhia do Canal de Suez, de controle anglo-francês, e prometeu indenizar os acionistas. Por ali passava boa parte do petróleo que abastecia a Europa."
+    },
+    {
+      "imagem": "img03",
+      "texto_html": "Três meses depois, entre 22 e 24 out, Reino Unido, França e Israel se reuniram em segredo em <strong>Sèvres</strong>, perto de Paris. Segundo documentos e historiadores, o plano era simples: Israel atacaria o Sinai, e britânicos e franceses interviriam “para separar os combatentes”."
+    },
+    {
+      "imagem": "img04",
+      "texto_html": "Em 29 out 1956, Israel invadiu o Sinai e avançou rumo ao canal. No dia 30, Londres e Paris lançaram um ultimato: Egito e Israel deveriam recuar 16 km do canal. Israel aceitou, o <strong>Egito recusou</strong>."
+    },
+    {
+      "imagem": "img05",
+      "texto_html": "Em 31 out, aviões britânicos e franceses começaram a bombardear alvos no Egito. No Conselho de Segurança, Reino Unido e França vetaram um projeto dos EUA que pedia o recuo de Israel. A Assembleia Geral foi convocada em sessão de emergência."
+    },
+    {
+      "imagem": "img06",
+      "texto_html": "Em 5 e 6 nov, paraquedistas e fuzileiros desembarcaram em <strong>Port Said</strong>. O Egito já tinha afundado cerca de 40 navios no canal, que ficou bloqueado. Na véspera, a União Soviética invadira a Hungria, e as atenções do mundo se dividiram."
+    },
+    {
+      "imagem": "img07",
+      "texto_html": "No mesmo 5 nov, o premiê soviético Bulganin enviou uma carta ameaçadora a Londres, Paris e Tel Aviv. Washington recusou uma ação conjunta com Moscou, mas pressionou do seu jeito: a libra esterlina sofria ataques e o apoio financeiro dos EUA dependia do cessar-fogo."
+    },
+    {
+      "imagem": "img08",
+      "texto_html": "Britânicos e franceses aceitaram parar em 6 nov. A ONU aprovou em 5 nov a criação da <strong>UNEF</strong>, a primeira força de paz armada. As tropas anglo-francesas saíram em dez 1956, e Israel deixou o Sinai e Gaza em março de 1957.",
+      "factbox": {
+        "label": "Canadá",
+        "texto": "A proposta da força de paz partiu do canadense Lester Pearson, que ganhou o Nobel da Paz de 1957."
+      }
+    },
+    {
+      "imagem": "img09",
+      "texto_html": "Em 9 jan 1957, o premiê britânico <strong>Anthony Eden</strong> renunciou, alegando problemas de saúde. O canal só voltou a funcionar em abr 1957. A crise mostrou que Londres e Paris já não decidiam sozinhas, e que o peso passara a Washington e Moscou."
+    }
+  ],
+  "cta": {
+    "titulo": "Salve este post",
+    "subtitulo": "e compartilhe com quem curte história"
+  },
+  "legenda": "Em 1956, Reino Unido, França e Israel combinaram uma guerra em segredo. Em pouco mais de uma semana, a operação desabou.\n\nTudo começou quando o Egito nacionalizou o Canal de Suez. Em 29 de outubro, há 70 anos, Israel invadiu o Sinai e, no dia seguinte, britânicos e franceses lançaram um ultimato que servia de pretexto para ocupar o canal. A pressão dos Estados Unidos, as ameaças da União Soviética e a ONU os fizeram recuar, e dessa crise nasceu a primeira força de paz armada das Nações Unidas.\n\nArraste para o lado e acompanhe a história do discurso de Nasser à renúncia de Eden.\n\nA seu ver, o que pesou mais para a retirada: a pressão financeira dos EUA, a ameaça soviética ou a ONU?",
+  "primeiro_comentario": "Que outra crise do século 20 você gostaria de ver contada aqui no perfil?",
+  "hashtags": [
+    "#suez",
+    "#crisedesuez",
+    "#guerrafria",
+    "#orientemedio",
+    "#historia",
+    "#onu",
+    "#nasser"
+  ],
+  "alt_text": "Carrossel sobre os 70 anos da Crise de Suez de 1956, com fotos históricas e a sequência dos fatos.",
+  "ia_gerado": false,
+  "fontes": [
+    {
+      "nome": "Office of the Historian (Dep. de Estado dos EUA), The Suez Crisis, 1956",
+      "url": "https://history.state.gov/milestones/1953-1960/suez"
+    },
+    {
+      "nome": "ONU, UNEF I Background",
+      "url": "https://peacekeeping.un.org/mission/past/unef1backgr2.html"
+    },
+    {
+      "nome": "Avi Shlaim, The Protocol of Sèvres, 1956",
+      "url": "https://users.ox.ac.uk/%7Essfc0005/The%20Protocol%20of%20Sevres%201956%20Anatomy%20of%20a%20War%20Plot.html"
+    },
+    {
+      "nome": "FMI, Boughton, Northwest of Suez",
+      "url": "https://www.imf.org/External/Pubs/FT/staffp/2001/03/pdf/boughton.pdf"
+    },
+    {
+      "nome": "NobelPrize.org, Lester Pearson",
+      "url": "https://www.nobelprize.org/prizes/peace/1957/pearson/"
+    }
+  ],
+  "busca_imagens": [
+    {
+      "id": "img01",
+      "query": "File:Port Said from air.jpg",
+      "alternativas": [
+        "Suez crisis 1956 Port Said smoke"
+      ]
+    },
+    {
+      "id": "img02",
+      "query": "File:Suez Canal, Port Said - ISS 2.jpg",
+      "alternativas": [
+        "Suez Canal aerial"
+      ]
+    },
+    {
+      "id": "img03",
+      "query": "File:British carriers during Suez Crisis 1956.jpg",
+      "alternativas": [
+        "Operation Musketeer 1956 aircraft carrier"
+      ]
+    },
+    {
+      "id": "img04",
+      "query": "File:1956 Suez war - conquest of Sinai.jpg",
+      "alternativas": [
+        "Suez Crisis map 1956"
+      ]
+    },
+    {
+      "id": "img05",
+      "query": "File:810 Naval Air Squadron bombing.jpg",
+      "alternativas": [
+        "Operation Musketeer Wyvern Sea Hawk 1956"
+      ]
+    },
+    {
+      "id": "img06",
+      "query": "File:British tanks in Port Said.jpg",
+      "alternativas": [
+        "Port Said 1956 British troops"
+      ]
+    },
+    {
+      "id": "img07",
+      "query": "File:Eisenhower official.jpg",
+      "alternativas": [
+        "Dwight D. Eisenhower 1956"
+      ]
+    },
+    {
+      "id": "img08",
+      "query": "File:Moshe Dayan - Burns- Lod 16-12-1956.jpg",
+      "alternativas": [
+        "UNEF 1956 blue helmets",
+        "Blue helmet UN peacekeeper 1957"
+      ]
+    },
+    {
+      "id": "img09",
+      "query": "File:Lester B. Pearson.jpg",
+      "alternativas": [
+        "Lester Pearson Nobel 1957",
+        "Anthony Eden 1956"
+      ]
+    }
+  ],
+  "agendamento": {
+    "data_hora": "2026-10-27T06:01:00-03:00",
+    "slot": "06:01"
+  }
+}
