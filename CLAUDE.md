@@ -153,6 +153,15 @@ peça preferência; use `"usar_hashtags_base": false` se o tema não for militar
 Dados parciais mudam rápido: confira o número mais recente imediatamente antes
 de pedir aprovação e informe o horário/percentual da parcial.
 
+## Stories (repost)
+
+Quando o João pedir para levar um post ao Stories, faça só o **repost**: a capa do
+post centralizada sobre o fundo desfocado da própria capa (1080×1920), **sem nenhum
+texto extra** — nada de "post novo no perfil", "carrossel completo em @…" ou título
+(a capa já tem o título). Publique como `instagramData.type: "STORY"`, sem `text`.
+A API não põe o adesivo clicável do post; se o João quiser o link, ele compartilha
+pelo app (avião de papel → "Adicionar ao story").
+
 ## Rotina B — Responder à aprovação
 
 Coordenador: ajustes vão para o `roteirista` (e de novo ao `revisor`); agendamento e
