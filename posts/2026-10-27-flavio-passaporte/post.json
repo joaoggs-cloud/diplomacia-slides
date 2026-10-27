@@ -9,8 +9,8 @@
   "categoria": "Política · STF",
   "capa": {
     "imagem": "img01",
-    "titulo_html": "STF manda senador <span class=\"hl2\">Flávio Bolsonaro (PL)</span> entregar passaportes à PF",
-    "gancho": "Ele também está proibido de deixar o país e de ter contato com o advogado Willer Tomaz. Ambos são investigados por suspeita de lavagem de dinheiro. A medida é cautelar, não é condenação. O senador diz que nunca planejou sair do país, chama a ordem de intimidação, vai entregar os documentos e contestar a decisão, e nega irregularidades.",
+    "titulo_html": "Moraes (STF) manda senador <span class=\"hl2\">Flávio Bolsonaro (PL)</span> entregar passaportes à PF",
+    "gancho": "Ele também fica proibido de sair do país e de falar com o advogado Willer Tomaz. Os dois são investigados por suspeita de lavagem de dinheiro e negam irregularidades. O senador diz que nunca planejou deixar o Brasil, chama a ordem de intimidação e vai entregar os documentos e contestar.",
     "graficos": [
       {
         "tipo": "numero",
@@ -27,13 +27,13 @@
       {
         "tipo": "numero",
         "titulo": "Situação",
-        "texto": "Investigado",
-        "nota": "Decisão sob sigilo"
+        "texto": "Cautelar",
+        "nota": "Não é condenação; decisão sob sigilo"
       }
     ]
   },
   "slides": [],
-  "legenda": "O ministro Alexandre de Moraes, do STF, determinou que o senador Flávio Bolsonaro (PL-RJ) entregue seus passaportes, comum e diplomático, à Polícia Federal em até 24 horas. A decisão, divulgada na segunda-feira (26), também o proíbe de deixar o país e de ter contato com o advogado Willer Tomaz.\n\nOs dois são investigados em inquérito no STF por suspeita de lavagem de dinheiro. Trata-se de medida cautelar: não há condenação. A decisão tramita sob sigilo, e, segundo a imprensa, o fundamento teria relação com declaração de Eduardo Bolsonaro sobre uma possível saída do irmão do país.\n\nO senador diz que nunca disse nem planejou deixar o país, chama a medida de intimidação, afirma que vai entregar os documentos e contestar a decisão, e nega irregularidades. A defesa de Willer Tomaz também nega ilegalidade.\n\nVocê costuma acompanhar as decisões do STF sobre medidas cautelares? Conte nos comentários onde prefere se informar.\n\nFotos: Agência Senado / Wikimedia Commons, conforme crédito na imagem.\nFontes: Agência Brasil, Poder360, CNN Brasil.",
+  "legenda": "O ministro Alexandre de Moraes, do STF, determinou que o senador Flávio Bolsonaro (PL-RJ) entregue seus passaportes, comum e diplomático, à Polícia Federal em até 24 horas. A decisão, divulgada na segunda-feira (26), também o proíbe de deixar o país e de ter contato com o advogado Willer Tomaz.\n\nOs dois são investigados em inquérito no STF por suspeita de lavagem de dinheiro. Trata-se de medida cautelar: não há condenação. A decisão tramita sob sigilo, e, segundo o senador e a imprensa, o fundamento teria relação com declaração de Eduardo Bolsonaro sobre uma possível saída do irmão do país.\n\nO senador diz que nunca disse nem planejou deixar o país, chama a medida de intimidação, afirma que vai entregar os documentos e contestar a decisão, e nega irregularidades. A defesa de Willer Tomaz também nega ilegalidade.\n\nVocê costuma acompanhar as decisões do STF sobre medidas cautelares? Conte nos comentários onde prefere se informar.",
   "primeiro_comentario": "Que fontes você usa para acompanhar decisões judiciais de grande repercussão?",
   "hashtags": [
     "#stf",
@@ -78,7 +78,7 @@
   "imagens": [
     {
       "titulo": "Fachada do Supremo Tribunal Federal (STF) (54334559198).jpg",
-      "autor": "Agência Senado from Brasilia, Brazil",
+      "autor": "Pedro França/Agência Senado",
       "licenca": "CC BY 2.0",
       "exige_credito": true,
       "url_origem": "https://commons.wikimedia.org/wiki/File:Fachada_do_Supremo_Tribunal_Federal_(STF)_(54334559198).jpg",

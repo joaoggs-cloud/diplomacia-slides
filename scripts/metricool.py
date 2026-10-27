@@ -83,16 +83,19 @@ def creditos(post):
         usadas = {n.get("imagem"), *(c.get("foto") for c in pessoas)}
     else:
         usadas = {post["capa"]["imagem"], *(s.get("imagem") for s in post["slides"])}
-    linhas = []
+    linhas, livres = [], 0
     for img in post.get("imagens", []):
         if img["id"] not in usadas:
             continue
         if img.get("exige_credito"):
             linhas.append(f"{img['autor']} ({img['licenca']})")
+        else:
+            livres += 1
     if not linhas:
         return "Imagens: domínio público via Wikimedia Commons."
     unicos = list(dict.fromkeys(linhas))
-    return "Imagens via Wikimedia Commons: " + "; ".join(unicos) + ". Demais: domínio público."
+    demais = " Demais: domínio público." if livres else ""
+    return "Imagens via Wikimedia Commons: " + "; ".join(unicos) + "." + demais
 
 
 def textos_alternativos(post, n):
