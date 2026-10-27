@@ -8,13 +8,13 @@
   "layout": "moderno",
   "capa": {
     "imagem": "img01",
-    "titulo_html": "Quase 29 de cada 100 reais do Orçamento de 2026 servem só para <span class=\"hl\">rolar</span> a <span class=\"hl2\">dívida</span>",
+    "titulo_html": "Quase 29% do Orçamento de 2026 é só <span class=\"hl\">rolagem</span>: trocar <span class=\"hl2\">dívida</span> velha por nova",
     "gancho": "O caminho do dinheiro: do título que o Tesouro vende até a conta de juros."
   },
   "slides": [
     {
       "imagem": "img02",
-      "texto_html": "Em 2025, o governo central arrecadou R$ 2,33 tri e gastou R$ 2,39 tri: déficit primário de <strong>R$ 61,7 bi</strong>. Com os juros, o déficit nominal foi de <em>R$ 950,6 bi</em>. Para cobrir a diferença, o Tesouro vende títulos públicos.",
+      "texto_html": "Em 2025, o governo central teve receita líquida de R$ 2,33 tri e despesa de R$ 2,39 tri: déficit primário de <strong>R$ 61,7 bi</strong>. Com os juros, o déficit nominal foi de <em>R$ 950,6 bi</em>. Para cobrir a diferença, o Tesouro vende títulos.",
       "grafico": {
         "tipo": "barras",
         "titulo": "Governo Central, 2025 (R$ bi)",
@@ -32,22 +32,24 @@
           }
         ],
         "nota": "Fonte: Tesouro Nacional (RTN). Despesa primária, sem juros."
-      }
+      },
+      "escuro": true
     },
     {
-      "imagem": "img03",
-      "texto_html": "O Tesouro Selic segue a taxa básica (Selic + 0,10% no de 2031, em 22 out). O Prefixado trava a taxa (cerca de 15,3% no de 2029, em 26 out). O IPCA+ soma inflação e taxa (perto de 8% nos longos, em 26 out).",
+      "imagem": "img06",
+      "texto_html": "O Tesouro Selic segue a taxa básica (Selic + 0,10% no de 2031). O Prefixado trava a taxa (cerca de 15,3% no de 2029). O IPCA+ soma inflação e taxa (de 7,6% a 7,8% nos de 2032 a 2050). Dados de 26 out.",
       "numero": {
         "valor": "R$ 9,29 TRI",
-        "label": "Dívida Pública Federal em ago/26. Taxas são indicativas e mudam todo dia."
-      }
+        "label": "Dívida Pública Federal em ago/26. Taxas indicativas, mudam todo dia."
+      },
+      "foco": "center 30%"
     },
     {
       "imagem": "img04",
       "texto_html": "<strong>Quem empresta são, sobretudo, instituições. O Tesouro Direto, de 3,8 milhões de investidores, soma R$ 272 bi: cerca de 3% da dívida.</strong>",
       "grafico": {
         "tipo": "pizza",
-        "titulo": "Quem detém a dívida federal (ago/26)",
+        "titulo": "Quem detém a dívida interna federal (ago/26)",
         "itens": [
           {
             "rotulo": "Instituições financeiras",
@@ -75,12 +77,13 @@
             "texto": "13,7%"
           }
         ],
-        "nota": "Fonte: Tesouro Nacional, Relatório Mensal da Dívida (ago/26). Soma 99,9% por arredondamento."
-      }
+        "nota": "Fonte: Tesouro Nacional, RMD ago/26. Base: dívida interna em títulos (R$ 8,94 tri). Soma 99,9% por arredondamento."
+      },
+      "escuro": true
     },
     {
       "imagem": "img05",
-      "texto_html": "O dinheiro cai no caixa único da União e paga o conjunto das despesas, de escolas a benefícios. Pela regra de ouro, a Constituição não deixa emitir dívida acima dos investimentos e amortizações, salvo autorização do Congresso.",
+      "texto_html": "O dinheiro cai no caixa único da União e paga o conjunto das despesas, sobretudo títulos que vencem. Pela regra de ouro, a Constituição não deixa emitir dívida acima dos investimentos e amortizações, salvo autorização do Congresso.",
       "grafico": {
         "tipo": "linha_do_tempo",
         "titulo": "O caminho do dinheiro",
@@ -98,15 +101,15 @@
             "texto": "O dinheiro entra nas contas da União"
           },
           {
-            "quando": "4. Gasto",
-            "texto": "Salários, saúde, educação, benefícios"
+            "quando": "4. Uso",
+            "texto": "Paga títulos que vencem e demais despesas"
           }
         ]
       }
     },
     {
-      "imagem": "img02",
-      "texto_html": "No vencimento, o Tesouro paga o valor com juros e rola a dívida, emitindo títulos novos. Mais da metade já segue a Selic.",
+      "imagem": "img01",
+      "texto_html": "No vencimento, o Tesouro paga o valor com juros, em geral com o dinheiro de títulos novos: é a rolagem. Mais da metade da dívida já segue a Selic.",
       "grafico": {
         "tipo": "pizza",
         "titulo": "Indexadores da dívida federal (ago/26)",
@@ -138,12 +141,11 @@
         ],
         "nota": "Fonte: Tesouro Nacional (RMD ago/26). Selic: recorde da série, iniciada em dez/2000."
       },
-      "foco": "center 20%"
+      "escuro": true
     },
     {
-      "imagem": "img05",
-      "foco": "center 70%",
-      "texto_html": "Com a Selic em 13,75% e metade da dívida atrelada a ela, os juros entram no estoque. Em 2025, os juros nominais da União foram de R$ 891,9 bi. A dívida bruta passou de 74,4% do PIB em 2019 para 82,9% em ago/26.",
+      "imagem": "img03",
+      "texto_html": "Com a Selic em 13,75% e mais da metade da dívida atrelada a ela, o custo segue a taxa básica, e juros não pagos viram dívida. Em 2025, o governo central teve R$ 891,9 bi de juros. A dívida bruta chegou a 82,9% do PIB.",
       "grafico": {
         "tipo": "barras",
         "titulo": "Dívida bruta do governo geral (% do PIB)",
@@ -191,12 +193,13 @@
           }
         ],
         "nota": "Fonte: Banco Central (série 13762). Dezembro de cada ano; último ponto: ago/26."
-      }
+      },
+      "escuro": true
     },
     {
       "imagem": "img02",
       "titulo": "Para onde foi o dinheiro da União",
-      "texto_html": "<strong>Execução de 2025, em R$ bi. Fonte: Tesouro Nacional (RTN).</strong>",
+      "texto_html": "<strong>Despesas de 2025, em R$ bi. Fonte: Tesouro e Banco Central.</strong>",
       "grafico": {
         "tipo": "pizza",
         "titulo": "Total 2025: R$ 3.855,8 bi",
@@ -257,15 +260,16 @@
             "texto": "243,9 · 6,3%"
           }
         ],
-        "nota": "Salários de professores, médicos e militares estão em “Servidores”. *Defesa e segurança: só discricionárias. Governo Central + repasses + juros nominais."
+        "nota": "Salários de professores, médicos e militares estão em “Servidores”. *Defesa e segurança: só discricionárias. Juros: devidos no ano (BC), parte paga, parte somada à dívida. Soma 99,9% por arredondamento."
       },
-      "foco": "center 0%"
+      "foco": "center 100%",
+      "escuro": true
     },
     {
-      "imagem": "img01",
-      "foco": "center 20%",
+      "imagem": "img05",
+      "foco": "center 100%",
       "titulo": "O “45%” do Orçamento de 2026",
-      "texto_html": "<strong>Rolagem é trocar dívida velha por nova. Com juros e amortização, soma 45,1% do Orçamento de 2026, que é dotação aprovada, não gasto.</strong>",
+      "texto_html": "<strong>Rolagem é trocar dívida velha por nova. Somada aos juros e às demais amortizações, chega a 45,1% do Orçamento de 2026, que é dotação aprovada, não gasto.</strong>",
       "grafico": {
         "tipo": "pizza",
         "titulo": "Orçamento 2026: R$ 6.344,7 bi",
@@ -277,7 +281,7 @@
             "cor": "#d97b66"
           },
           {
-            "rotulo": "Juros + amortização",
+            "rotulo": "Juros + amortização sem rolagem",
             "valor": 1041.0,
             "texto": "R$ 1.041 bi · 16,4%",
             "cor": "#e0b84f"
@@ -303,7 +307,7 @@
     "titulo": "Salve este post",
     "subtitulo": "e compartilhe com quem precisa saber"
   },
-  "legenda": "Quase 29 de cada 100 reais do Orçamento de 2026 servem só para rolar a dívida pública.\n\nO mecanismo é simples. O governo gasta mais do que arrecada, o Tesouro vende títulos, instituições e investidores compram, o dinheiro entra no caixa único da União e, no vencimento, a dívida é paga com juros ou trocada por títulos novos. Como mais da metade do estoque (52,7% em ago/26, recorde da série) segue a Selic, os juros se somam à dívida todos os meses.\n\nNos slides, o caminho completo, com os números oficiais do Tesouro Nacional, do Banco Central e do Orçamento. Taxas dos títulos são indicativas e mudam todo dia. O Orçamento de 2026 mostra valores aprovados, não gastos realizados.\n\nArraste para o lado.",
+  "legenda": "Quase 29% do Orçamento de 2026 é só rolagem da dívida pública: trocar títulos que vencem por títulos novos.\n\nO governo gasta mais do que arrecada, o Tesouro vende títulos, instituições e investidores compram, o dinheiro entra no caixa único da União e, no vencimento, a dívida costuma ser paga com títulos novos. Mais da metade do estoque (52,7% em ago/26, recorde da série) segue a Selic, então o custo da dívida acompanha a taxa básica, e os juros que não são pagos se somam à dívida todo mês.\n\nNos slides, o caminho completo, com os números oficiais do Tesouro Nacional, do Banco Central e do Orçamento. Taxas dos títulos são indicativas e mudam todo dia. O Orçamento de 2026 mostra valores aprovados, não gastos realizados.\n\nArraste para o lado.",
   "primeiro_comentario": "",
   "hashtags": [
     "#dividapublica",

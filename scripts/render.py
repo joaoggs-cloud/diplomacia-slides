@@ -280,7 +280,7 @@ def montar_moderno(post, post_dir):
         titulo = f'<div class="titulo">{escape(s["titulo"])}</div>' if s.get("titulo") else ""
         html.append(f'''
   <div class="slide">
-    {bg}<div class="grad forte"></div>
+    {bg}<div class="grad {'escuro' if s.get('escuro') else 'forte'}"></div>
     <img class="logo" src="{logo}" alt="">
     <div class="contador">{n}/{total}</div>
     <div class="corpo">
