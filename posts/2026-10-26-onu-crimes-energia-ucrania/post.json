@@ -9,7 +9,7 @@
   "categoria": "Guerra na Ucrânia · ONU",
   "capa": {
     "imagem": "img01",
-    "titulo_html": "ONU conclui que ataques russos à <span class=\"hl2\">rede de energia</span> da Ucrânia são crimes de guerra",
+    "titulo_html": "Comissão da ONU conclui que ataques russos à <span class=\"hl2\">rede de energia</span> da Ucrânia são crimes de guerra",
     "gancho": "A comissão de inquérito da ONU também vê crimes contra a humanidade. O relatório foi apresentado à Assembleia Geral nesta segunda (26).",
     "graficos": [
       {
@@ -20,20 +20,15 @@
       },
       {
         "tipo": "numero",
-        "titulo": "Crimes apontados",
-        "texto": "2",
-        "nota": "Guerra e contra a humanidade"
-      },
-      {
-        "tipo": "numero",
         "titulo": "Presidente",
         "texto": "Erik Møse",
         "nota": "Comissão de Inquérito da ONU"
       }
-    ]
+    ],
+    "credito": "Foto de arquivo: usina TEC-5, Kiev, após ataque · Estemelmo Nólemë · CC BY 2.0"
   },
   "slides": [],
-  "legenda": "A comissão de inquérito da ONU concluiu que os ataques russos à infraestrutura de energia da Ucrânia constituem crimes de guerra e crimes contra a humanidade.\n\nO relatório foi apresentado à Assembleia Geral nesta segunda (26) pela comissão, presidida por Erik Møse, e se baseia em relatos de 255 pessoas que enfrentaram o inverno em condições duras em várias regiões. Segundo o órgão, os ataques atingiram bens civis e causaram grande sofrimento à população.\n\nA comissão é um órgão de investigação ligado ao Conselho de Direitos Humanos da ONU, não um tribunal: as conclusões não são sentenças.\n\nA pergunta que fica: o que a comunidade internacional pode fazer, na prática, a partir de conclusões como essas?",
+  "legenda": "Uma comissão de inquérito da ONU concluiu que os ataques russos à infraestrutura de energia da Ucrânia constituem crimes de guerra e crimes contra a humanidade.\n\nO relatório foi apresentado à Assembleia Geral nesta segunda (26) pela comissão, presidida por Erik Møse, e se baseia em relatos de 255 pessoas que enfrentaram o inverno em condições duras em várias regiões. Segundo o órgão, os ataques atingiram bens civis e causaram grande sofrimento à população.\n\nA comissão é um órgão de investigação ligado ao Conselho de Direitos Humanos da ONU, não um tribunal: as conclusões não são sentenças. A Rússia não reconhece o mandato da comissão.\n\nA pergunta que fica: o que a comunidade internacional pode fazer, na prática, a partir de conclusões como essas?",
   "primeiro_comentario": "Relatórios de comissões da ONU costumam servir de base para processos futuros, mas não têm poder de punir. Na sua leitura, qual é o peso real desse tipo de documento?",
   "hashtags": [
     "#ucrania",
@@ -87,7 +82,7 @@
     }
   ],
   "agendamento": {
-    "data_hora": "2026-10-26T23:05:00-03:00",
+    "data_hora": "2026-10-26T23:20:00-03:00",
     "slot": "extra"
   },
   "metricool": {}
