@@ -8,6 +8,7 @@ createScheduledPost / updateScheduledPost esperam.
 Uso:
     python3 scripts/metricool.py proximo-horario
     python3 scripts/metricool.py payload posts/<slug> --sha <commit> [--rascunho]
+    python3 scripts/metricool.py payload-story posts/<slug> --sha <commit> [--rascunho]
 """
 import argparse
 import json
@@ -167,6 +168,34 @@ def payload(post_dir, sha, rascunho):
     return {"blogId": est["metricool"]["blog_id"], "date": quando.isoformat(), "info": info}
 
 
+def payload_story(post_dir, sha, rascunho, atraso_min=2):
+    """Story que repete o post do feed (só a capa, sem texto), alguns minutos depois dele."""
+    est = carregar_estrategia()
+    post = json.loads((post_dir / "post.json").read_text(encoding="utf-8"))
+    repo = est["repositorio"]
+    rel = post_dir.resolve().relative_to(RAIZ).as_posix()
+    if not (post_dir / "story" / "story.jpg").exists():
+        sys.exit(f"{post_dir}/story/story.jpg não existe — rode scripts/story.py antes.")
+    quando = datetime.fromisoformat(post["agendamento"]["data_hora"]) + timedelta(minutes=atraso_min)
+    info = {
+        "autoPublish": True,
+        "draft": rascunho,
+        "descendants": [],
+        "firstCommentText": "",
+        "hasNotReadNotes": False,
+        "media": [f"https://raw.githubusercontent.com/{repo['owner']}/{repo['repo']}/{sha}/{rel}/story/story.jpg"],
+        "mediaAltText": [textos_alternativos(post, 1)[0]],
+        "providers": [{"network": "instagram"}],
+        "publicationDate": {"dateTime": quando.strftime("%Y-%m-%dT%H:%M:%S"),
+                            "timezone": est["metricool"]["timezone"]},
+        "shortener": False,
+        "smartLinkData": {"ids": []},
+        "instagramData": {"type": "STORY", "collaborators": [], "showReelOnFeed": True,
+                          "isAiGenerated": post.get("ia_gerado", False)},
+    }
+    return {"blogId": est["metricool"]["blog_id"], "date": quando.isoformat(), "info": info}
+
+
 def main():
     ap = argparse.ArgumentParser()
     sub = ap.add_subparsers(dest="cmd", required=True)
@@ -176,6 +205,10 @@ def main():
     p.add_argument("post_dir")
     p.add_argument("--sha", required=True, help="commit já enviado ao GitHub que contém os slides")
     p.add_argument("--rascunho", action="store_true", help="cria como rascunho (aguardando aprovação)")
+    ps = sub.add_parser("payload-story")
+    ps.add_argument("post_dir")
+    ps.add_argument("--sha", required=True, help="commit já enviado que contém story/story.jpg")
+    ps.add_argument("--rascunho", action="store_true")
     args = ap.parse_args()
 
     if args.cmd == "proximo-horario":
@@ -183,6 +216,8 @@ def main():
         print(json.dumps({"data_hora": dt.isoformat(), "slot": slot}, ensure_ascii=False))
     elif args.cmd == "avancar-slot":
         avancar_slot()
+    elif args.cmd == "payload-story":
+        print(json.dumps(payload_story(Path(args.post_dir), args.sha, args.rascunho), ensure_ascii=False, indent=2))
     else:
         print(json.dumps(payload(Path(args.post_dir), args.sha, args.rascunho), ensure_ascii=False, indent=2))
 

@@ -153,9 +153,17 @@ peça preferência; use `"usar_hashtags_base": false` se o tema não for militar
 Dados parciais mudam rápido: confira o número mais recente imediatamente antes
 de pedir aprovação e informe o horário/percentual da parcial.
 
-## Stories (repost)
+## Stories (repost automático)
 
-Quando o João pedir para levar um post ao Stories, faça só o **repost**: a capa do
+**Padrão (decisão do João, 26 out):** todo post do feed — carrossel ou notícia — ganha
+automaticamente um Story com o mesmo post, 2 minutos depois dele. A aprovação do post
+vale para o Story. Junto com o rascunho (Rotina A passo 8) e no APROVAR (Rotina B):
+`python3 scripts/story.py posts/<slug>` → commit + push → `python3 scripts/metricool.py
+payload-story posts/<slug> --sha <SHA> [--rascunho]` → `createScheduledPost`/
+`updateScheduledPost` com o mesmo `draft` do post. Guarde em `post.json → metricool.story`
+(`id`, `uuid`). Em notícias publicadas na hora, publique o Story logo depois.
+
+O Story é só o **repost**: a capa do
 post centralizada sobre o fundo desfocado da própria capa (1080×1920), **sem nenhum
 texto extra** — nada de "post novo no perfil", "carrossel completo em @…" ou título
 (a capa já tem o título). Publique como `instagramData.type: "STORY"`, sem `text`.

@@ -21,6 +21,14 @@ pré-aprovou por escrito). Na dúvida, mantenha rascunho e devolva a pergunta.
 4. Grave `id`, `uuid`, `sha_slides` e `planner_url` em `post.json → metricool`, status
    `aguardando_aprovacao`, rode `python3 scripts/metricool.py avancar-slot`, commit + push.
 
+## Story automático (padrão do João)
+Todo post do feed leva um Story com o mesmo post, 2 min depois. Junto com o rascunho:
+`python3 scripts/story.py posts/<slug>`, commit + push, confira o HTTP 200 de
+`.../<SHA>/posts/<slug>/story/story.jpg`, `python3 scripts/metricool.py payload-story
+posts/<slug> --sha <SHA> --rascunho` → `createScheduledPost`. Grave em
+`post.json → metricool.story` (`id`, `uuid`). Na aprovação, o Story também vai para
+`draft: false` (a aprovação do post vale para ele).
+
 ## Agendar após aprovação
 `getScheduledPosts` (janela que cubra a data) → `updateScheduledPost` com o mesmo info,
 `draft: false`, `autoPublish: true` (se a data passou, use `proximo-horario`). Status
