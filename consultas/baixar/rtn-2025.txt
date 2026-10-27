@@ -1,0 +1,9 @@
+# Resultado do Tesouro Nacional (série histórica) e dívida pública
+ckan:https://www.tesourotransparente.gov.br/ckan/api/3/action/package_show?id=resultado-do-tesouro-nacional-rtn
+ckan:https://www.tesourotransparente.gov.br/ckan/api/3/action/package_show?id=resultado-do-tesouro-nacional
+https://www.tesourotransparente.gov.br/ckan/api/3/action/package_search?q=resultado%20do%20tesouro%20nacional&rows=10
+https://www.tesourotransparente.gov.br/ckan/api/3/action/package_search?q=despesa%20por%20funcao&rows=10
+# Juros nominais do Governo Central (BC SGS), últimos 24 meses
+https://api.bcb.gov.br/dados/serie/bcdata.sgs.4649/dados/ultimos/24?formato=json
+https://api.bcb.gov.br/dados/serie/bcdata.sgs.5727/dados/ultimos/24?formato=json
+https://api.bcb.gov.br/dados/serie/bcdata.sgs.13762/dados/ultimos/120?formato=json
