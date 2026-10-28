@@ -1,7 +1,7 @@
 {
   "slug": "2026-11-01-ira-hezbollah-america-do-sul",
   "titulo_interno": "Irã e Hezbollah na América do Sul — 1983 a 2026",
-  "status": "rascunho",
+  "status": "agendado",
   "layout": "moderno",
   "pilar": "diplomacia",
   "categoria": "Geopolítica · América do Sul",
@@ -294,5 +294,16 @@
       "arquivo": "imagens/img09.jpg",
       "query": "File:2015 pidiendo Justicia por el atendo a la AMIA y para Nisman.JPG"
     }
-  ]
+  ],
+  "metricool": {
+    "id": 409354257,
+    "uuid": "-1166030628647974534",
+    "sha_slides": "cf465a0d184a4e5732418d1dabf2df9a04fdb820",
+    "planner_url": "https://app.metricool.com/planner/calendar?blogId=7647378&openWithPostUuid=-1166030628647974534",
+    "story": {
+      "id": 409354308,
+      "uuid": "-8649830397945886646"
+    }
+  },
+  "aprovado_em": "2026-10-28"
 }
