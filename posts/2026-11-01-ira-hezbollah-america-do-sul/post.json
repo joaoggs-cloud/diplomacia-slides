@@ -108,52 +108,190 @@
     {
       "id": "img01",
       "query": "File:2015 Marcha conmemorando el Atentado a la AMIA 02.JPG",
-      "alternativas": ["File:2015 Marcha conmemorando el Atentado a la AMIA 04.JPG"]
+      "alternativas": [
+        "File:2015 Marcha conmemorando el Atentado a la AMIA 04.JPG"
+      ]
     },
     {
       "id": "img02",
       "query": "incategory:\"Iranian Revolution\" Khomeini 1979",
-      "alternativas": ["Ruhollah Khomeini return Tehran 1979", "Iranian revolution 1979 crowd Tehran"],
+      "alternativas": [
+        "Ruhollah Khomeini return Tehran 1979",
+        "Iranian revolution 1979 crowd Tehran"
+      ],
       "pb": true
     },
     {
       "id": "img03",
       "query": "File:Atentado a la AMIA.png",
-      "alternativas": ["File:Atentados Argentina 6000107 muertos.jpg"]
+      "alternativas": [
+        "File:Atentados Argentina 6000107 muertos.jpg"
+      ]
     },
     {
       "id": "img04",
       "query": "File:J37 844 Dreiländereck Brasilien, Paraguay und Argentinien.jpg",
-      "alternativas": ["File:Tríplice Fronteira (33262814578).jpg"]
+      "alternativas": [
+        "File:Tríplice Fronteira (33262814578).jpg"
+      ]
     },
     {
       "id": "img05",
       "query": "File:2016 18 de enero velas por Nisman (12).jpg",
-      "alternativas": ["File:Homenaje Nisman.jpg"]
+      "alternativas": [
+        "File:Homenaje Nisman.jpg"
+      ]
     },
     {
       "id": "img06",
       "query": "File:Mahmoud Ahmadinejad and Luiz Inácio Lula da Silva 2009.jpg",
-      "alternativas": ["File:Mahmoud Ahmadinejad and Luiz Inácio Lula da Silva.jpg"]
+      "alternativas": [
+        "File:Mahmoud Ahmadinejad and Luiz Inácio Lula da Silva.jpg"
+      ]
     },
     {
       "id": "img07",
       "query": "File:Dena frigate commissioned into service (02).jpg",
-      "alternativas": ["File:Dena frigate commissioned into service (01).jpg"]
+      "alternativas": [
+        "File:Dena frigate commissioned into service (01).jpg"
+      ]
     },
     {
       "id": "img08",
       "query": "File:PF DESENCADEIA OPERAÇÃO RIO 40 GRAUS.jpg",
-      "alternativas": ["File:PF DESENCADEIA OPERAÇÃO RIO 40 GRAUS - 36308781636.jpg"]
+      "alternativas": [
+        "File:PF DESENCADEIA OPERAÇÃO RIO 40 GRAUS - 36308781636.jpg"
+      ]
     },
     {
       "id": "img09",
       "query": "File:2015 pidiendo Justicia por el atendo a la AMIA y para Nisman.JPG",
-      "alternativas": ["File:2014 Marcha conmemorando el Atentado a la AMIA 01.JPG"]
+      "alternativas": [
+        "File:2014 Marcha conmemorando el Atentado a la AMIA 01.JPG"
+      ]
     }
   ],
   "agendamento": {
     "data_hora": "2026-11-01T06:01:00-03:00",
     "slot": "06:01"
-  }
+  },
+  "imagens": [
+    {
+      "titulo": "2015 Marcha conmemorando el Atentado a la AMIA 02.JPG",
+      "autor": "Jaluj",
+      "licenca": "CC BY-SA 4.0",
+      "exige_credito": true,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:2015_Marcha_conmemorando_el_Atentado_a_la_AMIA_02.JPG",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/2015_Marcha_conmemorando_el_Atentado_a_la_AMIA_02.JPG/1920px-2015_Marcha_conmemorando_el_Atentado_a_la_AMIA_02.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 4000,
+      "altura": 3000,
+      "id": "img01",
+      "arquivo": "imagens/img01.jpg",
+      "query": "File:2015 Marcha conmemorando el Atentado a la AMIA 02.JPG"
+    },
+    {
+      "titulo": "Mousavi Tabrizi with Shariatmadari and Khomeini.jpg",
+      "autor": "Jamaran",
+      "licenca": "Public domain",
+      "exige_credito": false,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Mousavi_Tabrizi_with_Shariatmadari_and_Khomeini.jpg",
+      "url_download": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Mousavi_Tabrizi_with_Shariatmadari_and_Khomeini.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largura": 1200,
+      "altura": 800,
+      "id": "img02",
+      "arquivo": "imagens/img02.jpg",
+      "query": "incategory:\"Iranian Revolution\" Khomeini 1979"
+    },
+    {
+      "titulo": "Atentado a la AMIA.png",
+      "autor": "www.argentina.gob.ar",
+      "licenca": "CC BY 4.0",
+      "exige_credito": true,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Atentado_a_la_AMIA.png",
+      "url_download": "https://upload.wikimedia.org/wikipedia/commons/0/08/Atentado_a_la_AMIA.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largura": 589,
+      "altura": 1080,
+      "id": "img03",
+      "arquivo": "imagens/img03.jpg",
+      "query": "File:Atentado a la AMIA.png"
+    },
+    {
+      "titulo": "J37 844 Dreiländereck Brasilien, Paraguay und Argentinien.jpg",
+      "autor": "Falk2",
+      "licenca": "CC BY-SA 4.0",
+      "exige_credito": true,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:J37_844_Dreil%C3%A4ndereck_Brasilien,_Paraguay_und_Argentinien.jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/J37_844_Dreil%C3%A4ndereck_Brasilien%2C_Paraguay_und_Argentinien.jpg/1920px-J37_844_Dreil%C3%A4ndereck_Brasilien%2C_Paraguay_und_Argentinien.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 5745,
+      "altura": 3830,
+      "id": "img04",
+      "arquivo": "imagens/img04.jpg",
+      "query": "File:J37 844 Dreiländereck Brasilien, Paraguay und Argentinien.jpg"
+    },
+    {
+      "titulo": "2016 18 de enero velas por Nisman (12).jpg",
+      "autor": "Jaluj",
+      "licenca": "CC BY-SA 4.0",
+      "exige_credito": true,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:2016_18_de_enero_velas_por_Nisman_(12).jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/2016_18_de_enero_velas_por_Nisman_%2812%29.jpg/1920px-2016_18_de_enero_velas_por_Nisman_%2812%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 3264,
+      "altura": 1836,
+      "id": "img05",
+      "arquivo": "imagens/img05.jpg",
+      "query": "File:2016 18 de enero velas por Nisman (12).jpg"
+    },
+    {
+      "titulo": "Mahmoud Ahmadinejad and Luiz Inácio Lula da Silva 2009.jpg",
+      "autor": "José Cruz",
+      "licenca": "CC BY 3.0 br",
+      "exige_credito": true,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Mahmoud_Ahmadinejad_and_Luiz_In%C3%A1cio_Lula_da_Silva_2009.jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Mahmoud_Ahmadinejad_and_Luiz_In%C3%A1cio_Lula_da_Silva_2009.jpg/1920px-Mahmoud_Ahmadinejad_and_Luiz_In%C3%A1cio_Lula_da_Silva_2009.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 2480,
+      "altura": 1772,
+      "id": "img06",
+      "arquivo": "imagens/img06.jpg",
+      "query": "File:Mahmoud Ahmadinejad and Luiz Inácio Lula da Silva 2009.jpg"
+    },
+    {
+      "titulo": "Dena frigate commissioned into service (02).jpg",
+      "autor": "Mohammad Agah",
+      "licenca": "CC BY 4.0",
+      "exige_credito": true,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Dena_frigate_commissioned_into_service_(02).jpg",
+      "url_download": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Dena_frigate_commissioned_into_service_%2802%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largura": 1000,
+      "altura": 666,
+      "id": "img07",
+      "arquivo": "imagens/img07.jpg",
+      "query": "File:Dena frigate commissioned into service (02).jpg"
+    },
+    {
+      "titulo": "PF DESENCADEIA OPERAÇÃO RIO 40 GRAUS.jpg",
+      "autor": "Agência Brasil",
+      "licenca": "CC BY 2.0",
+      "exige_credito": true,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:PF_DESENCADEIA_OPERA%C3%87%C3%83O_RIO_40_GRAUS.jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/PF_DESENCADEIA_OPERA%C3%87%C3%83O_RIO_40_GRAUS.jpg/1920px-PF_DESENCADEIA_OPERA%C3%87%C3%83O_RIO_40_GRAUS.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 4528,
+      "altura": 3019,
+      "id": "img08",
+      "arquivo": "imagens/img08.jpg",
+      "query": "File:PF DESENCADEIA OPERAÇÃO RIO 40 GRAUS.jpg"
+    },
+    {
+      "titulo": "2015 pidiendo Justicia por el atendo a la AMIA y para Nisman.JPG",
+      "autor": "Jaluj",
+      "licenca": "CC BY-SA 4.0",
+      "exige_credito": true,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:2015_pidiendo_Justicia_por_el_atendo_a_la_AMIA_y_para_Nisman.JPG",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/2015_pidiendo_Justicia_por_el_atendo_a_la_AMIA_y_para_Nisman.JPG/1920px-2015_pidiendo_Justicia_por_el_atendo_a_la_AMIA_y_para_Nisman.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 4000,
+      "altura": 3000,
+      "id": "img09",
+      "arquivo": "imagens/img09.jpg",
+      "query": "File:2015 pidiendo Justicia por el atendo a la AMIA y para Nisman.JPG"
+    }
+  ]
 }
