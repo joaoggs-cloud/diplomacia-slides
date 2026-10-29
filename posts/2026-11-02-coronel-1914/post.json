@@ -13,10 +13,10 @@
   "slides": [
     {
       "imagem": "img02",
-      "texto_html": "Em <strong>1 nov 1914</strong>, ao largo de Coronel, no centro do Chile, a esquadra alemã do vice-almirante <strong>Maximilian von Spee</strong> encontrou a do contra-almirante britânico <strong>Christopher Cradock</strong>. Em poucas horas, a Marinha Real sofreria uma derrota que não conhecia havia mais de um século."
+      "texto_html": "Em <strong>1 nov 1914</strong>, ao largo de Coronel, no Chile, a esquadra alemã do vice-almirante <strong>Maximilian von Spee</strong> encontrou a do contra-almirante britânico <strong>Christopher Cradock</strong>. Em poucas horas, a Marinha Real sofreria uma derrota que não conhecia havia mais de um século."
     },
     {
-      "imagem": "img03",
+      "imagem": "img07",
       "texto_html": "Cradock tinha os cruzadores blindados <em>Good Hope</em> e <em>Monmouth</em>, o leve <em>Glasgow</em> e o <em>Otranto</em>, ex-transatlântico lento. O encouraçado antigo <em>Canopus</em>, que daria mais poder de fogo, ficou para trás escoltando carvoeiros."
     },
     {
@@ -32,8 +32,8 @@
       "texto_html": "O <em>Monmouth</em>, atingido na torre de proa e em chamas, foi terminado pelo <em>Nürnberg</em>. No <em>Good Hope</em>, a capitânia, o paiol explodiu por volta das 19h50 e o navio afundou. <strong>Cradock</strong> morreu a bordo."
     },
     {
-      "imagem": "img07",
-      "texto_html": "Nenhum dos dois cruzadores teve sobreviventes: <strong>cerca de 1.600 mortos</strong>, segundo o Royal Marines History (outras fontes citam 1.570 e até 1.800). Os alemães não perderam nenhum navio nem tiveram mortos. Foi a pior derrota naval britânica em mais de um século."
+      "imagem": "img03",
+      "texto_html": "Nenhum dos dois cruzadores teve sobreviventes: <strong>cerca de 1.600 mortos</strong>, segundo o Royal Marines History (outras fontes citam 1.570 e até 1.800). Do lado alemão, nenhum navio perdido e apenas três feridos. Foi a pior derrota naval britânica em mais de um século."
     },
     {
       "imagem": "img08",
@@ -44,7 +44,7 @@
     "titulo": "Salve este post",
     "subtitulo": "e compartilhe com quem gosta de história militar"
   },
-  "legenda": "Em 1 de novembro de 1914, a Marinha Real sofreu a pior derrota naval em mais de cem anos.\n\nAo largo de Coronel, no Chile, a esquadra alemã do vice-almirante Von Spee enfrentou a do contra-almirante Cradock. Com navios mais modernos e o sol poente a seu favor, os alemães afundaram o Good Hope e o Monmouth sem deixar sobreviventes: cerca de 1.600 mortos, segundo o Royal Marines History. Pouco mais de um mês depois, a resposta britânica nas Malvinas selou o destino da esquadra de Spee.\n\nArraste para o lado e acompanhe a batalha.",
+  "legenda": "Em 1 de novembro de 1914, a Marinha Real sofreu a pior derrota naval em mais de cem anos.\n\nAo largo de Coronel, no Chile, a esquadra alemã do vice-almirante von Spee enfrentou a do contra-almirante Cradock. Com navios mais modernos e o sol poente a seu favor, os alemães afundaram o Good Hope e o Monmouth sem deixar sobreviventes: cerca de 1.600 mortos, segundo o Royal Marines History. Pouco mais de um mês depois, a resposta britânica nas Malvinas selou o destino da esquadra de Spee.\n\nArraste para o lado e acompanhe a batalha.",
   "primeiro_comentario": "",
   "hashtags": [
     "#coronel",
