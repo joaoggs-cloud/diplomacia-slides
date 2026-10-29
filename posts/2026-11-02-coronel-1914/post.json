@@ -1,0 +1,139 @@
+{
+  "slug": "2026-11-02-coronel-1914",
+  "titulo_interno": "Coronel, 1914 — a pior derrota naval britânica em um século",
+  "status": "rascunho",
+  "pilar": "historia_militar",
+  "categoria": "História militar · 1ª Guerra Mundial",
+  "gancho_tipo": "contradicao",
+  "capa": {
+    "imagem": "img01",
+    "titulo_html": "A <span class=\"hl\">pior derrota</span> da Marinha Real em mais de <span class=\"hl2\">100 anos</span>",
+    "gancho": "Em 1 nov 1914, dois cruzadores britânicos afundaram sem deixar sobreviventes."
+  },
+  "slides": [
+    {
+      "imagem": "img02",
+      "texto_html": "Em <strong>1 nov 1914</strong>, ao largo de Coronel, no centro do Chile, a esquadra alemã do vice-almirante <strong>Maximilian von Spee</strong> encontrou a do contra-almirante britânico <strong>Christopher Cradock</strong>. Era o primeiro grande combate naval da guerra fora do Atlântico Norte."
+    },
+    {
+      "imagem": "img03",
+      "texto_html": "Cradock tinha os cruzadores blindados <em>Good Hope</em> e <em>Monmouth</em>, o leve <em>Glasgow</em> e o <em>Otranto</em>, ex-transatlântico lento. O encouraçado antigo <em>Canopus</em>, que daria mais poder de fogo, ficou para trás escoltando carvoeiros."
+    },
+    {
+      "imagem": "img04",
+      "texto_html": "Spee contava com os cruzadores blindados <strong>Scharnhorst</strong> e <strong>Gneisenau</strong>, cada um com oito canhões de 8,2 polegadas. Eram navios mais modernos, e as guarnições alemãs eram mais bem treinadas."
+    },
+    {
+      "imagem": "img05",
+      "texto_html": "Ao fim da tarde, o sol poente deixava os navios britânicos em silhueta e os alemães difíceis de ver. <em>Spee escolheu o momento do combate</em>, e a vantagem de posição ficou com ele."
+    },
+    {
+      "imagem": "img06",
+      "texto_html": "O <em>Monmouth</em>, atingido na torre de proa e em chamas, foi terminado pelo <em>Nürnberg</em>. No <em>Good Hope</em>, a capitânia, o paiol explodiu por volta das 19h50 e o navio afundou. <strong>Cradock</strong> morreu a bordo."
+    },
+    {
+      "imagem": "img07",
+      "texto_html": "Nenhum dos dois cruzadores teve sobreviventes: <strong>cerca de 1.600 mortos</strong>, segundo o Royal Marines History (outras fontes citam 1.570 e até 1.800). Os alemães não perderam nenhum navio nem tiveram mortos. Foi a pior derrota naval britânica em mais de um século."
+    },
+    {
+      "imagem": "img08",
+      "texto_html": "A resposta veio rápido. O Almirantado enviou os cruzadores de batalha <em>Invincible</em> e <em>Inflexible</em>, e em <strong>8 dez 1914</strong>, nas Malvinas, Scharnhorst, Gneisenau, Nürnberg e Leipzig foram afundados. Spee e dois filhos morreram."
+    }
+  ],
+  "cta": {
+    "titulo": "Salve este post",
+    "subtitulo": "e compartilhe com quem gosta de história militar"
+  },
+  "legenda": "Em 1 de novembro de 1914, a Marinha Real sofreu a pior derrota naval em mais de cem anos.\n\nAo largo de Coronel, no Chile, a esquadra alemã do vice-almirante Von Spee enfrentou a do contra-almirante Cradock. Com navios mais modernos e o sol poente a seu favor, os alemães afundaram o Good Hope e o Monmouth sem deixar sobreviventes: cerca de 1.600 mortos, segundo o Royal Marines History. Pouco mais de um mês depois, a resposta britânica nas Malvinas selou o destino da esquadra de Spee.\n\nArraste para o lado e acompanhe a batalha.",
+  "primeiro_comentario": "",
+  "hashtags": [
+    "#coronel",
+    "#primeiraguerramundial",
+    "#1914",
+    "#marinhareal",
+    "#historiamilitar",
+    "#guerranaval"
+  ],
+  "alt_text": "Carrossel sobre a Batalha de Coronel, em 1914, com pinturas e fotos históricas da esquadra britânica e alemã.",
+  "fontes": [
+    {
+      "nome": "Britannica — Battle of Coronel",
+      "url": "https://www.britannica.com/event/Battle-of-Coronel"
+    },
+    {
+      "nome": "Britishbattles — Battle of Coronel",
+      "url": "https://www.britishbattles.com/first-world-war/battle-of-coronel/"
+    },
+    {
+      "nome": "Royal Marines History",
+      "url": "https://www.royalmarineshistory.com/post/the-battle-of-coronel-all-hands-lost"
+    },
+    {
+      "nome": "Historyofwar",
+      "url": "https://www.historyofwar.org/articles/battles_coronel.html"
+    },
+    {
+      "nome": "Royal Museums Greenwich",
+      "url": "https://www.rmg.co.uk/collections/objects/rmgc-object-12147"
+    }
+  ],
+  "busca_imagens": [
+    {
+      "id": "img01",
+      "query": "File:The destruction of HMS 'Good Hope' at the Battle of Coronel, 1 November 1914 RMG PV3169.jpg"
+    },
+    {
+      "id": "img02",
+      "query": "File:Battle of Coronel.jpg"
+    },
+    {
+      "id": "img03",
+      "query": "File:HMS Good Hope.jpg",
+      "alternativas": [
+        "HMS Good Hope 1902 cruiser"
+      ]
+    },
+    {
+      "id": "img04",
+      "query": "SMS Gneisenau armoured cruiser 1914",
+      "alternativas": [
+        "SMS Scharnhorst armoured cruiser"
+      ]
+    },
+    {
+      "id": "img05",
+      "query": "Hans Bohrdt Seeschlacht bei Coronel",
+      "alternativas": [
+        "Battle of Coronel painting 1914"
+      ]
+    },
+    {
+      "id": "img06",
+      "query": "HMS Monmouth armoured cruiser",
+      "alternativas": [
+        "HMS Monmouth 1901"
+      ]
+    },
+    {
+      "id": "img07",
+      "query": "Battle of Coronel 1914 painting Good Hope Monmouth",
+      "alternativas": [
+        "Coronel 1914 naval battle illustration"
+      ]
+    },
+    {
+      "id": "img08",
+      "query": "File:Battle of the Falkland Islands, 1914 (retouched).jpg",
+      "alternativas": [
+        "Battle of the Falkland Islands 1914 Wyllie"
+      ]
+    }
+  ],
+  "agendamento": {
+    "data_hora": "2026-11-02T06:01:00-03:00",
+    "slot": "06:01"
+  },
+  "ia_gerado": false,
+  "metricool": {},
+  "verificacao": "Fatos da pauta com 2 fontes; itens [CONFIRMAR] de horário, lista alemã completa e munição cortados ou atenuados."
+}
