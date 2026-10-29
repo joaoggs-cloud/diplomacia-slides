@@ -1,7 +1,7 @@
 {
   "slug": "2026-11-02-coronel-1914",
   "titulo_interno": "Coronel, 1914 — a pior derrota naval britânica em um século",
-  "status": "aguardando_aprovacao",
+  "status": "agendado",
   "pilar": "historia_militar",
   "categoria": "História militar · 1ª Guerra Mundial",
   "gancho_tipo": "contradicao",
@@ -137,11 +137,11 @@
   },
   "ia_gerado": false,
   "metricool": {
-    "id": 410521405,
+    "id": 410522835,
     "uuid": "-5987843279337601580",
     "sha_slides": "bbda51460edec36f071fde617f9db806a1e6ddae",
     "story": {
-      "id": 410521449,
+      "id": 410522879,
       "uuid": "8678006439443186140"
     }
   },
