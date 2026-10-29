@@ -135,5 +135,98 @@
   },
   "ia_gerado": false,
   "metricool": {},
-  "verificacao": "Fatos da pauta com 2 fontes; itens [CONFIRMAR] de horário, lista alemã completa e munição cortados ou atenuados."
+  "verificacao": "Fatos da pauta com 2 fontes; itens [CONFIRMAR] de horário, lista alemã completa e munição cortados ou atenuados.",
+  "imagens": [
+    {
+      "titulo": "The destruction of HMS 'Good Hope' at the Battle of Coronel, 1 November 1914 RMG PV3169.jpg",
+      "autor": "William Lionel Wyllie",
+      "licenca": "Public domain",
+      "exige_credito": false,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:The_destruction_of_HMS_%27Good_Hope%27_at_the_Battle_of_Coronel,_1_November_1914_RMG_PV3169.jpg",
+      "url_download": "https://upload.wikimedia.org/wikipedia/commons/8/84/The_destruction_of_HMS_%27Good_Hope%27_at_the_Battle_of_Coronel%2C_1_November_1914_RMG_PV3169.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largura": 1280,
+      "altura": 834,
+      "id": "img01",
+      "arquivo": "imagens/img01.jpg",
+      "query": "File:The destruction of HMS 'Good Hope' at the Battle of Coronel, 1 November 1914 RMG PV3169.jpg"
+    },
+    {
+      "titulo": "HMS Good Hope.jpg",
+      "autor": "Symonds & Co",
+      "licenca": "Public domain",
+      "exige_credito": false,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:HMS_Good_Hope.jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/HMS_Good_Hope.jpg/1920px-HMS_Good_Hope.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 3018,
+      "altura": 2480,
+      "id": "img03",
+      "arquivo": "imagens/img03.jpg",
+      "query": "File:HMS Good Hope.jpg"
+    },
+    {
+      "titulo": "HMS Indomitable (1907 08) (51052460836).jpg",
+      "autor": "Hugh Llewelyn from Keynsham, UK",
+      "licenca": "CC BY-SA 2.0",
+      "exige_credito": true,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:HMS_Indomitable_(1907_08)_(51052460836).jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/HMS_Indomitable_%281907_08%29_%2851052460836%29.jpg/1920px-HMS_Indomitable_%281907_08%29_%2851052460836%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 2592,
+      "altura": 1944,
+      "id": "img04",
+      "arquivo": "imagens/img04.jpg",
+      "query": "SMS Gneisenau armoured cruiser 1914"
+    },
+    {
+      "titulo": "Die Seeschlacht bei Coronel. Gemälde von Hans Bohrdt.jpg",
+      "autor": "Hans Bohrdt",
+      "licenca": "Public domain",
+      "exige_credito": false,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Die_Seeschlacht_bei_Coronel._Gem%C3%A4lde_von_Hans_Bohrdt.jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Die_Seeschlacht_bei_Coronel._Gem%C3%A4lde_von_Hans_Bohrdt.jpg/1920px-Die_Seeschlacht_bei_Coronel._Gem%C3%A4lde_von_Hans_Bohrdt.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 2368,
+      "altura": 1634,
+      "id": "img05",
+      "arquivo": "imagens/img05.jpg",
+      "query": "Hans Bohrdt Seeschlacht bei Coronel"
+    },
+    {
+      "titulo": "Charles Edward Dixon HMS Kent 1901 Monmouth-class armoured cruiser Goodwin Sands.jpg",
+      "autor": "Charles Dixon",
+      "licenca": "Public domain",
+      "exige_credito": false,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Charles_Edward_Dixon_HMS_Kent_1901_Monmouth-class_armoured_cruiser_Goodwin_Sands.jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Charles_Edward_Dixon_HMS_Kent_1901_Monmouth-class_armoured_cruiser_Goodwin_Sands.jpg/1920px-Charles_Edward_Dixon_HMS_Kent_1901_Monmouth-class_armoured_cruiser_Goodwin_Sands.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 4551,
+      "altura": 3260,
+      "id": "img06",
+      "arquivo": "imagens/img06.jpg",
+      "query": "HMS Monmouth armoured cruiser"
+    },
+    {
+      "titulo": "HMS 'Canopus' at Port Stanley, firing the opening salvoes of the Battle of the Falkland Islands, 8 December 1914 RMG PV1039.jpg",
+      "autor": "William Lionel Wyllie",
+      "licenca": "Public domain",
+      "exige_credito": false,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:HMS_%27Canopus%27_at_Port_Stanley,_firing_the_opening_salvoes_of_the_Battle_of_the_Falkland_Islands,_8_December_1914_RMG_PV1039.jpg",
+      "url_download": "https://upload.wikimedia.org/wikipedia/commons/a/a9/HMS_%27Canopus%27_at_Port_Stanley%2C_firing_the_opening_salvoes_of_the_Battle_of_the_Falkland_Islands%2C_8_December_1914_RMG_PV1039.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largura": 1280,
+      "altura": 919,
+      "id": "img07",
+      "arquivo": "imagens/img07.jpg",
+      "query": "Battle of Coronel 1914 painting Good Hope Monmouth"
+    },
+    {
+      "titulo": "Battle of the Falkland Islands, 1914 (retouched).jpg",
+      "autor": "William Lionel Wyllie",
+      "licenca": "Public domain",
+      "exige_credito": false,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Battle_of_the_Falkland_Islands,_1914_(retouched).jpg",
+      "url_download": "https://upload.wikimedia.org/wikipedia/commons/1/18/Battle_of_the_Falkland_Islands%2C_1914_%28retouched%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largura": 800,
+      "altura": 482,
+      "id": "img08",
+      "arquivo": "imagens/img08.jpg",
+      "query": "File:Battle of the Falkland Islands, 1914 (retouched).jpg"
+    }
+  ]
 }
