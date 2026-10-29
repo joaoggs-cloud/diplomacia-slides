@@ -138,5 +138,110 @@
   "ia_gerado": false,
   "metricool": {},
   "verificacao": "Fatos da pauta com 2 fontes; itens [CONFIRMAR] de horário, lista alemã completa e munição cortados ou atenuados.",
-  "imagens": []
+  "imagens": [
+    {
+      "titulo": "The destruction of HMS 'Good Hope' at the Battle of Coronel, 1 November 1914 RMG PV3169.jpg",
+      "autor": "William Lionel Wyllie",
+      "licenca": "Public domain",
+      "exige_credito": false,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:The_destruction_of_HMS_%27Good_Hope%27_at_the_Battle_of_Coronel,_1_November_1914_RMG_PV3169.jpg",
+      "url_download": "https://upload.wikimedia.org/wikipedia/commons/8/84/The_destruction_of_HMS_%27Good_Hope%27_at_the_Battle_of_Coronel%2C_1_November_1914_RMG_PV3169.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largura": 1280,
+      "altura": 834,
+      "id": "img01",
+      "arquivo": "imagens/img01.jpg",
+      "query": "File:The destruction of HMS 'Good Hope' at the Battle of Coronel, 1 November 1914 RMG PV3169.jpg"
+    },
+    {
+      "titulo": "Die Seeschlacht bei Coronel. Gemälde von Hans Bohrdt.jpg",
+      "autor": "Hans Bohrdt",
+      "licenca": "Public domain",
+      "exige_credito": false,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Die_Seeschlacht_bei_Coronel._Gem%C3%A4lde_von_Hans_Bohrdt.jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Die_Seeschlacht_bei_Coronel._Gem%C3%A4lde_von_Hans_Bohrdt.jpg/1920px-Die_Seeschlacht_bei_Coronel._Gem%C3%A4lde_von_Hans_Bohrdt.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 2368,
+      "altura": 1634,
+      "id": "img02",
+      "arquivo": "imagens/img02.jpg",
+      "query": "File:Die Seeschlacht bei Coronel. Gemälde von Hans Bohrdt.jpg"
+    },
+    {
+      "titulo": "HMS Good Hope.jpg",
+      "autor": "Symonds & Co",
+      "licenca": "Public domain",
+      "exige_credito": false,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:HMS_Good_Hope.jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/HMS_Good_Hope.jpg/1920px-HMS_Good_Hope.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 3018,
+      "altura": 2480,
+      "id": "img03",
+      "arquivo": "imagens/img03.jpg",
+      "query": "File:HMS Good Hope.jpg"
+    },
+    {
+      "titulo": "SMS Scharnhorst by Arthur Renard.jpg",
+      "autor": "Arthur Renard",
+      "licenca": "Public domain",
+      "exige_credito": false,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:SMS_Scharnhorst_by_Arthur_Renard.jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/SMS_Scharnhorst_by_Arthur_Renard.jpg/1920px-SMS_Scharnhorst_by_Arthur_Renard.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 5096,
+      "altura": 3882,
+      "id": "img04",
+      "arquivo": "imagens/img04.jpg",
+      "query": "File:SMS Scharnhorst by Arthur Renard.jpg"
+    },
+    {
+      "titulo": "SMS Gneisenau.jpg",
+      "autor": "Anonymous seaman of Imperial German Navy",
+      "licenca": "Public domain",
+      "exige_credito": false,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:SMS_Gneisenau.jpg",
+      "url_download": "https://upload.wikimedia.org/wikipedia/commons/0/05/SMS_Gneisenau.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largura": 1200,
+      "altura": 703,
+      "id": "img05",
+      "arquivo": "imagens/img05.jpg",
+      "query": "File:SMS Gneisenau.jpg"
+    },
+    {
+      "titulo": "Prince Fushimi leaving Canada to embark on the HMS Monmouth (HS85-10-18533).jpg",
+      "autor": "Thomas McNab Jones",
+      "licenca": "Public domain",
+      "exige_credito": false,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Prince_Fushimi_leaving_Canada_to_embark_on_the_HMS_Monmouth_(HS85-10-18533).jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Prince_Fushimi_leaving_Canada_to_embark_on_the_HMS_Monmouth_%28HS85-10-18533%29.jpg/1920px-Prince_Fushimi_leaving_Canada_to_embark_on_the_HMS_Monmouth_%28HS85-10-18533%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 2944,
+      "altura": 2328,
+      "id": "img06",
+      "arquivo": "imagens/img06.jpg",
+      "query": "File:HMS Monmouth.jpg"
+    },
+    {
+      "titulo": "Schlacht bei Coronel (1. November 1914), 2. Die Verfolgung.png",
+      "autor": "Unknown authorUnknown author",
+      "licenca": "Public domain",
+      "exige_credito": false,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Schlacht_bei_Coronel_(1._November_1914),_2._Die_Verfolgung.png",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Schlacht_bei_Coronel_%281._November_1914%29%2C_2._Die_Verfolgung.png/1920px-Schlacht_bei_Coronel_%281._November_1914%29%2C_2._Die_Verfolgung.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 2803,
+      "altura": 2557,
+      "id": "img07",
+      "arquivo": "imagens/img07.jpg",
+      "query": "File:Battle of Coronel.jpg"
+    },
+    {
+      "titulo": "Battle of the Falkland Islands, 1914 (retouched).jpg",
+      "autor": "William Lionel Wyllie",
+      "licenca": "Public domain",
+      "exige_credito": false,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Battle_of_the_Falkland_Islands,_1914_(retouched).jpg",
+      "url_download": "https://upload.wikimedia.org/wikipedia/commons/1/18/Battle_of_the_Falkland_Islands%2C_1914_%28retouched%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largura": 800,
+      "altura": 482,
+      "id": "img08",
+      "arquivo": "imagens/img08.jpg",
+      "query": "File:Battle of the Falkland Islands, 1914 (retouched).jpg"
+    }
+  ]
 }
