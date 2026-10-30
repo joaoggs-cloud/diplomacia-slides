@@ -266,6 +266,19 @@
       "id": "img08",
       "arquivo": "imagens/img08.jpg",
       "query": "File:Grumman F4F Wildcat takes off from USS Ranger (CV-4) off North Africa, in November 1942 (80-G-30311).jpg"
+    },
+    {
+      "titulo": "USS Thomas Stone in Algiers harbor.jpg",
+      "autor": "Lt S J Beadle (RN)",
+      "licenca": "Public domain",
+      "exige_credito": false,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:USS_Thomas_Stone_in_Algiers_harbor.jpg",
+      "url_download": "https://upload.wikimedia.org/wikipedia/commons/2/2b/USS_Thomas_Stone_in_Algiers_harbor.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largura": 800,
+      "altura": 606,
+      "id": "img09",
+      "arquivo": "imagens/img09.jpg",
+      "query": "File:USS Thomas Stone in Algiers harbor.jpg"
     }
   ]
 }
