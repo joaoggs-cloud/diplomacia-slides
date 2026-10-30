@@ -154,5 +154,111 @@
     "data_hora": "2026-11-03T06:01:00-03:00",
     "slot": "06:01"
   },
-  "ia_gerado": false
+  "ia_gerado": false,
+  "imagens": [
+    {
+      "titulo": "Operation Torch, November 1942.jpg",
+      "autor": "Photograph Curator",
+      "licenca": "Public domain",
+      "exige_credito": false,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Operation_Torch,_November_1942.jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Operation_Torch%2C_November_1942.jpg/1920px-Operation_Torch%2C_November_1942.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 2748,
+      "altura": 2032,
+      "id": "img01",
+      "arquivo": "imagens/img01.jpg",
+      "query": "File:Operation Torch, November 1942.jpg"
+    },
+    {
+      "titulo": "USS Brooklyn (CL-40) and USS Suwannee (CVE-27) underway in the Atlantic Ocean, in early November 1942 (80-G-30228).jpg",
+      "autor": "Autor desconhecido",
+      "licenca": "Public domain",
+      "exige_credito": false,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:USS_Brooklyn_(CL-40)_and_USS_Suwannee_(CVE-27)_underway_in_the_Atlantic_Ocean,_in_early_November_1942_(80-G-30228).jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/USS_Brooklyn_%28CL-40%29_and_USS_Suwannee_%28CVE-27%29_underway_in_the_Atlantic_Ocean%2C_in_early_November_1942_%2880-G-30228%29.jpg/1920px-USS_Brooklyn_%28CL-40%29_and_USS_Suwannee_%28CVE-27%29_underway_in_the_Atlantic_Ocean%2C_in_early_November_1942_%2880-G-30228%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 5618,
+      "altura": 4158,
+      "id": "img02",
+      "arquivo": "imagens/img02.jpg",
+      "query": "File:USS Brooklyn (CL-40) and USS Suwannee (CVE-27) underway in the Atlantic Ocean, in early November 1942 (80-G-30228).jpg"
+    },
+    {
+      "titulo": "George S. Patton and Rear Admiral H. Kent Hewitt cropped.jpg",
+      "autor": "Unknown authorUnknown author",
+      "licenca": "Public domain",
+      "exige_credito": false,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:George_S._Patton_and_Rear_Admiral_H._Kent_Hewitt_cropped.jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/George_S._Patton_and_Rear_Admiral_H._Kent_Hewitt_cropped.jpg/1920px-George_S._Patton_and_Rear_Admiral_H._Kent_Hewitt_cropped.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 3780,
+      "altura": 3708,
+      "id": "img03",
+      "arquivo": "imagens/img03.jpg",
+      "query": "File:George S. Patton and Rear Admiral H. Kent Hewitt cropped.jpg"
+    },
+    {
+      "titulo": "French battleship Jean Bart disclosing damage near the bow and stern, Casablanca, 1942 (26688233433).jpg",
+      "autor": "National Museum of the U.S. Navy",
+      "licenca": "Public domain",
+      "exige_credito": false,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:French_battleship_Jean_Bart_disclosing_damage_near_the_bow_and_stern,_Casablanca,_1942_(26688233433).jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/French_battleship_Jean_Bart_disclosing_damage_near_the_bow_and_stern%2C_Casablanca%2C_1942_%2826688233433%29.jpg/1920px-French_battleship_Jean_Bart_disclosing_damage_near_the_bow_and_stern%2C_Casablanca%2C_1942_%2826688233433%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 2808,
+      "altura": 1881,
+      "id": "img04",
+      "arquivo": "imagens/img04.jpg",
+      "query": "File:French battleship Jean Bart disclosing damage near the bow and stern, Casablanca, 1942 (26688233433).jpg"
+    },
+    {
+      "titulo": "Operation Torch landings Algiers 8 November 1942.jpg",
+      "autor": "US Army Center of Military History",
+      "licenca": "Public domain",
+      "exige_credito": false,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Operation_Torch_landings_Algiers_8_November_1942.jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Operation_Torch_landings_Algiers_8_November_1942.jpg/1920px-Operation_Torch_landings_Algiers_8_November_1942.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 2000,
+      "altura": 1335,
+      "id": "img05",
+      "arquivo": "imagens/img05.jpg",
+      "query": "File:Operation Torch landings Algiers 8 November 1942.jpg"
+    },
+    {
+      "titulo": "Meeting between General Maurice Mathenet, French troops, and General Lucian Truscott, US Army, during Operation Torch, 1942.jpg",
+      "autor": "unidentified US Army soldier or employee",
+      "licenca": "Public domain",
+      "exige_credito": false,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Meeting_between_General_Maurice_Mathenet,_French_troops,_and_General_Lucian_Truscott,_US_Army,_during_Operation_Torch,_1942.jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Meeting_between_General_Maurice_Mathenet%2C_French_troops%2C_and_General_Lucian_Truscott%2C_US_Army%2C_during_Operation_Torch%2C_1942.jpg/1920px-Meeting_between_General_Maurice_Mathenet%2C_French_troops%2C_and_General_Lucian_Truscott%2C_US_Army%2C_during_Operation_Torch%2C_1942.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 2449,
+      "altura": 1710,
+      "id": "img06",
+      "arquivo": "imagens/img06.jpg",
+      "query": "File:Meeting between General Maurice Mathenet, French troops, and General Lucian Truscott, US Army, during Operation Torch, 1942.jpg"
+    },
+    {
+      "titulo": "French sloops scuttled at Toulon in November 1942.jpg",
+      "autor": "Unknown authorUnknown author",
+      "licenca": "Public domain",
+      "exige_credito": false,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:French_sloops_scuttled_at_Toulon_in_November_1942.jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/French_sloops_scuttled_at_Toulon_in_November_1942.jpg/1920px-French_sloops_scuttled_at_Toulon_in_November_1942.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 5696,
+      "altura": 4478,
+      "id": "img07",
+      "arquivo": "imagens/img07.jpg",
+      "query": "Scuttling of the French fleet Toulon November 1942"
+    },
+    {
+      "titulo": "Grumman F4F Wildcat takes off from USS Ranger (CV-4) off North Africa, in November 1942 (80-G-30311).jpg",
+      "autor": "Autor desconhecido",
+      "licenca": "Public domain",
+      "exige_credito": false,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Grumman_F4F_Wildcat_takes_off_from_USS_Ranger_(CV-4)_off_North_Africa,_in_November_1942_(80-G-30311).jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Grumman_F4F_Wildcat_takes_off_from_USS_Ranger_%28CV-4%29_off_North_Africa%2C_in_November_1942_%2880-G-30311%29.jpg/1920px-Grumman_F4F_Wildcat_takes_off_from_USS_Ranger_%28CV-4%29_off_North_Africa%2C_in_November_1942_%2880-G-30311%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 5677,
+      "altura": 4206,
+      "id": "img08",
+      "arquivo": "imagens/img08.jpg",
+      "query": "File:Grumman F4F Wildcat takes off from USS Ranger (CV-4) off North Africa, in November 1942 (80-G-30311).jpg"
+    }
+  ]
 }
