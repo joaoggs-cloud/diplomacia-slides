@@ -16,12 +16,13 @@
       "texto_html": "Em 8 nov 1942, a Operação Tocha pôs tropas dos EUA e do Reino Unido no Marrocos francês e na Argélia. Foi a primeira grande operação aliada conjunta no Mediterrâneo, sob o comando do general <strong>Dwight Eisenhower</strong>."
     },
     {
-      "imagem": "img03",
+      "imagem": "img08",
       "texto_html": "Foram <strong>três desembarques simultâneos</strong>: Casablanca, com força só americana sob George Patton; Orã, na Força Central; e Argel, com americanos e britânicos. Ao todo, mais de 100 mil soldados aliados, número que varia conforme a fonte."
     },
     {
       "imagem": "img04",
-      "texto_html": "O alvo não era a Alemanha, e sim territórios do governo de Vichy, colaborador de Berlim. Em Casablanca e Orã, <em>artilharia e navios franceses abriram fogo</em>, e o encouraçado Jean Bart foi danificado. Em Argel, a resistência foi pequena."
+      "texto_html": "O alvo não era a Alemanha, e sim territórios do governo de Vichy, colaborador de Berlim. Em Casablanca e Orã, <em>artilharia e navios franceses abriram fogo</em>, e o encouraçado Jean Bart foi danificado. Em Argel, a resistência foi pequena.",
+      "foco": "center 100%"
     },
     {
       "imagem": "img05",
@@ -36,7 +37,7 @@
       "texto_html": "A resposta alemã veio rápido. Hitler mandou ocupar o que restava da França de Vichy, e tropas entraram na zona livre em 11 nov. No fim do mês, em Toulon, os franceses afundaram a própria frota para que ela não caísse nas mãos do Eixo."
     },
     {
-      "imagem": "img08",
+      "imagem": "img09",
       "texto_html": "A campanha seguiu na Tunísia e terminou em <strong>13 mai 1943</strong>, com a rendição do Eixo. As estimativas de prisioneiros vão de 230 mil a 275 mil, conforme a fonte. A guerra no Norte da África custou muitas vidas dos dois lados."
     }
   ],
@@ -144,8 +145,14 @@
     {
       "id": "img08",
       "query": "File:Grumman F4F Wildcat takes off from USS Ranger (CV-4) off North Africa, in November 1942 (80-G-30311).jpg",
+      "alternativas": [],
+      "pb": true
+    },
+    {
+      "id": "img09",
+      "query": "File:USS Thomas Stone in Algiers harbor.jpg",
       "alternativas": [
-        "File:USS Thomas Stone in Algiers harbor.jpg"
+        "Algiers harbor November 1942"
       ],
       "pb": true
     }
@@ -157,14 +164,14 @@
   "ia_gerado": false,
   "imagens": [
     {
-      "titulo": "Operation Torch, November 1942.jpg",
-      "autor": "Photograph Curator",
+      "titulo": "George S. Patton and Rear Admiral H. Kent Hewitt cropped.jpg",
+      "autor": "Unknown authorUnknown author",
       "licenca": "Public domain",
       "exige_credito": false,
-      "url_origem": "https://commons.wikimedia.org/wiki/File:Operation_Torch,_November_1942.jpg",
-      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Operation_Torch%2C_November_1942.jpg/1920px-Operation_Torch%2C_November_1942.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "largura": 2748,
-      "altura": 2032,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:George_S._Patton_and_Rear_Admiral_H._Kent_Hewitt_cropped.jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/George_S._Patton_and_Rear_Admiral_H._Kent_Hewitt_cropped.jpg/1920px-George_S._Patton_and_Rear_Admiral_H._Kent_Hewitt_cropped.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 3780,
+      "altura": 3708,
       "id": "img01",
       "arquivo": "imagens/img01.jpg",
       "query": "File:Operation Torch, November 1942.jpg"
@@ -183,14 +190,14 @@
       "query": "File:USS Brooklyn (CL-40) and USS Suwannee (CVE-27) underway in the Atlantic Ocean, in early November 1942 (80-G-30228).jpg"
     },
     {
-      "titulo": "George S. Patton and Rear Admiral H. Kent Hewitt cropped.jpg",
-      "autor": "Unknown authorUnknown author",
+      "titulo": "Operation Torch, November 1942.jpg",
+      "autor": "Photograph Curator",
       "licenca": "Public domain",
       "exige_credito": false,
-      "url_origem": "https://commons.wikimedia.org/wiki/File:George_S._Patton_and_Rear_Admiral_H._Kent_Hewitt_cropped.jpg",
-      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/George_S._Patton_and_Rear_Admiral_H._Kent_Hewitt_cropped.jpg/1920px-George_S._Patton_and_Rear_Admiral_H._Kent_Hewitt_cropped.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "largura": 3780,
-      "altura": 3708,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Operation_Torch,_November_1942.jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Operation_Torch%2C_November_1942.jpg/1920px-Operation_Torch%2C_November_1942.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 2748,
+      "altura": 2032,
       "id": "img03",
       "arquivo": "imagens/img03.jpg",
       "query": "File:George S. Patton and Rear Admiral H. Kent Hewitt cropped.jpg"
@@ -235,14 +242,14 @@
       "query": "File:Meeting between General Maurice Mathenet, French troops, and General Lucian Truscott, US Army, during Operation Torch, 1942.jpg"
     },
     {
-      "titulo": "French sloops scuttled at Toulon in November 1942.jpg",
+      "titulo": "French destroyers Vauquelin and Kersaint scuttled at Toulon in November 1942.jpg",
       "autor": "Unknown authorUnknown author",
       "licenca": "Public domain",
       "exige_credito": false,
-      "url_origem": "https://commons.wikimedia.org/wiki/File:French_sloops_scuttled_at_Toulon_in_November_1942.jpg",
-      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/French_sloops_scuttled_at_Toulon_in_November_1942.jpg/1920px-French_sloops_scuttled_at_Toulon_in_November_1942.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "largura": 5696,
-      "altura": 4478,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:French_destroyers_Vauquelin_and_Kersaint_scuttled_at_Toulon_in_November_1942.jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/French_destroyers_Vauquelin_and_Kersaint_scuttled_at_Toulon_in_November_1942.jpg/1920px-French_destroyers_Vauquelin_and_Kersaint_scuttled_at_Toulon_in_November_1942.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 5727,
+      "altura": 4512,
       "id": "img07",
       "arquivo": "imagens/img07.jpg",
       "query": "Scuttling of the French fleet Toulon November 1942"
