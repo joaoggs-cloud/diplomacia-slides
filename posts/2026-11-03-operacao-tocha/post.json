@@ -1,0 +1,158 @@
+{
+  "slug": "2026-11-03-operacao-tocha",
+  "titulo_interno": "Operação Tocha, 84 anos",
+  "status": "rascunho",
+  "pilar": "historia_militar",
+  "categoria": "História militar · 2ª Guerra Mundial",
+  "gancho_tipo": "contradicao",
+  "capa": {
+    "imagem": "img01",
+    "titulo_html": "O desembarque aliado que começou <span class=\"hl\">atirando em franceses</span>",
+    "gancho": "Há 84 anos, em 8 nov 1942, a Operação Tocha levou americanos e britânicos ao Norte da África."
+  },
+  "slides": [
+    {
+      "imagem": "img02",
+      "texto_html": "Em 8 nov 1942, a Operação Tocha pôs tropas dos EUA e do Reino Unido no Marrocos francês e na Argélia. Foi a primeira grande operação aliada conjunta no Mediterrâneo, sob o comando do general <strong>Dwight Eisenhower</strong>."
+    },
+    {
+      "imagem": "img03",
+      "texto_html": "Foram <strong>três desembarques simultâneos</strong>: Casablanca, com força só americana sob George Patton; Orã, na Força Central; e Argel, com americanos e britânicos. Ao todo, mais de 100 mil soldados aliados, número que varia conforme a fonte."
+    },
+    {
+      "imagem": "img04",
+      "texto_html": "O alvo não era a Alemanha, e sim territórios do governo de Vichy, colaborador de Berlim. Em Casablanca e Orã, <em>artilharia e navios franceses abriram fogo</em>, e o encouraçado Jean Bart foi danificado. Em Argel, a resistência foi pequena."
+    },
+    {
+      "imagem": "img05",
+      "texto_html": "O almirante <strong>François Darlan</strong>, chefe das forças de Vichy, estava em Argel e autorizou o general Juin a negociar. Houve cessar-fogo local na cidade em 8 nov. A ordem geral para o Norte da África veio em 10 nov; algumas fontes citam 11 nov."
+    },
+    {
+      "imagem": "img06",
+      "texto_html": "O entendimento com Darlan encerrou os combates, mas virou <em>polêmica política</em>: a França Livre, de Charles de Gaulle, contestou o acordo com um alto nome de Vichy, que seguia no comando local sob os Aliados."
+    },
+    {
+      "imagem": "img07",
+      "texto_html": "A resposta alemã veio rápido. Hitler mandou ocupar o que restava da França de Vichy, e tropas entraram na zona livre em 11 nov. No fim do mês, em Toulon, os franceses afundaram a própria frota para que ela não caísse nas mãos do Eixo."
+    },
+    {
+      "imagem": "img08",
+      "texto_html": "A campanha seguiu na Tunísia e terminou em <strong>13 mai 1943</strong>, com a rendição do Eixo. As estimativas de prisioneiros vão de 230 mil a 275 mil, conforme a fonte. A guerra no Norte da África custou muitas vidas dos dois lados."
+    }
+  ],
+  "cta": {
+    "titulo": "Salve este post",
+    "subtitulo": "e compartilhe com quem gosta de história"
+  },
+  "legenda": "Em 8 nov 1942, a primeira grande operação aliada conjunta no Mediterrâneo começou com tiros contra franceses.\n\nA Operação Tocha desembarcou tropas dos EUA e do Reino Unido em Casablanca, Orã e Argel. Os alvos eram territórios do governo de Vichy, e a resistência foi dura em alguns pontos e pequena em outros. O acordo com o almirante Darlan encerrou os combates, mas abriu uma polêmica com a França Livre. A Alemanha reagiu ocupando a zona livre da França.\n\nArraste para o lado e veja como a operação se desenrolou, até a rendição do Eixo na Tunísia em 13 mai 1943.",
+  "primeiro_comentario": "",
+  "hashtags": [
+    "#operacaotocha",
+    "#segundaguerramundial",
+    "#nortedaafrica",
+    "#historiamilitar",
+    "#eisenhower",
+    "#vichy"
+  ],
+  "alt_text": "Carrossel sobre a Operação Tocha, o desembarque aliado no Norte da África em 8 nov 1942, com fotos e mapa históricos.",
+  "fontes": [
+    {
+      "nome": "Britannica, North Africa campaigns",
+      "url": "https://www.britannica.com/event/North-Africa-campaigns/The-Allied-landings-in-North-Africa"
+    },
+    {
+      "nome": "Chemins de mémoire (governo da França)",
+      "url": "https://www.cheminsdememoire.gouv.fr/en/operation-torch-allied-landings-north-africa"
+    },
+    {
+      "nome": "USHMM",
+      "url": "https://encyclopedia.ushmm.org/narrative/10685"
+    },
+    {
+      "nome": "Britannica, World War II: invasion of northwest Africa",
+      "url": "https://www.britannica.com/event/World-War-II/The-invasion-of-northwest-Africa-November-December-1942"
+    },
+    {
+      "nome": "Britannica, Toulon",
+      "url": "https://www.britannica.com/place/Toulon"
+    },
+    {
+      "nome": "History.com, Germans take Vichy France",
+      "url": "https://www.history.com/this-day-in-history/november-11/germans-take-vichy-france"
+    },
+    {
+      "nome": "EBSCO Research Starters",
+      "url": "https://www.ebsco.com/research-starters/history/north-african-campaign-during-wwii"
+    }
+  ],
+  "busca_imagens": [
+    {
+      "id": "img01",
+      "query": "File:Operation Torch, November 1942.jpg",
+      "alternativas": [
+        "Operation Torch landing ships November 1942"
+      ],
+      "pb": true
+    },
+    {
+      "id": "img02",
+      "query": "File:USS Brooklyn (CL-40) and USS Suwannee (CVE-27) underway in the Atlantic Ocean, in early November 1942 (80-G-30228).jpg",
+      "alternativas": [
+        "Operation Torch convoy 1942"
+      ],
+      "pb": true
+    },
+    {
+      "id": "img03",
+      "query": "File:George S. Patton and Rear Admiral H. Kent Hewitt cropped.jpg",
+      "alternativas": [
+        "Patton Hewitt Operation Torch 1942"
+      ],
+      "pb": true
+    },
+    {
+      "id": "img04",
+      "query": "File:French battleship Jean Bart disclosing damage near the bow and stern, Casablanca, 1942 (26688233433).jpg",
+      "alternativas": [
+        "File:USS Dallas (DD-199) in the Wadi Sebou, off Port Lyautey airfield, Morocco, 11 November 1942 (80-G-37245).jpg"
+      ],
+      "pb": true
+    },
+    {
+      "id": "img05",
+      "query": "File:Operation Torch landings Algiers 8 November 1942.jpg",
+      "alternativas": [
+        "Operation Torch map Algiers 1942"
+      ]
+    },
+    {
+      "id": "img06",
+      "query": "File:Meeting between General Maurice Mathenet, French troops, and General Lucian Truscott, US Army, during Operation Torch, 1942.jpg",
+      "alternativas": [
+        "Darlan Clark 1942"
+      ],
+      "pb": true
+    },
+    {
+      "id": "img07",
+      "query": "Scuttling of the French fleet Toulon November 1942",
+      "alternativas": [
+        "Toulon 1942 scuttled French fleet"
+      ],
+      "pb": true
+    },
+    {
+      "id": "img08",
+      "query": "File:Grumman F4F Wildcat takes off from USS Ranger (CV-4) off North Africa, in November 1942 (80-G-30311).jpg",
+      "alternativas": [
+        "File:USS Thomas Stone in Algiers harbor.jpg"
+      ],
+      "pb": true
+    }
+  ],
+  "agendamento": {
+    "data_hora": "2026-11-03T06:01:00-03:00",
+    "slot": "06:01"
+  },
+  "ia_gerado": false
+}
