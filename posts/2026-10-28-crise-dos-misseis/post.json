@@ -1,7 +1,7 @@
 {
   "slug": "2026-10-28-crise-dos-misseis",
   "titulo_interno": "Crise dos Mísseis de Cuba — 13 dias",
-  "status": "agendado",
+  "status": "publicado",
   "pilar": "historia_militar",
   "categoria": "Diplomacia · Guerra Fria",
   "gancho_tipo": "numero_dias",
@@ -315,5 +315,6 @@
     }
   },
   "verificacao": "Datas e fatos conferidos com JFK Library, Office of the Historian e National Security Archive.",
-  "aprovado_em": "2026-10-25"
+  "aprovado_em": "2026-10-25",
+  "instagram_url": "https://www.instagram.com/p/DfCEX93m8k1/"
 }

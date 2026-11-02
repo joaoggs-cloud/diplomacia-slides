@@ -82,6 +82,10 @@
     {
       "data": "2026-10-26",
       "motivo": "João aprovou o layout moderno: 4:5, foto colorida em tela cheia, etiquetas acima da manchete, fonte sem serifa. P&B só estratégico."
+    },
+    {
+      "data": "2026-11-02",
+      "motivo": "Análise semanal: 15 posts medidos, alcance médio 6,5 por post, 21 seguidores (22 em 24/10). Amostra ainda pequena demais; frequência mantida em 7/semana (mínimo) e pesos_pilares inalterados. Horário 06:01 fixo mantido; Metricool segue sem dados de melhor horário (tudo zerado). Alerta: posts de 30/10 (Bomba Tsar) e 31/10 (Desafios fiscais) e Stories de 29, 30 e 31/10 constam como ERROR no Metricool, sem publicação."
     }
   ],
   "frequencia_minima": 7,
