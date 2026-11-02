@@ -67,7 +67,7 @@ Posts analisados: **15** · Score = interações ponderadas (like 1, comentário
 
 - Seguidores: 22 (24/10) -> 21 (25 a 31/10). Saldo: -1 desde 24/10 e nenhum ganho registrado depois. Em 02/11 o Metricool ainda não informou o dia.
 - Alcance diário da conta: 18 (25/10), 16 (26/10), 10 (27/10), 9 (28/10), 5 (29/10), 10 (30/10), 1 (31/10). Tendência de queda ao longo da semana.
-- Stories (27 no período, todos sincronizados): alcance médio 9,5 (de 7 a 14), 21 respostas/interações de navegação registradas e poucos toques adiante. O alcance dos Stories é igual ou maior que o dos posts do feed (6,5).
+- Stories (27 no período, todos sincronizados): alcance médio 9,5 (de 7 a 14). O alcance dos Stories é igual ou maior que o dos posts do feed (6,5).
 - **Falhas de publicação:** o Metricool marca como ERROR o post "Bomba Tsar 65 anos" (30/10 06:01), o post "Desafios fiscais Lula" (31/10 06:01) e os Stories automáticos de 29, 30 e 31/10. Nenhum dos dois posts aparece nas métricas. Os dias 30 e 31/10 ficaram sem post no feed. Não foram reagendados por esta rotina.
 - Post de 02/11 (Coronel 1914) consta PUBLISHED às 06:01, mas ainda sem métricas.
 
