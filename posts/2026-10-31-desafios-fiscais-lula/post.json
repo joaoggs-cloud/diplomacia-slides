@@ -248,8 +248,9 @@
     }
   ],
   "agendamento": {
-    "data_hora": "2026-10-31T06:01:00-03:00",
-    "slot": "06:01"
+    "data_hora": "2026-11-05T06:01:00-03:00",
+    "slot": "06:01",
+    "obs": "Reagendado pelo João em 2 nov (falha por limite de conta no Metricool); Story 2 min depois."
   },
   "ia_gerado": false,
   "imagens": [
@@ -333,13 +334,12 @@
     }
   ],
   "metricool": {
-    "id": 407926112,
+    "id": 414482402,
     "uuid": "-6440029359605594570",
     "sha_slides": "ca58b8e1cac82ea70725fe42219f24afdade4321",
     "story": {
-      "id": 407926618,
+      "id": 414482317,
       "uuid": "1296991621557994795"
-    },
-    "situacao": "ERROR no Metricool (conferido em 2026-11-02): post e Story não foram publicados; aguardando decisão do João"
+    }
   }
 }

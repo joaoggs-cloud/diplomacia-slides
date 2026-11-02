@@ -144,9 +144,9 @@
     }
   ],
   "agendamento": {
-    "data_hora": "2026-10-30T06:01:00-03:00",
+    "data_hora": "2026-11-04T06:01:00-03:00",
     "slot": "06:01",
-    "obs": "Aprovado pelo João em 26 out; movido para 30 out, data exata dos 65 anos do teste."
+    "obs": "Reagendado pelo João em 2 nov (falha por limite de conta no Metricool); Story 2 min depois."
   },
   "verificacao": "Fatos conforme pauta; rendimento 50 Mt atribuído ao valor oficial russo.",
   "imagens": [
@@ -269,13 +269,12 @@
     }
   ],
   "metricool": {
-    "id": 407364181,
+    "id": 414482098,
     "uuid": "-2592814098299206187",
     "sha_slides": "ca860226193e3fa39f886989e97eee28acab9f1b",
     "story": {
-      "id": 407340588,
+      "id": 414482264,
       "uuid": "-3946376744387852029"
-    },
-    "situacao": "ERROR no Metricool (conferido em 2026-11-02): post e Story não foram publicados; aguardando decisão do João"
+    }
   }
 }
