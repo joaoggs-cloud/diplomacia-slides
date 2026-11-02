@@ -1,7 +1,7 @@
 {
   "slug": "2026-11-03-operacao-tocha",
   "titulo_interno": "Operação Tocha, 84 anos",
-  "status": "rascunho",
+  "status": "aguardando_aprovacao",
   "pilar": "historia_militar",
   "categoria": "História militar · 2ª Guerra Mundial",
   "gancho_tipo": "contradicao",
@@ -280,5 +280,16 @@
       "arquivo": "imagens/img09.jpg",
       "query": "File:USS Thomas Stone in Algiers harbor.jpg"
     }
-  ]
+  ],
+  "metricool": {
+    "id": 413880515,
+    "uuid": "-9801704658812267",
+    "sha_slides": "a24738a4edc6c9594c8143dbf24389d9507d3a4b",
+    "planner_url": "https://app.metricool.com/planner/calendar?blogId=7647378&openWithPostUuid=-9801704658812267",
+    "story": {
+      "id": 413880581,
+      "uuid": "2059889642411740437",
+      "planner_url": "https://app.metricool.com/planner/calendar?blogId=7647378&openWithPostUuid=2059889642411740437"
+    }
+  }
 }
