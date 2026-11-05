@@ -108,23 +108,23 @@
   "busca_imagens": [
     {
       "id": "img01",
-      "query": "File:Abu Dhabi Skyline.jpg",
-      "alternativas": [
-        "File:Abu Dhabi Skyline UAE Flag.jpg"
-      ]
-    },
-    {
-      "id": "img02",
       "query": "File:Abu dhabi skylines 2014.jpg",
       "alternativas": [
         "Abu Dhabi skyline"
       ]
     },
     {
-      "id": "img03",
-      "query": "File:Abu Dhabi Skyline UAE Flag.jpg",
+      "id": "img02",
+      "query": "File:Abu Dhabi Corniche Beach at Sunset, Facing Water.jpg",
       "alternativas": [
         "Abu Dhabi Corniche"
+      ]
+    },
+    {
+      "id": "img03",
+      "query": "Moscow Kremlin kremlin.ru",
+      "alternativas": [
+        "Kremlin Moscow towers"
       ]
     },
     {
@@ -150,9 +150,9 @@
     },
     {
       "id": "img07",
-      "query": "Moscow Kremlin kremlin.ru",
+      "query": "File:Abu Dhabi Skyline fron Corniche Rd.JPG",
       "alternativas": [
-        "Kremlin Moscow towers"
+        "File:Abu Dhabi Skyline.jpg"
       ]
     }
   ],
