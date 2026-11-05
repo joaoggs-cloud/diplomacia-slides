@@ -236,6 +236,19 @@
       "id": "img06",
       "arquivo": "imagens/img06.jpg",
       "query": "File:Vladimir Putin with Steven Witkoff.jpg"
+    },
+    {
+      "titulo": "Abu Dhabi skyline night (Nepenthes).jpg",
+      "autor": "Nepenthes",
+      "licenca": "CC BY-SA 3.0",
+      "exige_credito": true,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Abu_Dhabi_skyline_night_(Nepenthes).jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Abu_Dhabi_skyline_night_%28Nepenthes%29.jpg/1920px-Abu_Dhabi_skyline_night_%28Nepenthes%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 3524,
+      "altura": 1312,
+      "id": "img07",
+      "arquivo": "imagens/img07.jpg",
+      "query": "File:Abu Dhabi skyline night (Nepenthes).jpg"
     }
   ]
 }
