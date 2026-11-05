@@ -146,9 +146,9 @@
     },
     {
       "id": "img07",
-      "query": "File:Abu Dhabi Cornish sunset.jpg",
+      "query": "File:Abu Dhabi skyline night (Nepenthes).jpg",
       "alternativas": [
-        "File:Abu dhabi sunset time.jpg"
+        "File:Skylines of Abu Dhabi by Makalu.jpg"
       ]
     }
   ],
@@ -236,19 +236,6 @@
       "id": "img06",
       "arquivo": "imagens/img06.jpg",
       "query": "File:Vladimir Putin with Steven Witkoff.jpg"
-    },
-    {
-      "titulo": "Abu Dhabi Cornish sunset.jpg",
-      "autor": "Ghawady Ehmaid",
-      "licenca": "CC BY-SA 4.0",
-      "exige_credito": true,
-      "url_origem": "https://commons.wikimedia.org/wiki/File:Abu_Dhabi_Cornish_sunset.jpg",
-      "url_download": "https://upload.wikimedia.org/wikipedia/commons/3/39/Abu_Dhabi_Cornish_sunset.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "largura": 1586,
-      "altura": 1078,
-      "id": "img07",
-      "arquivo": "imagens/img07.jpg",
-      "query": "File:Abu Dhabi Cornish sunset.jpg"
     }
   ]
 }
