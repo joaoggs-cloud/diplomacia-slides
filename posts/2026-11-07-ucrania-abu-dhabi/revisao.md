@@ -1,3 +1,5 @@
+APROVADO (coordenador, 5 nov 2026): aplicada exatamente a correção única da rodada 2 (fala de Zelensky de 25 out no slide 6, na legenda e nas fontes, com Euronews, TRT World e NZ Herald/AFP). Slide 6 renderizado conferido no SHA 212879e: texto legível, nada cortado, crédito completo.
+
 REPROVADO
 
 Revisão rodada 2 (última) de posts/2026-11-07-ucrania-abu-dhabi (SHA f06bbd2), 5 nov 2026.
