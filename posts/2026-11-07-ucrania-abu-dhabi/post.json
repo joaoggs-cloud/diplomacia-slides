@@ -25,14 +25,14 @@
     },
     {
       "imagem": "img05",
-      "texto_html": "Não é a estreia. A primeira rodada trilateral em Abu Dhabi foi em <strong>23 e 24 jan</strong>, e a segunda em <strong>4 e 5 fev</strong>. Depois disso, EUA e Israel iniciaram a guerra contra o Irã e as conversas sobre a Ucrânia ficaram paradas.",
+      "texto_html": "Houve três rodadas trilaterais antes: em Abu Dhabi, em <strong>23 e 24 jan</strong> e em <strong>4 e 5 fev</strong>, e em Genebra, em <strong>17 e 18 fev</strong>. Depois, EUA e Israel iniciaram a guerra contra o Irã e as conversas sobre a Ucrânia pararam.",
       "factbox": {
-        "texto": "Última rodada mediada pelos EUA: fev 2026. Intervalo até a próxima: cerca de nove meses."
+        "texto": "Última rodada mediada pelos EUA: Genebra, 17 e 18 fev 2026."
       }
     },
     {
       "imagem": "img06",
-      "texto_html": "Em 21 out, após reunião com Witkoff, Putin aceitou <em>“em princípio”</em> retomar o formato trilateral, segundo o assessor do Kremlin <strong>Iuri Ushakov</strong>. Já o presidente <strong>Zelensky</strong> diz que qualquer negociação sobre o futuro da Ucrânia precisa incluir Kiev."
+      "texto_html": "Em 21 out, após reunião com Witkoff, Putin aceitou <em>“em princípio”</em> retomar o formato trilateral, segundo o assessor do Kremlin <strong>Iuri Ushakov</strong>. Em 28 out, <strong>Zelensky</strong> disse que Kiev está pronta para negociar e que parceiros veem sinais de que Moscou leva a reunião a sério."
     },
     {
       "imagem": "img07",
@@ -44,7 +44,7 @@
     "titulo": "Salve este post",
     "subtitulo": "e acompanhe a rodada de 10 e 11 nov"
   },
-  "legenda": "Rússia, Ucrânia e Estados Unidos voltam à mesma mesa em 10 nov. A última rodada mediada pelos EUA foi em fevereiro.\n\nEm 3 nov, o Kremlin confirmou que participará de conversas trilaterais em Abu Dhabi, nos dias 10 e 11. Segundo Peskov, Moscou será representada por Vladimir Medinski. Segundo Witkoff, a pauta inclui segurança pós-guerra, desescalada e questões humanitárias. Zelensky afirma que Kiev precisa participar de qualquer decisão sobre o futuro da Ucrânia. As posições de Moscou e Kiev seguem distintas.\n\nAtualizado em 5 nov 2026. Datas e participantes podem mudar.\n\nArraste para o lado para ver o que cada lado disse.",
+  "legenda": "Rússia, Ucrânia e Estados Unidos voltam à mesma mesa em 10 nov. A última rodada mediada pelos EUA foi em fevereiro.\n\nEm 3 nov, o Kremlin confirmou que participará de conversas trilaterais em Abu Dhabi, nos dias 10 e 11. Segundo Peskov, Moscou será representada por Vladimir Medinski. Segundo Witkoff, a pauta inclui segurança pós-guerra, desescalada e questões humanitárias. Zelensky disse em 28 out que Kiev está pronta para negociar. As posições de Moscou e Kiev seguem distintas.\n\nAtualizado em 5 nov 2026. Datas e participantes podem mudar.\n\nArraste para o lado para ver o que cada lado disse.",
   "primeiro_comentario": "",
   "hashtags": [
     "#ucrania",
@@ -103,6 +103,22 @@
     {
       "nome": "CNBC",
       "url": "https://www.cnbc.com/2026/11/03/russia-ukraine-peace-talks-abu-dhabi-trump-putin-xi.html"
+    },
+    {
+      "nome": "Euromaidan Press (Genebra, 17 fev)",
+      "url": "https://euromaidanpress.com/2026/02/17/third-round-of-ukraine-russia-us-talks-opens-in-geneva/"
+    },
+    {
+      "nome": "Arab News",
+      "url": "https://www.arabnews.pk/node/2632885"
+    },
+    {
+      "nome": "Ukrainska Pravda (28 out)",
+      "url": "https://www.pravda.com.ua/eng/news/2026/10/28/8060037/"
+    },
+    {
+      "nome": "Hvylya",
+      "url": "https://en.hvylya.net/news/369-zelensky-confirms-trilateral-talks-in-abu-dhabi-as-kremlin-issues-donbas-ultimatum"
     }
   ],
   "busca_imagens": [
@@ -139,9 +155,11 @@
     },
     {
       "id": "img06",
-      "query": "File:Vladimir Putin with Steven Witkoff.jpg",
+      "query": "File:Volodymyr Zelensky, President of Ukraine, and Ursula von der Leyen, President of the European Commission - 2025.jpg",
       "alternativas": [
-        "Putin Witkoff Kremlin 2025"
+        "File:President introduces new Minister of Defense of Ukraine Rustem Umerov (7 September 2023) 02.jpg",
+        "File:Volodymyr Zelensky Official portrait.jpg",
+        "File:Flag of Ukraine.svg"
       ]
     },
     {
@@ -223,19 +241,6 @@
       "id": "img05",
       "arquivo": "imagens/img05.jpg",
       "query": "File:Putin and Witkoff 2025-08-06.jpg"
-    },
-    {
-      "titulo": "Vladimir Putin with Steven Witkoff.jpg",
-      "autor": "Official website of the President of Russia",
-      "licenca": "CC BY 4.0",
-      "exige_credito": true,
-      "url_origem": "https://commons.wikimedia.org/wiki/File:Vladimir_Putin_with_Steven_Witkoff.jpg",
-      "url_download": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Vladimir_Putin_with_Steven_Witkoff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "largura": 1880,
-      "altura": 1160,
-      "id": "img06",
-      "arquivo": "imagens/img06.jpg",
-      "query": "File:Vladimir Putin with Steven Witkoff.jpg"
     },
     {
       "titulo": "Abu Dhabi skyline night (Nepenthes).jpg",
