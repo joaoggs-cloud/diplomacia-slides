@@ -157,5 +157,98 @@
     "slot": "06:01"
   },
   "metricool": {},
-  "verificacao": "Fatos da pauta de 5 nov 2026, cada um com 2 fontes; fato 8 e parte da fonte única do fato 5 cortados."
+  "verificacao": "Fatos da pauta de 5 nov 2026, cada um com 2 fontes; fato 8 e parte da fonte única do fato 5 cortados.",
+  "imagens": [
+    {
+      "titulo": "Abu Dhabi Skyline fron Corniche Rd.JPG",
+      "autor": "FritzDaCat",
+      "licenca": "CC BY-SA 3.0",
+      "exige_credito": true,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Abu_Dhabi_Skyline_fron_Corniche_Rd.JPG",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Abu_Dhabi_Skyline_fron_Corniche_Rd.JPG/1920px-Abu_Dhabi_Skyline_fron_Corniche_Rd.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 4000,
+      "altura": 3000,
+      "id": "img01",
+      "arquivo": "imagens/img01.jpg",
+      "query": "File:Abu Dhabi Skyline fron Corniche Rd.JPG"
+    },
+    {
+      "titulo": "Abu dhabi skylines 2014.jpg",
+      "autor": "Wadiia",
+      "licenca": "CC BY-SA 4.0",
+      "exige_credito": true,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Abu_dhabi_skylines_2014.jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Abu_dhabi_skylines_2014.jpg/1920px-Abu_dhabi_skylines_2014.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 5726,
+      "altura": 3143,
+      "id": "img02",
+      "arquivo": "imagens/img02.jpg",
+      "query": "File:Abu dhabi skylines 2014.jpg"
+    },
+    {
+      "titulo": "Moscow Kremlin, Red Square.jpg",
+      "autor": "Юрий Д.К.",
+      "licenca": "CC BY 4.0",
+      "exige_credito": true,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Moscow_Kremlin,_Red_Square.jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Moscow_Kremlin%2C_Red_Square.jpg/1920px-Moscow_Kremlin%2C_Red_Square.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 8433,
+      "altura": 5676,
+      "id": "img03",
+      "arquivo": "imagens/img03.jpg",
+      "query": "Moscow Kremlin kremlin.ru"
+    },
+    {
+      "titulo": "Steve Witkoff at White House Opioids Summit 2018 (cropped).png",
+      "autor": "Unknown authorUnknown author",
+      "licenca": "Public domain",
+      "exige_credito": false,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Steve_Witkoff_at_White_House_Opioids_Summit_2018_(cropped).png",
+      "url_download": "https://upload.wikimedia.org/wikipedia/commons/9/90/Steve_Witkoff_at_White_House_Opioids_Summit_2018_%28cropped%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largura": 1397,
+      "altura": 1390,
+      "id": "img04",
+      "arquivo": "imagens/img04.jpg",
+      "query": "File:Steve Witkoff in 2025 (54334316072).jpg"
+    },
+    {
+      "titulo": "Putin and Witkoff 2025-08-06.jpg",
+      "autor": "http://kremlin.ru/",
+      "licenca": "CC BY 4.0",
+      "exige_credito": true,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Putin_and_Witkoff_2025-08-06.jpg",
+      "url_download": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Putin_and_Witkoff_2025-08-06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largura": 1880,
+      "altura": 1160,
+      "id": "img05",
+      "arquivo": "imagens/img05.jpg",
+      "query": "File:Putin and Witkoff 2025-08-06.jpg"
+    },
+    {
+      "titulo": "Vladimir Putin with Steven Witkoff.jpg",
+      "autor": "Official website of the President of Russia",
+      "licenca": "CC BY 4.0",
+      "exige_credito": true,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Vladimir_Putin_with_Steven_Witkoff.jpg",
+      "url_download": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Vladimir_Putin_with_Steven_Witkoff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largura": 1880,
+      "altura": 1160,
+      "id": "img06",
+      "arquivo": "imagens/img06.jpg",
+      "query": "File:Vladimir Putin with Steven Witkoff.jpg"
+    },
+    {
+      "titulo": "Abu Dhabi Cornish sunset.jpg",
+      "autor": "Ghawady Ehmaid",
+      "licenca": "CC BY-SA 4.0",
+      "exige_credito": true,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Abu_Dhabi_Cornish_sunset.jpg",
+      "url_download": "https://upload.wikimedia.org/wikipedia/commons/3/39/Abu_Dhabi_Cornish_sunset.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largura": 1586,
+      "altura": 1078,
+      "id": "img07",
+      "arquivo": "imagens/img07.jpg",
+      "query": "File:Abu Dhabi Cornish sunset.jpg"
+    }
+  ]
 }
