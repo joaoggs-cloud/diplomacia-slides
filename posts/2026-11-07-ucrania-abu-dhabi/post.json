@@ -1,0 +1,77 @@
+{
+  "slug": "2026-11-07-ucrania-abu-dhabi",
+  "titulo_interno": "Ucrânia: rodada trilateral em Abu Dhabi, 10-11 nov",
+  "status": "rascunho",
+  "pilar": "diplomacia",
+  "categoria": "Diplomacia · Guerra na Ucrânia",
+  "gancho_tipo": "contraste_tempo",
+  "capa": {
+    "imagem": "img01",
+    "titulo_html": "Rússia, Ucrânia e EUA <span class=\"hl\">voltam à mesma mesa</span> em <span class=\"hl2\">10 nov</span>",
+    "gancho": "A última rodada mediada pelos EUA foi em fevereiro. Agora há data e local."
+  },
+  "slides": [
+    {
+      "imagem": "img02",
+      "texto_html": "Em 3 nov, o <strong>Kremlin confirmou</strong> que a Rússia participará de conversas trilaterais com Ucrânia e Estados Unidos em <em>Abu Dhabi, nos dias 10 e 11 de novembro</em>, segundo a agência Reuters."
+    },
+    {
+      "imagem": "img03",
+      "texto_html": "Segundo o porta-voz do Kremlin, <strong>Dmitri Peskov</strong>, o negociador-chefe de Moscou será <strong>Vladimir Medinski</strong>, assessor de Putin. A equipe russa incluirá representantes de vários ministérios."
+    },
+    {
+      "imagem": "img04",
+      "texto_html": "O enviado americano <strong>Steve Witkoff</strong> afirmou que os EUA reunirão as delegações para tratar de <em>arranjos de segurança pós-guerra, desescalada, questões humanitárias</em> e próximos passos."
+    },
+    {
+      "imagem": "img05",
+      "texto_html": "Não é a estreia. A primeira rodada trilateral em Abu Dhabi foi em <strong>23 e 24 jan</strong>, e a segunda em <strong>4 e 5 fev</strong>. Depois disso, EUA e Israel iniciaram a guerra contra o Irã e as conversas sobre a Ucrânia ficaram paradas.",
+      "factbox": {
+        "texto": "Última rodada mediada pelos EUA: fev 2026. Intervalo até a próxima: cerca de nove meses."
+      }
+    },
+    {
+      "imagem": "img06",
+      "texto_html": "Em 21 out, após reunião com Witkoff, Putin aceitou <em>“em princípio”</em> retomar o formato trilateral, segundo o assessor do Kremlin <strong>Iuri Ushakov</strong>. Já o presidente <strong>Zelensky</strong> diz que qualquer negociação sobre o futuro da Ucrânia precisa incluir Kiev."
+    },
+    {
+      "imagem": "img07",
+      "titulo": "O que segue em aberto",
+      "texto_html": "Peskov também disse que o Kremlin espera fechar nos próximos dias os planos de uma reunião de líderes entre <strong>Rússia, EUA e China</strong>. Analistas citados pela imprensa levantam dúvidas sobre o papel de Kiev nesse formato. Moscou e Kiev chegam com objetivos distintos."
+    }
+  ],
+  "cta": {
+    "titulo": "Salve este post",
+    "subtitulo": "e acompanhe a rodada de 10 e 11 nov"
+  },
+  "legenda": "Rússia, Ucrânia e Estados Unidos voltam à mesma mesa em 10 nov. A última rodada mediada pelos EUA foi em fevereiro.\n\nEm 3 nov, o Kremlin confirmou que participará de conversas trilaterais em Abu Dhabi, nos dias 10 e 11. Segundo Peskov, Moscou será representada por Vladimir Medinski. Segundo Witkoff, a pauta inclui segurança pós-guerra, desescalada e questões humanitárias. Zelensky afirma que Kiev precisa participar de qualquer decisão sobre o futuro da Ucrânia. As posições de Moscou e Kiev seguem distintas.\n\nAtualizado em 5 nov 2026. Datas e participantes podem mudar.\n\nArraste para o lado para ver o que cada lado disse.",
+  "primeiro_comentario": "",
+  "hashtags": ["#ucrania", "#russia", "#abudhabi", "#negociacoes", "#witkoff", "#diplomacia"],
+  "alt_text": "Carrossel sobre a rodada trilateral entre Rússia, Ucrânia e EUA marcada para 10 e 11 de novembro de 2026 em Abu Dhabi.",
+  "fontes": [
+    {"nome": "Reuters via US News", "url": "https://www.usnews.com/news/world/articles/2026-11-03/kremlin-confirms-trilateral-ukraine-peace-talks-in-abu-dhabi-next-week"},
+    {"nome": "Ukrainska Pravda", "url": "https://www.pravda.com.ua/eng/news/2026/11/03/8061009/"},
+    {"nome": "Moscow Times", "url": "https://www.themoscowtimes.com/2026/11/03/us-mediated-ukraine-peace-talks-to-resume-in-abu-dhabi-next-week-a94160"},
+    {"nome": "112.ua", "url": "https://112.ua/en/volodimir-medinskij-ocolit-rosijsku-delegaciu-na-peregovorah-z-ukrainou-ta-ssa-v-abu-dabi-195958"},
+    {"nome": "Fox News", "url": "https://www.foxnews.com/world/us-mediate-upcoming-ukraine-russia-talks-abu-dhabi-witkoff-says"},
+    {"nome": "Military.com", "url": "https://www.military.com/us-envoy-steve-witkoff-announces-russia-ukraine-negotiations-next-step-towards-peace"},
+    {"nome": "The National (UAE)", "url": "https://www.thenationalnews.com/news/uae/2026/01/24/us-ukraine-russia-talks-in-abu-dhabi-conclude"},
+    {"nome": "Reuters via Internazionale", "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/02/05/ukraine-russia-start-second-day-of-peace-talks-in-abu-dhabi"},
+    {"nome": "TASS", "url": "https://tass.com/politics/2205855"},
+    {"nome": "PBS NewsHour", "url": "https://www.pbs.org/newshour/world/putin-agrees-to-resume-trilateral-russia-ukraine-u-s-talks-next-month"},
+    {"nome": "News24", "url": "https://www.news24.com/world/ukraines-zelensky-freeze-the-war-front-as-a-first-step-toward-peace-negotiations-20261021-0811"},
+    {"nome": "CNBC", "url": "https://www.cnbc.com/2026/11/03/russia-ukraine-peace-talks-abu-dhabi-trump-putin-xi.html"}
+  ],
+  "busca_imagens": [
+    {"id": "img01", "query": "File:Abu Dhabi Skyline.jpg", "alternativas": ["File:Abu Dhabi Skyline UAE Flag.jpg"]},
+    {"id": "img02", "query": "File:Abu dhabi skylines 2014.jpg", "alternativas": ["Abu Dhabi skyline"]},
+    {"id": "img03", "query": "File:Abu Dhabi Skyline UAE Flag.jpg", "alternativas": ["Abu Dhabi Corniche"]},
+    {"id": "img04", "query": "File:Steve Witkoff in 2025 (54334316072).jpg", "alternativas": ["Steve Witkoff"]},
+    {"id": "img05", "query": "File:Putin and Witkoff 2025-08-06.jpg", "alternativas": ["Putin Witkoff Kremlin"]},
+    {"id": "img06", "query": "File:Vladimir Putin with Steven Witkoff.jpg", "alternativas": ["Putin Witkoff Kremlin 2025"]},
+    {"id": "img07", "query": "Moscow Kremlin kremlin.ru", "alternativas": ["Kremlin Moscow towers"]}
+  ],
+  "agendamento": {"data_hora": "2026-11-07T06:01:00-03:00", "slot": "06:01"},
+  "metricool": {},
+  "verificacao": "Fatos da pauta de 5 nov 2026, cada um com 2 fontes; fato 8 e parte da fonte única do fato 5 cortados."
+}
