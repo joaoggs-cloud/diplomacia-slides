@@ -108,17 +108,13 @@
   "busca_imagens": [
     {
       "id": "img01",
-      "query": "File:Abu dhabi skylines 2014.jpg",
-      "alternativas": [
-        "Abu Dhabi skyline"
-      ]
+      "query": "File:Abu Dhabi Skyline fron Corniche Rd.JPG",
+      "alternativas": []
     },
     {
       "id": "img02",
-      "query": "File:Abu Dhabi Corniche Beach at Sunset, Facing Water.jpg",
-      "alternativas": [
-        "Abu Dhabi Corniche"
-      ]
+      "query": "File:Abu dhabi skylines 2014.jpg",
+      "alternativas": []
     },
     {
       "id": "img03",
@@ -150,9 +146,9 @@
     },
     {
       "id": "img07",
-      "query": "File:Abu Dhabi Skyline fron Corniche Rd.JPG",
+      "query": "File:Abu Dhabi Cornish sunset.jpg",
       "alternativas": [
-        "File:Abu Dhabi Skyline.jpg"
+        "File:Abu dhabi sunset time.jpg"
       ]
     }
   ],
