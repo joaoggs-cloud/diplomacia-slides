@@ -32,7 +32,7 @@
     },
     {
       "imagem": "img06",
-      "texto_html": "Em 21 out, Putin aceitou <em>“em princípio”</em> retomar o formato trilateral, segundo o assessor do Kremlin <strong>Iuri Ushakov</strong>. Em 28 out, <strong>Zelensky</strong> disse esperar a nova rodada para meados de novembro, à espera da confirmação de Washington."
+      "texto_html": "Em 21 out, Putin aceitou <em>“em princípio”</em> retomar o formato trilateral, segundo o assessor do Kremlin <strong>Iuri Ushakov</strong>. Em 25 out, <strong>Zelensky</strong> disse que os três países tinham acertado uma reunião trilateral em novembro."
     },
     {
       "imagem": "img07",
@@ -44,7 +44,7 @@
     "titulo": "Salve este post",
     "subtitulo": "e acompanhe a rodada de 10 e 11 nov"
   },
-  "legenda": "Rússia, Ucrânia e Estados Unidos voltam à mesma mesa em 10 nov. A última rodada mediada pelos EUA foi em fevereiro.\n\nEm 3 nov, o Kremlin confirmou que participará de conversas trilaterais em Abu Dhabi, nos dias 10 e 11. Segundo Peskov, Moscou será representada por Vladimir Medinski. Segundo Witkoff, a pauta inclui segurança pós-guerra, desescalada e questões humanitárias. Em 28 out, Zelensky disse esperar a rodada para meados de novembro. As posições de Moscou e Kiev seguem distintas.\n\nAtualizado em 5 nov 2026. Datas e participantes podem mudar.\n\nArraste para o lado para ver o que cada lado disse.",
+  "legenda": "Rússia, Ucrânia e Estados Unidos voltam à mesma mesa em 10 nov. A última rodada mediada pelos EUA foi em fevereiro.\n\nEm 3 nov, o Kremlin confirmou que participará de conversas trilaterais em Abu Dhabi, nos dias 10 e 11. Segundo Peskov, Moscou será representada por Vladimir Medinski. Segundo Witkoff, a pauta inclui segurança pós-guerra, desescalada e questões humanitárias. Em 25 out, Zelensky disse que os três países tinham acertado uma reunião em novembro. As posições de Moscou e Kiev seguem distintas.\n\nAtualizado em 5 nov 2026. Datas e participantes podem mudar.\n\nArraste para o lado para ver o que cada lado disse.",
   "primeiro_comentario": "",
   "hashtags": [
     "#ucrania",
@@ -113,12 +113,16 @@
       "url": "https://www.arabnews.pk/node/2632885"
     },
     {
-      "nome": "Ukrainska Pravda (28 out)",
-      "url": "https://www.pravda.com.ua/eng/news/2026/10/28/8060037/"
+      "nome": "Euronews (25 out)",
+      "url": "https://www.euronews.com/2026/10/25/ukraines-zelenskyy-confirms-trilateral-talks-with-russia-and-us-to-take-place-in-november"
     },
     {
-      "nome": "Hvylya",
-      "url": "https://en.hvylya.net/news/369-zelensky-confirms-trilateral-talks-in-abu-dhabi-as-kremlin-issues-donbas-ultimatum"
+      "nome": "TRT World",
+      "url": "https://www.trtworld.com/article/0951f8ea6290"
+    },
+    {
+      "nome": "NZ Herald (AFP)",
+      "url": "https://www.nzherald.co.nz/world/zelenskyy-says-trilateral-us-ukraine-russia-meeting-to-take-place-in-november/WOAAPNDFXNDJVNZJRKDJPNGBZY/"
     }
   ],
   "busca_imagens": [
