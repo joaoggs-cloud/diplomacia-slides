@@ -1,7 +1,7 @@
 {
   "slug": "2026-11-03-operacao-tocha",
   "titulo_interno": "Operação Tocha, 84 anos",
-  "status": "aguardando_aprovacao",
+  "status": "agendado",
   "pilar": "historia_militar",
   "categoria": "História militar · 2ª Guerra Mundial",
   "gancho_tipo": "contradicao",
@@ -158,7 +158,7 @@
     }
   ],
   "agendamento": {
-    "data_hora": "2026-11-03T06:01:00-03:00",
+    "data_hora": "2026-11-06T06:01:00-03:00",
     "slot": "06:01"
   },
   "ia_gerado": false,
@@ -282,12 +282,12 @@
     }
   ],
   "metricool": {
-    "id": 413880515,
+    "id": 417206482,
     "uuid": "-9801704658812267",
     "sha_slides": "a24738a4edc6c9594c8143dbf24389d9507d3a4b",
     "planner_url": "https://app.metricool.com/planner/calendar?blogId=7647378&openWithPostUuid=-9801704658812267",
     "story": {
-      "id": 413880581,
+      "id": 417206529,
       "uuid": "2059889642411740437",
       "planner_url": "https://app.metricool.com/planner/calendar?blogId=7647378&openWithPostUuid=2059889642411740437"
     }
