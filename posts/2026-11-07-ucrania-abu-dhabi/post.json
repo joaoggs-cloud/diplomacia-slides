@@ -46,32 +46,213 @@
   },
   "legenda": "Rússia, Ucrânia e Estados Unidos voltam à mesma mesa em 10 nov. A última rodada mediada pelos EUA foi em fevereiro.\n\nEm 3 nov, o Kremlin confirmou que participará de conversas trilaterais em Abu Dhabi, nos dias 10 e 11. Segundo Peskov, Moscou será representada por Vladimir Medinski. Segundo Witkoff, a pauta inclui segurança pós-guerra, desescalada e questões humanitárias. Zelensky afirma que Kiev precisa participar de qualquer decisão sobre o futuro da Ucrânia. As posições de Moscou e Kiev seguem distintas.\n\nAtualizado em 5 nov 2026. Datas e participantes podem mudar.\n\nArraste para o lado para ver o que cada lado disse.",
   "primeiro_comentario": "",
-  "hashtags": ["#ucrania", "#russia", "#abudhabi", "#negociacoes", "#witkoff", "#diplomacia"],
+  "hashtags": [
+    "#ucrania",
+    "#russia",
+    "#abudhabi",
+    "#negociacoes",
+    "#witkoff",
+    "#diplomacia"
+  ],
   "alt_text": "Carrossel sobre a rodada trilateral entre Rússia, Ucrânia e EUA marcada para 10 e 11 de novembro de 2026 em Abu Dhabi.",
   "fontes": [
-    {"nome": "Reuters via US News", "url": "https://www.usnews.com/news/world/articles/2026-11-03/kremlin-confirms-trilateral-ukraine-peace-talks-in-abu-dhabi-next-week"},
-    {"nome": "Ukrainska Pravda", "url": "https://www.pravda.com.ua/eng/news/2026/11/03/8061009/"},
-    {"nome": "Moscow Times", "url": "https://www.themoscowtimes.com/2026/11/03/us-mediated-ukraine-peace-talks-to-resume-in-abu-dhabi-next-week-a94160"},
-    {"nome": "112.ua", "url": "https://112.ua/en/volodimir-medinskij-ocolit-rosijsku-delegaciu-na-peregovorah-z-ukrainou-ta-ssa-v-abu-dabi-195958"},
-    {"nome": "Fox News", "url": "https://www.foxnews.com/world/us-mediate-upcoming-ukraine-russia-talks-abu-dhabi-witkoff-says"},
-    {"nome": "Military.com", "url": "https://www.military.com/us-envoy-steve-witkoff-announces-russia-ukraine-negotiations-next-step-towards-peace"},
-    {"nome": "The National (UAE)", "url": "https://www.thenationalnews.com/news/uae/2026/01/24/us-ukraine-russia-talks-in-abu-dhabi-conclude"},
-    {"nome": "Reuters via Internazionale", "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/02/05/ukraine-russia-start-second-day-of-peace-talks-in-abu-dhabi"},
-    {"nome": "TASS", "url": "https://tass.com/politics/2205855"},
-    {"nome": "PBS NewsHour", "url": "https://www.pbs.org/newshour/world/putin-agrees-to-resume-trilateral-russia-ukraine-u-s-talks-next-month"},
-    {"nome": "News24", "url": "https://www.news24.com/world/ukraines-zelensky-freeze-the-war-front-as-a-first-step-toward-peace-negotiations-20261021-0811"},
-    {"nome": "CNBC", "url": "https://www.cnbc.com/2026/11/03/russia-ukraine-peace-talks-abu-dhabi-trump-putin-xi.html"}
+    {
+      "nome": "Reuters via US News",
+      "url": "https://www.usnews.com/news/world/articles/2026-11-03/kremlin-confirms-trilateral-ukraine-peace-talks-in-abu-dhabi-next-week"
+    },
+    {
+      "nome": "Ukrainska Pravda",
+      "url": "https://www.pravda.com.ua/eng/news/2026/11/03/8061009/"
+    },
+    {
+      "nome": "Moscow Times",
+      "url": "https://www.themoscowtimes.com/2026/11/03/us-mediated-ukraine-peace-talks-to-resume-in-abu-dhabi-next-week-a94160"
+    },
+    {
+      "nome": "112.ua",
+      "url": "https://112.ua/en/volodimir-medinskij-ocolit-rosijsku-delegaciu-na-peregovorah-z-ukrainou-ta-ssa-v-abu-dabi-195958"
+    },
+    {
+      "nome": "Fox News",
+      "url": "https://www.foxnews.com/world/us-mediate-upcoming-ukraine-russia-talks-abu-dhabi-witkoff-says"
+    },
+    {
+      "nome": "Military.com",
+      "url": "https://www.military.com/us-envoy-steve-witkoff-announces-russia-ukraine-negotiations-next-step-towards-peace"
+    },
+    {
+      "nome": "The National (UAE)",
+      "url": "https://www.thenationalnews.com/news/uae/2026/01/24/us-ukraine-russia-talks-in-abu-dhabi-conclude"
+    },
+    {
+      "nome": "Reuters via Internazionale",
+      "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/02/05/ukraine-russia-start-second-day-of-peace-talks-in-abu-dhabi"
+    },
+    {
+      "nome": "TASS",
+      "url": "https://tass.com/politics/2205855"
+    },
+    {
+      "nome": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/world/putin-agrees-to-resume-trilateral-russia-ukraine-u-s-talks-next-month"
+    },
+    {
+      "nome": "News24",
+      "url": "https://www.news24.com/world/ukraines-zelensky-freeze-the-war-front-as-a-first-step-toward-peace-negotiations-20261021-0811"
+    },
+    {
+      "nome": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/03/russia-ukraine-peace-talks-abu-dhabi-trump-putin-xi.html"
+    }
   ],
   "busca_imagens": [
-    {"id": "img01", "query": "File:Abu Dhabi Skyline.jpg", "alternativas": ["File:Abu Dhabi Skyline UAE Flag.jpg"]},
-    {"id": "img02", "query": "File:Abu dhabi skylines 2014.jpg", "alternativas": ["Abu Dhabi skyline"]},
-    {"id": "img03", "query": "File:Abu Dhabi Skyline UAE Flag.jpg", "alternativas": ["Abu Dhabi Corniche"]},
-    {"id": "img04", "query": "File:Steve Witkoff in 2025 (54334316072).jpg", "alternativas": ["Steve Witkoff"]},
-    {"id": "img05", "query": "File:Putin and Witkoff 2025-08-06.jpg", "alternativas": ["Putin Witkoff Kremlin"]},
-    {"id": "img06", "query": "File:Vladimir Putin with Steven Witkoff.jpg", "alternativas": ["Putin Witkoff Kremlin 2025"]},
-    {"id": "img07", "query": "Moscow Kremlin kremlin.ru", "alternativas": ["Kremlin Moscow towers"]}
+    {
+      "id": "img01",
+      "query": "File:Abu Dhabi Skyline.jpg",
+      "alternativas": [
+        "File:Abu Dhabi Skyline UAE Flag.jpg"
+      ]
+    },
+    {
+      "id": "img02",
+      "query": "File:Abu dhabi skylines 2014.jpg",
+      "alternativas": [
+        "Abu Dhabi skyline"
+      ]
+    },
+    {
+      "id": "img03",
+      "query": "File:Abu Dhabi Skyline UAE Flag.jpg",
+      "alternativas": [
+        "Abu Dhabi Corniche"
+      ]
+    },
+    {
+      "id": "img04",
+      "query": "File:Steve Witkoff in 2025 (54334316072).jpg",
+      "alternativas": [
+        "Steve Witkoff"
+      ]
+    },
+    {
+      "id": "img05",
+      "query": "File:Putin and Witkoff 2025-08-06.jpg",
+      "alternativas": [
+        "Putin Witkoff Kremlin"
+      ]
+    },
+    {
+      "id": "img06",
+      "query": "File:Vladimir Putin with Steven Witkoff.jpg",
+      "alternativas": [
+        "Putin Witkoff Kremlin 2025"
+      ]
+    },
+    {
+      "id": "img07",
+      "query": "Moscow Kremlin kremlin.ru",
+      "alternativas": [
+        "Kremlin Moscow towers"
+      ]
+    }
   ],
-  "agendamento": {"data_hora": "2026-11-07T06:01:00-03:00", "slot": "06:01"},
+  "agendamento": {
+    "data_hora": "2026-11-07T06:01:00-03:00",
+    "slot": "06:01"
+  },
   "metricool": {},
-  "verificacao": "Fatos da pauta de 5 nov 2026, cada um com 2 fontes; fato 8 e parte da fonte única do fato 5 cortados."
+  "verificacao": "Fatos da pauta de 5 nov 2026, cada um com 2 fontes; fato 8 e parte da fonte única do fato 5 cortados.",
+  "imagens": [
+    {
+      "titulo": "Abu Dhabi Skyline.jpg",
+      "autor": "comedian44",
+      "licenca": "CC BY-SA 4.0",
+      "exige_credito": true,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Abu_Dhabi_Skyline.jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Abu_Dhabi_Skyline.jpg/1920px-Abu_Dhabi_Skyline.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 3264,
+      "altura": 2448,
+      "id": "img01",
+      "arquivo": "imagens/img01.jpg",
+      "query": "File:Abu Dhabi Skyline.jpg"
+    },
+    {
+      "titulo": "Abu dhabi skylines 2014.jpg",
+      "autor": "Wadiia",
+      "licenca": "CC BY-SA 4.0",
+      "exige_credito": true,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Abu_dhabi_skylines_2014.jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Abu_dhabi_skylines_2014.jpg/1920px-Abu_dhabi_skylines_2014.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 5726,
+      "altura": 3143,
+      "id": "img02",
+      "arquivo": "imagens/img02.jpg",
+      "query": "File:Abu dhabi skylines 2014.jpg"
+    },
+    {
+      "titulo": "Abu Dhabi Skyline UAE Flag.jpg",
+      "autor": "Clint Ian Pinto",
+      "licenca": "CC BY-SA 4.0",
+      "exige_credito": true,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Abu_Dhabi_Skyline_UAE_Flag.jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Abu_Dhabi_Skyline_UAE_Flag.jpg/1920px-Abu_Dhabi_Skyline_UAE_Flag.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 3648,
+      "altura": 2736,
+      "id": "img03",
+      "arquivo": "imagens/img03.jpg",
+      "query": "File:Abu Dhabi Skyline UAE Flag.jpg"
+    },
+    {
+      "titulo": "Steve Witkoff at White House Opioids Summit 2018 (cropped).png",
+      "autor": "Unknown authorUnknown author",
+      "licenca": "Public domain",
+      "exige_credito": false,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Steve_Witkoff_at_White_House_Opioids_Summit_2018_(cropped).png",
+      "url_download": "https://upload.wikimedia.org/wikipedia/commons/9/90/Steve_Witkoff_at_White_House_Opioids_Summit_2018_%28cropped%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largura": 1397,
+      "altura": 1390,
+      "id": "img04",
+      "arquivo": "imagens/img04.jpg",
+      "query": "File:Steve Witkoff in 2025 (54334316072).jpg"
+    },
+    {
+      "titulo": "Putin and Witkoff 2025-08-06.jpg",
+      "autor": "http://kremlin.ru/",
+      "licenca": "CC BY 4.0",
+      "exige_credito": true,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Putin_and_Witkoff_2025-08-06.jpg",
+      "url_download": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Putin_and_Witkoff_2025-08-06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largura": 1880,
+      "altura": 1160,
+      "id": "img05",
+      "arquivo": "imagens/img05.jpg",
+      "query": "File:Putin and Witkoff 2025-08-06.jpg"
+    },
+    {
+      "titulo": "Vladimir Putin with Steven Witkoff.jpg",
+      "autor": "Official website of the President of Russia",
+      "licenca": "CC BY 4.0",
+      "exige_credito": true,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Vladimir_Putin_with_Steven_Witkoff.jpg",
+      "url_download": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Vladimir_Putin_with_Steven_Witkoff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largura": 1880,
+      "altura": 1160,
+      "id": "img06",
+      "arquivo": "imagens/img06.jpg",
+      "query": "File:Vladimir Putin with Steven Witkoff.jpg"
+    },
+    {
+      "titulo": "Moscow Kremlin, Red Square.jpg",
+      "autor": "Юрий Д.К.",
+      "licenca": "CC BY 4.0",
+      "exige_credito": true,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Moscow_Kremlin,_Red_Square.jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Moscow_Kremlin%2C_Red_Square.jpg/1920px-Moscow_Kremlin%2C_Red_Square.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 8433,
+      "altura": 5676,
+      "id": "img07",
+      "arquivo": "imagens/img07.jpg",
+      "query": "Moscow Kremlin kremlin.ru"
+    }
+  ]
 }
