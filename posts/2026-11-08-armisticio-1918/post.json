@@ -1,7 +1,7 @@
 {
   "slug": "2026-11-08-armisticio-1918",
   "titulo_interno": "Armistício de 11 nov 1918 — a ordem das 5h",
-  "status": "rascunho",
+  "status": "aguardando_aprovacao",
   "pilar": "historia_militar",
   "categoria": "Primeira Guerra · Europa",
   "gancho_tipo": "contradicao",
@@ -151,7 +151,17 @@
     "data_hora": "2026-11-08T06:01:00-03:00",
     "slot": "06:01"
   },
-  "metricool": {},
+  "metricool": {
+    "id": 419442424,
+    "uuid": "9205281421980684207",
+    "sha_slides": "b918696402390df9f2d2ecef80d179cda5971365",
+    "planner_url": "https://app.metricool.com/planner/calendar?blogId=7647378&openWithPostUuid=9205281421980684207",
+    "story": {
+      "id": 419442497,
+      "uuid": "2315254054747459158",
+      "planner_url": "https://app.metricool.com/planner/calendar?blogId=7647378&openWithPostUuid=2315254054747459158"
+    }
+  },
   "verificacao": "Fatos da pauta (2 fontes por item); 2.738 mortos omitido, apenas atribuição genérica.",
   "imagens": [
     {
