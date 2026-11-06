@@ -62,26 +62,186 @@
   ],
   "alt_text": "Carrossel sobre o armistício de 11 de novembro de 1918, assinado num vagão em Compiègne, e o uso do mesmo vagão em 1940.",
   "fontes": [
-    {"nome": "Long Long Trail — The Armistice and the occupation of the Rhine", "url": "https://www.longlongtrail.co.uk/battles/the-armistice-and-the-occupation-of-the-rhine/"},
-    {"nome": "History Learning Site — Armistice terms", "url": "https://historylearning.com/world-war-one/armistice-terms"},
-    {"nome": "Primary Documents — Armistice terms", "url": "https://bac-lac.wayback.archive-it.org/web/20171107155735/http:/firstworldwar.com/source/armisticeterms.htm"},
-    {"nome": "Doughboy Foundation — The last man to die in WWI", "url": "https://doughboy.org/the-last-man-to-die-in-world-war-i/"},
-    {"nome": "History Extra — The Compiègne Wagon", "url": "https://www.history.co.uk/article/the-compi%25C3%25A8gne-wagon-one-train-carriage-two-peace-treaties"},
-    {"nome": "Lonely Planet — Clairière de l'Armistice", "url": "https://www.lonelyplanet.com/points-of-interest/memorial-de-larmistice/1234098"}
+    {
+      "nome": "Long Long Trail — The Armistice and the occupation of the Rhine",
+      "url": "https://www.longlongtrail.co.uk/battles/the-armistice-and-the-occupation-of-the-rhine/"
+    },
+    {
+      "nome": "History Learning Site — Armistice terms",
+      "url": "https://historylearning.com/world-war-one/armistice-terms"
+    },
+    {
+      "nome": "Primary Documents — Armistice terms",
+      "url": "https://bac-lac.wayback.archive-it.org/web/20171107155735/http:/firstworldwar.com/source/armisticeterms.htm"
+    },
+    {
+      "nome": "Doughboy Foundation — The last man to die in WWI",
+      "url": "https://doughboy.org/the-last-man-to-die-in-world-war-i/"
+    },
+    {
+      "nome": "History Extra — The Compiègne Wagon",
+      "url": "https://www.history.co.uk/article/the-compi%25C3%25A8gne-wagon-one-train-carriage-two-peace-treaties"
+    },
+    {
+      "nome": "Lonely Planet — Clairière de l'Armistice",
+      "url": "https://www.lonelyplanet.com/points-of-interest/memorial-de-larmistice/1234098"
+    }
   ],
   "busca_imagens": [
-    {"id": "img01", "query": "File:Armisticetrain.jpg", "pb": true, "alternativas": ["File:Armisticetrain (slight crop).jpg"]},
-    {"id": "img02", "query": "File:Railroad car in which was signed the armistice, Nov. 11, 1918 - Library of Congress.jpg", "pb": true, "alternativas": ["File:Foch train.jpg"]},
-    {"id": "img03", "query": "File:Waffenstillstand 11.nov 1918.jpg", "pb": true, "alternativas": ["Armistice 1918 Compiègne signing"]},
-    {"id": "img04", "query": "File:Ludendorff Bridge 1918.jpg", "pb": true, "alternativas": ["British Lancers crossing Rhine bridge Cologne 1918"]},
-    {"id": "img05", "query": "Western Front 11 November 1918 soldiers celebrate", "pb": true, "alternativas": ["Armistice Day 1918 soldiers", "American soldiers Meuse-Argonne 1918"]},
-    {"id": "img06", "query": "File:Bundesarchiv B 145 Bild-P50284, Compiègne, Waffenstillstandvertrag, Huntziger.jpg", "pb": true, "alternativas": ["File:William Shirer at Compiègne France 1940 06 22.jpg"]},
-    {"id": "img07", "query": "File:Clairiere de l'Armistice 2 Compiegne.jpg", "alternativas": ["File:Rethondes Wagon de l'Armistice.jpg"]}
+    {
+      "id": "img01",
+      "query": "File:Armisticetrain.jpg",
+      "pb": true,
+      "alternativas": [
+        "File:Armisticetrain (slight crop).jpg"
+      ]
+    },
+    {
+      "id": "img02",
+      "query": "File:Railroad car in which was signed the armistice, Nov. 11, 1918 - Library of Congress.jpg",
+      "pb": true,
+      "alternativas": [
+        "File:Foch train.jpg"
+      ]
+    },
+    {
+      "id": "img03",
+      "query": "File:Waffenstillstand 11.nov 1918.jpg",
+      "pb": true,
+      "alternativas": [
+        "Armistice 1918 Compiègne signing"
+      ]
+    },
+    {
+      "id": "img04",
+      "query": "File:Ludendorff Bridge 1918.jpg",
+      "pb": true,
+      "alternativas": [
+        "British Lancers crossing Rhine bridge Cologne 1918"
+      ]
+    },
+    {
+      "id": "img05",
+      "query": "Western Front 11 November 1918 soldiers celebrate",
+      "pb": true,
+      "alternativas": [
+        "Armistice Day 1918 soldiers",
+        "American soldiers Meuse-Argonne 1918"
+      ]
+    },
+    {
+      "id": "img06",
+      "query": "File:Bundesarchiv B 145 Bild-P50284, Compiègne, Waffenstillstandvertrag, Huntziger.jpg",
+      "pb": true,
+      "alternativas": [
+        "File:William Shirer at Compiègne France 1940 06 22.jpg"
+      ]
+    },
+    {
+      "id": "img07",
+      "query": "File:Clairiere de l'Armistice 2 Compiegne.jpg",
+      "alternativas": [
+        "File:Rethondes Wagon de l'Armistice.jpg"
+      ]
+    }
   ],
   "agendamento": {
     "data_hora": "2026-11-08T06:01:00-03:00",
     "slot": "06:01"
   },
   "metricool": {},
-  "verificacao": "Fatos da pauta (2 fontes por item); 2.738 mortos omitido, apenas atribuição genérica."
+  "verificacao": "Fatos da pauta (2 fontes por item); 2.738 mortos omitido, apenas atribuição genérica.",
+  "imagens": [
+    {
+      "titulo": "Armisticetrain.jpg",
+      "autor": "Unknown authorUnknown author",
+      "licenca": "Public domain",
+      "exige_credito": false,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Armisticetrain.jpg",
+      "url_download": "https://upload.wikimedia.org/wikipedia/commons/2/21/Armisticetrain.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largura": 545,
+      "altura": 719,
+      "id": "img01",
+      "arquivo": "imagens/img01.jpg",
+      "query": "File:Armisticetrain.jpg"
+    },
+    {
+      "titulo": "Railroad car in which was signed the armistice, Nov. 11, 1918 - Library of Congress.jpg",
+      "autor": "American Colony (Jerusalem). Photo Dept., photographer",
+      "licenca": "Public domain",
+      "exige_credito": false,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Railroad_car_in_which_was_signed_the_armistice,_Nov._11,_1918_-_Library_of_Congress.jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Railroad_car_in_which_was_signed_the_armistice%2C_Nov._11%2C_1918_-_Library_of_Congress.jpg/1920px-Railroad_car_in_which_was_signed_the_armistice%2C_Nov._11%2C_1918_-_Library_of_Congress.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 5313,
+      "altura": 3179,
+      "id": "img02",
+      "arquivo": "imagens/img02.jpg",
+      "query": "File:Railroad car in which was signed the armistice, Nov. 11, 1918 - Library of Congress.jpg"
+    },
+    {
+      "titulo": "The Glade of the Armistice (153556).jpg",
+      "autor": "NASA Earth Observatory image by Wanmei Liang, using Landsat data from the U.S. Geological Survey. Story by Adam Voiland.",
+      "licenca": "Public domain",
+      "exige_credito": false,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:The_Glade_of_the_Armistice_(153556).jpg",
+      "url_download": "https://upload.wikimedia.org/wikipedia/commons/7/79/The_Glade_of_the_Armistice_%28153556%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largura": 1356,
+      "altura": 904,
+      "id": "img03",
+      "arquivo": "imagens/img03.jpg",
+      "query": "File:Waffenstillstand 11.nov 1918.jpg"
+    },
+    {
+      "titulo": "Ludendorff Bridge 1918.jpg",
+      "autor": "Unknown authorUnknown author",
+      "licenca": "Public domain",
+      "exige_credito": false,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Ludendorff_Bridge_1918.jpg",
+      "url_download": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Ludendorff_Bridge_1918.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largura": 757,
+      "altura": 558,
+      "id": "img04",
+      "arquivo": "imagens/img04.jpg",
+      "query": "File:Ludendorff Bridge 1918.jpg"
+    },
+    {
+      "titulo": "US 64th regiment celebrate the Armistice.jpg",
+      "autor": "U.S. Army",
+      "licenca": "Public domain",
+      "exige_credito": false,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:US_64th_regiment_celebrate_the_Armistice.jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/US_64th_regiment_celebrate_the_Armistice.jpg/1920px-US_64th_regiment_celebrate_the_Armistice.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 3000,
+      "altura": 1882,
+      "id": "img05",
+      "arquivo": "imagens/img05.jpg",
+      "query": "Western Front 11 November 1918 soldiers celebrate"
+    },
+    {
+      "titulo": "Bundesarchiv B 145 Bild-P50284, Compiègne, Waffenstillstandvertrag, Huntziger.jpg",
+      "autor": "Carl Weinrother",
+      "licenca": "CC BY-SA 3.0 de",
+      "exige_credito": true,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_B_145_Bild-P50284,_Compi%C3%A8gne,_Waffenstillstandvertrag,_Huntziger.jpg",
+      "url_download": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Bundesarchiv_B_145_Bild-P50284%2C_Compi%C3%A8gne%2C_Waffenstillstandvertrag%2C_Huntziger.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largura": 796,
+      "altura": 524,
+      "id": "img06",
+      "arquivo": "imagens/img06.jpg",
+      "query": "File:Bundesarchiv B 145 Bild-P50284, Compiègne, Waffenstillstandvertrag, Huntziger.jpg"
+    },
+    {
+      "titulo": "Clairiere de l'Armistice 2 Compiegne.jpg",
+      "autor": "TCY",
+      "licenca": "CC BY-SA 3.0",
+      "exige_credito": true,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Clairiere_de_l%27Armistice_2_Compiegne.jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Clairiere_de_l%27Armistice_2_Compiegne.jpg/1920px-Clairiere_de_l%27Armistice_2_Compiegne.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 2816,
+      "altura": 2112,
+      "id": "img07",
+      "arquivo": "imagens/img07.jpg",
+      "query": "File:Clairiere de l'Armistice 2 Compiegne.jpg"
+    }
+  ]
 }
