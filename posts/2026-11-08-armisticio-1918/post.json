@@ -15,7 +15,7 @@
     {
       "imagem": "img02",
       "pb": true,
-      "texto_html": "O armistício foi assinado dentro de um vagão ferroviário, na floresta de Compiègne, na França. Por volta das <strong>5h</strong> de 11 nov 1918, o alemão Matthias Erzberger assinou diante do marechal Foch e do almirante britânico Wemyss."
+      "texto_html": "O armistício foi assinado dentro de um vagão ferroviário, na floresta de Compiègne, na França. Por volta das <strong>5h</strong> de 11 nov 1918, a delegação alemã chefiada por Matthias Erzberger assinou o texto com o marechal Foch e o almirante britânico Wemyss."
     },
     {
       "imagem": "img03",
@@ -24,34 +24,35 @@
       "factbox": {
         "texto": "5.000 canhões, 25.000 metralhadoras e 3.000 morteiros."
       },
-      "foco": "80% 40%"
+      "foco": "70% 55%"
     },
     {
       "imagem": "img04",
       "pb": true,
-      "texto_html": "O texto também ordenava que as tropas aliadas ocupassem a margem esquerda do Reno, com guarnições em Mainz, Coblença e Colônia. O <em>bloqueio naval</em> aliado continuou até o tratado de paz final."
+      "texto_html": "O texto também ordenava que as tropas aliadas ocupassem a margem esquerda do Reno, com guarnições em Mainz, Coblença e Colônia. O <em>bloqueio naval</em> aliado continuou até depois do Tratado de Versalhes, em 1919."
     },
     {
       "imagem": "img05",
       "pb": true,
-      "texto_html": "O cessar-fogo só valia às <strong>11h</strong>, e a guerra seguiu por seis horas. Segundo estimativas citadas pela imprensa britânica, milhares de homens morreram naquela manhã. O americano Henry Gunther é considerado o último soldado morto, às 10h59."
+      "texto_html": "O cessar-fogo só valia às <strong>11h</strong>, e a guerra seguiu por seis horas. Segundo o historiador Joseph Persico, cerca de 2.700 soldados morreram naquela manhã. O americano Henry Gunther é considerado o último soldado morto, às 10h59."
     },
     {
       "imagem": "img06",
       "pb": true,
       "titulo": "O vagão volta em 1940",
-      "texto_html": "Em 22 jun 1940, Hitler obrigou a França a assinar sua rendição no mesmo vagão, retirado do museu. O memorial da clareira foi destruído e a carruagem seguiu para Berlim, onde foi exibida a partir de 5 jul 1940."
+      "texto_html": "Em 22 jun 1940, Hitler obrigou a França a assinar o armistício no mesmo vagão, retirado do museu. O general Charles Huntziger assinou pelos franceses. O memorial da clareira foi destruído e a carruagem seguiu para Berlim, exibida a partir de 5 jul 1940."
     },
     {
       "imagem": "img07",
-      "texto_html": "A carruagem original foi destruída em 1945, provavelmente pela SS. Um vagão equivalente voltou à clareira no Dia do Armistício de 1950. Hoje o local é memorial, e há uma réplica no museu de Compiègne."
+      "texto_html": "A carruagem original foi destruída em 1945, provavelmente pela SS. Em 11 nov 1950, um vagão da mesma série, montado com os objetos originais, foi instalado na clareira. É ele que está exposto hoje no memorial de Compiègne.",
+      "foco": "85% 50%"
     }
   ],
   "cta": {
     "titulo": "Salve este post",
     "subtitulo": "e compartilhe com quem gosta de história"
   },
-  "legenda": "A Primeira Guerra acabou às 11h de 11 de novembro de 1918, mas a ordem de parar foi assinada por volta das 5h, num vagão de trem na floresta de Compiègne.\n\nNas seis horas entre uma coisa e outra, os combates continuaram e milhares de homens morreram, segundo estimativas da imprensa britânica. Os alemães assinaram um texto de 34 cláusulas, com entrega de armamento, ocupação do Reno e bloqueio naval mantido. Em 1940, Hitler fez a França assinar sua rendição no mesmo vagão.\n\nHá 108 anos, o armistício encerrava os combates na frente ocidental. Arraste para o lado e acompanhe a história do vagão.",
+  "legenda": "A Primeira Guerra acabou às 11h de 11 de novembro de 1918, mas a ordem de parar foi assinada por volta das 5h, num vagão de trem na floresta de Compiègne.\n\nNas seis horas entre uma coisa e outra, os combates continuaram e cerca de 2.700 soldados morreram naquela manhã, segundo o historiador Joseph Persico. Os alemães assinaram um texto de 34 cláusulas, com entrega de armamento, ocupação do Reno e bloqueio naval mantido. Em 1940, Hitler fez a França assinar o armistício no mesmo vagão.\n\nHá 108 anos, o armistício encerrava os combates na frente ocidental. Arraste para o lado e acompanhe a história do vagão.",
   "primeiro_comentario": "",
   "hashtags": [
     "#primeiraguerramundial",
@@ -219,7 +220,7 @@
     },
     {
       "titulo": "Bundesarchiv B 145 Bild-P50284, Compiègne, Waffenstillstandvertrag, Huntziger.jpg",
-      "autor": "Carl Weinrother",
+      "autor": "Bundesarchiv, B 145 Bild-P50284 / Carl Weinrother",
       "licenca": "CC BY-SA 3.0 de",
       "exige_credito": true,
       "url_origem": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_B_145_Bild-P50284,_Compi%C3%A8gne,_Waffenstillstandvertrag,_Huntziger.jpg",
