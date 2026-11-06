@@ -1,7 +1,7 @@
 {
   "slug": "2026-11-07-ucrania-abu-dhabi",
   "titulo_interno": "Ucrânia: rodada trilateral em Abu Dhabi, 10-11 nov",
-  "status": "rascunho",
+  "status": "aguardando_aprovacao",
   "pilar": "diplomacia",
   "categoria": "Diplomacia · Guerra na Ucrânia",
   "gancho_tipo": "contraste_tempo",
@@ -178,7 +178,17 @@
     "data_hora": "2026-11-07T06:01:00-03:00",
     "slot": "06:01"
   },
-  "metricool": {},
+  "metricool": {
+    "id": 418399367,
+    "uuid": "159765595518615718",
+    "sha_slides": "212879ef90e5cc81bdbf06846c0d55af4e5eccd3",
+    "planner_url": "https://app.metricool.com/planner/calendar?blogId=7647378&openWithPostUuid=159765595518615718",
+    "story": {
+      "id": 418399411,
+      "uuid": "-88148965916129816",
+      "planner_url": "https://app.metricool.com/planner/calendar?blogId=7647378&openWithPostUuid=-88148965916129816"
+    }
+  },
   "verificacao": "Fatos da pauta de 5 nov 2026, cada um com 2 fontes; fato 8 e parte da fonte única do fato 5 cortados.",
   "imagens": [
     {
