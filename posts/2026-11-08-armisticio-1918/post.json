@@ -8,8 +8,8 @@
   "capa": {
     "imagem": "img01",
     "pb": true,
-    "titulo_html": "A Primeira Guerra acabou às <span class=\"hl\">11h</span>. Mas a ordem de parar saiu às <span class=\"hl2\">5h</span>.",
-    "gancho": "Há 108 anos, um vagão de trem na floresta de Compiègne encerrou a guerra."
+    "titulo_html": "O vagão que <span class=\"hl\">encerrou</span> uma guerra e <span class=\"hl2\">humilhou</span> a França 22 anos depois",
+    "gancho": "Há 108 anos, a Primeira Guerra terminou num vagão em Compiègne. Em 1940, Hitler voltou ao mesmo lugar."
   },
   "slides": [
     {
