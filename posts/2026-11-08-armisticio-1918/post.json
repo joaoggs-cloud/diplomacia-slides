@@ -23,7 +23,8 @@
       "texto_html": "Os alemães receberam as condições em 8 nov e protestaram contra a dureza do texto. Tinham ordem de assinar o que fosse apresentado. O documento final tinha <strong>34 cláusulas</strong> e previa a entrega de armamento pesado.",
       "factbox": {
         "texto": "5.000 canhões, 25.000 metralhadoras e 3.000 morteiros."
-      }
+      },
+      "foco": "80% 40%"
     },
     {
       "imagem": "img04",
@@ -179,17 +180,16 @@
       "query": "File:Railroad car in which was signed the armistice, Nov. 11, 1918 - Library of Congress.jpg"
     },
     {
-      "titulo": "The Glade of the Armistice (153556).jpg",
-      "autor": "NASA Earth Observatory image by Wanmei Liang, using Landsat data from the U.S. Geological Survey. Story by Adam Voiland.",
+      "titulo": "Scenes in connection with the signing of the Armistice Nov. 11. Marshall Foch's train arrives at Compiegne. It was in this train that the Allied Commander in Chief held conference w - DPLA - ac9c1c3dbbcf2a9b71756dedcddf2a2d.jpg",
+      "autor": "Department of Defense. Department of the Army. Office of the Deputy Chief of Staff for Operations. U.S. Army Audiovisual Center. ca. 1974-5/15/1984",
       "licenca": "Public domain",
       "exige_credito": false,
-      "url_origem": "https://commons.wikimedia.org/wiki/File:The_Glade_of_the_Armistice_(153556).jpg",
-      "url_download": "https://upload.wikimedia.org/wikipedia/commons/7/79/The_Glade_of_the_Armistice_%28153556%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "largura": 1356,
-      "altura": 904,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Scenes_in_connection_with_the_signing_of_the_Armistice_Nov._11._Marshall_Foch%27s_train_arrives_at_Compiegne._It_was_in_this_train_that_the_Allied_Commander_in_Chief_held_conference_w_-_DPLA_-_ac9c1c3dbbcf2a9b71756dedcddf2a2d.jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Scenes_in_connection_with_the_signing_of_the_Armistice_Nov._11._Marshall_Foch%27s_train_arrives_at_Compiegne._It_was_in_this_train_that_the_Allied_Commander_in_Chief_held_conference_w_-_DPLA_-_ac9c1c3dbbcf2a9b71756dedcddf2a2d.jpg/1920px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 8651,
+      "altura": 5801,
       "id": "img03",
-      "arquivo": "imagens/img03.jpg",
-      "query": "File:Waffenstillstand 11.nov 1918.jpg"
+      "arquivo": "imagens/img03.jpg"
     },
     {
       "titulo": "Ludendorff Bridge 1918.jpg",
