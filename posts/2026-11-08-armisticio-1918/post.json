@@ -1,0 +1,87 @@
+{
+  "slug": "2026-11-08-armisticio-1918",
+  "titulo_interno": "Armistício de 11 nov 1918 — a ordem das 5h",
+  "status": "rascunho",
+  "pilar": "historia_militar",
+  "categoria": "Primeira Guerra · Europa",
+  "gancho_tipo": "contradicao",
+  "capa": {
+    "imagem": "img01",
+    "pb": true,
+    "titulo_html": "A Primeira Guerra acabou às <span class=\"hl\">11h</span>. Mas a ordem de parar saiu às <span class=\"hl2\">5h</span>.",
+    "gancho": "Há 108 anos, um vagão de trem na floresta de Compiègne encerrou a guerra."
+  },
+  "slides": [
+    {
+      "imagem": "img02",
+      "pb": true,
+      "texto_html": "O armistício foi assinado dentro de um vagão ferroviário, na floresta de Compiègne, na França. Por volta das <strong>5h</strong> de 11 nov 1918, o alemão Matthias Erzberger assinou diante do marechal Foch e do almirante britânico Wemyss."
+    },
+    {
+      "imagem": "img03",
+      "pb": true,
+      "texto_html": "Os alemães receberam as condições em 8 nov e protestaram contra a dureza do texto. Tinham ordem de assinar o que fosse apresentado. O documento final tinha <strong>34 cláusulas</strong> e previa a entrega de armamento pesado.",
+      "factbox": {
+        "texto": "5.000 canhões, 25.000 metralhadoras e 3.000 morteiros."
+      }
+    },
+    {
+      "imagem": "img04",
+      "pb": true,
+      "texto_html": "O texto também ordenava que as tropas aliadas ocupassem a margem esquerda do Reno, com guarnições em Mainz, Coblença e Colônia. O <em>bloqueio naval</em> aliado continuou até o tratado de paz final."
+    },
+    {
+      "imagem": "img05",
+      "pb": true,
+      "texto_html": "O cessar-fogo só valia às <strong>11h</strong>, e a guerra seguiu por seis horas. Segundo estimativas citadas pela imprensa britânica, milhares de homens morreram naquela manhã. O americano Henry Gunther é considerado o último soldado morto, às 10h59."
+    },
+    {
+      "imagem": "img06",
+      "pb": true,
+      "titulo": "O vagão volta em 1940",
+      "texto_html": "Em 22 jun 1940, Hitler obrigou a França a assinar sua rendição no mesmo vagão, retirado do museu. O memorial da clareira foi destruído e a carruagem seguiu para Berlim, onde foi exibida a partir de 5 jul 1940."
+    },
+    {
+      "imagem": "img07",
+      "texto_html": "A carruagem original foi destruída em 1945, provavelmente pela SS. Um vagão equivalente voltou à clareira no Dia do Armistício de 1950. Hoje o local é memorial, e há uma réplica no museu de Compiègne."
+    }
+  ],
+  "cta": {
+    "titulo": "Salve este post",
+    "subtitulo": "e compartilhe com quem gosta de história"
+  },
+  "legenda": "A Primeira Guerra acabou às 11h de 11 de novembro de 1918, mas a ordem de parar foi assinada por volta das 5h, num vagão de trem na floresta de Compiègne.\n\nNas seis horas entre uma coisa e outra, os combates continuaram e milhares de homens morreram, segundo estimativas da imprensa britânica. Os alemães assinaram um texto de 34 cláusulas, com entrega de armamento, ocupação do Reno e bloqueio naval mantido. Em 1940, Hitler fez a França assinar sua rendição no mesmo vagão.\n\nHá 108 anos, o armistício encerrava os combates na frente ocidental. Arraste para o lado e acompanhe a história do vagão.",
+  "primeiro_comentario": "",
+  "hashtags": [
+    "#primeiraguerramundial",
+    "#armisticio",
+    "#1918",
+    "#compiegne",
+    "#historia",
+    "#diadoarmisticio"
+  ],
+  "alt_text": "Carrossel sobre o armistício de 11 de novembro de 1918, assinado num vagão em Compiègne, e o uso do mesmo vagão em 1940.",
+  "fontes": [
+    {"nome": "Long Long Trail — The Armistice and the occupation of the Rhine", "url": "https://www.longlongtrail.co.uk/battles/the-armistice-and-the-occupation-of-the-rhine/"},
+    {"nome": "History Learning Site — Armistice terms", "url": "https://historylearning.com/world-war-one/armistice-terms"},
+    {"nome": "Primary Documents — Armistice terms", "url": "https://bac-lac.wayback.archive-it.org/web/20171107155735/http:/firstworldwar.com/source/armisticeterms.htm"},
+    {"nome": "Doughboy Foundation — The last man to die in WWI", "url": "https://doughboy.org/the-last-man-to-die-in-world-war-i/"},
+    {"nome": "History Extra — The Compiègne Wagon", "url": "https://www.history.co.uk/article/the-compi%25C3%25A8gne-wagon-one-train-carriage-two-peace-treaties"},
+    {"nome": "Lonely Planet — Clairière de l'Armistice", "url": "https://www.lonelyplanet.com/points-of-interest/memorial-de-larmistice/1234098"}
+  ],
+  "busca_imagens": [
+    {"id": "img01", "query": "File:Armisticetrain.jpg", "pb": true, "alternativas": ["File:Armisticetrain (slight crop).jpg"]},
+    {"id": "img02", "query": "File:Railroad car in which was signed the armistice, Nov. 11, 1918 - Library of Congress.jpg", "pb": true, "alternativas": ["File:Foch train.jpg"]},
+    {"id": "img03", "query": "File:Waffenstillstand 11.nov 1918.jpg", "pb": true, "alternativas": ["Armistice 1918 Compiègne signing"]},
+    {"id": "img04", "query": "File:Ludendorff Bridge 1918.jpg", "pb": true, "alternativas": ["British Lancers crossing Rhine bridge Cologne 1918"]},
+    {"id": "img05", "query": "Western Front 11 November 1918 soldiers celebrate", "pb": true, "alternativas": ["Armistice Day 1918 soldiers", "American soldiers Meuse-Argonne 1918"]},
+    {"id": "img06", "query": "File:Bundesarchiv B 145 Bild-P50284, Compiègne, Waffenstillstandvertrag, Huntziger.jpg", "pb": true, "alternativas": ["File:William Shirer at Compiègne France 1940 06 22.jpg"]},
+    {"id": "img07", "query": "File:Clairiere de l'Armistice 2 Compiegne.jpg", "alternativas": ["File:Rethondes Wagon de l'Armistice.jpg"]}
+  ],
+  "agendamento": {
+    "data_hora": "2026-11-08T06:01:00-03:00",
+    "slot": "06:01"
+  },
+  "metricool": {},
+  "verificacao": "Fatos da pauta (2 fontes por item); 2.738 mortos omitido, apenas atribuição genérica."
+}
