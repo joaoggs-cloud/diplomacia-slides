@@ -1,3 +1,7 @@
+APROVADO (coordenador, 6 nov 2026, rodada 2): as 4 correções obrigatórias da rodada 1 foram conferidas no post.json do SHA b918696 (signatários do slide 2, crédito Bundesarchiv no img06, Huntziger no slide 6, vagão único de 1950 no slide 7). As opcionais (Persico, Versalhes 1919, 'assinar o armistício') também foram aplicadas, e o crédito do slide 6 cabe inteiro.
+
+--- Rodada 1 ---
+
 REPROVADO
 
 Revisão de `posts/2026-11-08-armisticio-1918` no SHA c67eb07 (revisor, 06 nov 2026). Os problemas são de correção pontual (rodada 1).
