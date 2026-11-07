@@ -1,0 +1,82 @@
+{
+  "slug": "2026-11-09-muro-de-berlim-fatos",
+  "titulo_interno": "8 fatos sobre o Muro de Berlim — 37 anos da queda",
+  "status": "rascunho",
+  "pilar": "fatos_rapidos",
+  "categoria": "Guerra Fria · Alemanha",
+  "gancho_tipo": "curiosidade_efemeride",
+  "usar_hashtags_base": true,
+  "capa": {
+    "imagem": "img01",
+    "titulo_html": "Uma frase improvisada derrubou o <span class=\"hl\">Muro de Berlim</span>",
+    "gancho": "Há 37 anos, uma resposta numa coletiva abriu a fronteira mais vigiada da Guerra Fria. 8 fatos sobre o Muro."
+  },
+  "slides": [
+    {
+      "imagem": "img02",
+      "texto_html": "O Muro nasceu numa madrugada. Em <strong>13 ago 1961</strong>, a Alemanha Oriental fechou a fronteira com Berlim Ocidental, primeiro com arame farpado e, nos dias seguintes, com <em>blocos e paredes de concreto</em>."
+    },
+    {
+      "imagem": "img03",
+      "texto_html": "Com o tempo, virou um sistema. A barreira somava cerca de <strong>155 km</strong>, dos quais 43 km cortavam a cidade ao meio, com <em>302 torres de vigia</em>."
+    },
+    {
+      "imagem": "img04",
+      "texto_html": "Em <strong>out 1961</strong>, tanques dos EUA e da União Soviética ficaram frente a frente no Checkpoint Charlie, a poucas dezenas de metros um do outro. A disputa era sobre quem fiscalizava os documentos de diplomatas americanos. Terminou <em>sem tiros</em>, com negociação nos bastidores."
+    },
+    {
+      "imagem": "img05",
+      "texto_html": "Entre 1961 e 1989, morreram <strong>pelo menos 140 pessoas</strong> em ligação com o regime de fronteira da Alemanha Oriental, segundo a Fundação do Muro de Berlim. Muitas morreram tentando atravessar.",
+      "factbox": {
+        "texto": "Fontes antigas citam 136 ou 138 mortos. O número de 140 vem de pesquisa revisada em 2017."
+      }
+    },
+    {
+      "imagem": "img06",
+      "texto_html": "Antes da queda, a fuga já corria por outro lado. A Hungria começou a desmontar a cerca com a Áustria em <strong>2 mai 1989</strong>. No Piquenique Pan-Europeu de <strong>19 ago 1989</strong>, em Sopron, <em>centenas de alemães orientais</em> cruzaram a fronteira."
+    },
+    {
+      "imagem": "img07",
+      "texto_html": "Em <strong>9 nov 1989</strong>, por volta das 18h, o porta-voz do partido, <strong>Günter Schabowski</strong>, leu numa coletiva a nova regra de viagens. Perguntado quando valeria, respondeu: <em>“ab sofort”</em>, a partir de agora. Os guardas de fronteira não tinham sido avisados."
+    },
+    {
+      "imagem": "img08",
+      "texto_html": "Na passagem da Bornholmer Straße, o tenente-coronel <strong>Harald Jäger</strong>, sem ordens claras, mandou levantar a cancela por volta das 23h30. Cerca de <em>20 mil pessoas</em> cruzaram sem controle de documentos."
+    },
+    {
+      "imagem": "img09",
+      "texto_html": "A reunificação veio em menos de 11 meses. O tratado foi assinado em <strong>31 ago 1990</strong> e, em <strong>3 out 1990</strong>, a Alemanha Oriental aderiu à República Federal. A demolição do Muro, porém, levou muito mais tempo."
+    }
+  ],
+  "cta": {
+    "titulo": "Salve este post",
+    "subtitulo": "e compartilhe com quem gosta de história"
+  },
+  "legenda": "Uma resposta improvisada numa coletiva de imprensa pôs fim a 28 anos de Muro.\n\nNa noite de 9 de novembro de 1989, o porta-voz da Alemanha Oriental disse que as novas regras de viagem valiam \"a partir de agora\". Os guardas não sabiam de nada, e a multidão foi até a fronteira. Horas depois, a cancela da Bornholmer Straße foi levantada.\n\nHá 37 anos, a abertura do Muro marcava o começo do fim da divisão da Alemanha. Antes disso, o concreto, as torres de vigia e pelo menos 140 mortes definiram a vida em Berlim.\n\nArraste para o lado e veja 8 fatos sobre o Muro de Berlim.",
+  "primeiro_comentario": "",
+  "hashtags": ["#murodeberlim", "#guerrafria", "#alemanha", "#historia", "#queda1989", "#reunificacaoalema"],
+  "alt_text": "Carrossel com 8 fatos sobre o Muro de Berlim, da construção em 1961 à queda em 1989, com fotos históricas.",
+  "fontes": [
+    {"nome": "Stiftung Berliner Mauer", "url": "https://www.stiftung-berliner-mauer.de/en/topics/berlin-wall"},
+    {"nome": "Office of the Historian (Dep. de Estado dos EUA)", "url": "https://history.state.gov/milestones/1953-1960/berlin-crises"},
+    {"nome": "Chronik der Mauer", "url": "https://www.chronik-der-mauer.de/en/chronicle/_year1989/_month11/?month=11&year=1989&opennid=179496&moc=1"},
+    {"nome": "Library of Congress", "url": "https://blogs.loc.gov/international-collections/2019/11/the-rise-and-fall-of-the-berlin-wall/"},
+    {"nome": "Berlin.de", "url": "https://www.berlin.de/en/attractions-and-sights/3561866-3104052-berlin-wall.en.html"},
+    {"nome": "NPR", "url": "https://www.npr.org/sections/parallels/2014/11/06/361785478/the-man-who-disobeyed-his-boss-and-opened-the-berlin-wall"},
+    {"nome": "Britannica", "url": "https://www.britannica.com/topic/German-reunification"}
+  ],
+  "busca_imagens": [
+    {"id": "img01", "query": "File:West and East Germans at the Brandenburg Gate in 1989.jpg", "alternativas": ["File:Berlin 1989, Fall der Mauer, Chute du mur 01.jpg", "File:Berlin 1989, Fall der Mauer, Chute du mur 08.jpg"]},
+    {"id": "img02", "query": "File:BerlinWall-BrandenburgGate.jpg", "alternativas": ["File:BerlinWall.jpg", "Berlin Wall 1961 construction"]},
+    {"id": "img03", "query": "File:BerlinWall.jpg", "alternativas": ["Berlin Wall watchtower border strip", "Berlin Wall 1980s"]},
+    {"id": "img04", "query": "File:US Army tanks face off against Soviet tanks, Berlin 1961.jpg", "pb": true, "alternativas": ["File:Checkpoint Charlie 1961-10-27.jpg"]},
+    {"id": "img05", "query": "File:Mauerspecht.jpg", "alternativas": ["Berlin Wall memorial crosses", "Berlin Wall victims memorial"]},
+    {"id": "img06", "query": "Pan-European Picnic Sopron 1989", "alternativas": ["Hungary Austria border fence 1989", "File:Berlin 1989, Fall der Mauer, Chute du mur 18.jpg"]},
+    {"id": "img07", "query": "Günter Schabowski press conference 9 November 1989", "alternativas": ["Category:Günter Schabowski", "File:Berlin 1989, Fall der Mauer, Chute du mur 25.jpg"]},
+    {"id": "img08", "query": "File:A crowd of West German citizens gathers at the newly created opening in the Berlin Wall at Potsdamer Platz.jpg", "alternativas": ["Bornholmer Strasse 1989 border crossing", "File:Berlin 1989, Fall der Mauer, Chute du mur 08.jpg"]},
+    {"id": "img09", "query": "File:Crane removed part of Wall Brandenburg Gate.jpg", "alternativas": ["File:Politicians at Brandenburg Gate opening 1989.JPEG"]}
+  ],
+  "agendamento": {"data_hora": "2026-11-09T06:01:00-03:00", "slot": "06:01"},
+  "ia_gerado": false,
+  "metricool": {}
+}
