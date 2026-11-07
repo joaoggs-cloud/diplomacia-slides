@@ -1,7 +1,7 @@
 {
   "slug": "2026-11-08-armisticio-1918",
   "titulo_interno": "Armistício de 11 nov 1918 — a ordem das 5h",
-  "status": "aguardando_aprovacao",
+  "status": "agendado",
   "pilar": "historia_militar",
   "categoria": "Primeira Guerra · Europa",
   "gancho_tipo": "contradicao",
@@ -152,12 +152,12 @@
     "slot": "06:01"
   },
   "metricool": {
-    "id": 419458550,
+    "id": 419850840,
     "uuid": "9205281421980684207",
     "sha_slides": "5b8101c149f4cbfdd523566975281ddba87c8d58",
     "planner_url": "https://app.metricool.com/planner/calendar?blogId=7647378&openWithPostUuid=9205281421980684207",
     "story": {
-      "id": 419458594,
+      "id": 419850871,
       "uuid": "2315254054747459158",
       "planner_url": "https://app.metricool.com/planner/calendar?blogId=7647378&openWithPostUuid=2315254054747459158",
       "sha_slides": "5b8101c149f4cbfdd523566975281ddba87c8d58"
