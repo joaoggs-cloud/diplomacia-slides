@@ -104,11 +104,11 @@
     },
     {
       "id": "img02",
-      "query": "File:BerlinWall-BrandenburgGate.jpg",
+      "query": "File:East Germans Fortify Border - Flickr - The Central Intelligence Agency.jpg",
       "alternativas": [
-        "File:BerlinWall.jpg",
-        "Berlin Wall 1961 construction"
-      ]
+        "File:Armed Border Guards - Flickr - The Central Intelligence Agency.jpg"
+      ],
+      "pb": true
     },
     {
       "id": "img03",
@@ -128,7 +128,7 @@
     },
     {
       "id": "img05",
-      "query": "File:Mauerspecht.jpg",
+      "query": "File:Mémorial du mur de Berlin (6330924243).jpg",
       "alternativas": [
         "Berlin Wall memorial crosses",
         "Berlin Wall victims memorial"
@@ -144,11 +144,11 @@
     },
     {
       "id": "img07",
-      "query": "Günter Schabowski press conference 9 November 1989",
+      "query": "File:Bundesarchiv Bild 183-1989-1109-030, Berlin, Schabowski auf Pressekonferenz.jpg",
       "alternativas": [
-        "Category:Günter Schabowski",
-        "File:Berlin 1989, Fall der Mauer, Chute du mur 25.jpg"
-      ]
+        "Category:Günter Schabowski's press conference of 9 November 1989"
+      ],
+      "pb": true
     },
     {
       "id": "img08",
@@ -187,19 +187,6 @@
       "query": "File:West and East Germans at the Brandenburg Gate in 1989.jpg"
     },
     {
-      "titulo": "BerlinWall-BrandenburgGate.jpg",
-      "autor": "Sue Ream, photographer (San Francisco, California)",
-      "licenca": "CC BY 3.0",
-      "exige_credito": true,
-      "url_origem": "https://commons.wikimedia.org/wiki/File:BerlinWall-BrandenburgGate.jpg",
-      "url_download": "https://upload.wikimedia.org/wikipedia/commons/2/25/BerlinWall-BrandenburgGate.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "largura": 1119,
-      "altura": 1663,
-      "id": "img02",
-      "arquivo": "imagens/img02.jpg",
-      "query": "File:BerlinWall-BrandenburgGate.jpg"
-    },
-    {
       "titulo": "BerlinWall.jpg",
       "autor": "Stefan Richter",
       "licenca": "CC BY-SA 3.0",
@@ -226,19 +213,6 @@
       "query": "File:US Army tanks face off against Soviet tanks, Berlin 1961.jpg"
     },
     {
-      "titulo": "Mauerspecht.jpg",
-      "autor": "Havelbaude",
-      "licenca": "CC BY-SA 3.0",
-      "exige_credito": true,
-      "url_origem": "https://commons.wikimedia.org/wiki/File:Mauerspecht.jpg",
-      "url_download": "https://upload.wikimedia.org/wikipedia/commons/0/04/Mauerspecht.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "largura": 1528,
-      "altura": 1040,
-      "id": "img05",
-      "arquivo": "imagens/img05.jpg",
-      "query": "File:Mauerspecht.jpg"
-    },
-    {
       "titulo": "Paneuropäisches Picknick, grenzübergang - hungary.jpg",
       "autor": "Lysippos",
       "licenca": "CC0",
@@ -250,19 +224,6 @@
       "id": "img06",
       "arquivo": "imagens/img06.jpg",
       "query": "Pan-European Picnic Sopron 1989"
-    },
-    {
-      "titulo": "Gedenktafel Anton-Wilhelm-Amo-Str 36 (Mitte) Reisefreiheit.jpg",
-      "autor": "OTFW, Berlin",
-      "licenca": "CC BY-SA 3.0",
-      "exige_credito": true,
-      "url_origem": "https://commons.wikimedia.org/wiki/File:Gedenktafel_Anton-Wilhelm-Amo-Str_36_(Mitte)_Reisefreiheit.jpg",
-      "url_download": "https://upload.wikimedia.org/wikipedia/commons/0/04/Gedenktafel_Anton-Wilhelm-Amo-Str_36_%28Mitte%29_Reisefreiheit.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "largura": 1600,
-      "altura": 3500,
-      "id": "img07",
-      "arquivo": "imagens/img07.jpg",
-      "query": "Günter Schabowski press conference 9 November 1989"
     },
     {
       "titulo": "A crowd of West German citizens gathers at the newly created opening in the Berlin Wall at Potsdamer Platz.jpg",
