@@ -9,7 +9,7 @@
   "capa": {
     "imagem": "img01",
     "titulo_html": "Uma frase improvisada derrubou o <span class=\"hl\">Muro de Berlim</span>",
-    "gancho": "Há 37 anos, uma resposta numa coletiva abriu a fronteira mais vigiada da Guerra Fria. 8 fatos sobre o Muro."
+    "gancho": "Há 37 anos, uma resposta numa coletiva abriu uma das fronteiras mais vigiadas da Guerra Fria. 8 fatos sobre o Muro."
   },
   "slides": [
     {
@@ -37,7 +37,7 @@
     },
     {
       "imagem": "img07",
-      "texto_html": "Em <strong>9 nov 1989</strong>, por volta das 18h, o porta-voz do partido, <strong>Günter Schabowski</strong>, leu numa coletiva a nova regra de viagens. Perguntado quando valeria, respondeu: <em>“ab sofort”</em>, a partir de agora. Os guardas de fronteira não tinham sido avisados."
+      "texto_html": "Em <strong>9 nov 1989</strong>, perto das 19h, o porta-voz do partido, <strong>Günter Schabowski</strong>, leu numa coletiva a nova regra de viagens. Perguntado quando valeria, respondeu: <em>“ab sofort”</em>, a partir de agora. Os guardas de fronteira não tinham sido avisados."
     },
     {
       "imagem": "img08",
@@ -52,7 +52,7 @@
     "titulo": "Salve este post",
     "subtitulo": "e compartilhe com quem gosta de história"
   },
-  "legenda": "Uma resposta improvisada numa coletiva de imprensa pôs fim a 28 anos de Muro.\n\nNa noite de 9 de novembro de 1989, o porta-voz da Alemanha Oriental disse que as novas regras de viagem valiam \"a partir de agora\". Os guardas não sabiam de nada, e a multidão foi até a fronteira. Horas depois, a cancela da Bornholmer Straße foi levantada.\n\nHá 37 anos, a abertura do Muro marcava o começo do fim da divisão da Alemanha. Antes disso, o concreto, as torres de vigia e pelo menos 140 mortes definiram a vida em Berlim.\n\nArraste para o lado e veja 8 fatos sobre o Muro de Berlim.",
+  "legenda": "Uma resposta improvisada numa coletiva de imprensa pôs fim a 28 anos de Muro.\n\nNa noite de 9 de novembro de 1989, o porta-voz do partido que governava a Alemanha Oriental disse que as novas regras de viagem valiam \"a partir de agora\". Os guardas não sabiam de nada, e a multidão foi até a fronteira. Horas depois, a cancela da Bornholmer Straße foi levantada.\n\nHá 37 anos, a abertura do Muro marcava o começo do fim da divisão da Alemanha. Antes disso, o concreto, as torres de vigia e pelo menos 140 mortes definiram a vida em Berlim.\n\nArraste para o lado e veja 8 fatos sobre o Muro de Berlim.",
   "primeiro_comentario": "",
   "hashtags": [
     "#murodeberlim",
@@ -96,10 +96,11 @@
   "busca_imagens": [
     {
       "id": "img01",
-      "query": "File:West and East Germans at the Brandenburg Gate in 1989.jpg",
+      "query": "File:Berlin 1989, Fall der Mauer, Chute du mur 01.jpg",
       "alternativas": [
-        "File:Berlin 1989, Fall der Mauer, Chute du mur 01.jpg",
-        "File:Berlin 1989, Fall der Mauer, Chute du mur 08.jpg"
+        "File:Berlin 1989, Fall der Mauer, Chute du mur 08.jpg",
+        "File:Berlin 1989, Fall der Mauer, Chute du mur 18.jpg",
+        "File:Berlin 1989, Fall der Mauer, Chute du mur 25.jpg"
       ]
     },
     {
@@ -173,19 +174,6 @@
   "ia_gerado": false,
   "metricool": {},
   "imagens": [
-    {
-      "titulo": "West and East Germans at the Brandenburg Gate in 1989.jpg",
-      "autor": "Unknown photographer, Reproduction by Lear 21 at English Wikipedia.",
-      "licenca": "CC BY-SA 3.0",
-      "exige_credito": true,
-      "url_origem": "https://commons.wikimedia.org/wiki/File:West_and_East_Germans_at_the_Brandenburg_Gate_in_1989.jpg",
-      "url_download": "https://upload.wikimedia.org/wikipedia/commons/1/1c/West_and_East_Germans_at_the_Brandenburg_Gate_in_1989.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "largura": 661,
-      "altura": 498,
-      "id": "img01",
-      "arquivo": "imagens/img01.jpg",
-      "query": "File:West and East Germans at the Brandenburg Gate in 1989.jpg"
-    },
     {
       "titulo": "East Germans Fortify Border - Flickr - The Central Intelligence Agency.jpg",
       "autor": "The Central Intelligence Agency",
