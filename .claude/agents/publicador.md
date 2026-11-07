@@ -29,9 +29,17 @@ posts/<slug> --sha <SHA> --rascunho` → `createScheduledPost`. Grave em
 `post.json → metricool.story` (`id`, `uuid`). Na aprovação, o Story também vai para
 `draft: false` (a aprovação do post vale para ele).
 
+## Reel (seg, qua e sex)
+Se existir `posts/<slug>/reel/reel.mp4`: confira o HTTP 200 de `.../<SHA>/posts/<slug>/reel/reel.mp4`
+e `.../reel/capa.jpg`, rode `python3 scripts/metricool.py payload-reel posts/<slug> --sha <SHA>
+--rascunho` → `createScheduledPost`. Grave em `post.json → metricool.reel` (`id`, `uuid`).
+Sai às 19:01 do mesmo dia do carrossel, como `TRIAL_REEL` (mostrado primeiro a quem não
+segue). A aprovação do post vale para o Reel, desde que ele tenha sido mostrado ao João.
+
 ## Agendar após aprovação
 `getScheduledPosts` (janela que cubra a data) → `updateScheduledPost` com o mesmo info,
-`draft: false`, `autoPublish: true` (se a data passou, use `proximo-horario`). Status
+`draft: false`, `autoPublish: true` (se a data passou, use `proximo-horario`); o mesmo
+para o Story e o Reel do post. Status
 `agendado`, grave o novo `id`, commit + push.
 
 ## Confirmar publicação

@@ -32,7 +32,14 @@ ou o pedido de ajuste do João.
    com o título, texto cortado ou foto com gesto/símbolo que possa ser mal interpretado:
    troque (candidatos, `--so imgNN` ou outro `File:`) e renderize de novo. Use `"foco"`
    no slide para ajustar o enquadramento.
-5. Commit + push (`[skip ci]` se você mesmo renderizou).
+5. **Reel** (seg/qua/sex — `config/estrategia.json → reels`; o coordenador avisa): escreva
+   `reel.cenas` no `post.json` (3 a 7 cenas `{imagem, texto_html}`, **até 18 palavras**
+   cada, frases que se entendem sem o carrossel, mesmos fatos dos slides; `<em>` deixa a
+   palavra dourada) e, se quiser, `reel.gancho` (linha fina da capa) e `reel.legenda`
+   (1º parágrafo da legenda do Reel). Rode `python3 scripts/reel.py posts/<slug>` e
+   **olhe cada `reel/cenas/NN.jpg`**: texto inteiro, legível, foto coerente. Foto larga
+   entra em moldura (normal); se ficar ruim, troque a imagem da cena ou use `"foco"`.
+6. Commit + push (`[skip ci]` se você mesmo renderizou).
 
 Responda ao coordenador com o slug, o SHA do commit e uma lista do que verificou/trocou.
 

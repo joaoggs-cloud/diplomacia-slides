@@ -9,6 +9,7 @@ Uso:
     python3 scripts/metricool.py proximo-horario
     python3 scripts/metricool.py payload posts/<slug> --sha <commit> [--rascunho]
     python3 scripts/metricool.py payload-story posts/<slug> --sha <commit> [--rascunho]
+    python3 scripts/metricool.py payload-reel posts/<slug> --sha <commit> [--rascunho]
 """
 import argparse
 import html
@@ -206,6 +207,73 @@ def payload_story(post_dir, sha, rascunho, atraso_min=2):
     return {"blogId": est["metricool"]["blog_id"], "date": quando.isoformat(), "info": info}
 
 
+def imagens_do_reel(post):
+    reel = post.get("reel", {})
+    if reel.get("cenas"):
+        return {post["capa"]["imagem"], *(c["imagem"] for c in reel["cenas"])}
+    return {post["capa"]["imagem"], *(s.get("imagem") for s in post["slides"][:7])}
+
+
+def legenda_reel(post, est):
+    """Legenda do Reel: `reel.legenda` ou o 1º parágrafo da legenda do carrossel,
+    mais o convite para o carrossel no perfil. Mesmas regras (sem emoji, sem pergunta)."""
+    reel = post.get("reel", {})
+    abertura = reel.get("legenda") or post["legenda"].strip().split("\n\n")[0]
+    copia = dict(post)
+    copia["legenda"] = abertura.strip() + "\n\nO carrossel completo, com todos os detalhes, está no perfil."
+    copia["imagens"] = [i for i in post.get("imagens", []) if i["id"] in imagens_do_reel(post)]
+    # Com `imagens` filtrada, os créditos citam só as fotos que aparecem no Reel.
+    return montar_legenda(copia, est)
+
+
+def quando_reel(post, est):
+    cfg = est.get("reels", {})
+    if post.get("reel", {}).get("data_hora"):
+        return datetime.fromisoformat(post["reel"]["data_hora"])
+    base = datetime.fromisoformat(post["agendamento"]["data_hora"])
+    hora, minuto = map(int, cfg.get("horario", "19:01").split(":"))
+    return base.replace(hour=hora, minute=minuto, second=0)
+
+
+def payload_reel(post_dir, sha, rascunho):
+    """Reel do carrossel (scripts/reel.py). Por padrão sai como TRIAL_REEL: o Instagram
+    mostra primeiro para quem NÃO segue a página, que é o objetivo (diagnóstico de 7 nov)."""
+    est = carregar_estrategia()
+    post = json.loads((post_dir / "post.json").read_text(encoding="utf-8"))
+    repo = est["repositorio"]
+    rel = post_dir.resolve().relative_to(RAIZ).as_posix()
+    if not (post_dir / "reel" / "reel.mp4").exists():
+        sys.exit(f"{post_dir}/reel/reel.mp4 não existe — rode scripts/reel.py antes.")
+    base = f"https://raw.githubusercontent.com/{repo['owner']}/{repo['repo']}/{sha}/{rel}/reel"
+    quando = quando_reel(post, est)
+    tipo = post.get("reel", {}).get("tipo") or est.get("reels", {}).get("tipo", "TRIAL_REEL")
+    ig = {"type": tipo, "collaborators": [], "showReelOnFeed": tipo == "REEL",
+          "isAiGenerated": post.get("ia_gerado", False)}
+    musica = post.get("reel", {}).get("musica")
+    if musica:
+        # Só funciona em conta comercial ligada a uma Página do Facebook; o Metricool
+        # resolve o termo de busca para o id do áudio ou devolve os candidatos.
+        ig["audioConfiguration"] = {"audioId": musica, "audioVolume": 60, "videoVolume": 100}
+    info = {
+        "autoPublish": True,
+        "draft": rascunho,
+        "descendants": [],
+        "firstCommentText": "",
+        "hasNotReadNotes": False,
+        "media": [f"{base}/reel.mp4"],
+        "videoThumbnailUrl": f"{base}/capa.jpg",
+        "mediaAltText": [textos_alternativos(post, 1)[0]],
+        "providers": [{"network": "instagram"}],
+        "publicationDate": {"dateTime": quando.strftime("%Y-%m-%dT%H:%M:%S"),
+                            "timezone": est["metricool"]["timezone"]},
+        "shortener": False,
+        "smartLinkData": {"ids": []},
+        "text": legenda_reel(post, est),
+        "instagramData": ig,
+    }
+    return {"blogId": est["metricool"]["blog_id"], "date": quando.isoformat(), "info": info}
+
+
 def main():
     ap = argparse.ArgumentParser()
     sub = ap.add_subparsers(dest="cmd", required=True)
@@ -219,6 +287,10 @@ def main():
     ps.add_argument("post_dir")
     ps.add_argument("--sha", required=True, help="commit já enviado que contém story/story.jpg")
     ps.add_argument("--rascunho", action="store_true")
+    pr = sub.add_parser("payload-reel")
+    pr.add_argument("post_dir")
+    pr.add_argument("--sha", required=True, help="commit já enviado que contém reel/reel.mp4 e reel/capa.jpg")
+    pr.add_argument("--rascunho", action="store_true")
     args = ap.parse_args()
 
     if args.cmd == "proximo-horario":
@@ -226,6 +298,8 @@ def main():
         print(json.dumps({"data_hora": dt.isoformat(), "slot": slot}, ensure_ascii=False))
     elif args.cmd == "avancar-slot":
         avancar_slot()
+    elif args.cmd == "payload-reel":
+        print(json.dumps(payload_reel(Path(args.post_dir), args.sha, args.rascunho), ensure_ascii=False, indent=2))
     elif args.cmd == "payload-story":
         print(json.dumps(payload_story(Path(args.post_dir), args.sha, args.rascunho), ensure_ascii=False, indent=2))
     else:

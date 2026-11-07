@@ -86,8 +86,24 @@
     {
       "data": "2026-11-02",
       "motivo": "Análise semanal: 15 posts medidos, alcance médio 6,5 por post, 21 seguidores (22 em 24/10). Amostra ainda pequena demais; frequência mantida em 7/semana (mínimo) e pesos_pilares inalterados. Horário 06:01 fixo mantido; Metricool segue sem dados de melhor horário (tudo zerado). Alerta: posts de 30/10 (Bomba Tsar) e 31/10 (Desafios fiscais) e Stories de 29, 30 e 31/10 constam como ERROR no Metricool, sem publicação."
+    },
+    {
+      "data": "2026-11-07",
+      "motivo": "Pedido do João após o diagnóstico de seguidores: Reels a partir dos carrosséis, 3 por semana (seg, qua, sex) às 19:01 do mesmo dia do post, como Reel de teste (TRIAL_REEL, mostrado primeiro a quem não segue). Carrossel diário às 06:01 continua igual."
     }
   ],
   "frequencia_minima": 7,
-  "layout": "moderno"
+  "layout": "moderno",
+  "reels": {
+    "_sobre": "Reels gerados dos carrosséis (scripts/reel.py) para alcançar quem não segue a página. Diagnóstico de 7 nov: alcance médio de 6 contas por post e nenhum Reel. O João pode mudar dias, horário e tipo.",
+    "ativo": true,
+    "por_semana": 3,
+    "dias": [
+      "seg",
+      "qua",
+      "sex"
+    ],
+    "horario": "19:01",
+    "tipo": "TRIAL_REEL"
+  }
 }

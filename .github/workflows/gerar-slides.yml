@@ -65,6 +65,8 @@ jobs:
             [ -f "$d/post.json" ] || continue
             python3 scripts/imagens.py "$d" --candidatos 3 || echo "::warning::faltou imagem em $d"
             python3 scripts/render.py "$d"
+            # Reel (seg/qua/sex, ver config/estrategia.json → reels); ffmpeg já vem no runner.
+            python3 scripts/reel.py "$d" --se-dia-de-reel || echo "::warning::Reel não gerado em $d"
           done
 
       - name: Commit

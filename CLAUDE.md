@@ -16,7 +16,8 @@ depois de um "aprovar".
 | `posts/<AAAA-MM-DD-slug>/post.json` | Roteiro completo do post: slides, legenda, fontes, buscas de imagem, agendamento, status. |
 | `scripts/imagens.py` | Busca e baixa imagens livres (domínio público / CC0 / CC BY / CC BY-SA) no Wikimedia Commons e registra os créditos. |
 | `scripts/render.py` | Gera `carrossel.html` + `slides/01.jpg…`. Layout padrão **moderno** (`template_moderno.html`, 4:5 = 1080×1350, aprovado pelo João em 26/10); o antigo quadrado (`template.html`) fica como `--layout classico`. |
-| `scripts/metricool.py` | `proximo-horario` (data/slot da vez), `payload` (JSON para o Metricool), `avancar-slot`. |
+| `scripts/reel.py` | Gera o Reel 9:16 (`reel/reel.mp4`, `reel/capa.jpg`, `reel/cenas/NN.jpg`) a partir do carrossel. |
+| `scripts/metricool.py` | `proximo-horario` (data/slot da vez), `payload` / `payload-story` / `payload-reel` (JSON para o Metricool), `avancar-slot`. |
 | `scripts/analise.py` | Score de engajamento por post, por horário, dia e pilar; recomenda e aplica ajustes. |
 | `.github/workflows/gerar-slides.yml` | Plano B: se a sessão não alcança o Wikimedia, o GitHub baixa as imagens e renderiza ao receber o `post.json`. |
 | `analytics/` | Dados brutos do Metricool (`dados/`) e relatórios semanais. |
@@ -137,6 +138,7 @@ referência dos agentes.
    `python3 scripts/metricool.py avancar-slot`, commit + push.
 9. **Pedir aprovação.** Envie ao João (SendUserFile, `display: render`) a capa e
    os slides, e escreva: tema, data/hora sugerida, legenda completa e fontes.
+   Em dia de Reel, mande também o `reel/reel.mp4` e diga o horário dele.
    Termine com: **"Responda APROVAR, AJUSTAR (diga o quê) ou DESCARTAR."**
    Avise que ele também pode aprovar direto no app do Metricool (o rascunho
    está no planejador).
@@ -170,6 +172,32 @@ texto extra** — nada de "post novo no perfil", "carrossel completo em @…" ou
 (a capa já tem o título). Publique como `instagramData.type: "STORY"`, sem `text`.
 A API não põe o adesivo clicável do post; se o João quiser o link, ele compartilha
 pelo app (avião de papel → "Adicionar ao story").
+
+## Reels (seg, qua e sex)
+
+**Decisão do João, 7 nov** (depois do diagnóstico de seguidores: alcance médio de 6
+contas por post, nenhum Reel): nos dias de `config/estrategia.json → reels.dias`
+(seg, qua, sex), o carrossel do dia também vira um **Reel**, publicado às
+`reels.horario` (19:01) do mesmo dia, como **Reel de teste** (`TRIAL_REEL`: o Instagram
+mostra primeiro para quem não segue a página). O carrossel das 06:01 não muda.
+
+- O roteirista escreve `post.json → reel.cenas`: 3 a 7 cenas `{imagem, texto_html}`,
+  **até 18 palavras** cada, frases que se entendem sem o carrossel. Opcionais:
+  `reel.gancho`, `reel.legenda` (abertura da legenda), `reel.fim_titulo`,
+  `reel.tipo` (`REEL` para sair também no feed), `reel.data_hora`, `reel.gerar`
+  (força `true`/`false`), `reel.musica` (termo de busca no catálogo do Instagram;
+  só funciona em conta comercial ligada a uma Página do Facebook).
+- `python3 scripts/reel.py posts/<slug>` → capa com o gancho, uma cena por frase (foto
+  com zoom lento; foto larga entra em moldura sobre fundo desfocado) e cartão final
+  "o carrossel completo está no perfil". Texto fora das áreas que a interface do Reel
+  cobre. Revise lendo `reel/cenas/NN.jpg`. Com narração do João:
+  `--audio voz.m4a` (as cenas acompanham a duração); sem ela, faixa silenciosa.
+- Junto com o rascunho (Rotina A passo 8): commit + push → `python3 scripts/metricool.py
+  payload-reel posts/<slug> --sha <SHA> --rascunho` → `createScheduledPost`. Guarde em
+  `post.json → metricool.reel`. No passo 9, envie também `reel/reel.mp4` ao João; a
+  aprovação do post vale para o Reel. No APROVAR, o Reel também vai para `draft: false`.
+- A análise semanal mede o Reel separado do carrossel (alcance de não seguidores e
+  seguidores ganhos) e recomenda ao João manter, mudar dias/horário ou passar para `REEL`.
 
 ## Rotina B — Responder à aprovação
 

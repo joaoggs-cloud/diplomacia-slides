@@ -24,6 +24,9 @@ post (só aponta) e NÃO publica.
    listas mecânicas.
 5. **Visual**: leia cada `slides/NN.jpg` — nada cortado, legível, número de slide certo.
 6. **Legenda**: ≤ 2.200 caracteres (`python3 scripts/metricool.py payload posts/<slug> --sha x`).
+7. **Reel** (se existir `reel/`): leia cada `reel/cenas/NN.jpg` — frase inteira e
+   legível, fiel aos fatos do carrossel (o corte não pode mudar o sentido), crédito da
+   foto presente. Confira a legenda com `python3 scripts/metricool.py payload-reel posts/<slug> --sha x`.
 
 ## Saída
 Grave `posts/<slug>/revisao.md` com o veredito na primeira linha:
