@@ -54,29 +54,241 @@
   },
   "legenda": "Uma resposta improvisada numa coletiva de imprensa pôs fim a 28 anos de Muro.\n\nNa noite de 9 de novembro de 1989, o porta-voz da Alemanha Oriental disse que as novas regras de viagem valiam \"a partir de agora\". Os guardas não sabiam de nada, e a multidão foi até a fronteira. Horas depois, a cancela da Bornholmer Straße foi levantada.\n\nHá 37 anos, a abertura do Muro marcava o começo do fim da divisão da Alemanha. Antes disso, o concreto, as torres de vigia e pelo menos 140 mortes definiram a vida em Berlim.\n\nArraste para o lado e veja 8 fatos sobre o Muro de Berlim.",
   "primeiro_comentario": "",
-  "hashtags": ["#murodeberlim", "#guerrafria", "#alemanha", "#historia", "#queda1989", "#reunificacaoalema"],
+  "hashtags": [
+    "#murodeberlim",
+    "#guerrafria",
+    "#alemanha",
+    "#historia",
+    "#queda1989",
+    "#reunificacaoalema"
+  ],
   "alt_text": "Carrossel com 8 fatos sobre o Muro de Berlim, da construção em 1961 à queda em 1989, com fotos históricas.",
   "fontes": [
-    {"nome": "Stiftung Berliner Mauer", "url": "https://www.stiftung-berliner-mauer.de/en/topics/berlin-wall"},
-    {"nome": "Office of the Historian (Dep. de Estado dos EUA)", "url": "https://history.state.gov/milestones/1953-1960/berlin-crises"},
-    {"nome": "Chronik der Mauer", "url": "https://www.chronik-der-mauer.de/en/chronicle/_year1989/_month11/?month=11&year=1989&opennid=179496&moc=1"},
-    {"nome": "Library of Congress", "url": "https://blogs.loc.gov/international-collections/2019/11/the-rise-and-fall-of-the-berlin-wall/"},
-    {"nome": "Berlin.de", "url": "https://www.berlin.de/en/attractions-and-sights/3561866-3104052-berlin-wall.en.html"},
-    {"nome": "NPR", "url": "https://www.npr.org/sections/parallels/2014/11/06/361785478/the-man-who-disobeyed-his-boss-and-opened-the-berlin-wall"},
-    {"nome": "Britannica", "url": "https://www.britannica.com/topic/German-reunification"}
+    {
+      "nome": "Stiftung Berliner Mauer",
+      "url": "https://www.stiftung-berliner-mauer.de/en/topics/berlin-wall"
+    },
+    {
+      "nome": "Office of the Historian (Dep. de Estado dos EUA)",
+      "url": "https://history.state.gov/milestones/1953-1960/berlin-crises"
+    },
+    {
+      "nome": "Chronik der Mauer",
+      "url": "https://www.chronik-der-mauer.de/en/chronicle/_year1989/_month11/?month=11&year=1989&opennid=179496&moc=1"
+    },
+    {
+      "nome": "Library of Congress",
+      "url": "https://blogs.loc.gov/international-collections/2019/11/the-rise-and-fall-of-the-berlin-wall/"
+    },
+    {
+      "nome": "Berlin.de",
+      "url": "https://www.berlin.de/en/attractions-and-sights/3561866-3104052-berlin-wall.en.html"
+    },
+    {
+      "nome": "NPR",
+      "url": "https://www.npr.org/sections/parallels/2014/11/06/361785478/the-man-who-disobeyed-his-boss-and-opened-the-berlin-wall"
+    },
+    {
+      "nome": "Britannica",
+      "url": "https://www.britannica.com/topic/German-reunification"
+    }
   ],
   "busca_imagens": [
-    {"id": "img01", "query": "File:West and East Germans at the Brandenburg Gate in 1989.jpg", "alternativas": ["File:Berlin 1989, Fall der Mauer, Chute du mur 01.jpg", "File:Berlin 1989, Fall der Mauer, Chute du mur 08.jpg"]},
-    {"id": "img02", "query": "File:BerlinWall-BrandenburgGate.jpg", "alternativas": ["File:BerlinWall.jpg", "Berlin Wall 1961 construction"]},
-    {"id": "img03", "query": "File:BerlinWall.jpg", "alternativas": ["Berlin Wall watchtower border strip", "Berlin Wall 1980s"]},
-    {"id": "img04", "query": "File:US Army tanks face off against Soviet tanks, Berlin 1961.jpg", "pb": true, "alternativas": ["File:Checkpoint Charlie 1961-10-27.jpg"]},
-    {"id": "img05", "query": "File:Mauerspecht.jpg", "alternativas": ["Berlin Wall memorial crosses", "Berlin Wall victims memorial"]},
-    {"id": "img06", "query": "Pan-European Picnic Sopron 1989", "alternativas": ["Hungary Austria border fence 1989", "File:Berlin 1989, Fall der Mauer, Chute du mur 18.jpg"]},
-    {"id": "img07", "query": "Günter Schabowski press conference 9 November 1989", "alternativas": ["Category:Günter Schabowski", "File:Berlin 1989, Fall der Mauer, Chute du mur 25.jpg"]},
-    {"id": "img08", "query": "File:A crowd of West German citizens gathers at the newly created opening in the Berlin Wall at Potsdamer Platz.jpg", "alternativas": ["Bornholmer Strasse 1989 border crossing", "File:Berlin 1989, Fall der Mauer, Chute du mur 08.jpg"]},
-    {"id": "img09", "query": "File:Crane removed part of Wall Brandenburg Gate.jpg", "alternativas": ["File:Politicians at Brandenburg Gate opening 1989.JPEG"]}
+    {
+      "id": "img01",
+      "query": "File:West and East Germans at the Brandenburg Gate in 1989.jpg",
+      "alternativas": [
+        "File:Berlin 1989, Fall der Mauer, Chute du mur 01.jpg",
+        "File:Berlin 1989, Fall der Mauer, Chute du mur 08.jpg"
+      ]
+    },
+    {
+      "id": "img02",
+      "query": "File:BerlinWall-BrandenburgGate.jpg",
+      "alternativas": [
+        "File:BerlinWall.jpg",
+        "Berlin Wall 1961 construction"
+      ]
+    },
+    {
+      "id": "img03",
+      "query": "File:BerlinWall.jpg",
+      "alternativas": [
+        "Berlin Wall watchtower border strip",
+        "Berlin Wall 1980s"
+      ]
+    },
+    {
+      "id": "img04",
+      "query": "File:US Army tanks face off against Soviet tanks, Berlin 1961.jpg",
+      "pb": true,
+      "alternativas": [
+        "File:Checkpoint Charlie 1961-10-27.jpg"
+      ]
+    },
+    {
+      "id": "img05",
+      "query": "File:Mauerspecht.jpg",
+      "alternativas": [
+        "Berlin Wall memorial crosses",
+        "Berlin Wall victims memorial"
+      ]
+    },
+    {
+      "id": "img06",
+      "query": "Pan-European Picnic Sopron 1989",
+      "alternativas": [
+        "Hungary Austria border fence 1989",
+        "File:Berlin 1989, Fall der Mauer, Chute du mur 18.jpg"
+      ]
+    },
+    {
+      "id": "img07",
+      "query": "Günter Schabowski press conference 9 November 1989",
+      "alternativas": [
+        "Category:Günter Schabowski",
+        "File:Berlin 1989, Fall der Mauer, Chute du mur 25.jpg"
+      ]
+    },
+    {
+      "id": "img08",
+      "query": "File:A crowd of West German citizens gathers at the newly created opening in the Berlin Wall at Potsdamer Platz.jpg",
+      "alternativas": [
+        "Bornholmer Strasse 1989 border crossing",
+        "File:Berlin 1989, Fall der Mauer, Chute du mur 08.jpg"
+      ]
+    },
+    {
+      "id": "img09",
+      "query": "File:Crane removed part of Wall Brandenburg Gate.jpg",
+      "alternativas": [
+        "File:Politicians at Brandenburg Gate opening 1989.JPEG"
+      ]
+    }
   ],
-  "agendamento": {"data_hora": "2026-11-09T06:01:00-03:00", "slot": "06:01"},
+  "agendamento": {
+    "data_hora": "2026-11-09T06:01:00-03:00",
+    "slot": "06:01"
+  },
   "ia_gerado": false,
-  "metricool": {}
+  "metricool": {},
+  "imagens": [
+    {
+      "titulo": "West and East Germans at the Brandenburg Gate in 1989.jpg",
+      "autor": "Unknown photographer, Reproduction by Lear 21 at English Wikipedia.",
+      "licenca": "CC BY-SA 3.0",
+      "exige_credito": true,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:West_and_East_Germans_at_the_Brandenburg_Gate_in_1989.jpg",
+      "url_download": "https://upload.wikimedia.org/wikipedia/commons/1/1c/West_and_East_Germans_at_the_Brandenburg_Gate_in_1989.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largura": 661,
+      "altura": 498,
+      "id": "img01",
+      "arquivo": "imagens/img01.jpg",
+      "query": "File:West and East Germans at the Brandenburg Gate in 1989.jpg"
+    },
+    {
+      "titulo": "BerlinWall-BrandenburgGate.jpg",
+      "autor": "Sue Ream, photographer (San Francisco, California)",
+      "licenca": "CC BY 3.0",
+      "exige_credito": true,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:BerlinWall-BrandenburgGate.jpg",
+      "url_download": "https://upload.wikimedia.org/wikipedia/commons/2/25/BerlinWall-BrandenburgGate.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largura": 1119,
+      "altura": 1663,
+      "id": "img02",
+      "arquivo": "imagens/img02.jpg",
+      "query": "File:BerlinWall-BrandenburgGate.jpg"
+    },
+    {
+      "titulo": "BerlinWall.jpg",
+      "autor": "Stefan Richter",
+      "licenca": "CC BY-SA 3.0",
+      "exige_credito": true,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:BerlinWall.jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/BerlinWall.jpg/1920px-BerlinWall.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 1946,
+      "altura": 1248,
+      "id": "img03",
+      "arquivo": "imagens/img03.jpg",
+      "query": "File:BerlinWall.jpg"
+    },
+    {
+      "titulo": "US Army tanks face off against Soviet tanks, Berlin 1961.jpg",
+      "autor": "U.S. Army photo\nPhoto Credit: USAMHI",
+      "licenca": "Public domain",
+      "exige_credito": false,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:US_Army_tanks_face_off_against_Soviet_tanks,_Berlin_1961.jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/US_Army_tanks_face_off_against_Soviet_tanks%2C_Berlin_1961.jpg/1920px-US_Army_tanks_face_off_against_Soviet_tanks%2C_Berlin_1961.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 2000,
+      "altura": 1507,
+      "id": "img04",
+      "arquivo": "imagens/img04.jpg",
+      "query": "File:US Army tanks face off against Soviet tanks, Berlin 1961.jpg"
+    },
+    {
+      "titulo": "Mauerspecht.jpg",
+      "autor": "Havelbaude",
+      "licenca": "CC BY-SA 3.0",
+      "exige_credito": true,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Mauerspecht.jpg",
+      "url_download": "https://upload.wikimedia.org/wikipedia/commons/0/04/Mauerspecht.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largura": 1528,
+      "altura": 1040,
+      "id": "img05",
+      "arquivo": "imagens/img05.jpg",
+      "query": "File:Mauerspecht.jpg"
+    },
+    {
+      "titulo": "Paneuropäisches Picknick, grenzübergang - hungary.jpg",
+      "autor": "Lysippos",
+      "licenca": "CC0",
+      "exige_credito": false,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Paneurop%C3%A4isches_Picknick,_grenz%C3%BCbergang_-_hungary.jpg",
+      "url_download": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Paneurop%C3%A4isches_Picknick%2C_grenz%C3%BCbergang_-_hungary.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largura": 1848,
+      "altura": 2294,
+      "id": "img06",
+      "arquivo": "imagens/img06.jpg",
+      "query": "Pan-European Picnic Sopron 1989"
+    },
+    {
+      "titulo": "Gedenktafel Anton-Wilhelm-Amo-Str 36 (Mitte) Reisefreiheit.jpg",
+      "autor": "OTFW, Berlin",
+      "licenca": "CC BY-SA 3.0",
+      "exige_credito": true,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Gedenktafel_Anton-Wilhelm-Amo-Str_36_(Mitte)_Reisefreiheit.jpg",
+      "url_download": "https://upload.wikimedia.org/wikipedia/commons/0/04/Gedenktafel_Anton-Wilhelm-Amo-Str_36_%28Mitte%29_Reisefreiheit.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largura": 1600,
+      "altura": 3500,
+      "id": "img07",
+      "arquivo": "imagens/img07.jpg",
+      "query": "Günter Schabowski press conference 9 November 1989"
+    },
+    {
+      "titulo": "A crowd of West German citizens gathers at the newly created opening in the Berlin Wall at Potsdamer Platz.jpg",
+      "autor": "Series: Combined Military Service Digital Photographic Files, 1982 - 2007\n\nRecord Group 330: Records of the Office of the Secretary of Defense, 1921 - 2008",
+      "licenca": "Public domain",
+      "exige_credito": false,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:A_crowd_of_West_German_citizens_gathers_at_the_newly_created_opening_in_the_Berlin_Wall_at_Potsdamer_Platz.jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/A_crowd_of_West_German_citizens_gathers_at_the_newly_created_opening_in_the_Berlin_Wall_at_Potsdamer_Platz.jpg/1920px-A_crowd_of_West_German_citizens_gathers_at_the_newly_created_opening_in_the_Berlin_Wall_at_Potsdamer_Platz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 2850,
+      "altura": 1900,
+      "id": "img08",
+      "arquivo": "imagens/img08.jpg",
+      "query": "File:A crowd of West German citizens gathers at the newly created opening in the Berlin Wall at Potsdamer Platz.jpg"
+    },
+    {
+      "titulo": "Crane removed part of Wall Brandenburg Gate.jpg",
+      "autor": "SSGT F. Lee Corkran",
+      "licenca": "Public domain",
+      "exige_credito": false,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Crane_removed_part_of_Wall_Brandenburg_Gate.jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Crane_removed_part_of_Wall_Brandenburg_Gate.jpg/1920px-Crane_removed_part_of_Wall_Brandenburg_Gate.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 2790,
+      "altura": 1860,
+      "id": "img09",
+      "arquivo": "imagens/img09.jpg",
+      "query": "File:Crane removed part of Wall Brandenburg Gate.jpg"
+    }
+  ]
 }
