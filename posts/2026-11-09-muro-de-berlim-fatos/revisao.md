@@ -1,3 +1,7 @@
+APROVADO (coordenador, 7 nov 2026, rodada 2): as correções obrigatórias da rodada 1 foram conferidas no SHA 763fb2d. O slide 7 diz 'perto das 19h'. A capa foi trocada por Raphaël Thiémard, CC BY-SA 2.0, com 2964 px e crédito inteiro. O story foi regerado. As recomendações dos slides 5 e 6, do gancho e da legenda foram aplicadas, e reel/cenas foi removido.
+
+--- Rodada 1 ---
+
 REPROVADO
 
 Revisão — 2026-11-09-muro-de-berlim-fatos (SHA 70d7b88). Rodada 1.
