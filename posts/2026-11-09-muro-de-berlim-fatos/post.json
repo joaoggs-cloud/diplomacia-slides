@@ -187,6 +187,19 @@
       "query": "File:West and East Germans at the Brandenburg Gate in 1989.jpg"
     },
     {
+      "titulo": "East Germans Fortify Border - Flickr - The Central Intelligence Agency.jpg",
+      "autor": "The Central Intelligence Agency",
+      "licenca": "Public domain",
+      "exige_credito": false,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:East_Germans_Fortify_Border_-_Flickr_-_The_Central_Intelligence_Agency.jpg",
+      "url_download": "https://upload.wikimedia.org/wikipedia/commons/0/05/East_Germans_Fortify_Border_-_Flickr_-_The_Central_Intelligence_Agency.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largura": 1392,
+      "altura": 1072,
+      "id": "img02",
+      "arquivo": "imagens/img02.jpg",
+      "query": "File:East Germans Fortify Border - Flickr - The Central Intelligence Agency.jpg"
+    },
+    {
       "titulo": "BerlinWall.jpg",
       "autor": "Stefan Richter",
       "licenca": "CC BY-SA 3.0",
@@ -213,6 +226,19 @@
       "query": "File:US Army tanks face off against Soviet tanks, Berlin 1961.jpg"
     },
     {
+      "titulo": "Mémorial du mur de Berlin (6330924243).jpg",
+      "autor": "dalbera from Paris, France",
+      "licenca": "CC BY 2.0",
+      "exige_credito": true,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:M%C3%A9morial_du_mur_de_Berlin_(6330924243).jpg",
+      "url_download": "https://upload.wikimedia.org/wikipedia/commons/c/c5/M%C3%A9morial_du_mur_de_Berlin_%286330924243%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largura": 1587,
+      "altura": 892,
+      "id": "img05",
+      "arquivo": "imagens/img05.jpg",
+      "query": "File:Mémorial du mur de Berlin (6330924243).jpg"
+    },
+    {
       "titulo": "Paneuropäisches Picknick, grenzübergang - hungary.jpg",
       "autor": "Lysippos",
       "licenca": "CC0",
@@ -224,6 +250,19 @@
       "id": "img06",
       "arquivo": "imagens/img06.jpg",
       "query": "Pan-European Picnic Sopron 1989"
+    },
+    {
+      "titulo": "Bundesarchiv Bild 183-1989-1109-030, Berlin, Schabowski auf Pressekonferenz.jpg",
+      "autor": "Thomas Lehmann",
+      "licenca": "CC BY-SA 3.0 de",
+      "exige_credito": true,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_183-1989-1109-030,_Berlin,_Schabowski_auf_Pressekonferenz.jpg",
+      "url_download": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Bundesarchiv_Bild_183-1989-1109-030%2C_Berlin%2C_Schabowski_auf_Pressekonferenz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largura": 798,
+      "altura": 512,
+      "id": "img07",
+      "arquivo": "imagens/img07.jpg",
+      "query": "File:Bundesarchiv Bild 183-1989-1109-030, Berlin, Schabowski auf Pressekonferenz.jpg"
     },
     {
       "titulo": "A crowd of West German citizens gathers at the newly created opening in the Berlin Wall at Potsdamer Platz.jpg",
