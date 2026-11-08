@@ -17,7 +17,7 @@
     },
     {
       "imagem": "img03",
-      "texto_html": "O governo britânico estima o DragonFire em cerca de <strong>£10 por tiro</strong> (≈ US$ 13), contra centenas de milhares de libras de um míssil tradicional. É estimativa oficial e cobre só a energia: manutenção, treino e vida útil ficam de fora."
+      "texto_html": "O governo britânico estima o DragonFire em cerca de <strong>£10 por tiro</strong> (≈ US$ 13), contra centenas de milhares de libras de um míssil tradicional. É estimativa oficial só de energia: manutenção, treino e vida útil ficam fora. Na foto, um laser americano de teste."
     },
     {
       "imagem": "img04",
@@ -25,7 +25,7 @@
     },
     {
       "imagem": "img05",
-      "texto_html": "Em Israel, o <strong>Iron Beam</strong> foi entregue às Forças de Defesa em 28 dez 2025. Com 100 kW, é apresentado pela Rafael e pelo Ministério da Defesa como o primeiro laser de alta potência em serviço operacional regular."
+      "texto_html": "Em Israel, o <strong>Iron Beam</strong>, laser de 100 kW que reforça o Iron Dome (na foto), foi entregue em 28 dez 2025. Rafael e Ministério da Defesa o apresentam como o primeiro laser de alta potência em serviço operacional regular."
     },
     {
       "imagem": "img06",
@@ -34,7 +34,7 @@
     },
     {
       "imagem": "img07",
-      "texto_html": "Nos EUA, o <strong>LOCUST</strong>, da AeroVironment, é um laser de classe 20 kW ligado ao programa AMP-HEL do Exército, voltado a drones pequenos. Um LOCUST em veículo JLTV foi fotografado em Mar-a-Lago em 31 out; não há disparo confirmado."
+      "texto_html": "Nos EUA, o <strong>LOCUST</strong> é um laser de classe 20 kW do programa AMP-HEL do Exército, voltado a drones pequenos. Em 31 out, um deles, montado num JLTV (como o da foto, sem o laser), foi fotografado em Mar-a-Lago; não há disparo confirmado."
     },
     {
       "imagem": "img08",
@@ -175,7 +175,8 @@
       "alternativas": [
         "military quadcopter drone",
         "counter-UAS"
-      ]
+      ],
+      "pb": true
     }
   ],
   "agendamento": {
@@ -211,6 +212,18 @@
       "query": "DragonFire laser Type 45 destroyer"
     },
     {
+      "titulo": "Demonstrator Laser Weapon System at White Sands Missile Range 2017.jpg",
+      "autor": "Keith C Lewis",
+      "licenca": "Public domain",
+      "exige_credito": false,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Demonstrator_Laser_Weapon_System_at_White_Sands_Missile_Range_2017.jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Demonstrator_Laser_Weapon_System_at_White_Sands_Missile_Range_2017.jpg/1920px-Demonstrator_Laser_Weapon_System_at_White_Sands_Missile_Range_2017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 6016,
+      "altura": 4000,
+      "id": "img03",
+      "arquivo": "imagens/img03.jpg"
+    },
+    {
       "titulo": "Meggitt Banshees.jpg",
       "autor": "U.S. Navy photo by Journalist Seaman David J. Ham",
       "licenca": "Public domain",
@@ -224,6 +237,19 @@
       "query": "Banshee target drone"
     },
     {
+      "titulo": "Flickr - Israel Defense Forces - Iron Dome Battery Deployed Near Ashkelon.jpg",
+      "autor": "Israel Defense Forces",
+      "licenca": "CC BY 2.0",
+      "exige_credito": true,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Flickr_-_Israel_Defense_Forces_-_Iron_Dome_Battery_Deployed_Near_Ashkelon.jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Flickr_-_Israel_Defense_Forces_-_Iron_Dome_Battery_Deployed_Near_Ashkelon.jpg/1920px-Flickr_-_Israel_Defense_Forces_-_Iron_Dome_Battery_Deployed_Near_Ashkelon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 2144,
+      "altura": 1424,
+      "id": "img05",
+      "arquivo": "imagens/img05.jpg",
+      "query": "Iron Dome interception Israel"
+    },
+    {
       "titulo": "Iron Dome in Operation Protective Edge.jpg",
       "autor": "Israel Defense Forces from Israel",
       "licenca": "CC BY 2.0",
@@ -234,6 +260,18 @@
       "altura": 1470,
       "id": "img06",
       "arquivo": "imagens/img06.jpg"
+    },
+    {
+      "titulo": "Joint Light Tactical Vehicle Training in Germany (6618027).jpg",
+      "autor": "U.S. Army photo by Jason Johnston",
+      "licenca": "Public domain",
+      "exige_credito": false,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Joint_Light_Tactical_Vehicle_Training_in_Germany_(6618027).jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Joint_Light_Tactical_Vehicle_Training_in_Germany_%286618027%29.jpg/1920px-Joint_Light_Tactical_Vehicle_Training_in_Germany_%286618027%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 9000,
+      "altura": 6000,
+      "id": "img07",
+      "arquivo": "imagens/img07.jpg"
     },
     {
       "titulo": "El Paso Skyline2.jpg",
@@ -249,16 +287,17 @@
       "query": "El Paso Texas skyline"
     },
     {
-      "titulo": "Demonstrator Laser Weapon System at White Sands Missile Range 2017.jpg",
-      "autor": "Keith C Lewis",
+      "titulo": "USS Preble Firing Helios.png",
+      "autor": "Autor desconhecido",
       "licenca": "Public domain",
       "exige_credito": false,
-      "url_origem": "https://commons.wikimedia.org/wiki/File:Demonstrator_Laser_Weapon_System_at_White_Sands_Missile_Range_2017.jpg",
-      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Demonstrator_Laser_Weapon_System_at_White_Sands_Missile_Range_2017.jpg/1920px-Demonstrator_Laser_Weapon_System_at_White_Sands_Missile_Range_2017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "largura": 6016,
-      "altura": 4000,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:USS_Preble_Firing_Helios.png",
+      "url_download": "https://upload.wikimedia.org/wikipedia/commons/a/ae/USS_Preble_Firing_Helios.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largura": 1401,
+      "altura": 788,
       "id": "img09",
-      "arquivo": "imagens/img09.jpg"
+      "arquivo": "imagens/img09.jpg",
+      "query": "File:USS Preble Firing Helios.png"
     }
   ]
 }
