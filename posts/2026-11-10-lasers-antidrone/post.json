@@ -188,5 +188,111 @@
     "data_hora": "2026-11-10T06:01:00-03:00",
     "slot": "06:01"
   },
-  "ia_gerado": false
+  "ia_gerado": false,
+  "imagens": [
+    {
+      "titulo": "Flickr - Official U.S. Navy Imagery - USS Abraham Lincoln, USNS Guadalupe and HMS Daring conduct a replenishment-at-sea. (2).jpg",
+      "autor": "Official Navy Page from United States of America\n\nMC3 Tim D.Godbee USN/U.S. Navy",
+      "licenca": "Public domain",
+      "exige_credito": false,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Flickr_-_Official_U.S._Navy_Imagery_-_USS_Abraham_Lincoln,_USNS_Guadalupe_and_HMS_Daring_conduct_a_replenishment-at-sea._(2).jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Flickr_-_Official_U.S._Navy_Imagery_-_USS_Abraham_Lincoln%2C_USNS_Guadalupe_and_HMS_Daring_conduct_a_replenishment-at-sea._%282%29.jpg/1920px-Flickr_-_Official_U.S._Navy_Imagery_-_USS_Abraham_Lincoln%2C_USNS_Guadalupe_and_HMS_Daring_conduct_a_replenishment-at-sea._%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 2790,
+      "altura": 1729,
+      "id": "img02",
+      "arquivo": "imagens/img02.jpg",
+      "query": "DragonFire laser Type 45 destroyer"
+    },
+    {
+      "titulo": "USS Preble Firing Helios.png",
+      "autor": "Autor desconhecido",
+      "licenca": "Public domain",
+      "exige_credito": false,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:USS_Preble_Firing_Helios.png",
+      "url_download": "https://upload.wikimedia.org/wikipedia/commons/a/ae/USS_Preble_Firing_Helios.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largura": 1401,
+      "altura": 788,
+      "id": "img03",
+      "arquivo": "imagens/img03.jpg",
+      "query": "File:USS Preble Firing Helios.png"
+    },
+    {
+      "titulo": "Laser Weapon System aboard USS Ponce (AFSB(I)-15) in November 2014 (02).JPG",
+      "autor": "U.S. Navy photo by John F. Williams",
+      "licenca": "Public domain",
+      "exige_credito": false,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Laser_Weapon_System_aboard_USS_Ponce_(AFSB(I)-15)_in_November_2014_(02).JPG",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Laser_Weapon_System_aboard_USS_Ponce_%28AFSB%28I%29-15%29_in_November_2014_%2802%29.JPG/1920px-Laser_Weapon_System_aboard_USS_Ponce_%28AFSB%28I%29-15%29_in_November_2014_%2802%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 4256,
+      "altura": 2832,
+      "id": "img04",
+      "arquivo": "imagens/img04.jpg",
+      "query": "File:Laser Weapon System aboard USS Ponce (AFSB(I)-15) in November 2014 (02).JPG"
+    },
+    {
+      "titulo": "President Biden visited the Israeli Department of Defense in 2022.jpg",
+      "autor": "Office of the President of the United States",
+      "licenca": "Public domain",
+      "exige_credito": false,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:President_Biden_visited_the_Israeli_Department_of_Defense_in_2022.jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/President_Biden_visited_the_Israeli_Department_of_Defense_in_2022.jpg/1920px-President_Biden_visited_the_Israeli_Department_of_Defense_in_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 3000,
+      "altura": 2000,
+      "id": "img05",
+      "arquivo": "imagens/img05.jpg",
+      "query": "File:Iron Beam, October 2024 (cropped).jpeg"
+    },
+    {
+      "titulo": "Flickr - Israel Defense Forces - Iron Dome Battery Deployed Near Ashkelon.jpg",
+      "autor": "Israel Defense Forces",
+      "licenca": "CC BY 2.0",
+      "exige_credito": true,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Flickr_-_Israel_Defense_Forces_-_Iron_Dome_Battery_Deployed_Near_Ashkelon.jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Flickr_-_Israel_Defense_Forces_-_Iron_Dome_Battery_Deployed_Near_Ashkelon.jpg/1920px-Flickr_-_Israel_Defense_Forces_-_Iron_Dome_Battery_Deployed_Near_Ashkelon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 2144,
+      "altura": 1424,
+      "id": "img06",
+      "arquivo": "imagens/img06.jpg",
+      "query": "Iron Dome interception Israel"
+    },
+    {
+      "titulo": "Joint Light Tactical Vehicle technology demonstrators c. 2010.jpg",
+      "autor": "U.S. Army",
+      "licenca": "Public domain",
+      "exige_credito": false,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Joint_Light_Tactical_Vehicle_technology_demonstrators_c._2010.jpg",
+      "url_download": "https://upload.wikimedia.org/wikipedia/commons/3/32/Joint_Light_Tactical_Vehicle_technology_demonstrators_c._2010.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largura": 1088,
+      "altura": 968,
+      "id": "img07",
+      "arquivo": "imagens/img07.jpg",
+      "query": "File:US Army HEL-TVD (laser).jpg"
+    },
+    {
+      "titulo": "El Paso Skyline2.jpg",
+      "autor": "Autor desconhecido",
+      "licenca": "Public domain",
+      "exige_credito": false,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:El_Paso_Skyline2.jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/El_Paso_Skyline2.jpg/1920px-El_Paso_Skyline2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 1972,
+      "altura": 1211,
+      "id": "img08",
+      "arquivo": "imagens/img08.jpg",
+      "query": "El Paso Texas skyline"
+    },
+    {
+      "titulo": "U S Secretary of Defense Pete Hegseth Unleashes U S Military Drone Dominance (9172754).jpg",
+      "autor": "U.S. Marines HQMC by Pfc. Isaac Llanez Delgado",
+      "licenca": "Public domain",
+      "exige_credito": false,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:U_S_Secretary_of_Defense_Pete_Hegseth_Unleashes_U_S_Military_Drone_Dominance_(9172754).jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/U_S_Secretary_of_Defense_Pete_Hegseth_Unleashes_U_S_Military_Drone_Dominance_%289172754%29.jpg/1920px-U_S_Secretary_of_Defense_Pete_Hegseth_Unleashes_U_S_Military_Drone_Dominance_%289172754%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 2700,
+      "altura": 1761,
+      "id": "img09",
+      "arquivo": "imagens/img09.jpg",
+      "query": "File:AFRL counter-UAS demonstration of a high-energy laser.jpg"
+    }
+  ]
 }
