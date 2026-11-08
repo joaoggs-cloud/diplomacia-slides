@@ -7,7 +7,7 @@
   "gancho_tipo": "contraste_numerico",
   "capa": {
     "imagem": "img01",
-    "titulo_html": "Um tiro de <span class=\"hl\">US$ 13</span> contra um míssil de <span class=\"hl2\">US$ 100 mil</span>",
+    "titulo_html": "Um tiro de <span class=\"hl\">US$ 13</span> contra mísseis de <span class=\"hl2\">centenas de milhares</span>",
     "gancho": "O laser chegou à guerra dos drones. Os £10 por tiro são estimativa oficial britânica e cobrem só a energia."
   },
   "slides": [
@@ -29,7 +29,7 @@
     },
     {
       "imagem": "img06",
-      "texto_html": "O feixe tem limites. As estimativas de alcance do Iron Beam ficam entre 7 e 10 km, e neblina, nuvem, poeira e chuva forte atrapalham. Por isso ele complementa o Iron Dome, e não o substitui.",
+      "texto_html": "O alcance do Iron Beam é estimado em cerca de 10 km, e neblina, nuvem, poeira e chuva forte reduzem sua eficácia. Por isso ele complementa o Iron Dome, e não o substitui.",
       "titulo": "O limite do feixe"
     },
     {
@@ -38,11 +38,11 @@
     },
     {
       "imagem": "img08",
-      "texto_html": "Em 10 fev 2026, a FAA fechou o espaço aéreo de El Paso, no Texas, e suspendeu a restrição em menos de 8 horas. O episódio foi ligado ao uso de um laser antidrone. As fontes divergem sobre qual era o alvo."
+      "texto_html": "Em 10 fev 2026, a FAA fechou o espaço aéreo de El Paso, no Texas, e suspendeu a restrição horas depois, na manhã seguinte. O episódio foi ligado ao uso de um laser antidrone. As fontes divergem sobre qual era o alvo."
     },
     {
       "imagem": "img09",
-      "texto_html": "O custo por tiro é só uma parte da conta. Alcance curto, clima e tempo de mira ainda pedem outras defesas ao lado do laser, como mísseis, canhões e radares. A economia vem dos tiros baratos, não do sistema.",
+      "texto_html": "O custo por tiro é só uma parte da conta. Alcance curto, clima e tempo de mira ainda pedem outras defesas ao lado do laser, como mísseis, canhões e radares. O tiro é barato; o sistema, não.",
       "factbox": {
         "label": "Em resumo",
         "texto": "O laser reduz o custo do tiro, mas ainda não dispensa as outras defesas."
@@ -54,7 +54,7 @@
     "titulo": "Salve este post",
     "subtitulo": "e compartilhe com quem acompanha tecnologia militar"
   },
-  "legenda": "Um tiro de laser pode custar cerca de US$ 13 em energia. Um míssil interceptor, dezenas de milhares de dólares.\n\nO número é estimativa do governo britânico para o DragonFire (£10 por tiro) e não inclui manutenção, treinamento nem vida útil do equipamento. Ainda assim, ajuda a explicar por que lasers saíram do laboratório: Reino Unido, Israel e Estados Unidos já os testam ou operam contra drones. Alcance curto e clima ruim seguem como limites, e o laser divide a defesa com outros sistemas.\n\nArraste para o lado e veja onde cada país está.",
+  "legenda": "Um tiro de laser pode custar cerca de US$ 13 em energia. Um míssil interceptor tradicional custa centenas de milhares de libras.\n\nO número é estimativa do governo britânico para o DragonFire (£10 por tiro) e não inclui manutenção, treinamento nem vida útil do equipamento. Ainda assim, ajuda a explicar por que lasers saíram do laboratório: Reino Unido, Israel e Estados Unidos já os testam ou operam contra drones. Alcance curto e clima ruim seguem como limites, e o laser divide a defesa com outros sistemas.\n\nArraste para o lado e veja onde cada país está.",
   "primeiro_comentario": "",
   "hashtags": [
     "#laser",
@@ -129,24 +129,23 @@
     },
     {
       "id": "img03",
-      "query": "File:USS Preble Firing Helios.png",
+      "query": "File:Dragonfire laser system test firing.webp",
       "alternativas": [
-        "Laser Weapon System aboard USS Ponce"
+        "incategory:\"Type 45 destroyers\""
       ]
     },
     {
       "id": "img04",
-      "query": "File:Laser Weapon System aboard USS Ponce (AFSB(I)-15) in November 2014 (02).JPG",
+      "query": "Banshee target drone",
       "alternativas": [
-        "high energy laser Navy test"
+        "Hebrides Range South Uist",
+        "incategory:\"South Uist\""
       ]
     },
     {
       "id": "img05",
       "query": "File:Iron Beam, October 2024 (cropped).jpeg",
-      "alternativas": [
-        "incategory:\"Iron Beam\""
-      ]
+      "alternativas": []
     },
     {
       "id": "img06",
@@ -159,8 +158,7 @@
       "id": "img07",
       "query": "File:US Army HEL-TVD (laser).jpg",
       "alternativas": [
-        "Joint Light Tactical Vehicle JLTV",
-        "Army laser vehicle"
+        "incategory:\"Locust Laser Weapon System\""
       ]
     },
     {
@@ -213,45 +211,6 @@
       "query": "DragonFire laser Type 45 destroyer"
     },
     {
-      "titulo": "USS Preble Firing Helios.png",
-      "autor": "Autor desconhecido",
-      "licenca": "Public domain",
-      "exige_credito": false,
-      "url_origem": "https://commons.wikimedia.org/wiki/File:USS_Preble_Firing_Helios.png",
-      "url_download": "https://upload.wikimedia.org/wikipedia/commons/a/ae/USS_Preble_Firing_Helios.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "largura": 1401,
-      "altura": 788,
-      "id": "img03",
-      "arquivo": "imagens/img03.jpg",
-      "query": "File:USS Preble Firing Helios.png"
-    },
-    {
-      "titulo": "U S Secretary of Defense Pete Hegseth Unleashes U S Military Drone Dominance (9172754).jpg",
-      "autor": "U.S. Marines HQMC by Pfc. Isaac Llanez Delgado",
-      "licenca": "Public domain",
-      "exige_credito": false,
-      "url_origem": "https://commons.wikimedia.org/wiki/File:U_S_Secretary_of_Defense_Pete_Hegseth_Unleashes_U_S_Military_Drone_Dominance_(9172754).jpg",
-      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/U_S_Secretary_of_Defense_Pete_Hegseth_Unleashes_U_S_Military_Drone_Dominance_%289172754%29.jpg/1920px-U_S_Secretary_of_Defense_Pete_Hegseth_Unleashes_U_S_Military_Drone_Dominance_%289172754%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "largura": 2700,
-      "altura": 1761,
-      "id": "img04",
-      "arquivo": "imagens/img04.jpg",
-      "query": "File:AFRL counter-UAS demonstration of a high-energy laser.jpg"
-    },
-    {
-      "titulo": "Flickr - Israel Defense Forces - Iron Dome Battery Deployed Near Ashkelon.jpg",
-      "autor": "Israel Defense Forces",
-      "licenca": "CC BY 2.0",
-      "exige_credito": true,
-      "url_origem": "https://commons.wikimedia.org/wiki/File:Flickr_-_Israel_Defense_Forces_-_Iron_Dome_Battery_Deployed_Near_Ashkelon.jpg",
-      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Flickr_-_Israel_Defense_Forces_-_Iron_Dome_Battery_Deployed_Near_Ashkelon.jpg/1920px-Flickr_-_Israel_Defense_Forces_-_Iron_Dome_Battery_Deployed_Near_Ashkelon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "largura": 2144,
-      "altura": 1424,
-      "id": "img05",
-      "arquivo": "imagens/img05.jpg",
-      "query": "Iron Dome interception Israel"
-    },
-    {
       "titulo": "Iron Dome in Operation Protective Edge.jpg",
       "autor": "Israel Defense Forces from Israel",
       "licenca": "CC BY 2.0",
@@ -262,18 +221,6 @@
       "altura": 1470,
       "id": "img06",
       "arquivo": "imagens/img06.jpg"
-    },
-    {
-      "titulo": "Joint Light Tactical Vehicle Training in Germany (6618027).jpg",
-      "autor": "U.S. Army photo by Jason Johnston",
-      "licenca": "Public domain",
-      "exige_credito": false,
-      "url_origem": "https://commons.wikimedia.org/wiki/File:Joint_Light_Tactical_Vehicle_Training_in_Germany_(6618027).jpg",
-      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Joint_Light_Tactical_Vehicle_Training_in_Germany_%286618027%29.jpg/1920px-Joint_Light_Tactical_Vehicle_Training_in_Germany_%286618027%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "largura": 9000,
-      "altura": 6000,
-      "id": "img07",
-      "arquivo": "imagens/img07.jpg"
     },
     {
       "titulo": "El Paso Skyline2.jpg",
