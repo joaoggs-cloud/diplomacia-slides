@@ -211,6 +211,19 @@
       "query": "DragonFire laser Type 45 destroyer"
     },
     {
+      "titulo": "Meggitt Banshees.jpg",
+      "autor": "U.S. Navy photo by Journalist Seaman David J. Ham",
+      "licenca": "Public domain",
+      "exige_credito": false,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Meggitt_Banshees.jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Meggitt_Banshees.jpg/1920px-Meggitt_Banshees.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 2000,
+      "altura": 1500,
+      "id": "img04",
+      "arquivo": "imagens/img04.jpg",
+      "query": "Banshee target drone"
+    },
+    {
       "titulo": "Iron Dome in Operation Protective Edge.jpg",
       "autor": "Israel Defense Forces from Israel",
       "licenca": "CC BY 2.0",
