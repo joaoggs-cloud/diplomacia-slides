@@ -1,3 +1,12 @@
+APROVADO (coordenador, 8 nov 2026, rodada 2): conferi no SHA f35c578 as 9 correções da rodada 1.
+- Capa e legenda com 'centenas de milhares'.
+- Slides 6, 8 e 9 com os textos pedidos.
+- Slide 4 com drones-alvo Banshee.
+- Slides 3, 5 e 7 com os fallbacks de texto que avisam o que a foto mostra.
+- Story refeito.
+
+--- Rodada 1 ---
+
 REPROVADO
 
 # Revisão: 2026-11-10-lasers-antidrone (SHA 6e82d3c)
