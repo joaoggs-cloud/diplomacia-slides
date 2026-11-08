@@ -1,0 +1,192 @@
+{
+  "slug": "2026-11-10-lasers-antidrone",
+  "titulo_interno": "Lasers antidrone: o tiro barato",
+  "status": "rascunho",
+  "pilar": "tecnologia_militar",
+  "categoria": "Tecnologia militar · Defesa aérea",
+  "gancho_tipo": "contraste_numerico",
+  "capa": {
+    "imagem": "img01",
+    "titulo_html": "Um tiro de <span class=\"hl\">US$ 13</span> contra um míssil de <span class=\"hl2\">US$ 100 mil</span>",
+    "gancho": "O laser chegou à guerra dos drones. Os £10 por tiro são estimativa oficial britânica e cobrem só a energia."
+  },
+  "slides": [
+    {
+      "imagem": "img02",
+      "texto_html": "O Reino Unido contratou, por <strong>£316 milhões</strong>, o laser <em>DragonFire</em>, fabricado pela MBDA UK. A primeira instalação, num destróier Type 45, está prevista para 2027, cinco anos antes do plano original."
+    },
+    {
+      "imagem": "img03",
+      "texto_html": "O governo britânico estima o DragonFire em cerca de <strong>£10 por tiro</strong> (≈ US$ 13), contra centenas de milhares de libras de um míssil tradicional. É uma estimativa oficial e cobre só a energia elétrica.",
+      "factbox": {
+        "label": "Ressalva",
+        "texto": "Manutenção, treinamento e vida útil do equipamento não entram nessa conta."
+      }
+    },
+    {
+      "imagem": "img04",
+      "texto_html": "Nos testes nas Hébridas, o DragonFire abateu drones em alta velocidade. O Ministério da Defesa britânico descreve a precisão como a de <em>acertar uma moeda de £1 a 1 km de distância</em>."
+    },
+    {
+      "imagem": "img05",
+      "texto_html": "Em Israel, o <strong>Iron Beam</strong> foi entregue às Forças de Defesa em 28 dez 2025. Com 100 kW, é apresentado pela Rafael e pelo Ministério da Defesa como o primeiro laser de alta potência em serviço operacional regular."
+    },
+    {
+      "imagem": "img06",
+      "texto_html": "O feixe tem limites. As estimativas de alcance do Iron Beam ficam entre 7 e 10 km, e neblina, nuvem, poeira e chuva forte atrapalham. Por isso ele complementa o Iron Dome, e não o substitui.",
+      "titulo": "O limite do feixe"
+    },
+    {
+      "imagem": "img07",
+      "texto_html": "Nos EUA, o <strong>LOCUST</strong>, da AeroVironment, é um laser de classe 20 kW ligado ao programa AMP-HEL do Exército, voltado a drones pequenos. Um LOCUST em veículo JLTV foi fotografado em Mar-a-Lago em 31 out; não há disparo confirmado."
+    },
+    {
+      "imagem": "img08",
+      "texto_html": "Em 10 fev 2026, a FAA fechou o espaço aéreo de El Paso, no Texas, e suspendeu a restrição em menos de 8 horas. O episódio foi ligado ao uso de um laser antidrone. As fontes divergem sobre qual era o alvo."
+    },
+    {
+      "imagem": "img09",
+      "texto_html": "O custo por tiro é só uma parte da conta. Alcance curto, clima e tempo de mira ainda pedem outras defesas ao lado do laser, como mísseis, canhões e radares. A economia vem dos tiros baratos, não do sistema.",
+      "factbox": {
+        "label": "Em resumo",
+        "texto": "O laser reduz o custo do tiro, mas ainda não dispensa as outras defesas."
+      },
+      "titulo": "A conta que falta"
+    }
+  ],
+  "cta": {
+    "titulo": "Salve este post",
+    "subtitulo": "e compartilhe com quem acompanha tecnologia militar"
+  },
+  "legenda": "Um tiro de laser pode custar cerca de US$ 13 em energia. Um míssil interceptor, dezenas de milhares de dólares.\n\nO número é estimativa do governo britânico para o DragonFire (£10 por tiro) e não inclui manutenção, treinamento nem vida útil do equipamento. Ainda assim, ajuda a explicar por que lasers saíram do laboratório: Reino Unido, Israel e Estados Unidos já os testam ou operam contra drones. Alcance curto e clima ruim seguem como limites, e o laser divide a defesa com outros sistemas.\n\nArraste para o lado e veja onde cada país está.",
+  "primeiro_comentario": "",
+  "hashtags": [
+    "#laser",
+    "#drones",
+    "#defesaaerea",
+    "#dragonfire",
+    "#ironbeam",
+    "#tecnologiamilitar"
+  ],
+  "alt_text": "Carrossel sobre armas laser contra drones, com DragonFire, Iron Beam e LOCUST, e os limites da tecnologia.",
+  "fontes": [
+    {
+      "nome": "GOV.UK — DragonFire",
+      "url": "https://www.gov.uk/government/news/boost-for-armed-forces-as-new-laser-weapon-takes-down-high-speed-drones"
+    },
+    {
+      "nome": "Royal Navy — DragonFire trials",
+      "url": "https://www.royalnavy.mod.uk/news/2025/november/20/20251120-dragonfire-trials"
+    },
+    {
+      "nome": "Tom's Hardware",
+      "url": "https://tomshardware.com/tech-industry/uk-confirms-dragonfire-laser-weapon-for-royal-navy-destroyers-by-2027"
+    },
+    {
+      "nome": "The Register",
+      "url": "https://www.theregister.com/2025/11/24/royal_navy_dragonfire_laser/"
+    },
+    {
+      "nome": "Globes",
+      "url": "https://en.globes.co.il/en/article-1001492671"
+    },
+    {
+      "nome": "Ynet",
+      "url": "https://www.ynetnews.com/article/hyy1jtcqzl"
+    },
+    {
+      "nome": "TWZ",
+      "url": "https://www.twz.com/news-features/laser-weapon-now-guarding-trumps-mar-a-lago-estate"
+    },
+    {
+      "nome": "Jerusalem Post",
+      "url": "https://jpost.com/defense-and-tech/article-914211"
+    },
+    {
+      "nome": "The Debrief",
+      "url": "https://thedebrief.org/the-laser-that-shut-down-el-pasos-skies-what-we-know-about-the-armys-locust-counter-drone-weapon/"
+    },
+    {
+      "nome": "AP via WTOP",
+      "url": "https://wtop.com/national/2026/02/faa-closes-airspace-around-el-paso-texas-for-10-days-grounding-all-flights-2/"
+    },
+    {
+      "nome": "Texas Tribune",
+      "url": "https://www.texastribune.org/2026/02/12/texas-el-paso-airspace-closure-faa-cbp-drone-laser/"
+    }
+  ],
+  "busca_imagens": [
+    {
+      "id": "img01",
+      "query": "File:Dragonfire laser system test firing.webp",
+      "alternativas": [
+        "DragonFire laser Royal Navy",
+        "MoD DragonFire laser"
+      ]
+    },
+    {
+      "id": "img02",
+      "query": "DragonFire laser Type 45 destroyer",
+      "alternativas": [
+        "Royal Navy Type 45 destroyer Daring class"
+      ]
+    },
+    {
+      "id": "img03",
+      "query": "File:USS Preble Firing Helios.png",
+      "alternativas": [
+        "Laser Weapon System aboard USS Ponce"
+      ]
+    },
+    {
+      "id": "img04",
+      "query": "File:Laser Weapon System aboard USS Ponce (AFSB(I)-15) in November 2014 (02).JPG",
+      "alternativas": [
+        "high energy laser Navy test"
+      ]
+    },
+    {
+      "id": "img05",
+      "query": "File:Iron Beam, October 2024 (cropped).jpeg",
+      "alternativas": [
+        "incategory:\"Iron Beam\""
+      ]
+    },
+    {
+      "id": "img06",
+      "query": "Iron Dome interception Israel",
+      "alternativas": [
+        "incategory:\"Iron Dome\""
+      ]
+    },
+    {
+      "id": "img07",
+      "query": "File:US Army HEL-TVD (laser).jpg",
+      "alternativas": [
+        "Joint Light Tactical Vehicle JLTV",
+        "Army laser vehicle"
+      ]
+    },
+    {
+      "id": "img08",
+      "query": "El Paso Texas skyline",
+      "alternativas": [
+        "Fort Bliss",
+        "El Paso International Airport"
+      ]
+    },
+    {
+      "id": "img09",
+      "query": "File:AFRL counter-UAS demonstration of a high-energy laser.jpg",
+      "alternativas": [
+        "military quadcopter drone",
+        "counter-UAS"
+      ]
+    }
+  ],
+  "agendamento": {
+    "data_hora": "2026-11-10T06:01:00-03:00",
+    "slot": "06:01"
+  },
+  "ia_gerado": false
+}
