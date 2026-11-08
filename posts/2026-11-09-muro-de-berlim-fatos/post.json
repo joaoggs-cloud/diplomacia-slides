@@ -1,7 +1,7 @@
 {
   "slug": "2026-11-09-muro-de-berlim-fatos",
   "titulo_interno": "8 fatos sobre o Muro de Berlim — 37 anos da queda",
-  "status": "rascunho",
+  "status": "aguardando_aprovacao",
   "pilar": "fatos_rapidos",
   "categoria": "Guerra Fria · Alemanha",
   "gancho_tipo": "curiosidade_efemeride",
@@ -172,7 +172,16 @@
     "slot": "06:01"
   },
   "ia_gerado": false,
-  "metricool": {},
+  "metricool": {
+    "id": 421052081,
+    "uuid": "-864434854148813964",
+    "sha_slides": "763fb2d76e74feaee95048885b1f5974a4437331",
+    "planner_url": "https://app.metricool.com/planner/calendar?blogId=7647378&openWithPostUuid=-864434854148813964",
+    "story": {
+      "id": 421052135,
+      "uuid": "-5460541771645894147"
+    }
+  },
   "imagens": [
     {
       "titulo": "Berlin 1989, Fall der Mauer, Chute du mur 01.jpg",
