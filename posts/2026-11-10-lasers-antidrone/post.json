@@ -1,7 +1,7 @@
 {
   "slug": "2026-11-10-lasers-antidrone",
   "titulo_interno": "Lasers antidrone: o tiro barato",
-  "status": "aguardando_aprovacao",
+  "status": "agendado",
   "pilar": "tecnologia_militar",
   "categoria": "Tecnologia militar · Defesa aérea",
   "gancho_tipo": "contraste_numerico",
@@ -301,12 +301,12 @@
     }
   ],
   "metricool": {
-    "id": 421077028,
+    "id": 421852400,
     "uuid": "-4135612176762189638",
     "sha_slides": "f35c578e98785a9cfc8abd4e60d12b8f14f2f1ed",
     "planner_url": "https://app.metricool.com/planner/calendar?blogId=7647378&openWithPostUuid=-4135612176762189638",
     "story": {
-      "id": 421077266,
+      "id": 421852469,
       "uuid": "-970185189452135698"
     }
   }
