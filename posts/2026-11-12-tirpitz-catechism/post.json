@@ -6,14 +6,14 @@
   "categoria": "Segunda Guerra · Noruega",
   "gancho_tipo": "contradicao",
   "capa": {
-    "imagem": "img01",
-    "titulo_html": "O encouraçado afundado <span class=\"hl\">parado</span>, por bombas de <span class=\"hl2\">5,4 toneladas</span>",
+    "imagem": "img07",
+    "titulo_html": "Afundado <span class=\"hl\">parado</span>, por bombas de <span class=\"hl2\">5,4 toneladas</span>",
     "gancho": "Há 82 anos, a Tallboy virou o Tirpitz de cabeça para baixo."
   },
   "slides": [
     {
       "imagem": "img02",
-      "texto_html": "Atracado em fiordes do norte da Noruega, o <strong>Tirpitz</strong> pouco precisava navegar para ser um problema. Dali, ameaçava os comboios aliados do Ártico e estava <em>longe demais</em> para ataques aéreos a partir do Reino Unido."
+      "texto_html": "Escondido em fiordes da Noruega, o <strong>Tirpitz</strong> pouco precisava navegar para ser um problema. Dali, ameaçava os comboios aliados do Ártico e estava <em>longe demais</em> para ataques aéreos a partir do Reino Unido."
     },
     {
       "imagem": "img03",
@@ -33,15 +33,15 @@
     },
     {
       "imagem": "img06",
-      "texto_html": "Em 12 nov 1944, a <strong>Operação Catechism</strong> saiu da Escócia: cerca de 30 Lancasters dos esquadrões nº 9 e nº 617 da RAF, armados com Tallboys. O alvo estava ao sul da ilha de <em>Håkøya</em>."
+      "texto_html": "Em 12 nov 1944, a <strong>Operação Catechism</strong> saiu da Escócia: cerca de 30 Lancasters dos esquadrões nº 9 e nº 617 da RAF, com tanques extras de combustível e armados com Tallboys. O alvo estava ao sul da ilha de <em>Håkøya</em>."
     },
     {
-      "imagem": "img07",
-      "texto_html": "Conforme a fonte, foram dois a três acertos diretos. Em poucos minutos o Tirpitz <strong>emborcou</strong>, com o casco para cima, diante de Tromsø."
+      "imagem": "img01",
+      "texto_html": "As fontes contam dois ou três acertos diretos. Em poucos minutos o Tirpitz <strong>emborcou</strong>, com o casco para cima, diante de Tromsø."
     },
     {
       "imagem": "img08",
-      "texto_html": "O saldo humano é incerto. Estimativas falam em <em>entre 950 e 1.204 mortos</em>, conforme a fonte; outra cita cerca de mil entre os cerca de 1.700 tripulantes. Cerca de 200 sobreviveram."
+      "texto_html": "Hoje, Tromsø vive em frente ao lugar onde o navio virou, perto da ilha de Håkøya. O saldo humano segue incerto: as estimativas vão de <em>950 a 1.204 mortos</em>, e outra fonte fala em cerca de mil dos cerca de 1.700 homens a bordo."
     },
     {
       "imagem": "img09",
@@ -52,7 +52,7 @@
     "titulo": "Salve este post",
     "subtitulo": "e compartilhe com quem gosta de história naval"
   },
-  "legenda": "O Tirpitz nunca travou uma grande batalha naval, mas mobilizou os Aliados por anos.\n\nAncorado nos fiordes da Noruega, o encouraçado alemão ameaçava os comboios do Ártico e estava fora do alcance dos bombardeiros baseados no Reino Unido. Só a bomba Tallboy, de cerca de 5,4 toneladas, mudou esse cálculo. Em 12 de novembro de 1944, a Operação Catechism o virou de cabeça para baixo perto de Tromsø, com uma perda humana que as fontes estimam entre 950 e 1.204 mortos.\n\nHá 82 anos, terminava a história do navio.\n\nArraste para o lado e veja como foi o ataque.",
+  "legenda": "O Tirpitz nunca travou uma grande batalha naval, mas mobilizou os Aliados por anos.\n\nAncorado nos fiordes da Noruega, o encouraçado alemão ameaçava os comboios do Ártico e estava fora do alcance dos bombardeiros baseados no Reino Unido. A bomba Tallboy, de cerca de 5,4 toneladas, e Lancasters modificados para voar mais longe mudaram esse cálculo. Em 12 de novembro de 1944, a Operação Catechism o virou de cabeça para baixo perto de Tromsø, com uma perda humana que as fontes estimam entre 950 e 1.204 mortos.\n\nHá 82 anos, terminava a história do navio.\n\nArraste para o lado e veja como foi o ataque.",
   "primeiro_comentario": "",
   "hashtags": [
     "#tirpitz",
