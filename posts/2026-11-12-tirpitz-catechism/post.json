@@ -54,28 +54,228 @@
   },
   "legenda": "O Tirpitz nunca travou uma grande batalha naval, mas mobilizou os Aliados por anos.\n\nAncorado nos fiordes da Noruega, o encouraçado alemão ameaçava os comboios do Ártico e estava fora do alcance dos bombardeiros baseados no Reino Unido. Só a bomba Tallboy, de cerca de 5,4 toneladas, mudou esse cálculo. Em 12 de novembro de 1944, a Operação Catechism o virou de cabeça para baixo perto de Tromsø, com uma perda humana que as fontes estimam entre 950 e 1.204 mortos.\n\nHá 82 anos, terminava a história do navio.\n\nArraste para o lado e veja como foi o ataque.",
   "primeiro_comentario": "",
-  "hashtags": ["#tirpitz", "#segundaguerramundial", "#historianaval", "#lancaster", "#noruega", "#historia"],
+  "hashtags": [
+    "#tirpitz",
+    "#segundaguerramundial",
+    "#historianaval",
+    "#lancaster",
+    "#noruega",
+    "#historia"
+  ],
   "alt_text": "Carrossel sobre o afundamento do encouraçado Tirpitz na Operação Catechism, em 12 nov 1944, com fotos de época e atuais.",
   "fontes": [
-    {"nome": "Wikipedia, Operation Catechism", "url": "https://en.wikipedia.org/wiki/Operation_Catechism"},
-    {"nome": "Memorial Flight Club, Sinking the Tirpitz", "url": "https://www.memorialflightclub.com/blog/sinking-tirpitz-%E2%80%93-12th-november-1944"},
-    {"nome": "Wikipedia, List of Allied attacks on Tirpitz", "url": "https://en.wikipedia.org/wiki/List_of_Allied_attacks_on_the_German_battleship_Tirpitz"},
-    {"nome": "lokalhistoriewiki.no, Tirpitz", "url": "https://lokalhistoriewiki.no/wiki/Tirpitz"},
-    {"nome": "Maritime Quest, Daily Event for November 12", "url": "https://maritimequest.com/daily_event_archive/2005/nov/12_tirpitz.htm"},
-    {"nome": "Bomber Command Museum of Canada, Tirpitz", "url": "https://www.bombercommandmuseumarchives.ca/tirpitz.html"}
+    {
+      "nome": "Wikipedia, Operation Catechism",
+      "url": "https://en.wikipedia.org/wiki/Operation_Catechism"
+    },
+    {
+      "nome": "Memorial Flight Club, Sinking the Tirpitz",
+      "url": "https://www.memorialflightclub.com/blog/sinking-tirpitz-%E2%80%93-12th-november-1944"
+    },
+    {
+      "nome": "Wikipedia, List of Allied attacks on Tirpitz",
+      "url": "https://en.wikipedia.org/wiki/List_of_Allied_attacks_on_the_German_battleship_Tirpitz"
+    },
+    {
+      "nome": "lokalhistoriewiki.no, Tirpitz",
+      "url": "https://lokalhistoriewiki.no/wiki/Tirpitz"
+    },
+    {
+      "nome": "Maritime Quest, Daily Event for November 12",
+      "url": "https://maritimequest.com/daily_event_archive/2005/nov/12_tirpitz.htm"
+    },
+    {
+      "nome": "Bomber Command Museum of Canada, Tirpitz",
+      "url": "https://www.bombercommandmuseumarchives.ca/tirpitz.html"
+    }
   ],
   "busca_imagens": [
-    {"id": "img01", "pb": true, "query": "File:Battlehip Tirpitz capsized at Tromso c1944.jpg"},
-    {"id": "img02", "pb": true, "query": "Tirpitz Kaafjord", "alternativas": ["German battleship Tirpitz Fættenfjord", "Tirpitz battleship 1942"]},
-    {"id": "img03", "pb": true, "query": "Tallboy bomb Imperial War Museum", "alternativas": ["Tallboy bomb", "Barnes Wallis Tallboy"]},
-    {"id": "img04", "pb": true, "query": "Avro Lancaster 617 Squadron", "alternativas": ["Tirpitz Tallboy hit Kaafjord September 1944", "Lancaster Tallboy 1944"]},
-    {"id": "img05", "pb": true, "query": "File:Tirpitz at Tromso fjord in November 1944.JPG"},
-    {"id": "img06", "pb": true, "query": "Operation Catechism Lancaster Tirpitz", "alternativas": ["Lancaster bombers Tirpitz Tromso 1944", "Avro Lancaster Lossiemouth 1944"]},
-    {"id": "img07", "pb": true, "query": "File:Tromsö, Royal Air Force Bomber Command, 1942-1945 CL2830.jpg"},
-    {"id": "img08", "query": "File:Tirpitz Sinking Site (52598004017).jpg"},
-    {"id": "img09", "query": "File:Tirpitz coat of arms Wappenschild found in wreck of WWII German Navy Kriegsmarine battleship sunk outside Tromsø 1944 Lofoten Krigsminnemuseum Museum Norway 2022-02-24 IMG 8460.jpg", "alternativas": ["Tirpitz Wappenschild Lofoten Krigsminnemuseum"]}
+    {
+      "id": "img01",
+      "pb": true,
+      "query": "File:Battlehip Tirpitz capsized at Tromso c1944.jpg"
+    },
+    {
+      "id": "img02",
+      "pb": true,
+      "query": "Tirpitz Kaafjord",
+      "alternativas": [
+        "German battleship Tirpitz Fættenfjord",
+        "Tirpitz battleship 1942"
+      ]
+    },
+    {
+      "id": "img03",
+      "pb": true,
+      "query": "Tallboy bomb Imperial War Museum",
+      "alternativas": [
+        "Tallboy bomb",
+        "Barnes Wallis Tallboy"
+      ]
+    },
+    {
+      "id": "img04",
+      "pb": true,
+      "query": "Avro Lancaster 617 Squadron",
+      "alternativas": [
+        "Tirpitz Tallboy hit Kaafjord September 1944",
+        "Lancaster Tallboy 1944"
+      ]
+    },
+    {
+      "id": "img05",
+      "pb": true,
+      "query": "File:Tirpitz at Tromso fjord in November 1944.JPG"
+    },
+    {
+      "id": "img06",
+      "pb": true,
+      "query": "Operation Catechism Lancaster Tirpitz",
+      "alternativas": [
+        "Lancaster bombers Tirpitz Tromso 1944",
+        "Avro Lancaster Lossiemouth 1944"
+      ]
+    },
+    {
+      "id": "img07",
+      "pb": true,
+      "query": "File:Tromsö, Royal Air Force Bomber Command, 1942-1945 CL2830.jpg"
+    },
+    {
+      "id": "img08",
+      "query": "File:Tirpitz Sinking Site (52598004017).jpg"
+    },
+    {
+      "id": "img09",
+      "query": "File:Tirpitz coat of arms Wappenschild found in wreck of WWII German Navy Kriegsmarine battleship sunk outside Tromsø 1944 Lofoten Krigsminnemuseum Museum Norway 2022-02-24 IMG 8460.jpg",
+      "alternativas": [
+        "Tirpitz Wappenschild Lofoten Krigsminnemuseum"
+      ]
+    }
   ],
-  "agendamento": {"data_hora": "2026-11-12T06:01:00-03:00", "slot": "06:01"},
+  "agendamento": {
+    "data_hora": "2026-11-12T06:01:00-03:00",
+    "slot": "06:01"
+  },
   "verificacao": "Números divergentes em faixa e com atribuição; fatos 2, 4, 5 e 8 da pauta a reconferir pelo revisor (fato 8 cortado).",
-  "ia_gerado": false
+  "ia_gerado": false,
+  "imagens": [
+    {
+      "titulo": "Battlehip Tirpitz capsized at Tromso c1944.jpg",
+      "autor": "Sqn.Ldr. F.L. Dodd, and P/O A. Hill, No. 544 Squadron RAF",
+      "licenca": "Public domain",
+      "exige_credito": false,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Battlehip_Tirpitz_capsized_at_Tromso_c1944.jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Battlehip_Tirpitz_capsized_at_Tromso_c1944.jpg/1920px-Battlehip_Tirpitz_capsized_at_Tromso_c1944.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 2480,
+      "altura": 1568,
+      "id": "img01",
+      "arquivo": "imagens/img01.jpg",
+      "query": "File:Battlehip Tirpitz capsized at Tromso c1944.jpg"
+    },
+    {
+      "titulo": "HMS Furious armourer with bomb message April 1944 IWM A 22640.jpg",
+      "autor": "Hudson, F A (Lt), Royal Navy official photographer",
+      "licenca": "Public domain",
+      "exige_credito": false,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:HMS_Furious_armourer_with_bomb_message_April_1944_IWM_A_22640.jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/HMS_Furious_armourer_with_bomb_message_April_1944_IWM_A_22640.jpg/1920px-HMS_Furious_armourer_with_bomb_message_April_1944_IWM_A_22640.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 2381,
+      "altura": 1772,
+      "id": "img02",
+      "arquivo": "imagens/img02.jpg",
+      "query": "Tirpitz Kaafjord"
+    },
+    {
+      "titulo": "Grand Slam bomb exploding near Arnsberg viaduct 1945.jpg",
+      "autor": "No 4 RAFFPU, Royal Air Force official photographer",
+      "licenca": "Public domain",
+      "exige_credito": false,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Grand_Slam_bomb_exploding_near_Arnsberg_viaduct_1945.jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Grand_Slam_bomb_exploding_near_Arnsberg_viaduct_1945.jpg/1920px-Grand_Slam_bomb_exploding_near_Arnsberg_viaduct_1945.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 2456,
+      "altura": 1772,
+      "id": "img03",
+      "arquivo": "imagens/img03.jpg",
+      "query": "Tallboy bomb Imperial War Museum"
+    },
+    {
+      "titulo": "A No 617 Squadron Lancaster which crashed in the USSR during Operation Paravane in 1944.jpg",
+      "autor": "Unidentified member of the Royal Air Force",
+      "licenca": "Public domain",
+      "exige_credito": false,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:A_No_617_Squadron_Lancaster_which_crashed_in_the_USSR_during_Operation_Paravane_in_1944.jpg",
+      "url_download": "https://upload.wikimedia.org/wikipedia/commons/4/44/A_No_617_Squadron_Lancaster_which_crashed_in_the_USSR_during_Operation_Paravane_in_1944.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largura": 1300,
+      "altura": 957,
+      "id": "img04",
+      "arquivo": "imagens/img04.jpg",
+      "query": "Avro Lancaster 617 Squadron"
+    },
+    {
+      "titulo": "Tirpitz at Tromso fjord in November 1944.JPG",
+      "autor": "Not stated in the AWM's database. The photographer would have been a Royal Australian Air Force airman serving with the units involved in the Operation Catechism attack on Tirptiz which took place on 12 November 1944.",
+      "licenca": "Public domain",
+      "exige_credito": false,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Tirpitz_at_Tromso_fjord_in_November_1944.JPG",
+      "url_download": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Tirpitz_at_Tromso_fjord_in_November_1944.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largura": 638,
+      "altura": 478,
+      "id": "img05",
+      "arquivo": "imagens/img05.jpg",
+      "query": "File:Tirpitz at Tromso fjord in November 1944.JPG"
+    },
+    {
+      "titulo": "Royal Air Force 1939-1945- Bomber Command CH17863.jpg",
+      "autor": "Royal Air Force official photographer",
+      "licenca": "Public domain",
+      "exige_credito": false,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Royal_Air_Force_1939-1945-_Bomber_Command_CH17863.jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Royal_Air_Force_1939-1945-_Bomber_Command_CH17863.jpg/1920px-Royal_Air_Force_1939-1945-_Bomber_Command_CH17863.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 2991,
+      "altura": 2480,
+      "id": "img06",
+      "arquivo": "imagens/img06.jpg",
+      "query": "Operation Catechism Lancaster Tirpitz"
+    },
+    {
+      "titulo": "Tromsö, Royal Air Force Bomber Command, 1942-1945 CL2830.jpg",
+      "autor": "Daventry B J (Flt Lt), Royal Air Force official photographer",
+      "licenca": "Public domain",
+      "exige_credito": false,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Troms%C3%B6,_Royal_Air_Force_Bomber_Command,_1942-1945_CL2830.jpg",
+      "url_download": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Troms%C3%B6%2C_Royal_Air_Force_Bomber_Command%2C_1942-1945_CL2830.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largura": 1300,
+      "altura": 894,
+      "id": "img07",
+      "arquivo": "imagens/img07.jpg",
+      "query": "File:Tromsö, Royal Air Force Bomber Command, 1942-1945 CL2830.jpg"
+    },
+    {
+      "titulo": "Tirpitz Sinking Site (52598004017).jpg",
+      "autor": "David Stanley from Nanaimo, Canada",
+      "licenca": "CC BY 2.0",
+      "exige_credito": true,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Tirpitz_Sinking_Site_(52598004017).jpg",
+      "url_download": "https://upload.wikimedia.org/wikipedia/commons/b/be/Tirpitz_Sinking_Site_%2852598004017%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largura": 1024,
+      "altura": 768,
+      "id": "img08",
+      "arquivo": "imagens/img08.jpg",
+      "query": "File:Tirpitz Sinking Site (52598004017).jpg"
+    },
+    {
+      "titulo": "Tirpitz coat of arms Wappenschild found in wreck of WWII German Navy Kriegsmarine battleship sunk outside Tromsø 1944 Lofoten Krigsminnemuseum Museum Norway 2022-02-24 IMG 8460.jpg",
+      "autor": "Wolfmann",
+      "licenca": "CC BY-SA 4.0",
+      "exige_credito": true,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Tirpitz_coat_of_arms_Wappenschild_found_in_wreck_of_WWII_German_Navy_Kriegsmarine_battleship_sunk_outside_Troms%C3%B8_1944_Lofoten_Krigsminnemuseum_Museum_Norway_2022-02-24_IMG_8460.jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Tirpitz_coat_of_arms_Wappenschild_found_in_wreck_of_WWII_German_Navy_Kriegsmarine_battleship_sunk_outside_Troms%C3%B8_1944_Lofoten_Krigsminnemuseum_Museum_Norway_2022-02-24_IMG_8460.jpg/1920px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 2809,
+      "altura": 3274,
+      "id": "img09",
+      "arquivo": "imagens/img09.jpg",
+      "query": "File:Tirpitz coat of arms Wappenschild found in wreck of WWII German Navy Kriegsmarine battleship sunk outside Tromsø 1944 Lofoten Krigsminnemuseum Museum Norway 2022-02-24 IMG 8460.jpg"
+    }
+  ]
 }
