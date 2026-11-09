@@ -1,3 +1,12 @@
+APROVADO (coordenador, 9 nov 2026, rodada 2): as 4 correções obrigatórias foram aplicadas no SHA 00a544c806f6397ac3dce5e70306321dd6211b38, junto com as recomendações dos slides 2 e 7.
+- Slide 8 com o texto novo.
+- Legenda cita a Tallboy e os Lancasters modificados.
+- Slide 6 com os tanques extras.
+- Capa usa a img07 com o título em 3 linhas, e a img01 foi para o slide 7.
+Conferi a capa e os slides 7 e 8 em JPEG, e o story foi regerado.
+
+--- Rodada 1 ---
+
 REPROVADO
 
 Revisão do SHA 7bbfeadcd9e66fe8ada01eca8c2ef0c20b96fec3 (09 nov 2026). Fatos reconferidos por WebSearch fora da Wikipedia: RAF Museum (Target the Tirpitz), Memorial Flight Club, Inside Story, Maritime Quest, aviamuseum, nordnorge.com.
