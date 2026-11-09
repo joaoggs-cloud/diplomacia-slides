@@ -90,6 +90,10 @@
     {
       "data": "2026-11-07",
       "motivo": "Pedido do João após o diagnóstico de seguidores: Reels a partir dos carrosséis, 3 por semana (seg, qua, sex) às 19:01 do mesmo dia do post, como Reel de teste (TRIAL_REEL, mostrado primeiro a quem não segue). Carrossel diário às 06:01 continua igual."
+    },
+    {
+      "data": "2026-11-09",
+      "motivo": "Análise semanal: sem mudança. Frequência 7/sem (mínima) e horário fixo 06:01 mantidos. Pesos de pilares NÃO alterados: a sugestão automática (+2 pts conflito_atual) vinha de 1 post com alcance 5, ruído. Aprovação atrasada: o post 2026-11-09-muro-de-berlim-fatos não foi aprovado a tempo e não saiu (rascunho venceu). Recomendação ao João: aprovar até as 21h para o post das 06:01 sair."
     }
   ],
   "frequencia_minima": 7,
