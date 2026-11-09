@@ -1,0 +1,81 @@
+{
+  "slug": "2026-11-12-tirpitz-catechism",
+  "titulo_interno": "Tirpitz — Operação Catechism, 82 anos",
+  "status": "rascunho",
+  "pilar": "historia_militar",
+  "categoria": "Segunda Guerra · Noruega",
+  "gancho_tipo": "contradicao",
+  "capa": {
+    "imagem": "img01",
+    "titulo_html": "O encouraçado afundado <span class=\"hl\">parado</span>, por bombas de <span class=\"hl2\">5,4 toneladas</span>",
+    "gancho": "Há 82 anos, a Tallboy virou o Tirpitz de cabeça para baixo."
+  },
+  "slides": [
+    {
+      "imagem": "img02",
+      "texto_html": "Atracado em fiordes do norte da Noruega, o <strong>Tirpitz</strong> pouco precisava navegar para ser um problema. Dali, ameaçava os comboios aliados do Ártico e estava <em>longe demais</em> para ataques aéreos a partir do Reino Unido."
+    },
+    {
+      "imagem": "img03",
+      "texto_html": "A resposta britânica foi uma bomba nova, a <strong>Tallboy</strong>, capaz de perfurar a blindagem do navio. O bombardeiro Lancaster precisou ser modificado para carregá-la.",
+      "factbox": {
+        "label": "Peso",
+        "texto": "A Tallboy tinha cerca de 12.000 libras, o equivalente a aproximadamente 5,4 toneladas."
+      }
+    },
+    {
+      "imagem": "img04",
+      "texto_html": "Em 15 set 1944, na Operação Paravane, uma única Tallboy atingiu o Tirpitz em Kaafjord. O <em>dano na proa</em> foi grande e o navio ficou sem condições de combate."
+    },
+    {
+      "imagem": "img05",
+      "texto_html": "Em outubro, o encouraçado foi levado para a região de <strong>Tromsø</strong>, para servir como bateria fixa. A Operação Obviate, em 29 out, <em>fracassou</em>. Restava uma nova tentativa."
+    },
+    {
+      "imagem": "img06",
+      "texto_html": "Em 12 nov 1944, a <strong>Operação Catechism</strong> saiu da Escócia: cerca de 30 Lancasters dos esquadrões nº 9 e nº 617 da RAF, armados com Tallboys. O alvo estava ao sul da ilha de <em>Håkøya</em>."
+    },
+    {
+      "imagem": "img07",
+      "texto_html": "Conforme a fonte, foram dois a três acertos diretos. Em poucos minutos o Tirpitz <strong>emborcou</strong>, com o casco para cima, diante de Tromsø."
+    },
+    {
+      "imagem": "img08",
+      "texto_html": "O saldo humano é incerto. Estimativas falam em <em>entre 950 e 1.204 mortos</em>, conforme a fonte; outra cita cerca de mil entre os cerca de 1.700 tripulantes. Cerca de 200 sobreviveram."
+    },
+    {
+      "imagem": "img09",
+      "texto_html": "Depois da guerra, o casco foi desmontado e sucateado. Placas de blindagem e outras peças estão espalhadas pela <strong>Noruega</strong>, e o brasão recuperado do navio está no museu de guerra de Lofoten."
+    }
+  ],
+  "cta": {
+    "titulo": "Salve este post",
+    "subtitulo": "e compartilhe com quem gosta de história naval"
+  },
+  "legenda": "O Tirpitz nunca travou uma grande batalha naval, mas mobilizou os Aliados por anos.\n\nAncorado nos fiordes da Noruega, o encouraçado alemão ameaçava os comboios do Ártico e estava fora do alcance dos bombardeiros baseados no Reino Unido. Só a bomba Tallboy, de cerca de 5,4 toneladas, mudou esse cálculo. Em 12 de novembro de 1944, a Operação Catechism o virou de cabeça para baixo perto de Tromsø, com uma perda humana que as fontes estimam entre 950 e 1.204 mortos.\n\nHá 82 anos, terminava a história do navio.\n\nArraste para o lado e veja como foi o ataque.",
+  "primeiro_comentario": "",
+  "hashtags": ["#tirpitz", "#segundaguerramundial", "#historianaval", "#lancaster", "#noruega", "#historia"],
+  "alt_text": "Carrossel sobre o afundamento do encouraçado Tirpitz na Operação Catechism, em 12 nov 1944, com fotos de época e atuais.",
+  "fontes": [
+    {"nome": "Wikipedia, Operation Catechism", "url": "https://en.wikipedia.org/wiki/Operation_Catechism"},
+    {"nome": "Memorial Flight Club, Sinking the Tirpitz", "url": "https://www.memorialflightclub.com/blog/sinking-tirpitz-%E2%80%93-12th-november-1944"},
+    {"nome": "Wikipedia, List of Allied attacks on Tirpitz", "url": "https://en.wikipedia.org/wiki/List_of_Allied_attacks_on_the_German_battleship_Tirpitz"},
+    {"nome": "lokalhistoriewiki.no, Tirpitz", "url": "https://lokalhistoriewiki.no/wiki/Tirpitz"},
+    {"nome": "Maritime Quest, Daily Event for November 12", "url": "https://maritimequest.com/daily_event_archive/2005/nov/12_tirpitz.htm"},
+    {"nome": "Bomber Command Museum of Canada, Tirpitz", "url": "https://www.bombercommandmuseumarchives.ca/tirpitz.html"}
+  ],
+  "busca_imagens": [
+    {"id": "img01", "pb": true, "query": "File:Battlehip Tirpitz capsized at Tromso c1944.jpg"},
+    {"id": "img02", "pb": true, "query": "Tirpitz Kaafjord", "alternativas": ["German battleship Tirpitz Fættenfjord", "Tirpitz battleship 1942"]},
+    {"id": "img03", "pb": true, "query": "Tallboy bomb Imperial War Museum", "alternativas": ["Tallboy bomb", "Barnes Wallis Tallboy"]},
+    {"id": "img04", "pb": true, "query": "Avro Lancaster 617 Squadron", "alternativas": ["Tirpitz Tallboy hit Kaafjord September 1944", "Lancaster Tallboy 1944"]},
+    {"id": "img05", "pb": true, "query": "File:Tirpitz at Tromso fjord in November 1944.JPG"},
+    {"id": "img06", "pb": true, "query": "Operation Catechism Lancaster Tirpitz", "alternativas": ["Lancaster bombers Tirpitz Tromso 1944", "Avro Lancaster Lossiemouth 1944"]},
+    {"id": "img07", "pb": true, "query": "File:Tromsö, Royal Air Force Bomber Command, 1942-1945 CL2830.jpg"},
+    {"id": "img08", "query": "File:Tirpitz Sinking Site (52598004017).jpg"},
+    {"id": "img09", "query": "File:Tirpitz coat of arms Wappenschild found in wreck of WWII German Navy Kriegsmarine battleship sunk outside Tromsø 1944 Lofoten Krigsminnemuseum Museum Norway 2022-02-24 IMG 8460.jpg", "alternativas": ["Tirpitz Wappenschild Lofoten Krigsminnemuseum"]}
+  ],
+  "agendamento": {"data_hora": "2026-11-12T06:01:00-03:00", "slot": "06:01"},
+  "verificacao": "Números divergentes em faixa e com atribuição; fatos 2, 4, 5 e 8 da pauta a reconferir pelo revisor (fato 8 cortado).",
+  "ia_gerado": false
+}
