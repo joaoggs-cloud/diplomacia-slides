@@ -1,3 +1,20 @@
+APROVADO (coordenador, 10 nov 2026, rodada 2), no SHA 9c3101a710c66f69afb99f45f7f615ac25d70543.
+
+Correções obrigatórias aplicadas (1 a 5):
+- Slides 2 e 7 agora com até 45 palavras.
+- Slide 2 trocou a foto pelo skyline (Madlen Steiner, CC BY 3.0).
+- Legenda: 'cobra garantias de segurança'.
+- Slide 8 cita Witkoff (foto).
+- Autores encurtados: Presidência da Ucrânia e Kremlin.ru.
+
+Recomendações aplicadas:
+- Slide 4 com a versão da entrevista.
+- 'nesta quarta' trocado por 'hoje'.
+
+Conferi as capas e os slides 2 e 4 em JPEG e regerei o story.
+
+--- Rodada 1 ---
+
 REPROVADO
 
 Revisão do SHA 3dda0c5 (10 nov 2026). Os fatos centrais conferem. Reprovado por limite de palavras, por uma distorção na legenda e por três problemas de imagem. As correções são curtas: dá para refazer na mesma noite.
