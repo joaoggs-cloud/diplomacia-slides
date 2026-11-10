@@ -109,5 +109,7 @@
     ],
     "horario": "19:01",
     "tipo": "TRIAL_REEL"
-  }
+  },
+  "estilo_visual": "clean",
+  "_sobre_estilo_visual": "Teste do João (9 nov): \"clean\" = títulos em Inter (trecho em destaque em negrito branco, resto em peso normal, como perfis de notícia), fotos mais coloridas. \"padrao\" volta ao Montserrat com destaque dourado. Um post.json pode forçar com \"estilo\"."
 }

@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{{TITULO}} — Diplomacia da Guerra</title>
-<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600;700;800&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600;700;800&family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
 <style>
 /* Layout "moderno": formato 4:5 (1080x1350), foto em tela cheia, etiquetas acima do
    título e manchete grande sem serifa — inspirado em perfis de notícia do Instagram. */
@@ -125,6 +125,13 @@ body.export .controls{display:none;}
 .controls{display:flex;align-items:center;gap:12px;margin-top:16px;}
 .btn{background:#1a1a1a;border:1px solid #333;color:#999;padding:9px 18px;cursor:pointer;font-family:'Inter';font-size:13px;}
 .counter{color:#777;font-size:12px;min-width:56px;text-align:center;font-family:'Inter';}
+/* Estilo "clean" (teste do João, 9 nov): fonte limpa, destaque em branco e negrito, como nos perfis de notícia. */
+body.clean .manchete{font-family:'Inter',sans-serif;font-weight:500;font-size:43px;line-height:1.1;letter-spacing:-1px;text-shadow:0 2px 14px rgba(0,0,0,.45);}
+body.clean .manchete .hl,body.clean .manchete .hl2,body.clean .manchete b,body.clean .manchete strong{color:#fff;font-weight:800;}
+body.clean .titulo,body.clean .cta-h{font-family:'Inter',sans-serif;font-weight:800;letter-spacing:-0.5px;}
+body.clean .texto.solto{font-weight:400;font-size:19.5px;}
+body.clean .texto strong{font-weight:700;}
+body.clean .texto em{color:#fff;font-weight:700;}
 </style>
 </head>
 <body>

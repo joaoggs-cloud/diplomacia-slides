@@ -27,7 +27,7 @@ TEMPLATE = (RAIZ / "scripts" / "template.html").read_text(encoding="utf-8")
 TEMPLATE_MODERNO = (RAIZ / "scripts" / "template_moderno.html").read_text(encoding="utf-8")
 
 
-def data_uri(caminho, largura_max=1400, realce=False):
+def data_uri(caminho, largura_max=1400, realce=False, cor=1.15, contraste=1.06):
     """Embute a foto em base64, reduzida para o HTML não ficar gigante.
     `realce` dá um leve reforço de cor, contraste e nitidez (layout moderno)."""
     img = Image.open(caminho).convert("RGB")
@@ -35,8 +35,8 @@ def data_uri(caminho, largura_max=1400, realce=False):
         img = img.resize((largura_max, round(img.height * largura_max / img.width)), Image.LANCZOS)
     if realce:
         from PIL import ImageEnhance, ImageFilter
-        img = ImageEnhance.Color(img).enhance(1.15)
-        img = ImageEnhance.Contrast(img).enhance(1.06)
+        img = ImageEnhance.Color(img).enhance(cor)
+        img = ImageEnhance.Contrast(img).enhance(contraste)
         img = img.filter(ImageFilter.UnsharpMask(radius=1.6, percent=70, threshold=2))
     buf = io.BytesIO()
     img.save(buf, format="JPEG", quality=88)
@@ -214,13 +214,16 @@ def montar_moderno(post, post_dir):
     imagens = {i["id"]: i for i in post.get("imagens", [])}
     logo = logo_uri()
     total = len(post["slides"]) + 2
+    clean = estilo_do_post(post) == "clean"
+    # Estilo "clean" (teste do João, 9 nov): fotos mais coloridas e títulos em Inter.
+    cor, contraste = (1.35, 1.08) if clean else (1.15, 1.06)
 
     def fundo(img_id, foco=None):
         img = imagens.get(img_id)
         if not img:
             return '<div class="fallback"></div>', None
         pos = f' style="object-position:{escape(foco)}"' if foco else ""
-        return f'<img class="bg" src="{data_uri(post_dir / img["arquivo"], 1600, realce=True)}"{pos} alt="">', img
+        return f'<img class="bg" src="{data_uri(post_dir / img["arquivo"], 1600, realce=True, cor=cor, contraste=contraste)}"{pos} alt="">', img
 
     def rodape(img, direita=""):
         cred = escape(credito_curto(img)).replace("Foto:", "<b>Foto:</b>", 1)
@@ -305,6 +308,20 @@ def montar_moderno(post, post_dir):
     return (TEMPLATE_MODERNO
             .replace("{{TITULO}}", escape(post.get("titulo_interno", post["slug"])))
             .replace("{{SLIDES}}", "\n".join(html)))
+
+
+def estilo_do_post(post):
+    """"clean" (fonte limpa no estilo dos perfis de notícia, fotos mais vivas) ou "padrao"."""
+    if post.get("estilo"):
+        return post["estilo"]
+    try:
+        return json.loads((RAIZ / "config" / "estrategia.json").read_text(encoding="utf-8")).get("estilo_visual", "padrao")
+    except Exception:
+        return "padrao"
+
+
+def com_estilo(html, post):
+    return html.replace("<body>", '<body class="clean">', 1) if estilo_do_post(post) == "clean" else html
 
 
 def layout_do_post(post):
@@ -452,7 +469,7 @@ def main():
     else:
         montar = montar_moderno if (args.layout or layout_do_post(post)) == "moderno" else montar_html
     saida.parent.mkdir(parents=True, exist_ok=True)
-    saida.write_text(montar(post, post_dir), encoding="utf-8")
+    saida.write_text(com_estilo(montar(post, post_dir), post), encoding="utf-8")
     print(f"HTML: {saida}")
     if args.so_html:
         return
