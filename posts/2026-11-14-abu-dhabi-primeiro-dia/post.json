@@ -194,5 +194,111 @@
     "slot": "06:01"
   },
   "verificacao": "Fatos da pauta (10 nov); duração, troca de prisioneiros e papel da Europa atribuídos. Dia 2 ainda em curso.",
-  "ia_gerado": false
+  "ia_gerado": false,
+  "imagens": [
+    {
+      "titulo": "Emirates Palace @ Abu Dhabi (16018261136).jpg",
+      "autor": "Guilhem Vellut from Annecy, France",
+      "licenca": "CC BY 2.0",
+      "exige_credito": true,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Emirates_Palace_@_Abu_Dhabi_(16018261136).jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Emirates_Palace_%40_Abu_Dhabi_%2816018261136%29.jpg/1920px-Emirates_Palace_%40_Abu_Dhabi_%2816018261136%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 2976,
+      "altura": 3968,
+      "id": "img01",
+      "arquivo": "imagens/img01.jpg",
+      "query": "File:Emirates Palace @ Abu Dhabi (16018261136).jpg"
+    },
+    {
+      "titulo": "Emirates Palace @ Abu Dhabi (15858270087).jpg",
+      "autor": "Guilhem Vellut from Annecy, France",
+      "licenca": "CC BY 2.0",
+      "exige_credito": true,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Emirates_Palace_@_Abu_Dhabi_(15858270087).jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Emirates_Palace_%40_Abu_Dhabi_%2815858270087%29.jpg/1920px-Emirates_Palace_%40_Abu_Dhabi_%2815858270087%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 2976,
+      "altura": 3968,
+      "id": "img02",
+      "arquivo": "imagens/img02.jpg",
+      "query": "File:Emirates Palace @ Abu Dhabi (15858270087).jpg"
+    },
+    {
+      "titulo": "Rustem Umerov (2023-09-14).jpg",
+      "autor": "Ministry of Defense of Ukraine",
+      "licenca": "CC BY 4.0",
+      "exige_credito": true,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Rustem_Umerov_(2023-09-14).jpg",
+      "url_download": "https://upload.wikimedia.org/wikipedia/commons/5/59/Rustem_Umerov_%282023-09-14%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largura": 800,
+      "altura": 531,
+      "id": "img03",
+      "arquivo": "imagens/img03.jpg",
+      "query": "File:Rustem Umerov (2023-09-14).jpg"
+    },
+    {
+      "titulo": "Volodymyr Zelensky Official portrait.jpg",
+      "autor": "http://www.president.gov.ua/",
+      "licenca": "CC BY 4.0",
+      "exige_credito": true,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Volodymyr_Zelensky_Official_portrait.jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Volodymyr_Zelensky_Official_portrait.jpg/1920px-Volodymyr_Zelensky_Official_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 3488,
+      "altura": 4724,
+      "id": "img04",
+      "arquivo": "imagens/img04.jpg",
+      "query": "File:Volodymyr Zelensky Official portrait.jpg"
+    },
+    {
+      "titulo": "Vladimir Medinsky portrait at Shkin-Opera festival 2025.jpg",
+      "autor": "FeklaIvanova16",
+      "licenca": "CC0",
+      "exige_credito": false,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Vladimir_Medinsky_portrait_at_Shkin-Opera_festival_2025.jpg",
+      "url_download": "https://upload.wikimedia.org/wikipedia/commons/8/89/Vladimir_Medinsky_portrait_at_Shkin-Opera_festival_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largura": 1706,
+      "altura": 2132,
+      "id": "img05",
+      "arquivo": "imagens/img05.jpg",
+      "query": "File:Vladimir Medinsky portrait at Shkin-Opera festival 2025.jpg"
+    },
+    {
+      "titulo": "Emirates Palace (5768030835).jpg",
+      "autor": "krebsmaus07",
+      "licenca": "CC BY 2.0",
+      "exige_credito": true,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Emirates_Palace_(5768030835).jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Emirates_Palace_%285768030835%29.jpg/1920px-Emirates_Palace_%285768030835%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 4000,
+      "altura": 2248,
+      "id": "img06",
+      "arquivo": "imagens/img06.jpg",
+      "query": "File:Emirates Palace (5768030835).jpg"
+    },
+    {
+      "titulo": "Emirates palace from top view.jpg",
+      "autor": "Abhishek Ajoy Menon",
+      "licenca": "CC BY-SA 4.0",
+      "exige_credito": true,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Emirates_palace_from_top_view.jpg",
+      "url_download": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Emirates_palace_from_top_view.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largura": 720,
+      "altura": 1280,
+      "id": "img07",
+      "arquivo": "imagens/img07.jpg",
+      "query": "File:Emirates palace from top view.jpg"
+    },
+    {
+      "titulo": "Skylines of Abu Dhabi by Makalu.jpg",
+      "autor": "Makalu",
+      "licenca": "CC0",
+      "exige_credito": false,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Skylines_of_Abu_Dhabi_by_Makalu.jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Skylines_of_Abu_Dhabi_by_Makalu.jpg/1920px-Skylines_of_Abu_Dhabi_by_Makalu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 9472,
+      "altura": 5328,
+      "id": "img09",
+      "arquivo": "imagens/img09.jpg",
+      "query": "Abu Dhabi skyline"
+    }
+  ]
 }
