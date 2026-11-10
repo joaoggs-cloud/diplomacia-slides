@@ -1,7 +1,7 @@
 {
   "slug": "2026-11-12-tirpitz-catechism",
   "titulo_interno": "Tirpitz — Operação Catechism, 82 anos",
-  "status": "rascunho",
+  "status": "aguardando_aprovacao",
   "pilar": "historia_militar",
   "categoria": "Segunda Guerra · Noruega",
   "gancho_tipo": "contradicao",
@@ -277,5 +277,15 @@
       "arquivo": "imagens/img09.jpg",
       "query": "File:Tirpitz coat of arms Wappenschild found in wreck of WWII German Navy Kriegsmarine battleship sunk outside Tromsø 1944 Lofoten Krigsminnemuseum Museum Norway 2022-02-24 IMG 8460.jpg"
     }
-  ]
+  ],
+  "metricool": {
+    "id": 422595763,
+    "uuid": "7782281133002080933",
+    "sha_slides": "00a544c806f6397ac3dce5e70306321dd6211b38",
+    "planner_url": "https://app.metricool.com/planner/calendar?blogId=7647378&openWithPostUuid=7782281133002080933",
+    "story": {
+      "id": 422595790,
+      "uuid": "1890432802723940033"
+    }
+  }
 }
