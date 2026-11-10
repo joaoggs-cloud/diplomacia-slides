@@ -240,6 +240,19 @@
       "query": "File:Berlaymont building 2022.jpg"
     },
     {
+      "titulo": "Blood plasma donation 3682.JPG",
+      "autor": "ANKAWÜ",
+      "licenca": "CC BY-SA 3.0",
+      "exige_credito": true,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Blood_plasma_donation_3682.JPG",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Blood_plasma_donation_3682.JPG/1920px-Blood_plasma_donation_3682.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 3456,
+      "altura": 4608,
+      "id": "img04",
+      "arquivo": "imagens/img04.jpg",
+      "query": "blood plasma bags"
+    },
+    {
       "titulo": "Check-in at Terminal 2, Prague Airport.jpg",
       "autor": "Pavel Hrdlička (Czech Wikipedia user Packa)",
       "licenca": "CC BY-SA 4.0",
@@ -277,6 +290,19 @@
       "id": "img07",
       "arquivo": "imagens/img07.jpg",
       "query": "File:Romanian F-16.jpg"
+    },
+    {
+      "titulo": "British cargo ship Hurst Point reaches Croatia (6632468).jpg",
+      "autor": "U.S. Army photo by Sgt. Joshua Oh",
+      "licenca": "Public domain",
+      "exige_credito": false,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:British_cargo_ship_Hurst_Point_reaches_Croatia_(6632468).jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/British_cargo_ship_Hurst_Point_reaches_Croatia_%286632468%29.jpg/1920px-British_cargo_ship_Hurst_Point_reaches_Croatia_%286632468%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 5976,
+      "altura": 3984,
+      "id": "img08",
+      "arquivo": "imagens/img08.jpg",
+      "query": "container ship Gulf of Finland Baltic"
     },
     {
       "titulo": "Latvian Army soldiers (16635365913).jpg",
