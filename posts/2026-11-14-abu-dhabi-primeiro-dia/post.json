@@ -152,17 +152,15 @@
     },
     {
       "id": "img05",
-      "query": "File:Vladimir Medinsky portrait at Shkin-Opera festival 2025.jpg",
+      "query": "File:Dmitry Peskov portrait.jpg",
       "alternativas": [
-        "File:Vladimir Medinsky speaking at Shkin-Opera festival 2025.jpg"
+        "File:Dmitry Peskov.jpeg"
       ]
     },
     {
       "id": "img06",
-      "query": "File:Emirates Palace (5768030835).jpg",
-      "alternativas": [
-        "Abu Dhabi"
-      ]
+      "query": "File:Vladimir Medinsky portrait at Shkin-Opera festival 2025.jpg",
+      "alternativas": []
     },
     {
       "id": "img07",
@@ -173,9 +171,9 @@
     },
     {
       "id": "img08",
-      "query": "File:Steve Witkoff in 2025 (54334316072).jpg",
+      "query": "File:Steve Witkoff (2025) (cropped).jpg",
       "alternativas": [
-        "File:Steve Witkoff.jpg"
+        "File:Vladimir Putin with Steven Witkoff.jpg"
       ]
     },
     {
@@ -237,7 +235,7 @@
     },
     {
       "titulo": "Volodymyr Zelensky Official portrait.jpg",
-      "autor": "http://www.president.gov.ua/",
+      "autor": "Presidência da Ucrânia (president.gov.ua)",
       "licenca": "CC BY 4.0",
       "exige_credito": true,
       "url_origem": "https://commons.wikimedia.org/wiki/File:Volodymyr_Zelensky_Official_portrait.jpg",
@@ -257,22 +255,9 @@
       "url_download": "https://upload.wikimedia.org/wikipedia/commons/8/89/Vladimir_Medinsky_portrait_at_Shkin-Opera_festival_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
       "largura": 1706,
       "altura": 2132,
-      "id": "img05",
-      "arquivo": "imagens/img05.jpg",
-      "query": "File:Vladimir Medinsky portrait at Shkin-Opera festival 2025.jpg"
-    },
-    {
-      "titulo": "Emirates Palace (5768030835).jpg",
-      "autor": "krebsmaus07",
-      "licenca": "CC BY 2.0",
-      "exige_credito": true,
-      "url_origem": "https://commons.wikimedia.org/wiki/File:Emirates_Palace_(5768030835).jpg",
-      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Emirates_Palace_%285768030835%29.jpg/1920px-Emirates_Palace_%285768030835%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "largura": 4000,
-      "altura": 2248,
       "id": "img06",
       "arquivo": "imagens/img06.jpg",
-      "query": "File:Emirates Palace (5768030835).jpg"
+      "query": "File:Vladimir Medinsky portrait at Shkin-Opera festival 2025.jpg"
     },
     {
       "titulo": "Emirates palace from top view.jpg",
