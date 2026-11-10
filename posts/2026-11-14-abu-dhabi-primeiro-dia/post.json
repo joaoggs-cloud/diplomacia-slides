@@ -48,7 +48,8 @@
     {
       "imagem": "img09",
       "titulo": "O que vem agora",
-      "texto_html": "A rodada continua nesta quarta, 11 nov, e até agora nenhum lado anunciou acordo. Os comunicados do segundo dia dirão se há nova data e se a troca de prisioneiros, esperada por Kiev, sai do papel."
+      "texto_html": "A rodada continua nesta quarta, 11 nov, e até agora nenhum lado anunciou acordo. Os comunicados do segundo dia dirão se há nova data e se a troca de prisioneiros, esperada por Kiev, sai do papel.",
+      "foco": "60% center"
     }
   ],
   "cta": {
@@ -299,14 +300,14 @@
       "query": "File:Steve Witkoff (2025) (cropped).jpg"
     },
     {
-      "titulo": "Skylines of Abu Dhabi by Makalu.jpg",
-      "autor": "Makalu",
-      "licenca": "CC0",
-      "exige_credito": false,
-      "url_origem": "https://commons.wikimedia.org/wiki/File:Skylines_of_Abu_Dhabi_by_Makalu.jpg",
-      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Skylines_of_Abu_Dhabi_by_Makalu.jpg/1920px-Skylines_of_Abu_Dhabi_by_Makalu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "largura": 9472,
-      "altura": 5328,
+      "titulo": "Skyline of Abu Dhabi at sunset.jpg",
+      "autor": "Robert Haandrikman",
+      "licenca": "CC BY 2.0",
+      "exige_credito": true,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Skyline_of_Abu_Dhabi_at_sunset.jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Skyline_of_Abu_Dhabi_at_sunset.jpg/1920px-Skyline_of_Abu_Dhabi_at_sunset.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 6720,
+      "altura": 3270,
       "id": "img09",
       "arquivo": "imagens/img09.jpg",
       "query": "Abu Dhabi skyline"
