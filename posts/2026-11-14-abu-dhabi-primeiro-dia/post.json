@@ -9,16 +9,17 @@
   "capa": {
     "imagem": "img01",
     "titulo_html": "<span class=\"hl\">Quatro horas em Abu Dhabi:</span> o que cada lado disse no primeiro dia",
-    "gancho": "Rússia e Ucrânia voltaram à mesa depois de nove meses. A rodada continua nesta quarta, sem acordo anunciado."
+    "gancho": "Rússia e Ucrânia voltaram à mesa depois de nove meses. A rodada continua hoje, sem acordo anunciado."
   },
   "slides": [
     {
       "imagem": "img02",
-      "texto_html": "Em 10 nov, Rússia, Ucrânia e EUA abriram em <strong>Abu Dhabi</strong> uma rodada mediada por Washington, a primeira entre Moscou e Kiev desde fev. O primeiro dia durou cerca de quatro horas. A rodada continua nesta quarta, 11 nov.",
+      "texto_html": "Em 10 nov, Rússia, Ucrânia e EUA abriram em <strong>Abu Dhabi</strong> uma rodada mediada por Washington, a primeira entre Moscou e Kiev desde fev. A rodada continua hoje, 11 nov.",
       "factbox": {
-        "label": "Duração",
+        "label": "Primeiro dia",
         "texto": "AP e NBC: quase 4 horas. TASS e Kyiv Post: 4h30."
-      }
+      },
+      "foco": "50% 30%"
     },
     {
       "imagem": "img03",
@@ -26,7 +27,7 @@
     },
     {
       "imagem": "img04",
-      "texto_html": "Zelensky chamou o dia de <em>“construtivo e bastante substancial”</em> e disse que foram tratados temas humanitários e garantias de segurança. Segundo ele, os EUA perguntaram se Kiev aceitaria “trocar Donbas por segurança”. Kiev diz esperar uma troca de prisioneiros; Moscou não confirmou."
+      "texto_html": "Zelensky chamou o dia de <em>“construtivo e bastante substancial”</em>, com temas humanitários e garantias de segurança. Em entrevista, disse que os EUA perguntaram se Kiev trocaria Donbas por segurança, e que não pode. Kiev diz esperar uma troca de prisioneiros; Moscou não confirmou."
     },
     {
       "imagem": "img05",
@@ -39,16 +40,16 @@
     },
     {
       "imagem": "img07",
-      "texto_html": "Delegações de Reino Unido, França, Alemanha, Itália, OTAN e UE estavam em Abu Dhabi, <strong>fora da sala principal</strong>. Peskov diz que a mesa é trilateral. Kushner escreveu no X que um acordo duradouro exige “engajamento direto” entre Rússia e europeus; Rubio disse que o diálogo deve incluí-los."
+      "texto_html": "Delegações de Reino Unido, França, Alemanha, Itália, OTAN e UE estavam em Abu Dhabi, <strong>fora da sala principal</strong>. Peskov diz que a mesa é trilateral. Kushner defendeu no X “engajamento direto” entre Rússia e europeus; Rubio disse que eles deveriam estar à mesa."
     },
     {
       "imagem": "img08",
-      "texto_html": "Trump disse esperar que a guerra termine <em>“em breve”</em> e se apresentou como responsável por isso, o que é uma alegação dele. Segundo Washington, o objetivo não é um acordo final em Abu Dhabi, e sim um quadro para negociações mais frequentes."
+      "texto_html": "Trump disse esperar que a guerra termine <em>“em breve”</em>. Segundo Washington, representado em Abu Dhabi por <strong>Steve Witkoff</strong> (foto) e Jared Kushner, o objetivo não é um acordo final agora, e sim um quadro para negociações mais frequentes."
     },
     {
       "imagem": "img09",
       "titulo": "O que vem agora",
-      "texto_html": "A rodada continua nesta quarta, 11 nov, e até agora nenhum lado anunciou acordo. Os comunicados do segundo dia dirão se há nova data e se a troca de prisioneiros, esperada por Kiev, sai do papel.",
+      "texto_html": "A rodada continua hoje, 11 nov, e até agora nenhum lado anunciou acordo. Os comunicados do segundo dia dirão se há nova data e se a troca de prisioneiros, esperada por Kiev, sai do papel.",
       "foco": "60% center"
     }
   ],
@@ -56,7 +57,7 @@
     "titulo": "Salve este post",
     "subtitulo": "e acompanhe o desfecho da rodada"
   },
-  "legenda": "Nove meses depois, Rússia e Ucrânia voltaram a conversar, em Abu Dhabi, com mediação dos EUA.\n\nO primeiro dia, em 10 nov, durou cerca de quatro horas. Zelensky o chamou de construtivo e substancial; o Kremlin se recusou a fazer balanço. Moscou diz que Kiev deve deixar a parte de Donbas que ainda controla, e Kiev rejeita ceder território sem garantias de segurança. Delegações europeias estavam na cidade, fora da sala principal. A rodada continua nesta quarta, 11 nov.\n\nArraste para o lado e veja o que cada lado disse.",
+  "legenda": "Nove meses depois, Rússia e Ucrânia voltaram a conversar, em Abu Dhabi, com mediação dos EUA.\n\nO primeiro dia, em 10 nov, durou cerca de quatro horas. Zelensky o chamou de construtivo e substancial; o Kremlin se recusou a fazer balanço. Moscou diz que Kiev deve deixar a parte de Donbas que ainda controla, e Kiev rejeita ceder território e cobra garantias de segurança. Delegações europeias estavam na cidade, fora da sala principal. A rodada continua hoje, 11 nov.\n\nArraste para o lado e veja o que cada lado disse.",
   "primeiro_comentario": "",
   "hashtags": [
     "#ucrania",
@@ -209,17 +210,16 @@
       "query": "File:Emirates Palace @ Abu Dhabi (16018261136).jpg"
     },
     {
-      "titulo": "Emirates Palace @ Abu Dhabi (15858270087).jpg",
-      "autor": "Guilhem Vellut from Annecy, France",
-      "licenca": "CC BY 2.0",
+      "titulo": "Skyline Abu Dhabi I (260477643).jpeg",
+      "autor": "Madlen Steiner",
+      "licenca": "CC BY 3.0",
       "exige_credito": true,
-      "url_origem": "https://commons.wikimedia.org/wiki/File:Emirates_Palace_@_Abu_Dhabi_(15858270087).jpg",
-      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Emirates_Palace_%40_Abu_Dhabi_%2815858270087%29.jpg/1920px-Emirates_Palace_%40_Abu_Dhabi_%2815858270087%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "largura": 2976,
-      "altura": 3968,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Skyline_Abu_Dhabi_I_(260477643).jpeg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Skyline_Abu_Dhabi_I_%28260477643%29.jpeg/1920px-Skyline_Abu_Dhabi_I_%28260477643%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 2048,
+      "altura": 1626,
       "id": "img02",
-      "arquivo": "imagens/img02.jpg",
-      "query": "File:Emirates Palace @ Abu Dhabi (15858270087).jpg"
+      "arquivo": "imagens/img02.jpg"
     },
     {
       "titulo": "Rustem Umerov (2023-09-14).jpg",
@@ -236,7 +236,7 @@
     },
     {
       "titulo": "Volodymyr Zelensky Official portrait.jpg",
-      "autor": "Presidência da Ucrânia (president.gov.ua)",
+      "autor": "Presidência da Ucrânia",
       "licenca": "CC BY 4.0",
       "exige_credito": true,
       "url_origem": "https://commons.wikimedia.org/wiki/File:Volodymyr_Zelensky_Official_portrait.jpg",
@@ -249,7 +249,7 @@
     },
     {
       "titulo": "Dmitry Peskov portrait.jpg",
-      "autor": "The Presidential Press and Information Office",
+      "autor": "Kremlin.ru",
       "licenca": "CC BY 4.0",
       "exige_credito": true,
       "url_origem": "https://commons.wikimedia.org/wiki/File:Dmitry_Peskov_portrait.jpg",
