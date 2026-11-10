@@ -56,38 +56,256 @@
   },
   "legenda": "Em uma semana, geladeiras de supermercados, bancos de sangue e voos de passageiros entraram na lista de incidentes que a Europa investiga.\n\nCiberataques à refrigeração atingiram ao menos 9 países, três centros de plasma na França foram afetados e dezenas de voos receberam falsas ameaças de bomba. Serviços europeus suspeitam de Moscou, mas não há prova pública. A OTAN e serviços de inteligência avaliam que a campanha atribuída à Rússia está escalando. O Kremlin chama as acusações de absurdas.\n\nArraste para o lado e veja o que está confirmado, o que é suspeita e o que a Rússia diz.",
   "primeiro_comentario": "",
-  "hashtags": ["#otan", "#europa", "#russia", "#ciberataque", "#guerrahibrida", "#ucrania", "#segurancaeuropeia"],
+  "hashtags": [
+    "#otan",
+    "#europa",
+    "#russia",
+    "#ciberataque",
+    "#guerrahibrida",
+    "#ucrania",
+    "#segurancaeuropeia"
+  ],
   "alt_text": "Carrossel sobre a onda de incidentes na Europa entre 31 out e 9 nov, as suspeitas sobre Moscou e a negativa do Kremlin.",
   "fontes": [
-    {"nome": "Euronews, 3 nov", "url": "https://www.euronews.com/2026/11/03/italy-holds-emergency-talks-as-supermarket-fridge-attacks-spread-across-europe"},
-    {"nome": "The Local (Dinamarca), 3 nov", "url": "https://www.thelocal.dk/20261103/fridge-cyberattack-on-supermarkets-across-europe-prompts-eu-warning"},
-    {"nome": "Arab News, 3 nov", "url": "https://www.arabnews.pk/world/eu-calls-food-store-cyberattacks-deeply-concerning-3005906"},
-    {"nome": "The Star (Reuters/AP), 4 nov", "url": "https://www.thestar.com.my/news/world/2026/11/04/new-cyberattack-targets-french-blood-banks-health-ministry-says"},
-    {"nome": "CBC", "url": "https://www.cbc.ca/news/world/europe-bomb-threats-czechia-poland-france-9.7410169"},
-    {"nome": "CNBC, 5 nov", "url": "https://www.cnbc.com/2026/11/05/bomb-threats-flights-europe.html"},
-    {"nome": "The Nightly (Financial Times)", "url": "https://thenightly.com.au/world/mass-bomb-hoaxes-hit-27-passenger-flights-across-europe-as-officials-accuse-russia-of-being-behind-the-attacks-c-23123337"},
-    {"nome": "CNBC, 9 nov", "url": "https://www.cnbc.com/2026/11/09/europe-fridge-hacks-bomb-threats-cyberattack.html"},
-    {"nome": "The Star, 6 nov (Kremlin)", "url": "https://www.thestar.com.my/tech/tech-news/2026/11/06/kremlin-denies-russia-role-in-fridge-cyber-attacks"},
-    {"nome": "Brussels Signal (Kremlin)", "url": "https://brusselssignal.eu/2026/11/kremlin-dismisses-absurd-claims-russia-behind-supermarket-fridge-hacks/"},
-    {"nome": "Meduza, 5 nov (Fitburg)", "url": "https://meduza.io/en/news/2026/11/05/finnish-court-sentences-russian-captain-to-3-5-years-for-deliberately-damaging-gulf-of-finland-cables"},
-    {"nome": "Yle (Fitburg)", "url": "https://yle.fi/a/74-20255306"},
-    {"nome": "Ukrainska Pravda, 1 nov (Romênia)", "url": "https://www.pravda.com.ua/eng/news/2026/11/01/8060710/"},
-    {"nome": "The Defense Post, 4 nov (Letônia)", "url": "https://thedefensepost.com/2026/11/04/latvia-interceptor-drone-incursion/"},
-    {"nome": "House of Commons Library", "url": "https://commonslibrary.parliament.uk/research-briefings/cbp-12272/"},
-    {"nome": "The Parliament Magazine", "url": "https://www.theparliamentmagazine.eu/news/article/russias-hybrid-campaign-is-probing-europes-red-lines"}
+    {
+      "nome": "Euronews, 3 nov",
+      "url": "https://www.euronews.com/2026/11/03/italy-holds-emergency-talks-as-supermarket-fridge-attacks-spread-across-europe"
+    },
+    {
+      "nome": "The Local (Dinamarca), 3 nov",
+      "url": "https://www.thelocal.dk/20261103/fridge-cyberattack-on-supermarkets-across-europe-prompts-eu-warning"
+    },
+    {
+      "nome": "Arab News, 3 nov",
+      "url": "https://www.arabnews.pk/world/eu-calls-food-store-cyberattacks-deeply-concerning-3005906"
+    },
+    {
+      "nome": "The Star (Reuters/AP), 4 nov",
+      "url": "https://www.thestar.com.my/news/world/2026/11/04/new-cyberattack-targets-french-blood-banks-health-ministry-says"
+    },
+    {
+      "nome": "CBC",
+      "url": "https://www.cbc.ca/news/world/europe-bomb-threats-czechia-poland-france-9.7410169"
+    },
+    {
+      "nome": "CNBC, 5 nov",
+      "url": "https://www.cnbc.com/2026/11/05/bomb-threats-flights-europe.html"
+    },
+    {
+      "nome": "The Nightly (Financial Times)",
+      "url": "https://thenightly.com.au/world/mass-bomb-hoaxes-hit-27-passenger-flights-across-europe-as-officials-accuse-russia-of-being-behind-the-attacks-c-23123337"
+    },
+    {
+      "nome": "CNBC, 9 nov",
+      "url": "https://www.cnbc.com/2026/11/09/europe-fridge-hacks-bomb-threats-cyberattack.html"
+    },
+    {
+      "nome": "The Star, 6 nov (Kremlin)",
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/11/06/kremlin-denies-russia-role-in-fridge-cyber-attacks"
+    },
+    {
+      "nome": "Brussels Signal (Kremlin)",
+      "url": "https://brusselssignal.eu/2026/11/kremlin-dismisses-absurd-claims-russia-behind-supermarket-fridge-hacks/"
+    },
+    {
+      "nome": "Meduza, 5 nov (Fitburg)",
+      "url": "https://meduza.io/en/news/2026/11/05/finnish-court-sentences-russian-captain-to-3-5-years-for-deliberately-damaging-gulf-of-finland-cables"
+    },
+    {
+      "nome": "Yle (Fitburg)",
+      "url": "https://yle.fi/a/74-20255306"
+    },
+    {
+      "nome": "Ukrainska Pravda, 1 nov (Romênia)",
+      "url": "https://www.pravda.com.ua/eng/news/2026/11/01/8060710/"
+    },
+    {
+      "nome": "The Defense Post, 4 nov (Letônia)",
+      "url": "https://thedefensepost.com/2026/11/04/latvia-interceptor-drone-incursion/"
+    },
+    {
+      "nome": "House of Commons Library",
+      "url": "https://commonslibrary.parliament.uk/research-briefings/cbp-12272/"
+    },
+    {
+      "nome": "The Parliament Magazine",
+      "url": "https://www.theparliamentmagazine.eu/news/article/russias-hybrid-campaign-is-probing-europes-red-lines"
+    }
   ],
   "busca_imagens": [
-    {"id": "img01", "query": "File:F-16 and Eurofighter Typhoon flying in Formation.jpg", "alternativas": ["File:RAF Typhoons Arriving in Lithuania MOD 45157400.jpg"]},
-    {"id": "img02", "query": "File:Freezer cabinet with food.jpg", "alternativas": ["File:Refrigeration aisle.jpg"]},
-    {"id": "img03", "query": "File:Berlaymont building 2022.jpg", "alternativas": ["File:Berlaymont building of European Commission in cloudy weather.jpg"]},
-    {"id": "img04", "query": "blood plasma bags freezer storage", "alternativas": ["blood bank refrigerator blood bags"]},
-    {"id": "img05", "query": "File:Check-in at Terminal 2, Prague Airport.jpg", "alternativas": ["File:Václav Havel Airport Prague – Terminal 1 interior.jpg"]},
-    {"id": "img06", "query": "File:Mark Rutte October 2024.jpg", "alternativas": ["NATO headquarters Brussels flags"]},
-    {"id": "img07", "query": "File:Romanian F-16.jpg", "alternativas": ["File:Romanian F-16 Fighting Falcon lands at Borcea Air Base, Romania.jpg"]},
-    {"id": "img08", "query": "File:Sevmorput underway to Arkhangelsk Gulf of Finland Baltic Sea 25 February 2020.jpg", "alternativas": ["cargo ship Gulf of Finland"]},
-    {"id": "img09", "query": "File:Latvian Army soldiers (16635365913).jpg", "alternativas": ["File:RAF Typhoons Arriving in Lithuania MOD 45157400.jpg"]}
+    {
+      "id": "img01",
+      "query": "File:F-16 and Eurofighter Typhoon flying in Formation.jpg",
+      "alternativas": [
+        "File:RAF Typhoons Arriving in Lithuania MOD 45157400.jpg"
+      ]
+    },
+    {
+      "id": "img02",
+      "query": "File:Freezer cabinet with food.jpg",
+      "alternativas": [
+        "File:Refrigeration aisle.jpg"
+      ]
+    },
+    {
+      "id": "img03",
+      "query": "File:Berlaymont building 2022.jpg",
+      "alternativas": [
+        "File:Berlaymont building of European Commission in cloudy weather.jpg"
+      ]
+    },
+    {
+      "id": "img04",
+      "query": "blood plasma bags freezer storage",
+      "alternativas": [
+        "blood bank refrigerator blood bags"
+      ]
+    },
+    {
+      "id": "img05",
+      "query": "File:Check-in at Terminal 2, Prague Airport.jpg",
+      "alternativas": [
+        "File:Václav Havel Airport Prague – Terminal 1 interior.jpg"
+      ]
+    },
+    {
+      "id": "img06",
+      "query": "File:Mark Rutte October 2024.jpg",
+      "alternativas": [
+        "NATO headquarters Brussels flags"
+      ]
+    },
+    {
+      "id": "img07",
+      "query": "File:Romanian F-16.jpg",
+      "alternativas": [
+        "File:Romanian F-16 Fighting Falcon lands at Borcea Air Base, Romania.jpg"
+      ]
+    },
+    {
+      "id": "img08",
+      "query": "File:Sevmorput underway to Arkhangelsk Gulf of Finland Baltic Sea 25 February 2020.jpg",
+      "alternativas": [
+        "cargo ship Gulf of Finland"
+      ]
+    },
+    {
+      "id": "img09",
+      "query": "File:Latvian Army soldiers (16635365913).jpg",
+      "alternativas": [
+        "File:RAF Typhoons Arriving in Lithuania MOD 45157400.jpg"
+      ]
+    }
   ],
-  "imagens": [],
-  "agendamento": {"data_hora": "2026-11-10T06:01:00-03:00", "slot": "06:01"},
+  "imagens": [
+    {
+      "titulo": "F-16 and Eurofighter Typhoon flying in Formation.jpg",
+      "autor": "Tech. Sgt. Maeson Elleman",
+      "licenca": "Public domain",
+      "exige_credito": false,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:F-16_and_Eurofighter_Typhoon_flying_in_Formation.jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/F-16_and_Eurofighter_Typhoon_flying_in_Formation.jpg/1920px-F-16_and_Eurofighter_Typhoon_flying_in_Formation.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 3544,
+      "altura": 2363,
+      "id": "img01",
+      "arquivo": "imagens/img01.jpg",
+      "query": "File:F-16 and Eurofighter Typhoon flying in Formation.jpg"
+    },
+    {
+      "titulo": "Freezer cabinet with food.jpg",
+      "autor": "Leon Brooks",
+      "licenca": "Public domain",
+      "exige_credito": false,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Freezer_cabinet_with_food.jpg",
+      "url_download": "https://upload.wikimedia.org/wikipedia/commons/d/db/Freezer_cabinet_with_food.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largura": 1920,
+      "altura": 2560,
+      "id": "img02",
+      "arquivo": "imagens/img02.jpg",
+      "query": "File:Freezer cabinet with food.jpg"
+    },
+    {
+      "titulo": "Berlaymont building 2022.jpg",
+      "autor": "Euro Pictures",
+      "licenca": "CC BY 2.0",
+      "exige_credito": true,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Berlaymont_building_2022.jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Berlaymont_building_2022.jpg/1920px-Berlaymont_building_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 6362,
+      "altura": 4294,
+      "id": "img03",
+      "arquivo": "imagens/img03.jpg",
+      "query": "File:Berlaymont building 2022.jpg"
+    },
+    {
+      "titulo": "Check-in at Terminal 2, Prague Airport.jpg",
+      "autor": "Pavel Hrdlička (Czech Wikipedia user Packa)",
+      "licenca": "CC BY-SA 4.0",
+      "exige_credito": true,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Check-in_at_Terminal_2,_Prague_Airport.jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Check-in_at_Terminal_2%2C_Prague_Airport.jpg/1920px-Check-in_at_Terminal_2%2C_Prague_Airport.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 2898,
+      "altura": 2163,
+      "id": "img05",
+      "arquivo": "imagens/img05.jpg",
+      "query": "File:Check-in at Terminal 2, Prague Airport.jpg"
+    },
+    {
+      "titulo": "NATO Headquarters in Brussels, Belgium, June 18, 2026 - 3.jpg",
+      "autor": "SECWAR",
+      "licenca": "Public domain",
+      "exige_credito": false,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:NATO_Headquarters_in_Brussels,_Belgium,_June_18,_2026_-_3.jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/NATO_Headquarters_in_Brussels%2C_Belgium%2C_June_18%2C_2026_-_3.jpg/1920px-NATO_Headquarters_in_Brussels%2C_Belgium%2C_June_18%2C_2026_-_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 8046,
+      "altura": 5364,
+      "id": "img06",
+      "arquivo": "imagens/img06.jpg",
+      "query": "File:Mark Rutte October 2024.jpg"
+    },
+    {
+      "titulo": "Romanian F-16.jpg",
+      "autor": "VictorCozmei",
+      "licenca": "CC BY-SA 4.0",
+      "exige_credito": true,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Romanian_F-16.jpg",
+      "url_download": "https://upload.wikimedia.org/wikipedia/commons/2/27/Romanian_F-16.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largura": 1280,
+      "altura": 924,
+      "id": "img07",
+      "arquivo": "imagens/img07.jpg",
+      "query": "File:Romanian F-16.jpg"
+    },
+    {
+      "titulo": "Sevmorput underway to Arkhangelsk Gulf of Finland Baltic Sea 25 February 2020.jpg",
+      "autor": "Kinburn ·  Odessa",
+      "licenca": "CC0",
+      "exige_credito": false,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Sevmorput_underway_to_Arkhangelsk_Gulf_of_Finland_Baltic_Sea_25_February_2020.jpg",
+      "url_download": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Sevmorput_underway_to_Arkhangelsk_Gulf_of_Finland_Baltic_Sea_25_February_2020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largura": 1200,
+      "altura": 800,
+      "id": "img08",
+      "arquivo": "imagens/img08.jpg",
+      "query": "File:Sevmorput underway to Arkhangelsk Gulf of Finland Baltic Sea 25 February 2020.jpg"
+    },
+    {
+      "titulo": "Latvian Army soldiers (16635365913).jpg",
+      "autor": "7th Army  Joint Multinational Training Command from Grafenwoehr, Germany",
+      "licenca": "CC BY 2.0",
+      "exige_credito": true,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Latvian_Army_soldiers_(16635365913).jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Latvian_Army_soldiers_%2816635365913%29.jpg/1920px-Latvian_Army_soldiers_%2816635365913%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 3696,
+      "altura": 2459,
+      "id": "img09",
+      "arquivo": "imagens/img09.jpg",
+      "query": "File:Latvian Army soldiers (16635365913).jpg"
+    }
+  ],
+  "agendamento": {
+    "data_hora": "2026-11-10T06:01:00-03:00",
+    "slot": "06:01"
+  },
   "verificacao": "Pauta com 2 fontes por fato; atribuições mantidas; negativa do Kremlin incluída. Revisor deve reabrir as URLs."
 }
