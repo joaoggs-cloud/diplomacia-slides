@@ -8,7 +8,7 @@
   "usar_hashtags_base": true,
   "capa": {
     "imagem": "img01",
-    "titulo_html": "Geladeiras, bancos de sangue e aviões: a semana em que a Europa virou <span class=\"hl\">alvo</span>",
+    "titulo_html": "<span class=\"hl\">Geladeiras, bancos de sangue e aviões:</span> a semana em que a Europa virou alvo",
     "gancho": "Serviços europeus suspeitam de Moscou, sem prova pública. O Kremlin chama as acusações de “absurdas”."
   },
   "slides": [
@@ -266,14 +266,14 @@
       "query": "File:Check-in at Terminal 2, Prague Airport.jpg"
     },
     {
-      "titulo": "NATO Headquarters in Brussels, Belgium, June 18, 2026 - 4.jpg",
-      "autor": "SECWAR",
+      "titulo": "160211-D-DT527-007 NATO country flags wave at the entrance of NATO headquarters in Brussels 2016.JPG",
+      "autor": "Senior Master Sgt. Adrian Cadiz",
       "licenca": "Public domain",
       "exige_credito": false,
-      "url_origem": "https://commons.wikimedia.org/wiki/File:NATO_Headquarters_in_Brussels,_Belgium,_June_18,_2026_-_4.jpg",
-      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/NATO_Headquarters_in_Brussels%2C_Belgium%2C_June_18%2C_2026_-_4.jpg/1920px-NATO_Headquarters_in_Brussels%2C_Belgium%2C_June_18%2C_2026_-_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "largura": 7197,
-      "altura": 4798,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:160211-D-DT527-007_NATO_country_flags_wave_at_the_entrance_of_NATO_headquarters_in_Brussels_2016.JPG",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/160211-D-DT527-007_NATO_country_flags_wave_at_the_entrance_of_NATO_headquarters_in_Brussels_2016.JPG/1920px-160211-D-DT527-007_NATO_country_flags_wave_at_the_entrance_of_NATO_headquarters_in_Brussels_2016.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 4928,
+      "altura": 3298,
       "id": "img06",
       "arquivo": "imagens/img06.jpg",
       "query": "NATO Headquarters Brussels flags"
@@ -292,14 +292,14 @@
       "query": "File:Romanian F-16.jpg"
     },
     {
-      "titulo": "British cargo ship Hurst Point reaches Croatia (6632468).jpg",
-      "autor": "U.S. Army photo by Sgt. Joshua Oh",
+      "titulo": "MS TransPulp in Oulu Mar2009.jpg",
+      "autor": "Methem (Mikko J. Putkonen)",
       "licenca": "Public domain",
       "exige_credito": false,
-      "url_origem": "https://commons.wikimedia.org/wiki/File:British_cargo_ship_Hurst_Point_reaches_Croatia_(6632468).jpg",
-      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/British_cargo_ship_Hurst_Point_reaches_Croatia_%286632468%29.jpg/1920px-British_cargo_ship_Hurst_Point_reaches_Croatia_%286632468%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "largura": 5976,
-      "altura": 3984,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:MS_TransPulp_in_Oulu_Mar2009.jpg",
+      "url_download": "https://upload.wikimedia.org/wikipedia/commons/9/99/MS_TransPulp_in_Oulu_Mar2009.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largura": 1523,
+      "altura": 1015,
       "id": "img08",
       "arquivo": "imagens/img08.jpg",
       "query": "container ship Gulf of Finland Baltic"
