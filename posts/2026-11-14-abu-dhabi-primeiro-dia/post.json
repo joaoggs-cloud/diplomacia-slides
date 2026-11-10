@@ -247,6 +247,19 @@
       "query": "File:Volodymyr Zelensky Official portrait.jpg"
     },
     {
+      "titulo": "Dmitry Peskov portrait.jpg",
+      "autor": "The Presidential Press and Information Office",
+      "licenca": "CC BY 4.0",
+      "exige_credito": true,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Dmitry_Peskov_portrait.jpg",
+      "url_download": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Dmitry_Peskov_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largura": 1291,
+      "altura": 1939,
+      "id": "img05",
+      "arquivo": "imagens/img05.jpg",
+      "query": "File:Dmitry Peskov portrait.jpg"
+    },
+    {
       "titulo": "Vladimir Medinsky portrait at Shkin-Opera festival 2025.jpg",
       "autor": "FeklaIvanova16",
       "licenca": "CC0",
@@ -271,6 +284,19 @@
       "id": "img07",
       "arquivo": "imagens/img07.jpg",
       "query": "File:Emirates palace from top view.jpg"
+    },
+    {
+      "titulo": "Steve Witkoff (2025) (cropped).jpg",
+      "autor": "U.S. Embassy Jerusalem",
+      "licenca": "CC BY 2.0",
+      "exige_credito": true,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Steve_Witkoff_(2025)_(cropped).jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Steve_Witkoff_%282025%29_%28cropped%29.jpg/1920px-Steve_Witkoff_%282025%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 2581,
+      "altura": 3446,
+      "id": "img08",
+      "arquivo": "imagens/img08.jpg",
+      "query": "File:Steve Witkoff (2025) (cropped).jpg"
     },
     {
       "titulo": "Skylines of Abu Dhabi by Makalu.jpg",
