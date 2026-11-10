@@ -15,7 +15,11 @@ e eventualmente um tema pedido pelo João.
 
 ## Passo a passo
 1. Leia `config/estrategia.json` (pilares e pesos) e os `posts/*/post.json` dos últimos
-   30 dias. Não repita tema e evite o pilar dos dois últimos posts.
+   30 dias. **Siga a tendência** (decisão do João, 9 nov): comece buscando o assunto de
+   guerra/geopolítica/defesa mais em alta nas últimas 24–72 h e faça a pauta sobre ele;
+   o pilar sai do assunto. Só use o pilar sorteado/efeméride se nada relevante estiver
+   em alta. Tema recente pode voltar se houver fato novo e ângulo novo. Sem polêmica da
+   política partidária brasileira.
 2. Pesquise com WebSearch (modo `extended` para atualidades): notícias das últimas
    48–72 h e efemérides militares/diplomáticas da semana.
 3. Escolha **1 pauta principal e 2 reservas**. Critérios: relevância internacional,

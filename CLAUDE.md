@@ -82,8 +82,15 @@ referência dos agentes.
    O horário é fixo em **06:01** (decisão do João): a rotina diária roda às **17:13**
    e entrega o post do dia seguinte **até as 18h**; o João aprova à noite e o post
    sai às 06:01.
-2. **Escolher o pilar** sorteando pelos `pesos_pilares`, evitando repetir o
-   pilar dos dois últimos posts. Não repita tema dos últimos 30 dias.
+2. **Seguir a tendência (decisão do João, 9 nov):** a pauta parte sempre do que está
+   em alta *agora* em guerra, geopolítica e defesa — o assunto mais comentado nas
+   últimas 24–72 h (manchetes das agências e grandes jornais, Google Trends/notícias
+   em destaque, o que domina o noticiário internacional), para aproveitar o interesse
+   do público. O pilar sai do assunto escolhido; o sorteio pelos `pesos_pilares` só
+   desempata ou entra quando nada relevante estiver em alta (aí, efeméride da semana).
+   Pode repetir um tema recente se houver fato novo importante, com ângulo novo.
+   Continua valendo: duas fontes confiáveis por fato, isenção, e nada de polêmica
+   da política partidária brasileira (o João não quer "botar lenha" nisso).
 3. **Pesquisar.** Use WebSearch (modo `extended` para atualidades). Para
    `conflito_atual` e `diplomacia`, só use fatos dos últimos 7 dias confirmados
    em **duas fontes confiáveis** (agências, grandes jornais, órgãos oficiais,
