@@ -1,0 +1,93 @@
+{
+  "slug": "2026-11-13-escalada-russa-europa",
+  "titulo_interno": "Incidentes híbridos na Europa: o que se investiga e o que Moscou nega",
+  "status": "rascunho",
+  "pilar": "conflito_atual",
+  "categoria": "Conflito atual · Europa",
+  "gancho_tipo": "contradicao",
+  "usar_hashtags_base": true,
+  "capa": {
+    "imagem": "img01",
+    "titulo_html": "Geladeiras, bancos de sangue e aviões: a semana em que a Europa virou <span class=\"hl\">alvo</span>",
+    "gancho": "Serviços europeus suspeitam de Moscou, sem prova pública. O Kremlin chama as acusações de “absurdas”."
+  },
+  "slides": [
+    {
+      "imagem": "img02",
+      "texto_html": "Em 2 nov, uma nova onda de ciberataques derrubou o controle de refrigeração de supermercados em <strong>ao menos 9 países</strong> europeus. As temperaturas subiram e lojas descartaram alimentos. Uma primeira onda, em 12 out, havia atingido redes na França."
+    },
+    {
+      "imagem": "img03",
+      "texto_html": "Em 3 nov, o comissário de Agricultura da UE, Christophe Hansen, falou em <em>“tentativa deliberada de interromper o abastecimento alimentar”</em>. Bruxelas montou uma força-tarefa com ENISA e Europol, mas não apontou culpado."
+    },
+    {
+      "imagem": "img04",
+      "texto_html": "Entre 2 e 3 nov, o ataque chegou a <strong>três centros de plasma</strong> do Estabelecimento Francês do Sangue. Segundo o órgão, não houve consequência para a saúde nem perda de produtos. O alvo foi um fornecedor de equipamentos de refrigeração."
+    },
+    {
+      "imagem": "img05",
+      "texto_html": "De 3 a 6 nov, e-mails com falsas ameaças de bomba atingiram <strong>dezenas de voos</strong> em vários países, de Praga a Madri. Houve desvios e escoltas de caças. Nenhum explosivo foi achado e ninguém ficou ferido."
+    },
+    {
+      "imagem": "img06",
+      "titulo": "O que não está provado",
+      "texto_html": "O Financial Times relatou que serviços de segurança europeus <em>suspeitam</em> da Rússia nas ameaças de bomba, sem prova pública. Nenhuma autoridade identificou oficialmente os responsáveis. Em 5 nov, o Kremlin, por Dmitri Peskov, chamou as acusações de “absurdas”.",
+      "factbox": {
+        "texto": "Um e-mail citava um grupo ultranacionalista russo, o que não prova autoria."
+      }
+    },
+    {
+      "imagem": "img07",
+      "texto_html": "Em 31 out e 1 nov, a Romênia acionou quatro <strong>F-16</strong> após dois drones entrarem em seu espaço aéreo. Na Letônia, um drone vindo de Belarus cruzou o país. Pela avaliação letã, um dos dois drones recentes era provavelmente russo e o outro, ucraniano."
+    },
+    {
+      "imagem": "img08",
+      "texto_html": "Em 5 nov, um tribunal de Helsinque condenou o capitão do cargueiro <strong>Fitburg</strong> a 3 anos e 6 meses por danificar cabos submarinos no Golfo da Finlândia, em dez 2025. A sentença cabe recurso e não atribui a ordem a nenhum Estado."
+    },
+    {
+      "imagem": "img09",
+      "titulo": "Leitura da OTAN e negativa russa",
+      "texto_html": "Segundo briefing do Parlamento britânico, de 4 nov, a OTAN e serviços europeus avaliam que a campanha de instabilidade <em>atribuída a Moscou</em> está escalando. A Rússia nega e já disse que a Europa alimenta o medo para justificar o rearmamento."
+    }
+  ],
+  "cta": {
+    "titulo": "Salve este post",
+    "subtitulo": "e compartilhe com quem acompanha o conflito"
+  },
+  "legenda": "Em uma semana, geladeiras de supermercados, bancos de sangue e voos de passageiros entraram na lista de incidentes que a Europa investiga.\n\nCiberataques à refrigeração atingiram ao menos 9 países, três centros de plasma na França foram afetados e dezenas de voos receberam falsas ameaças de bomba. Serviços europeus suspeitam de Moscou, mas não há prova pública. A OTAN e serviços de inteligência avaliam que a campanha atribuída à Rússia está escalando. O Kremlin chama as acusações de absurdas.\n\nArraste para o lado e veja o que está confirmado, o que é suspeita e o que a Rússia diz.",
+  "primeiro_comentario": "",
+  "hashtags": ["#otan", "#europa", "#russia", "#ciberataque", "#guerrahibrida", "#ucrania", "#segurancaeuropeia"],
+  "alt_text": "Carrossel sobre a onda de incidentes na Europa entre 31 out e 9 nov, as suspeitas sobre Moscou e a negativa do Kremlin.",
+  "fontes": [
+    {"nome": "Euronews, 3 nov", "url": "https://www.euronews.com/2026/11/03/italy-holds-emergency-talks-as-supermarket-fridge-attacks-spread-across-europe"},
+    {"nome": "The Local (Dinamarca), 3 nov", "url": "https://www.thelocal.dk/20261103/fridge-cyberattack-on-supermarkets-across-europe-prompts-eu-warning"},
+    {"nome": "Arab News, 3 nov", "url": "https://www.arabnews.pk/world/eu-calls-food-store-cyberattacks-deeply-concerning-3005906"},
+    {"nome": "The Star (Reuters/AP), 4 nov", "url": "https://www.thestar.com.my/news/world/2026/11/04/new-cyberattack-targets-french-blood-banks-health-ministry-says"},
+    {"nome": "CBC", "url": "https://www.cbc.ca/news/world/europe-bomb-threats-czechia-poland-france-9.7410169"},
+    {"nome": "CNBC, 5 nov", "url": "https://www.cnbc.com/2026/11/05/bomb-threats-flights-europe.html"},
+    {"nome": "The Nightly (Financial Times)", "url": "https://thenightly.com.au/world/mass-bomb-hoaxes-hit-27-passenger-flights-across-europe-as-officials-accuse-russia-of-being-behind-the-attacks-c-23123337"},
+    {"nome": "CNBC, 9 nov", "url": "https://www.cnbc.com/2026/11/09/europe-fridge-hacks-bomb-threats-cyberattack.html"},
+    {"nome": "The Star, 6 nov (Kremlin)", "url": "https://www.thestar.com.my/tech/tech-news/2026/11/06/kremlin-denies-russia-role-in-fridge-cyber-attacks"},
+    {"nome": "Brussels Signal (Kremlin)", "url": "https://brusselssignal.eu/2026/11/kremlin-dismisses-absurd-claims-russia-behind-supermarket-fridge-hacks/"},
+    {"nome": "Meduza, 5 nov (Fitburg)", "url": "https://meduza.io/en/news/2026/11/05/finnish-court-sentences-russian-captain-to-3-5-years-for-deliberately-damaging-gulf-of-finland-cables"},
+    {"nome": "Yle (Fitburg)", "url": "https://yle.fi/a/74-20255306"},
+    {"nome": "Ukrainska Pravda, 1 nov (Romênia)", "url": "https://www.pravda.com.ua/eng/news/2026/11/01/8060710/"},
+    {"nome": "The Defense Post, 4 nov (Letônia)", "url": "https://thedefensepost.com/2026/11/04/latvia-interceptor-drone-incursion/"},
+    {"nome": "House of Commons Library", "url": "https://commonslibrary.parliament.uk/research-briefings/cbp-12272/"},
+    {"nome": "The Parliament Magazine", "url": "https://www.theparliamentmagazine.eu/news/article/russias-hybrid-campaign-is-probing-europes-red-lines"}
+  ],
+  "busca_imagens": [
+    {"id": "img01", "query": "File:F-16 and Eurofighter Typhoon flying in Formation.jpg", "alternativas": ["File:RAF Typhoons Arriving in Lithuania MOD 45157400.jpg"]},
+    {"id": "img02", "query": "File:Freezer cabinet with food.jpg", "alternativas": ["File:Refrigeration aisle.jpg"]},
+    {"id": "img03", "query": "File:Berlaymont building 2022.jpg", "alternativas": ["File:Berlaymont building of European Commission in cloudy weather.jpg"]},
+    {"id": "img04", "query": "blood plasma bags freezer storage", "alternativas": ["blood bank refrigerator blood bags"]},
+    {"id": "img05", "query": "File:Check-in at Terminal 2, Prague Airport.jpg", "alternativas": ["File:Václav Havel Airport Prague – Terminal 1 interior.jpg"]},
+    {"id": "img06", "query": "File:Mark Rutte October 2024.jpg", "alternativas": ["NATO headquarters Brussels flags"]},
+    {"id": "img07", "query": "File:Romanian F-16.jpg", "alternativas": ["File:Romanian F-16 Fighting Falcon lands at Borcea Air Base, Romania.jpg"]},
+    {"id": "img08", "query": "File:Sevmorput underway to Arkhangelsk Gulf of Finland Baltic Sea 25 February 2020.jpg", "alternativas": ["cargo ship Gulf of Finland"]},
+    {"id": "img09", "query": "File:Latvian Army soldiers (16635365913).jpg", "alternativas": ["File:RAF Typhoons Arriving in Lithuania MOD 45157400.jpg"]}
+  ],
+  "imagens": [],
+  "agendamento": {"data_hora": "2026-11-10T06:01:00-03:00", "slot": "06:01"},
+  "verificacao": "Pauta com 2 fontes por fato; atribuições mantidas; negativa do Kremlin incluída. Revisor deve reabrir as URLs."
+}
