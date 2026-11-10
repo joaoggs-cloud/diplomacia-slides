@@ -1,0 +1,100 @@
+{
+  "slug": "2026-11-14-abu-dhabi-primeiro-dia",
+  "titulo_interno": "Abu Dhabi, primeiro dia: o que cada lado disse",
+  "status": "rascunho",
+  "pilar": "diplomacia",
+  "categoria": "Diplomacia · Ucrânia",
+  "gancho_tipo": "contradicao",
+  "usar_hashtags_base": true,
+  "capa": {
+    "imagem": "img01",
+    "titulo_html": "<span class=\"hl\">Quatro horas em Abu Dhabi:</span> o que cada lado disse no primeiro dia",
+    "gancho": "Rússia e Ucrânia voltaram à mesa depois de nove meses. A rodada continua nesta quarta, sem acordo anunciado."
+  },
+  "slides": [
+    {
+      "imagem": "img02",
+      "texto_html": "Em 10 nov, Rússia, Ucrânia e EUA abriram em <strong>Abu Dhabi</strong> uma rodada mediada por Washington, a primeira entre Moscou e Kiev desde fev. A guerra com o Irã havia interrompido as conversas. O primeiro dia durou cerca de quatro horas; a rodada continua nesta quarta, 11 nov.",
+      "factbox": {
+        "label": "Duração",
+        "texto": "AP e NBC falam em quase 4 horas; TASS e Kyiv Post, em 4h30, com pausa de cerca de 40 minutos."
+      }
+    },
+    {
+      "imagem": "img03",
+      "texto_html": "Pela Ucrânia, esteve <strong>Rustem Umerov</strong>, chefe do serviço de inteligência exterior (foto de 2023). Pela Rússia, Vladimir Medinski, com Igor Kostyukov, da inteligência militar (GRU), e outros integrantes. Os EUA mediaram com Steve Witkoff e Jared Kushner."
+    },
+    {
+      "imagem": "img04",
+      "texto_html": "Zelensky chamou o dia de <em>“construtivo e bastante substancial”</em> e disse que foram tratados temas humanitários e garantias de segurança. Segundo ele, os EUA perguntaram se Kiev aceitaria “trocar Donbas por segurança”. Kiev diz esperar uma troca de prisioneiros; Moscou não confirmou."
+    },
+    {
+      "imagem": "img05",
+      "texto_html": "Do lado russo, não houve balanço. O porta-voz Dmitri Peskov recusou-se a avaliar perspectivas: <em>“não vamos responder a essas perguntas, ainda mais com as conversas em andamento”</em>. O vice-chanceler Serguei Riabkov disse ser cedo para avaliar resultados, segundo a TASS."
+    },
+    {
+      "imagem": "img06",
+      "titulo": "O que ninguém cedeu",
+      "texto_html": "Segundo Moscou, a Ucrânia deve deixar a parte de Donbas que ainda controla, e tropas ocidentais em solo ucraniano são rejeitadas. Segundo Kiev, não há cessão de território, e qualquer acordo exige garantias de segurança críveis."
+    },
+    {
+      "imagem": "img07",
+      "texto_html": "Delegações de Reino Unido, França, Alemanha, Itália, OTAN e UE estavam em Abu Dhabi, <strong>fora da sala principal</strong>. Peskov mantém que a mesa é trilateral. Kushner escreveu no X que um acordo duradouro exige “engajamento direto” entre Rússia e europeus; o secretário Marco Rubio disse que o diálogo deve incluí-los."
+    },
+    {
+      "imagem": "img08",
+      "texto_html": "Trump disse esperar que a guerra termine <em>“em breve”</em> e se apresentou como responsável por isso, o que é uma alegação dele. Segundo Washington, o objetivo não é um acordo final em Abu Dhabi, e sim um quadro para negociações mais frequentes."
+    },
+    {
+      "imagem": "img09",
+      "titulo": "O que vem agora",
+      "texto_html": "A rodada continua nesta quarta, 11 nov, e até agora nenhum dos lados anunciou acordo. Os comunicados do segundo dia dirão se o formato se mantém, se há nova data e se a troca de prisioneiros, esperada por Kiev, sai do papel."
+    }
+  ],
+  "cta": {
+    "titulo": "Salve este post",
+    "subtitulo": "e acompanhe o desfecho da rodada"
+  },
+  "legenda": "Nove meses depois, Rússia e Ucrânia voltaram a conversar, em Abu Dhabi, com mediação dos EUA.\n\nO primeiro dia, em 10 nov, durou cerca de quatro horas. Zelensky o chamou de construtivo e substancial; o Kremlin se recusou a fazer balanço. Moscou diz que Kiev deve deixar a parte de Donbas que ainda controla, e Kiev rejeita ceder território sem garantias de segurança. Delegações europeias estavam na cidade, fora da sala principal. A rodada continua nesta quarta, 11 nov.\n\nArraste para o lado e veja o que cada lado disse.",
+  "primeiro_comentario": "",
+  "hashtags": [
+    "#ucrania",
+    "#russia",
+    "#abudhabi",
+    "#negociacoes",
+    "#zelensky",
+    "#diplomacia",
+    "#guerranaucrania"
+  ],
+  "alt_text": "Carrossel sobre o primeiro dia das conversas Rússia-Ucrânia-EUA em Abu Dhabi, 10 nov 2026, com as posições de cada lado.",
+  "fontes": [
+    {"nome": "AP via PBS", "url": "https://www.pbs.org/newshour/world/russia-and-ukraine-hold-nearly-4-hours-of-u-s-mediated-talks-in-abu-dhabi"},
+    {"nome": "Al Jazeera, 10 nov", "url": "https://www.aljazeera.com/news/2026/11/10/russia-ukraine-and-us-to-meet-as-zelenskyy-claims-battlefield-successes"},
+    {"nome": "Euronews (quem é quem)", "url": "https://www.euronews.com/2026/11/10/whos-who-from-ukraine-and-russia-at-the-abu-dhabi-peace-talks"},
+    {"nome": "ABC News", "url": "https://abcnews.com/International/russia-ukraine-us-meet-abu-dhabi-talks-trump/story?id=137970621"},
+    {"nome": "TASS", "url": "https://tass.com/politics/2215661"},
+    {"nome": "Kyiv Post", "url": "https://www.kyivpost.com/post/89694"},
+    {"nome": "Anadolu", "url": "https://aa.com.tr/en/russia-ukraine-war/zelenskyy-calls-trilateral-talks-in-abu-dhabi-constructive-and-substantive/4119199"},
+    {"nome": "Ukrinform", "url": "https://www.ukrinform.net/rubric-polytics/4183461-release-of-pows-security-guarantees-discussed-on-first-day-of-abu-dhabi-talks.html"},
+    {"nome": "TASS (Peskov)", "url": "https://tass.com/politics/2215441"},
+    {"nome": "TASS (Riabkov)", "url": "https://tass.com/politics/2215713"},
+    {"nome": "Al Jazeera, 9 nov", "url": "https://www.aljazeera.com/news/2026/11/9/no-concession-what-to-expect-from-russia-us-ukraine-talks-in-abu-dhabi"},
+    {"nome": "CNBC", "url": "https://www.cnbc.com/2026/11/10/trump-russia-ukraine-abu-dhabi-war-talks.html"},
+    {"nome": "Euromaidan Press", "url": "https://euromaidanpress.com/2026/11/09/europe-heads-to-the-abu-dhabi-talks-on-ending-russias-war-but-the-kremlin-says-it-hasnt-discussed-a-security-deal-with-europeans/"}
+  ],
+  "busca_imagens": [
+    {"id": "img01", "query": "File:Emirates Palace @ Abu Dhabi (16018261136).jpg", "alternativas": ["File:Emirates Palace (5768030835).jpg"]},
+    {"id": "img02", "query": "File:Emirates Palace @ Abu Dhabi (15858270087).jpg", "alternativas": ["Abu Dhabi skyline"]},
+    {"id": "img03", "query": "File:Rustem Umerov (2023-09-14).jpg", "alternativas": ["Rustem Umerov"]},
+    {"id": "img04", "query": "File:Volodymyr Zelensky Official portrait.jpg", "alternativas": ["File:Volodymyr Zelensky Official portrait (cropped).jpg"]},
+    {"id": "img05", "query": "File:Vladimir Medinsky portrait at Shkin-Opera festival 2025.jpg", "alternativas": ["File:Vladimir Medinsky speaking at Shkin-Opera festival 2025.jpg"]},
+    {"id": "img06", "query": "File:Emirates Palace (5768030835).jpg", "alternativas": ["Abu Dhabi"]},
+    {"id": "img07", "query": "File:Emirates palace from top view.jpg", "alternativas": ["Abu Dhabi"]},
+    {"id": "img08", "query": "File:Steve Witkoff in 2025 (54334316072).jpg", "alternativas": ["File:Steve Witkoff.jpg"]},
+    {"id": "img09", "query": "Abu Dhabi skyline", "alternativas": ["Abu Dhabi corniche"]}
+  ],
+  "reel": {"gerar": false},
+  "agendamento": {"data_hora": "2026-11-11T06:01:00-03:00", "slot": "06:01"},
+  "verificacao": "Fatos da pauta (10 nov); duração, troca de prisioneiros e papel da Europa atribuídos. Dia 2 ainda em curso.",
+  "ia_gerado": false
+}
