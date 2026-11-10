@@ -1,7 +1,7 @@
 {
   "slug": "2026-11-13-escalada-russa-europa",
   "titulo_interno": "Incidentes híbridos na Europa: o que se investiga e o que Moscou nega",
-  "status": "rascunho",
+  "status": "agendado",
   "pilar": "conflito_atual",
   "categoria": "Conflito atual · Europa",
   "gancho_tipo": "contradicao",
@@ -323,5 +323,15 @@
     "data_hora": "2026-11-10T06:01:00-03:00",
     "slot": "06:01"
   },
-  "verificacao": "Pauta com 2 fontes por fato; atribuições mantidas; negativa do Kremlin incluída. Revisor deve reabrir as URLs."
+  "verificacao": "Pauta com 2 fontes por fato; atribuições mantidas; negativa do Kremlin incluída. Revisor deve reabrir as URLs.",
+  "metricool": {
+    "id": 422865919,
+    "uuid": "3361196402157111773",
+    "sha_slides": "6f9e545bca4ea1fdbad999c397d95a121af7ee13",
+    "planner_url": "https://app.metricool.com/planner/calendar?blogId=7647378&openWithPostUuid=3361196402157111773",
+    "story": {
+      "id": 422866066,
+      "uuid": "6977181282850590171"
+    }
+  }
 }
