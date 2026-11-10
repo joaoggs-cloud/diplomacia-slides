@@ -1,3 +1,12 @@
+APROVADO (coordenador, 10 nov 2026, rodada 2), no SHA 6f9e545bca4ea1fdbad999c397d95a121af7ee13. As 4 correções obrigatórias foram aplicadas:
+1. Slide 6: a fala de Peskov agora se refere às geladeiras.
+2. Slide 5: a data passou a 'Entre 2 e 6 nov'.
+3. Créditos da img05 e da img09 encurtados; conferi o crédito no slide 5.
+4. Slide 8: a foto do TransPulp foi trocada por uma imagem de satélite do Golfo da Finlândia (NOAA, domínio público).
+As recomendações dos slides 3 e 4 e da legenda também entraram.
+
+--- Rodada 1 ---
+
 REPROVADO
 
 Revisão do post `2026-11-13-escalada-russa-europa` (SHA 49bbb82, agendado para 10 nov 2026, 06:01).
