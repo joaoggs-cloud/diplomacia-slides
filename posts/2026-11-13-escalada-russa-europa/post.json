@@ -156,9 +156,10 @@
     },
     {
       "id": "img04",
-      "query": "blood plasma bags freezer storage",
+      "query": "blood plasma bags",
       "alternativas": [
-        "blood bank refrigerator blood bags"
+        "blood bank bags refrigerator",
+        "blood donation blood bag"
       ]
     },
     {
@@ -170,7 +171,7 @@
     },
     {
       "id": "img06",
-      "query": "File:Mark Rutte October 2024.jpg",
+      "query": "NATO Headquarters Brussels flags",
       "alternativas": [
         "NATO headquarters Brussels flags"
       ]
@@ -184,9 +185,10 @@
     },
     {
       "id": "img08",
-      "query": "File:Sevmorput underway to Arkhangelsk Gulf of Finland Baltic Sea 25 February 2020.jpg",
+      "query": "container ship Gulf of Finland Baltic",
       "alternativas": [
-        "cargo ship Gulf of Finland"
+        "cargo ship Baltic Sea at sea",
+        "bulk carrier at sea"
       ]
     },
     {
@@ -251,17 +253,17 @@
       "query": "File:Check-in at Terminal 2, Prague Airport.jpg"
     },
     {
-      "titulo": "NATO Headquarters in Brussels, Belgium, June 18, 2026 - 3.jpg",
+      "titulo": "NATO Headquarters in Brussels, Belgium, June 18, 2026 - 4.jpg",
       "autor": "SECWAR",
       "licenca": "Public domain",
       "exige_credito": false,
-      "url_origem": "https://commons.wikimedia.org/wiki/File:NATO_Headquarters_in_Brussels,_Belgium,_June_18,_2026_-_3.jpg",
-      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/NATO_Headquarters_in_Brussels%2C_Belgium%2C_June_18%2C_2026_-_3.jpg/1920px-NATO_Headquarters_in_Brussels%2C_Belgium%2C_June_18%2C_2026_-_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "largura": 8046,
-      "altura": 5364,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:NATO_Headquarters_in_Brussels,_Belgium,_June_18,_2026_-_4.jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/NATO_Headquarters_in_Brussels%2C_Belgium%2C_June_18%2C_2026_-_4.jpg/1920px-NATO_Headquarters_in_Brussels%2C_Belgium%2C_June_18%2C_2026_-_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 7197,
+      "altura": 4798,
       "id": "img06",
       "arquivo": "imagens/img06.jpg",
-      "query": "File:Mark Rutte October 2024.jpg"
+      "query": "NATO Headquarters Brussels flags"
     },
     {
       "titulo": "Romanian F-16.jpg",
@@ -275,19 +277,6 @@
       "id": "img07",
       "arquivo": "imagens/img07.jpg",
       "query": "File:Romanian F-16.jpg"
-    },
-    {
-      "titulo": "Sevmorput underway to Arkhangelsk Gulf of Finland Baltic Sea 25 February 2020.jpg",
-      "autor": "Kinburn ·  Odessa",
-      "licenca": "CC0",
-      "exige_credito": false,
-      "url_origem": "https://commons.wikimedia.org/wiki/File:Sevmorput_underway_to_Arkhangelsk_Gulf_of_Finland_Baltic_Sea_25_February_2020.jpg",
-      "url_download": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Sevmorput_underway_to_Arkhangelsk_Gulf_of_Finland_Baltic_Sea_25_February_2020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "largura": 1200,
-      "altura": 800,
-      "id": "img08",
-      "arquivo": "imagens/img08.jpg",
-      "query": "File:Sevmorput underway to Arkhangelsk Gulf of Finland Baltic Sea 25 February 2020.jpg"
     },
     {
       "titulo": "Latvian Army soldiers (16635365913).jpg",
