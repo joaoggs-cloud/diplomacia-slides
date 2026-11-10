@@ -292,17 +292,18 @@
       "query": "File:Romanian F-16.jpg"
     },
     {
-      "titulo": "MS TransPulp in Oulu Mar2009.jpg",
-      "autor": "Methem (Mikko J. Putkonen)",
+      "titulo": "File:Ice Extent Along Finland and Estonia in the Baltic Sea (CIRA 2024-03-06).png",
+      "autor": "CSU/CIRA & NOAA/NESDIS",
       "licenca": "Public domain",
       "exige_credito": false,
-      "url_origem": "https://commons.wikimedia.org/wiki/File:MS_TransPulp_in_Oulu_Mar2009.jpg",
-      "url_download": "https://upload.wikimedia.org/wikipedia/commons/9/99/MS_TransPulp_in_Oulu_Mar2009.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "largura": 1523,
-      "altura": 1015,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Ice_Extent_Along_Finland_and_Estonia_in_the_Baltic_Sea_(CIRA_2024-03-06).png",
+      "url_download": "https://commons.wikimedia.org/wiki/Special:FilePath/Ice_Extent_Along_Finland_and_Estonia_in_the_Baltic_Sea_(CIRA_2024-03-06).png",
+      "largura": 1920,
+      "altura": 1080,
       "id": "img08",
       "arquivo": "imagens/img08.jpg",
-      "query": "container ship Gulf of Finland Baltic"
+      "query": "File:Ice Extent Along Finland and Estonia in the Baltic Sea (CIRA 2024-03-06).png",
+      "credito": "JPSS imagery: CSU/CIRA & NOAA/NESDIS"
     },
     {
       "titulo": "Latvian Army soldiers (16635365913).jpg",
