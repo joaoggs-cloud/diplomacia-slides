@@ -1,7 +1,7 @@
 {
   "slug": "2026-11-14-abu-dhabi-primeiro-dia",
   "titulo_interno": "Abu Dhabi, primeiro dia: o que cada lado disse",
-  "status": "rascunho",
+  "status": "aguardando_aprovacao",
   "pilar": "diplomacia",
   "categoria": "Diplomacia · Ucrânia",
   "gancho_tipo": "contradicao",
@@ -312,5 +312,15 @@
       "arquivo": "imagens/img09.jpg",
       "query": "Abu Dhabi skyline"
     }
-  ]
+  ],
+  "metricool": {
+    "id": 423658482,
+    "uuid": "-4421140646298958023",
+    "sha_slides": "9c3101a710c66f69afb99f45f7f615ac25d70543",
+    "planner_url": "https://app.metricool.com/planner/calendar?blogId=7647378&openWithPostUuid=-4421140646298958023",
+    "story": {
+      "id": 423658579,
+      "uuid": "3189475884693933505"
+    }
+  }
 }
