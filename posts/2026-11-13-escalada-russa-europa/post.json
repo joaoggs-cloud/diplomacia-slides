@@ -18,20 +18,20 @@
     },
     {
       "imagem": "img03",
-      "texto_html": "Em 3 nov, o comissário de Agricultura da UE, Christophe Hansen, falou em <em>“tentativa deliberada de interromper o abastecimento alimentar”</em>. Bruxelas montou uma força-tarefa com ENISA e Europol, mas não apontou culpado."
+      "texto_html": "Em 3 nov, o comissário de Agricultura da UE, Christophe Hansen, falou em <em>“tentativa deliberada de interromper o abastecimento alimentar”</em>. Bruxelas reuniu sua força-tarefa de cibersegurança, com ENISA e Europol, mas não apontou culpado."
     },
     {
       "imagem": "img04",
-      "texto_html": "Entre 2 e 3 nov, o ataque chegou a <strong>três centros de plasma</strong> do Estabelecimento Francês do Sangue. Segundo o órgão, não houve consequência para a saúde nem perda de produtos. O alvo foi um fornecedor de equipamentos de refrigeração."
+      "texto_html": "Em 2 nov, o ataque chegou a <strong>três centros de plasma</strong> do Estabelecimento Francês do Sangue. Segundo o órgão, não houve consequência para a saúde nem perda de produtos. O alvo foi um fornecedor de equipamentos de refrigeração."
     },
     {
       "imagem": "img05",
-      "texto_html": "De 3 a 6 nov, e-mails com falsas ameaças de bomba atingiram <strong>dezenas de voos</strong> em vários países, de Praga a Madri. Houve desvios e escoltas de caças. Nenhum explosivo foi achado e ninguém ficou ferido."
+      "texto_html": "Entre 2 e 6 nov, e-mails com falsas ameaças de bomba atingiram <strong>dezenas de voos</strong> em vários países, de Praga a Madri. Houve desvios e escoltas de caças. Nenhum explosivo foi achado e ninguém ficou ferido."
     },
     {
       "imagem": "img06",
       "titulo": "O que não está provado",
-      "texto_html": "O Financial Times relatou que serviços de segurança europeus <em>suspeitam</em> da Rússia nas ameaças de bomba, sem prova pública. Nenhuma autoridade identificou oficialmente os responsáveis. Em 5 nov, o Kremlin, por Dmitri Peskov, chamou as acusações de “absurdas”.",
+      "texto_html": "O Financial Times relatou que serviços de segurança europeus <em>suspeitam</em> da Rússia nas ameaças de bomba, sem prova pública. Nenhuma autoridade identificou oficialmente os responsáveis. Em 5 nov, o porta-voz do Kremlin, Dmitri Peskov, chamou de “absurdas” as acusações sobre os ataques às geladeiras.",
       "factbox": {
         "texto": "Um e-mail citava um grupo ultranacionalista russo, o que não prova autoria."
       }
@@ -54,7 +54,7 @@
     "titulo": "Salve este post",
     "subtitulo": "e compartilhe com quem acompanha o conflito"
   },
-  "legenda": "Em uma semana, geladeiras de supermercados, bancos de sangue e voos de passageiros entraram na lista de incidentes que a Europa investiga.\n\nCiberataques à refrigeração atingiram ao menos 9 países, três centros de plasma na França foram afetados e dezenas de voos receberam falsas ameaças de bomba. Serviços europeus suspeitam de Moscou, mas não há prova pública. A OTAN e serviços de inteligência avaliam que a campanha atribuída à Rússia está escalando. O Kremlin chama as acusações de absurdas.\n\nArraste para o lado e veja o que está confirmado, o que é suspeita e o que a Rússia diz.",
+  "legenda": "Em uma semana, geladeiras de supermercados, bancos de sangue e voos de passageiros entraram na lista de incidentes que a Europa investiga.\n\nCiberataques à refrigeração atingiram ao menos 9 países, três centros de plasma na França foram afetados e dezenas de voos receberam falsas ameaças de bomba. Serviços europeus suspeitam de Moscou, mas não há prova pública. Segundo briefing do Parlamento britânico, a OTAN e serviços de inteligência avaliam que a campanha atribuída à Rússia está escalando. O Kremlin chamou de absurdas as acusações sobre os ataques às geladeiras.\n\nArraste para o lado e veja o que está confirmado, o que é suspeita e o que a Rússia diz.",
   "primeiro_comentario": "",
   "hashtags": [
     "#otan",
@@ -254,7 +254,7 @@
     },
     {
       "titulo": "Check-in at Terminal 2, Prague Airport.jpg",
-      "autor": "Pavel Hrdlička (Czech Wikipedia user Packa)",
+      "autor": "Pavel Hrdlička",
       "licenca": "CC BY-SA 4.0",
       "exige_credito": true,
       "url_origem": "https://commons.wikimedia.org/wiki/File:Check-in_at_Terminal_2,_Prague_Airport.jpg",
@@ -306,7 +306,7 @@
     },
     {
       "titulo": "Latvian Army soldiers (16635365913).jpg",
-      "autor": "7th Army  Joint Multinational Training Command from Grafenwoehr, Germany",
+      "autor": "7th Army JMTC",
       "licenca": "CC BY 2.0",
       "exige_credito": true,
       "url_origem": "https://commons.wikimedia.org/wiki/File:Latvian_Army_soldiers_(16635365913).jpg",
