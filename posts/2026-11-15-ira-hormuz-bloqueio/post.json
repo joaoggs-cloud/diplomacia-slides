@@ -15,11 +15,11 @@
   "slides": [
     {
       "imagem": "img02",
-      "texto_html": "Em 10 nov, após o G7 em Paris, o secretário de Estado, Marco Rubio, disse que Trump concluiu que, por ora, não há necessidade de grandes operações de combate: os EUA estariam alcançando “o mesmo objetivo por meios econômicos”. <em>(Foto de arquivo, 2014)</em>"
+      "texto_html": "Em 10 nov, após o G7 em Paris, o secretário de Estado, Marco Rubio, disse que Trump concluiu que, por ora, não há necessidade de grandes operações de combate: os EUA estariam alcançando “o mesmo objetivo por meios econômicos”."
     },
     {
       "imagem": "img03",
-      "texto_html": "O principal desses meios é o <strong>bloqueio naval</strong> aos portos iranianos. O CENTCOM, comando militar dos EUA, diz que mais de 130 embarcações foram desviadas (dado até outubro). Rubio disse que a pressão será mantida. <em>(Foto de arquivo, 2020)</em>"
+      "texto_html": "O principal desses meios é o <strong>bloqueio naval</strong> aos portos iranianos. O CENTCOM, comando militar dos EUA, diz que mais de 130 embarcações foram desviadas (dado até outubro). Rubio disse que a pressão será mantida."
     },
     {
       "imagem": "img04",
@@ -30,19 +30,20 @@
       "texto_html": "Trump disse que o Irã “está falando conosco”. O Catar, mediador, afirmou ver “progresso” e que as partes analisam propostas. Rezaei chamou de “pura mentira” a notícia de uma reunião no Catar. <em>São versões que se contradizem, cada uma com seu dono.</em>"
     },
     {
-      "imagem": "img06",
-      "texto_html": "Em 10 nov, o petróleo <strong>Brent</strong> caiu brevemente abaixo de US$ 90, pela primeira vez desde agosto, com esperança de acordo. Em 11 nov, voltou a subir, para cerca de US$ 92-93, com relatos de ataques a navios."
+      "imagem": "img01",
+      "texto_html": "Em 10 nov, o petróleo <strong>Brent</strong> caiu brevemente abaixo de US$ 90, pela primeira vez desde agosto, com esperança de acordo. Em 11 nov, voltou a subir, para cerca de US$ 92-93, com relatos de ataques a navios.",
+      "foco": "30% 60%"
     },
     {
-      "imagem": "img07",
+      "imagem": "img06",
       "texto_html": "Em 10 nov, a estatal ADNOC, dos Emirados, confirmou que um navio da subsidiária de logística foi danificado em ataque em águas emiradenses. No mesmo dia, a UKMTO relatou ataque a um petroleiro perto de Omã. <em>Nenhum relato aponta autoria.</em>"
     },
     {
-      "imagem": "img08",
+      "imagem": "img07",
       "texto_html": "A guerra começou em 28 fev, com ataques de EUA e Israel ao Irã. Houve trégua em abril e, em 17 jun, um memorando de cessar-fogo, que ruiu em julho, segundo a ABC News. Oito meses depois, a pressão passa pelo mar."
     },
     {
-      "imagem": "img09",
+      "imagem": "img08",
       "texto_html": "Os próximos dias dirão mais: se os EUA mantêm a opção de não atacar, se o Catar confirma uma reunião entre as partes, se alguém assume a autoria dos ataques a navios e como o <strong>Brent</strong> reage ao que acontecer em Ormuz."
     }
   ],
@@ -185,5 +186,111 @@
   "reel": {
     "gerar": false
   },
-  "ia_gerado": false
+  "ia_gerado": false,
+  "imagens": [
+    {
+      "titulo": "STS004-37-716 - Strait of Hormuz.jpg",
+      "autor": "NASA",
+      "licenca": "Public domain",
+      "exige_credito": false,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:STS004-37-716_-_Strait_of_Hormuz.jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/STS004-37-716_-_Strait_of_Hormuz.jpg/1920px-STS004-37-716_-_Strait_of_Hormuz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 4110,
+      "altura": 4110,
+      "id": "img01",
+      "arquivo": "imagens/img01.jpg",
+      "query": "File:STS004-37-716 - Strait of Hormuz.jpg"
+    },
+    {
+      "titulo": "United States Capitol dome daylight.jpg",
+      "autor": "Autor desconhecido",
+      "licenca": "Public domain",
+      "exige_credito": false,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:United_States_Capitol_dome_daylight.jpg",
+      "url_download": "https://upload.wikimedia.org/wikipedia/commons/1/1e/United_States_Capitol_dome_daylight.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largura": 1018,
+      "altura": 1422,
+      "id": "img02",
+      "arquivo": "imagens/img02.jpg",
+      "query": "File:United States Capitol dome daylight.jpg"
+    },
+    {
+      "titulo": "CVN 69 transits the Strait of Hormuz (28465403076).jpg",
+      "autor": "U.S. Navy",
+      "licenca": "Public domain",
+      "exige_credito": false,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:CVN_69_transits_the_Strait_of_Hormuz_(28465403076).jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/CVN_69_transits_the_Strait_of_Hormuz_%2828465403076%29.jpg/1920px-CVN_69_transits_the_Strait_of_Hormuz_%2828465403076%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 4633,
+      "altura": 2850,
+      "id": "img03",
+      "arquivo": "imagens/img03.jpg",
+      "query": "File:CVN 69 transits the Strait of Hormuz (28465403076).jpg"
+    },
+    {
+      "titulo": "Azadi Tower, Tehran.jpg",
+      "autor": "Bernard Gagnon",
+      "licenca": "CC BY-SA 4.0",
+      "exige_credito": true,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Azadi_Tower,_Tehran.jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Azadi_Tower%2C_Tehran.jpg/1920px-Azadi_Tower%2C_Tehran.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 4828,
+      "altura": 3219,
+      "id": "img04",
+      "arquivo": "imagens/img04.jpg",
+      "query": "File:Azadi Tower, Tehran.jpg"
+    },
+    {
+      "titulo": "Tehran Milad Tower.jpg",
+      "autor": "Morteza Jrk",
+      "licenca": "CC BY-SA 4.0",
+      "exige_credito": true,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Tehran_Milad_Tower.jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Tehran_Milad_Tower.jpg/1920px-Tehran_Milad_Tower.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 5184,
+      "altura": 3456,
+      "id": "img05",
+      "arquivo": "imagens/img05.jpg",
+      "query": "File:Tehran Milad Tower.jpg"
+    },
+    {
+      "titulo": "171022-N-VR594-0093 (38245775971).jpg",
+      "autor": "U.S. Navy / Kelsey Hockenberger",
+      "licenca": "Public domain",
+      "exige_credito": false,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:171022-N-VR594-0093_(38245775971).jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/171022-N-VR594-0093_%2838245775971%29.jpg/1920px-171022-N-VR594-0093_%2838245775971%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 4786,
+      "altura": 3712,
+      "id": "img06",
+      "arquivo": "imagens/img06.jpg",
+      "query": "File:171022-N-VR594-0093 (38245775971).jpg"
+    },
+    {
+      "titulo": "U S Forces Launch Operation Epic Fury (9542614).jpg",
+      "autor": "U.S. Department of Defense",
+      "licenca": "Public domain",
+      "exige_credito": false,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:U_S_Forces_Launch_Operation_Epic_Fury_(9542614).jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/U_S_Forces_Launch_Operation_Epic_Fury_%289542614%29.jpg/1920px-U_S_Forces_Launch_Operation_Epic_Fury_%289542614%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 4987,
+      "altura": 3325,
+      "id": "img07",
+      "arquivo": "imagens/img07.jpg",
+      "query": "File:U S Forces Launch Operation Epic Fury (9542614).jpg"
+    },
+    {
+      "titulo": "Dena frigate commissioned into service (02).jpg",
+      "autor": "Mohammad Agah",
+      "licenca": "CC BY 4.0",
+      "exige_credito": true,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Dena_frigate_commissioned_into_service_(02).jpg",
+      "url_download": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Dena_frigate_commissioned_into_service_%2802%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largura": 1000,
+      "altura": 666,
+      "id": "img08",
+      "arquivo": "imagens/img08.jpg",
+      "query": "File:Dena frigate commissioned into service (02).jpg"
+    }
+  ]
 }
