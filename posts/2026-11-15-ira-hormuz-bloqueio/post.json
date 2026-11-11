@@ -1,0 +1,189 @@
+{
+  "slug": "2026-11-15-ira-hormuz-bloqueio",
+  "titulo_interno": "Irã e Ormuz: bloqueio em vez de bombas",
+  "status": "rascunho",
+  "estilo": "clean",
+  "pilar": "conflito_atual",
+  "categoria": "Conflito atual · Irã",
+  "gancho_tipo": "contradicao",
+  "usar_hashtags_base": true,
+  "capa": {
+    "imagem": "img01",
+    "titulo_html": "<span class=\"hl\">Bloqueio</span> em vez de bombas: o novo rumo da pressão dos EUA sobre o Irã",
+    "gancho": "Washington diz que não precisa de grandes operações de combate. Teerã diz que Ormuz continua fechado."
+  },
+  "slides": [
+    {
+      "imagem": "img02",
+      "texto_html": "Em 10 nov, após o G7 em Paris, o secretário de Estado, Marco Rubio, disse que Trump concluiu que, por ora, não há necessidade de grandes operações de combate: os EUA estariam alcançando “o mesmo objetivo por meios econômicos”. <em>(Foto de arquivo, 2014)</em>"
+    },
+    {
+      "imagem": "img03",
+      "texto_html": "O principal desses meios é o <strong>bloqueio naval</strong> aos portos iranianos. O CENTCOM, comando militar dos EUA, diz que mais de 130 embarcações foram desviadas (dado até outubro). Rubio disse que a pressão será mantida. <em>(Foto de arquivo, 2020)</em>"
+    },
+    {
+      "imagem": "img04",
+      "texto_html": "Teerã conta outra história. Em 10 nov, o chefe de segurança iraniano Mohsen Rezaei disse que não há negociação com os EUA e que <strong>Ormuz seguirá fechado</strong> até que as condições do Irã sejam atendidas, entre elas, segundo a imprensa, o fim do bloqueio."
+    },
+    {
+      "imagem": "img05",
+      "texto_html": "Trump disse que o Irã “está falando conosco”. O Catar, mediador, afirmou ver “progresso” e que as partes analisam propostas. Rezaei chamou de “pura mentira” a notícia de uma reunião no Catar. <em>São versões que se contradizem, cada uma com seu dono.</em>"
+    },
+    {
+      "imagem": "img06",
+      "texto_html": "Em 10 nov, o petróleo <strong>Brent</strong> caiu brevemente abaixo de US$ 90, pela primeira vez desde agosto, com esperança de acordo. Em 11 nov, voltou a subir, para cerca de US$ 92-93, com relatos de ataques a navios."
+    },
+    {
+      "imagem": "img07",
+      "texto_html": "Em 10 nov, a estatal ADNOC, dos Emirados, confirmou que um navio da subsidiária de logística foi danificado em ataque em águas emiradenses. No mesmo dia, a UKMTO relatou ataque a um petroleiro perto de Omã. <em>Nenhum relato aponta autoria.</em>"
+    },
+    {
+      "imagem": "img08",
+      "texto_html": "A guerra começou em 28 fev, com ataques de EUA e Israel ao Irã. Houve trégua em abril e, em 17 jun, um memorando de cessar-fogo, que ruiu em julho, segundo a ABC News. Oito meses depois, a pressão passa pelo mar."
+    },
+    {
+      "imagem": "img09",
+      "texto_html": "Os próximos dias dirão mais: se os EUA mantêm a opção de não atacar, se o Catar confirma uma reunião entre as partes, se alguém assume a autoria dos ataques a navios e como o <strong>Brent</strong> reage ao que acontecer em Ormuz."
+    }
+  ],
+  "cta": {
+    "titulo": "Salve este post",
+    "subtitulo": "e compartilhe com quem acompanha a guerra"
+  },
+  "legenda": "Oito meses depois do primeiro ataque, Washington diz que não precisa mais de bombas para pressionar o Irã. Teerã diz que Ormuz continua fechado.\n\nEm 10 nov, após o G7 em Paris, o secretário de Estado Marco Rubio afirmou que os EUA alcançam o mesmo objetivo por meios econômicos, o que inclui o bloqueio naval aos portos iranianos. No mesmo dia, Mohsen Rezaei negou qualquer negociação e disse que o estreito seguirá fechado. Trump e o Catar falam em progresso. Cada lado tem a sua versão, e o petróleo Brent oscila em torno de US$ 90.\n\nArraste para o lado e veja o que cada parte diz, com data e fonte.\n\nFotos de arquivo, sem relação direta com os fatos do dia.",
+  "primeiro_comentario": "",
+  "hashtags": [
+    "#ira",
+    "#estreitodeormuz",
+    "#bloqueionaval",
+    "#petroleo",
+    "#orientemedio",
+    "#geopolitica"
+  ],
+  "alt_text": "Carrossel sobre o bloqueio naval dos EUA ao Irã e o impasse em Ormuz, com imagens de satélite e de arquivo.",
+  "fontes": [
+    {
+      "nome": "Al Jazeera, 11 nov: equipe de Trump dividida sobre o Irã?",
+      "url": "https://www.aljazeera.com/news/2026/11/11/is-trump-team-split-on-iran"
+    },
+    {
+      "nome": "Al Jazeera, 11 nov: Irã nega conversas e diz que Ormuz seguirá fechado",
+      "url": "https://www.aljazeera.com/news/2026/11/11/iran-denies-talks-with-us-says-hormuz-will-stay-shut-until-demands-are-met"
+    },
+    {
+      "nome": "Haaretz, 10 nov: Ormuz seguirá fechado até EUA atenderem exigências",
+      "url": "https://www.haaretz.com/middle-east-news/iran/2026-11-10/ty-article/iran-says-strait-of-hormuz-will-stay-closed-until-u-s-meets-demands/000001a1-c658-df80-a9e3-e6fc56fb0000"
+    },
+    {
+      "nome": "The Nightly: Rubio vê que não há necessidade de grandes operações de combate",
+      "url": "https://thenightly.com.au/politics/world/marco-rubio-tells-donald-trump-theres-no-need-for-major-combat-operations-against-iran-c-23144974"
+    },
+    {
+      "nome": "Kurdistan24: CENTCOM e embarcações desviadas (17 out)",
+      "url": "https://www.kurdistan24.net/en/story/946775"
+    },
+    {
+      "nome": "Kuwait Times: 130 embarcações desviadas",
+      "url": "https://kuwaittimes.com/article/51047/world/us-forces-redirect-130-vessels-under-iran-blockade/amp"
+    },
+    {
+      "nome": "CNBC, 10 nov: petróleo e Irã",
+      "url": "https://www.cnbc.com/2026/11/10/oil-prices-trump-iran.html"
+    },
+    {
+      "nome": "Euronews, 11 nov: petróleo sobe com interrupções em Ormuz",
+      "url": "https://www.euronews.com/2026/11/11/oil-markets-rise-as-investors-monitor-shipping-disruption-in-the-strait-of-hormuz"
+    },
+    {
+      "nome": "Gulf News: navio da ADNOC danificado",
+      "url": "https://gulfnews.com/business/markets/adnoc-logistics-vessel-damaged-in-attack-in-uae-territorial-waters-1.500742780"
+    },
+    {
+      "nome": "gCaptain: ADNOC e novo ataque a petroleiro perto de Ormuz",
+      "url": "https://gcaptain.com/adnoc-vessel-damaged-in-gulf-attack-as-ukmto-reports-fresh-tanker-strike-near-hormuz/"
+    },
+    {
+      "nome": "ABC News: cronologia do cessar-fogo",
+      "url": "https://abcnews.com/Politics/us-iran-ceasefire-mou-broke-timeline/story?id=134622392"
+    }
+  ],
+  "busca_imagens": [
+    {
+      "id": "img01",
+      "query": "File:Strait of Hormuz (MODIS 2020-12-04).jpg",
+      "alternativas": [
+        "File:CVN 69 transits the Strait of Hormuz (28465403076).jpg"
+      ]
+    },
+    {
+      "id": "img02",
+      "query": "File:USS ARLEIGH BURKE (DDG 51) 140607-N-WD757-559 (14308375308).jpg",
+      "alternativas": [
+        "File:USS Arleigh Burke (DDG 51) (4823971).jpg"
+      ]
+    },
+    {
+      "id": "img03",
+      "query": "File:USNS Leroy Grumman (T-AO 195) transits the Strait of Hormuz 6470743.jpg",
+      "alternativas": [
+        "File:The Eisenhower Carrier Strike Group Transits the Strait of Hormuz (8170044).jpg"
+      ]
+    },
+    {
+      "id": "img04",
+      "query": "File:Qeshm Island, Iran ESA23301816.jpeg",
+      "alternativas": [
+        "File:QeshmIsland NASA.jpg",
+        "File:Qeshm island.jpg"
+      ]
+    },
+    {
+      "id": "img05",
+      "query": "File:Strait of Hormuz AR.jpg",
+      "alternativas": [
+        "Strait of Hormuz map",
+        "Strait of Hormuz oil tanker"
+      ]
+    },
+    {
+      "id": "img06",
+      "query": "oil tanker Persian Gulf",
+      "alternativas": [
+        "supertanker at sea",
+        "oil tanker Strait of Hormuz"
+      ]
+    },
+    {
+      "id": "img07",
+      "query": "oil tanker Gulf of Oman",
+      "alternativas": [
+        "ship Gulf of Oman",
+        "Fujairah anchorage tankers"
+      ]
+    },
+    {
+      "id": "img08",
+      "query": "Bandar Abbas port",
+      "alternativas": [
+        "Bandar Abbas",
+        "Shahid Rajaee port"
+      ]
+    },
+    {
+      "id": "img09",
+      "query": "Strait of Hormuz",
+      "alternativas": [
+        "Persian Gulf satellite",
+        "Musandam Hormuz"
+      ]
+    }
+  ],
+  "agendamento": {
+    "data_hora": "2026-11-13T06:01:00-03:00",
+    "slot": "06:01"
+  },
+  "reel": {
+    "gerar": false
+  },
+  "ia_gerado": false
+}
