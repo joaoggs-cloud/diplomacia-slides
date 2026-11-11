@@ -23,15 +23,15 @@
     },
     {
       "imagem": "img04",
-      "texto_html": "Teerã conta outra história. Em 10 nov, o chefe de segurança iraniano Mohsen Rezaei disse que não há negociação com os EUA e que <strong>Ormuz seguirá fechado</strong> até que as condições do Irã sejam atendidas, entre elas, segundo a imprensa, o fim do bloqueio."
+      "texto_html": "Teerã conta outra história. Em 10 nov, Mohsen Rezaei, secretário do Conselho Supremo de Segurança Nacional do Irã, disse que não há negociação com os EUA e que <strong>Ormuz seguirá fechado</strong> até que as condições do Irã sejam atendidas, entre elas o fim do bloqueio."
     },
     {
       "imagem": "img05",
-      "texto_html": "Trump disse que o Irã “está falando conosco”. O Catar, mediador, afirmou ver “progresso” e que as partes analisam propostas. Rezaei chamou de “pura mentira” a notícia de uma reunião no Catar. <em>São versões que se contradizem, cada uma com seu dono.</em>"
+      "texto_html": "Trump disse que o Irã “está falando conosco”. O Catar, mediador, afirmou ver “progresso” e que as partes analisam propostas. Rezaei chamou de “pura mentira” a notícia de uma reunião no Catar. <em>São versões que se contradizem.</em>"
     },
     {
       "imagem": "img01",
-      "texto_html": "Em 10 nov, o petróleo <strong>Brent</strong> caiu brevemente abaixo de US$ 90, pela primeira vez desde agosto, com esperança de acordo. Em 11 nov, voltou a subir, para cerca de US$ 92-93, com relatos de ataques a navios.",
+      "texto_html": "Em 10 nov, o petróleo <strong>Brent</strong> caiu brevemente abaixo de US$ 90, pela primeira vez desde agosto, com esperança de acordo. Em 11 nov, voltou a subir, para cerca de US$ 92, com relatos de ataques a navios.",
       "foco": "30% 60%"
     },
     {
@@ -51,7 +51,7 @@
     "titulo": "Salve este post",
     "subtitulo": "e compartilhe com quem acompanha a guerra"
   },
-  "legenda": "Oito meses depois do primeiro ataque, Washington diz que não precisa mais de bombas para pressionar o Irã. Teerã diz que Ormuz continua fechado.\n\nEm 10 nov, após o G7 em Paris, o secretário de Estado Marco Rubio afirmou que os EUA alcançam o mesmo objetivo por meios econômicos, o que inclui o bloqueio naval aos portos iranianos. No mesmo dia, Mohsen Rezaei negou qualquer negociação e disse que o estreito seguirá fechado. Trump e o Catar falam em progresso. Cada lado tem a sua versão, e o petróleo Brent oscila em torno de US$ 90.\n\nArraste para o lado e veja o que cada parte diz, com data e fonte.\n\nFotos de arquivo, sem relação direta com os fatos do dia.",
+  "legenda": "Oito meses depois do primeiro ataque, Washington diz que, por ora, não precisa de grandes operações de combate para pressionar o Irã. Teerã diz que Ormuz continua fechado.\n\nEm 10 nov, após o G7 em Paris, o secretário de Estado Marco Rubio afirmou que os EUA alcançam o mesmo objetivo por meios econômicos, o que inclui o bloqueio naval aos portos iranianos. No mesmo dia, Mohsen Rezaei negou qualquer negociação e disse que o estreito seguirá fechado. Trump e o Catar falam em progresso. Cada lado tem a sua versão, e o petróleo Brent oscila em torno de US$ 90.\n\nArraste para o lado e veja o que cada parte diz, com data e fonte.\n\nFotos de arquivo, sem relação direta com os fatos do dia.",
   "primeiro_comentario": "",
   "hashtags": [
     "#ira",
@@ -180,7 +180,7 @@
     }
   ],
   "agendamento": {
-    "data_hora": "2026-11-13T06:01:00-03:00",
+    "data_hora": "2026-11-15T06:01:00-03:00",
     "slot": "06:01"
   },
   "reel": {
