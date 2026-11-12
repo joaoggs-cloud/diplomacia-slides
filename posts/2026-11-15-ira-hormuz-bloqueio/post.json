@@ -1,7 +1,7 @@
 {
   "slug": "2026-11-15-ira-hormuz-bloqueio",
   "titulo_interno": "Irã e Ormuz: bloqueio em vez de bombas",
-  "status": "rascunho",
+  "status": "aguardando_aprovacao",
   "estilo": "clean",
   "pilar": "conflito_atual",
   "categoria": "Conflito atual · Irã",
@@ -289,5 +289,15 @@
       "arquivo": "imagens/img10.jpg",
       "query": "File:Abu dhabi skylines 2014.jpg"
     }
-  ]
+  ],
+  "metricool": {
+    "id": 426177654,
+    "uuid": "-8398799482035026446",
+    "sha_slides": "3ef4b76b695553cfe80c470152c47bb1ae9e2f80",
+    "planner_url": "https://app.metricool.com/planner/calendar?blogId=7647378&openWithPostUuid=-8398799482035026446",
+    "story": {
+      "id": 426177699,
+      "uuid": "7601066212779967734"
+    }
+  }
 }
