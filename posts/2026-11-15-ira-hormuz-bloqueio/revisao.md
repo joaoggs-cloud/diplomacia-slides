@@ -1,3 +1,42 @@
+REPROVADO (rodada 2)
+
+Revisão do post `2026-11-15-ira-hormuz-bloqueio` (SHA 7ab0cab), agendado para dom 15 nov 06:01. Revisor, 12 nov 2026.
+
+| Item | Resultado |
+|---|---|
+| (a) 5 correções da rodada 1 | ok. A legenda traz "por ora" e o slide 4 dá o cargo de Rezaei. Saíram Capitólio, Milad e Dena. Entraram porta-aviões (2), reabastecimento Lincoln/Guadalupe/Daring (3), Azadi (4), satélite (5 e 6), Abu Dhabi (7), F/A-18 Epic Fury (8) e navio à noite (9). Todas são de domínio público ou CC BY-SA, com crédito |
+| (b) Atualidade | **problema**: fatos de 12 nov deixam os slides 5, 7 e 9 e a legenda desatualizados |
+| (c) Visual/story | ok. Números 2/10 a 10/10 certos, nada cortado, texto legível, créditos inteiros no slide e na legenda (1.549 caracteres), story sem texto extra |
+
+## Fatos novos de 12 nov (qui)
+- Trump, no Truth Social: "We don't need a deal with Iran. Those days have long since passed." Ele também mandou o vice JD Vance se dedicar a outros temas (crime em cidades democratas), e a Casa Branca não diz se as conversas acabaram. Fontes: CNBC 12 nov, HNGN 12 nov, ABC News e CBS (live).
+- O Irã diz que petroleiros pegaram fogo em Ormuz. Segundo a Guarda Revolucionária, foram dois navios com mais de 4 milhões de barris, por "acidente" numa rota não autorizada. O Exército fala de petroleiros que bateram em minas numa "área proibida" a leste do estreito. As contagens variam e não há confirmação independente. Fontes: Middle East Monitor 12 nov, Times of Israel, Shafaq News, IBTimes.
+- O petróleo subiu com a notícia, mas não achei o valor do Brent de 12 nov.
+
+Com isso, o slide 5 (Trump: o Irã "está falando conosco", Catar vê "progresso") e o slide 9 ("se o Catar confirma uma reunião") ficam velhos. "Nenhum relato aponta autoria" (slide 7) também deixa de valer, porque o Irã agora fala em minas numa área que ele mesmo proibiu.
+
+## Correções obrigatórias
+1. **Slide 5**, novo texto (cerca de 45 palavras):
+   "Dias antes, Trump disse que o Irã “está falando conosco”, e o Catar, mediador, viu “progresso”. Rezaei chamou de “pura mentira” a notícia de uma reunião no Catar. Em 12 nov, Trump mudou o tom: “Não precisamos de um acordo com o Irã”, escreveu."
+2. **Slide 7**, novo texto:
+   "Os navios seguem na mira. Em 10 nov, a estatal ADNOC, dos Emirados, confirmou que um navio da subsidiária de logística foi danificado em águas emiradenses. Em 12 nov, o Irã disse que petroleiros pegaram fogo após atingir minas numa área que declarou proibida, a leste de Ormuz."
+3. **Slide 9**, novo texto:
+   "Os próximos dias dirão mais: se ainda há negociação depois da mensagem de Trump, se os EUA mantêm a opção de não atacar, se os petroleiros voltam a ser atingidos em Ormuz e como o <strong>Brent</strong> reage."
+4. **Legenda, 2º parágrafo.** Trocar "Trump e o Catar falam em progresso. Cada lado tem a sua versão, e o petróleo Brent oscila em torno de US$ 90." por:
+   "Em 12 nov, Trump escreveu que os EUA não precisam de um acordo com o Irã, e Teerã relatou petroleiros em chamas após atingirem minas perto de Ormuz. O petróleo Brent oscila em torno de US$ 90."
+5. **Fontes.** Acrescentar CNBC, 12 nov ("Trump says 'we don't need a deal with Iran'", https://cnbc.com/2026/11/12/trump-iran-deal-hormuz-strait.html) e Middle East Monitor, 12 nov (petroleiros e minas, https://www.middleeastmonitor.com/20261112-iran-says-2-oil-tankers-caught-fire-after-hitting-naval-mines-near-strait-of-hormuz/).
+6. **Slide 6 (Brent).** Pode ficar como está. Na véspera (14 nov à noite), o coordenador precisa reconferir o Brent e checar se houve acordo, reunião ou ataque grande. Se o preço sair muito de US$ 90-92, reescrever o slide 6 e a última frase da legenda.
+
+## Recomendações (não bloqueiam)
+- O satélite de Ormuz aparece 3 vezes (capa, 5 e 6). Funciona, mas fica repetitivo. Se houver tempo, usar `File:Qeshm Island, Iran ESA23301816.jpeg` no 5 ou no 6.
+- A capa ("Bloqueio em vez de bombas") continua coerente com o 12 nov.
+
+Fontes da checagem: CNBC 12 nov, HNGN 12 nov, ABC News live, CBS live (só a manchete; o site não abriu nesta sessão), IBTimes, Newsweek, Middle East Monitor 12 nov, Times of Israel e Shafaq News (só manchete/resumo).
+
+---
+
+# Rodada 1
+
 REPROVADO
 
 Revisão do post `2026-11-15-ira-hormuz-bloqueio` (SHA e60faf0), previsto para sex 13 nov 06:01. Revisor, 11 nov 2026.
