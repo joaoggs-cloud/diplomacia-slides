@@ -28,7 +28,7 @@
     },
     {
       "imagem": "img01",
-      "texto_html": "Trump disse que o Irã “está falando conosco”. O Catar, mediador, afirmou ver “progresso” e que as partes analisam propostas. Rezaei chamou de “pura mentira” a notícia de uma reunião no Catar. <em>São versões que se contradizem.</em>",
+      "texto_html": "Dias antes, Trump disse que o Irã <em>“está falando conosco”</em>, e o Catar, mediador, viu “progresso”. Rezaei chamou de “pura mentira” a notícia de uma reunião no Catar. Em 12 nov, Trump mudou o tom: <strong>“Não precisamos de um acordo com o Irã”</strong>, escreveu.",
       "foco": "85% 15%"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "imagem": "img10",
-      "texto_html": "Em 10 nov, a estatal ADNOC, dos Emirados, confirmou que um navio da subsidiária de logística foi danificado em ataque em águas emiradenses. No mesmo dia, a UKMTO relatou ataque a um petroleiro perto de Omã. <em>Nenhum relato aponta autoria.</em>"
+      "texto_html": "Os navios seguem na mira. Em 10 nov, a estatal ADNOC, dos Emirados, confirmou um navio danificado em águas emiradenses. Em 12 nov, o Irã disse que petroleiros pegaram fogo após atingir <strong>minas</strong> numa área que declarou proibida, a leste de Ormuz."
     },
     {
       "imagem": "img07",
@@ -46,14 +46,14 @@
     },
     {
       "imagem": "img06",
-      "texto_html": "Os próximos dias dirão mais: se os EUA mantêm a opção de não atacar, se o Catar confirma uma reunião entre as partes, se alguém assume a autoria dos ataques a navios e como o <strong>Brent</strong> reage ao que acontecer em Ormuz."
+      "texto_html": "Os próximos dias dirão mais: se ainda há negociação depois da mensagem de Trump, se os EUA mantêm a opção de não atacar, se os petroleiros voltam a ser atingidos em Ormuz e como o <strong>Brent</strong> reage."
     }
   ],
   "cta": {
     "titulo": "Salve este post",
     "subtitulo": "e compartilhe com quem acompanha a guerra"
   },
-  "legenda": "Oito meses depois do primeiro ataque, Washington diz que, por ora, não precisa de grandes operações de combate para pressionar o Irã. Teerã diz que Ormuz continua fechado.\n\nEm 10 nov, após o G7 em Paris, o secretário de Estado Marco Rubio afirmou que os EUA alcançam o mesmo objetivo por meios econômicos, o que inclui o bloqueio naval aos portos iranianos. No mesmo dia, Mohsen Rezaei negou qualquer negociação e disse que o estreito seguirá fechado. Trump e o Catar falam em progresso. Cada lado tem a sua versão, e o petróleo Brent oscila em torno de US$ 90.\n\nArraste para o lado e veja o que cada parte diz, com data e fonte.\n\nFotos de arquivo, sem relação direta com os fatos do dia.",
+  "legenda": "Oito meses depois do primeiro ataque, Washington diz que, por ora, não precisa de grandes operações de combate para pressionar o Irã. Teerã diz que Ormuz continua fechado.\n\nEm 10 nov, após o G7 em Paris, o secretário de Estado Marco Rubio afirmou que os EUA alcançam o mesmo objetivo por meios econômicos, o que inclui o bloqueio naval aos portos iranianos. No mesmo dia, Mohsen Rezaei negou qualquer negociação e disse que o estreito seguirá fechado. Em 12 nov, Trump escreveu que os EUA não precisam de um acordo com o Irã, e Teerã relatou petroleiros em chamas após atingirem minas perto de Ormuz. O petróleo Brent oscila em torno de US$ 90.\n\nArraste para o lado e veja o que cada parte diz, com data e fonte.\n\nFotos de arquivo, sem relação direta com os fatos do dia.",
   "primeiro_comentario": "",
   "hashtags": [
     "#ira",
@@ -108,6 +108,14 @@
     {
       "nome": "ABC News: cronologia do cessar-fogo",
       "url": "https://abcnews.com/Politics/us-iran-ceasefire-mou-broke-timeline/story?id=134622392"
+    },
+    {
+      "nome": "CNBC, 12 nov",
+      "url": "https://cnbc.com/2026/11/12/trump-iran-deal-hormuz-strait.html"
+    },
+    {
+      "nome": "Middle East Monitor, 12 nov",
+      "url": "https://www.middleeastmonitor.com/20261112-iran-says-2-oil-tankers-caught-fire-after-hitting-naval-mines-near-strait-of-hormuz/"
     }
   ],
   "busca_imagens": [
