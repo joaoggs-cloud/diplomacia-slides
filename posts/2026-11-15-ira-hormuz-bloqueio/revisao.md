@@ -1,3 +1,11 @@
+APROVADO (coordenador, 12 nov 2026), no SHA 3ef4b76b695553cfe80c470152c47bb1ae9e2f80.
+
+Correções 1 a 5 da rodada 2 aplicadas com o texto exato:
+- Slide 7 encurtado para 43 palavras.
+- Fontes da CNBC e do Middle East Monitor incluídas.
+
+Na véspera (14 nov), reconferir o Brent e o noticiário, conforme a correção 6.
+
 REPROVADO (rodada 2)
 
 Revisão do post `2026-11-15-ira-hormuz-bloqueio` (SHA 7ab0cab), agendado para dom 15 nov 06:01. Revisor, 12 nov 2026.
