@@ -1,0 +1,205 @@
+{
+  "slug": "2026-11-16-brasil-submarino-gripen",
+  "titulo_interno": "Brasil: submarino nuclear e caça supersônico, o que é verdade e o que é promessa",
+  "status": "rascunho",
+  "estilo": "clean",
+  "pilar": "tecnologia_militar",
+  "categoria": "Defesa · Brasil",
+  "gancho_tipo": "contradicao",
+  "usar_hashtags_base": true,
+  "capa": {
+    "imagem": "img01",
+    "titulo_html": "<span class=\"hl\">Submarino nuclear e caça supersônico:</span> o que o Brasil já tem e o que ainda é promessa",
+    "gancho": "Uma das duas coisas já voa. A outra ainda está sendo cortada em aço, na França."
+  },
+  "slides": [
+    {
+      "imagem": "img02",
+      "texto_html": "Circula a ideia de que o Brasil criou o <strong>primeiro submarino nuclear</strong> e um <strong>caça supersônico da Embraer</strong>. As duas frases estão erradas como são contadas. Uma coisa já existe, a outra ainda está em construção, e a diferença importa."
+    },
+    {
+      "imagem": "img03",
+      "texto_html": "Em 25 mar 2026, em Gavião Peixoto (SP), Embraer, Saab e FAB apresentaram o primeiro caça <strong>F-39E Gripen</strong> montado no Brasil. É supersônico e é real. O país é o primeiro da América Latina a produzir jatos supersônicos, segundo a Revista Pesquisa FAPESP."
+    },
+    {
+      "imagem": "img04",
+      "texto_html": "Mas o projeto não é da Embraer. O Gripen E foi desenvolvido pela sueca <strong>Saab</strong>, e a Embraer faz a montagem final de <strong>15 dos 36 caças</strong> da FAB. É produção local de uma tecnologia que vem de fora."
+    },
+    {
+      "imagem": "img01",
+      "texto_html": "Segundo a Sociedade Militar, o primeiro voo de um Gripen montado no Brasil foi em 6 ou 7 out, e um acordo preliminar de jul prevê montar mais 20 caças em Gavião Peixoto para outros países. Os dois pontos ainda aguardam confirmação por uma segunda fonte."
+    },
+    {
+      "imagem": "img08",
+      "titulo": "E o submarino nuclear?",
+      "texto_html": "O <strong>Álvaro Alberto</strong>, do PROSUB, ainda não existe como submarino. Em 20 out 2026, em Cherbourg, na França, uma cerimônia marcou o início da fabricação de um componente do casco. É o começo da obra, não um navio pronto."
+    },
+    {
+      "imagem": "img06",
+      "texto_html": "O ponto central é o reator. Segundo a Sociedade Militar, a França não transfere essa tecnologia: o reator é desenvolvido só pelo Brasil, com protótipo (<strong>LABGENE</strong>) no Centro Experimental Aramar, em Iperó (SP)."
+    },
+    {
+      "imagem": "img09",
+      "texto_html": "O cronograma é longo. A quilha foi reprogramada para <strong>2027</strong> e o lançamento fica para 2037 ou 2038, segundo a Sociedade Militar, por causa de orçamento, testes do reator e negociação com a AIEA. Em 7 nov, a Marinha alertou para a falta de recursos."
+    },
+    {
+      "imagem": "img07",
+      "texto_html": "Propulsão nuclear não é arma nuclear. O Ministério da Defesa informa que o submarino terá armamento convencional.",
+      "factbox": {
+        "label": "Na foto",
+        "texto": "submarino convencional da classe Riachuelo, já em operação. O Álvaro Alberto será o primeiro de propulsão nuclear."
+      }
+    },
+    {
+      "imagem": "img05",
+      "titulo": "O balanço",
+      "texto_html": "O caça supersônico já existe: projeto sueco, montagem brasileira. O submarino nuclear ainda é promessa, com reator próprio e lançamento só daqui a mais de uma década. Há avanço real nos dois casos, mas nenhum é o que a frase viral diz."
+    }
+  ],
+  "cta": {
+    "titulo": "Salve este post",
+    "subtitulo": "e compartilhe com quem acompanha a defesa do Brasil"
+  },
+  "legenda": "O Brasil criou o primeiro submarino nuclear e um caça supersônico? As duas afirmações circulam como fato consumado, mas a história é outra.\n\nO caça F-39E Gripen é de projeto da sueca Saab; a Embraer faz a montagem final de 15 dos 36 aviões da FAB, e o primeiro foi apresentado em Gavião Peixoto (SP) em 25 mar 2026. Já o submarino Álvaro Alberto começou a ser fabricado só em 20 out, com um componente do casco na França, e o lançamento está previsto para 2037 ou 2038, segundo a Sociedade Militar. O reator é desenvolvido pelo Brasil, e o armamento será convencional, de acordo com o Ministério da Defesa.\n\nArraste para o lado e veja o que já existe e o que ainda é promessa.\n\nA foto do submarino mostra um convencional da classe Riachuelo.",
+  "primeiro_comentario": "",
+  "hashtags": [
+    "#gripen",
+    "#embraer",
+    "#fab",
+    "#submarinonuclear",
+    "#prosub",
+    "#marinhadobrasil"
+  ],
+  "alt_text": "Carrossel sobre o caça Gripen montado pela Embraer e o submarino nuclear Álvaro Alberto, com fotos da FAB, da Embraer e da Marinha.",
+  "fontes": [
+    {
+      "nome": "Olhar Digital, 25 mar 2026",
+      "url": "https://olhardigital.com.br/2026/03/25/carros-e-tecnologia/brasil-apresenta-1o-caca-supersonico-produzido-no-pais/"
+    },
+    {
+      "nome": "Forbes Brasil, mar 2026",
+      "url": "https://forbes.com.br/forbes-life/forbes-motors/2026/03/como-e-o-primeiro-caca-supersonico-montado-no-brasil-pela-embraer/"
+    },
+    {
+      "nome": "Revista Pesquisa FAPESP",
+      "url": "https://revistapesquisa.fapesp.br/brasil-e-o-primeiro-pais-latino-americano-a-produzir-jatos-supersonicos/"
+    },
+    {
+      "nome": "Gazeta do Povo",
+      "url": "https://www.gazetadopovo.com.br/republica/embraer-apresenta-primeiro-caca-supersonico-produzido-no-brasil/"
+    },
+    {
+      "nome": "Sociedade Militar, out 2026: primeiro voo",
+      "url": "https://www.sociedademilitar.com.br/2026/10/primeiro-caca-supersonico-produzido-brasil-gripen-fab-fplv.html"
+    },
+    {
+      "nome": "Sociedade Militar, jul 2026: 20 Gripens adicionais",
+      "url": "https://www.sociedademilitar.com.br/2026/07/embraer-saab-20-gripen-adicionais-gaviao-peixoto-2022j.html"
+    },
+    {
+      "nome": "Defesa em Foco: fabricação na França",
+      "url": "https://www.defesaemfoco.com.br/franca-inicia-fabricacao-de-componente-do-submarino-nuclear-brasileiro/"
+    },
+    {
+      "nome": "Zona Militar, 6 nov 2026",
+      "url": "https://www.zona-militar.com/pt/2026/11/06/teve-inicio-na-franca-a-fabricacao-de-componentes-chave-para-o-futuro-submarino-nuclear-da-marinha-do-brasil"
+    },
+    {
+      "nome": "Militarnyi",
+      "url": "https://militarnyi.com/en/news/steel-cutting-france-brazil-first-nuclear-submarine-lvaro-alberto/"
+    },
+    {
+      "nome": "Sociedade Militar, nov 2026: reator",
+      "url": "https://www.sociedademilitar.com.br/2026/11/brasil-domina-o-combustivel-nuclear-mas-franca-nao-transfere-tecnologia-do-reator-do-submarino-alvaro-alberto-que-tera-propulsao-atomica-e-armamento-convencional-nbd.html"
+    },
+    {
+      "nome": "Sociedade Militar, nov 2026: orçamento e cronograma",
+      "url": "https://www.sociedademilitar.com.br/2026/11/submarino-nuclear-brasileiro-marinha-orcamento-wvt.html"
+    },
+    {
+      "nome": "Wikipedia: Submarino Álvaro Alberto",
+      "url": "https://en.wikipedia.org/wiki/Brazilian_submarine_%C3%81lvaro_Alberto"
+    }
+  ],
+  "busca_imagens": [
+    {
+      "id": "img01",
+      "query": "File:25.03.2026 - Cerimônia de apresentação do primeiro Caça F-39 E Gripen montado no Brasil.jpg",
+      "alternativas": []
+    },
+    {
+      "id": "img02",
+      "query": "File:FAB Gripen F-39E (cropped).jpg",
+      "alternativas": []
+    },
+    {
+      "id": "img03",
+      "query": "File:09.05.2023 - Cerimônia de inauguração da linha de produção do caça Gripen e visita à linha de produção (52884890515).jpg",
+      "alternativas": []
+    },
+    {
+      "id": "img04",
+      "query": "File:Ministro da Defesa visita fabrica da EMBRAER em Gavião Peixoto-SP (43917654105).jpg",
+      "alternativas": []
+    },
+    {
+      "id": "img05",
+      "query": "File:Submarino Riachuelo (S40) atracado na Base de Submarinos da Ilha da Madeira, em Itaguaí - 2023 (53627478333).jpg",
+      "alternativas": []
+    },
+    {
+      "id": "img06",
+      "query": "File:ARAMAR Experimental Center (01815198) (51320269475).jpg",
+      "alternativas": []
+    },
+    {
+      "id": "img07",
+      "query": "File:Cerimônia de Mostra de Armamento do Submarino Humaitá - 2024 (53458810822).jpg",
+      "alternativas": []
+    },
+    {
+      "id": "img08",
+      "query": "File:Submarino Riachuelo (S40) no Estaleiro do Complexo de Itaguaí, no Rio de Janeiro. (52782120913).jpg",
+      "alternativas": []
+    },
+    {
+      "id": "img09",
+      "query": "File:ARAMAR Experimental Center (01815199) (51319984614).jpg",
+      "alternativas": []
+    }
+  ],
+  "agendamento": {
+    "data_hora": "2026-11-16T06:01:00-03:00",
+    "slot": "06:01"
+  },
+  "reel": {
+    "gancho": "Duas afirmações circulam como fato. Só uma já existe.",
+    "cenas": [
+      {
+        "imagem": "img01",
+        "texto_html": "Dizem que o Brasil criou um submarino nuclear e um caça supersônico. As duas frases estão <em>erradas</em>."
+      },
+      {
+        "imagem": "img03",
+        "texto_html": "Em 25 mar 2026, foi apresentado o primeiro caça <em>F-39E Gripen</em> montado no Brasil."
+      },
+      {
+        "imagem": "img04",
+        "texto_html": "O projeto é da sueca Saab. A Embraer faz a montagem final de 15 dos 36 caças da FAB."
+      },
+      {
+        "imagem": "img08",
+        "texto_html": "O submarino <em>Álvaro Alberto</em> só começou a ser fabricado: em 20 out, na França, um componente do casco."
+      },
+      {
+        "imagem": "img06",
+        "texto_html": "O reator é desenvolvido pelo Brasil. O lançamento está previsto só para 2037 ou 2038."
+      },
+      {
+        "imagem": "img02",
+        "texto_html": "O caça já existe. O submarino nuclear ainda é <em>promessa</em>."
+      }
+    ]
+  },
+  "ia_gerado": false
+}
