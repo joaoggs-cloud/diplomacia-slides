@@ -26,12 +26,8 @@
       "texto_html": "Mas o projeto não é da Embraer. O Gripen E foi desenvolvido pela sueca <strong>Saab</strong>, e a Embraer faz a montagem final de <strong>15 dos 36 caças</strong> da FAB. É produção local de uma tecnologia que vem de fora."
     },
     {
-      "imagem": "img01",
-      "texto_html": "Segundo a Sociedade Militar, o primeiro voo de um Gripen montado no Brasil foi em 6 ou 7 out, e um acordo preliminar de jul prevê montar mais 20 caças em Gavião Peixoto para outros países. Os dois pontos ainda aguardam confirmação por uma segunda fonte."
-    },
-    {
       "imagem": "img08",
-      "titulo": "E o submarino nuclear?",
+      "titulo": "E o submarino nuclear",
       "texto_html": "O <strong>Álvaro Alberto</strong>, do PROSUB, ainda não existe como submarino. Em 20 out 2026, em Cherbourg, na França, uma cerimônia marcou o início da fabricação de um componente do casco. É o começo da obra, não um navio pronto."
     },
     {
@@ -60,7 +56,7 @@
     "titulo": "Salve este post",
     "subtitulo": "e compartilhe com quem acompanha a defesa do Brasil"
   },
-  "legenda": "O Brasil criou o primeiro submarino nuclear e um caça supersônico? As duas afirmações circulam como fato consumado, mas a história é outra.\n\nO caça F-39E Gripen é de projeto da sueca Saab; a Embraer faz a montagem final de 15 dos 36 aviões da FAB, e o primeiro foi apresentado em Gavião Peixoto (SP) em 25 mar 2026. Já o submarino Álvaro Alberto começou a ser fabricado só em 20 out, com um componente do casco na França, e o lançamento está previsto para 2037 ou 2038, segundo a Sociedade Militar. O reator é desenvolvido pelo Brasil, e o armamento será convencional, de acordo com o Ministério da Defesa.\n\nArraste para o lado e veja o que já existe e o que ainda é promessa.\n\nA foto do submarino mostra um convencional da classe Riachuelo.",
+  "legenda": "Circula que o Brasil criou o primeiro submarino nuclear e um caça supersônico. As duas afirmações correm como fato consumado, mas a história é outra.\n\nO caça F-39E Gripen é de projeto da sueca Saab; a Embraer faz a montagem final de 15 dos 36 aviões da FAB, e o primeiro foi apresentado em Gavião Peixoto (SP) em 25 mar 2026. Já o submarino Álvaro Alberto começou a ser fabricado só em 20 out, com um componente do casco na França, e o lançamento está previsto para 2037 ou 2038, segundo a Sociedade Militar. O reator é desenvolvido pelo Brasil, e o armamento será convencional, de acordo com o Ministério da Defesa.\n\nArraste para o lado e veja o que já existe e o que ainda é promessa.\n\nA foto do submarino mostra um convencional da classe Riachuelo.",
   "primeiro_comentario": "",
   "hashtags": [
     "#gripen",
@@ -189,7 +185,7 @@
       },
       {
         "imagem": "img08",
-        "texto_html": "O submarino <em>Álvaro Alberto</em> só começou a ser fabricado: em 20 out, na França, um componente do casco."
+        "texto_html": "O submarino <em>Álvaro Alberto</em> só começou a ser feito: em 20 out, na França, parte do casco."
       },
       {
         "imagem": "img06",
@@ -201,5 +197,124 @@
       }
     ]
   },
-  "ia_gerado": false
+  "ia_gerado": false,
+  "imagens": [
+    {
+      "titulo": "25.03.2026 - Cerimônia de apresentação do primeiro Caça F-39 E Gripen montado no Brasil.jpg",
+      "autor": "Lula Oficial",
+      "licenca": "CC BY-SA 4.0",
+      "exige_credito": true,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:25.03.2026_-_Cerim%C3%B4nia_de_apresenta%C3%A7%C3%A3o_do_primeiro_Ca%C3%A7a_F-39_E_Gripen_montado_no_Brasil.jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/25.03.2026_-_Cerim%C3%B4nia_de_apresenta%C3%A7%C3%A3o_do_primeiro_Ca%C3%A7a_F-39_E_Gripen_montado_no_Brasil.jpg/1920px-25.03.2026_-_Cerim%C3%B4nia_de_apresenta%C3%A7%C3%A3o_do_primeiro_Ca%C3%A7a_F-39_E_Gripen_montado_no_Brasil.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 3840,
+      "altura": 2532,
+      "id": "img01",
+      "arquivo": "imagens/img01.jpg",
+      "query": "File:25.03.2026 - Cerimônia de apresentação do primeiro Caça F-39 E Gripen montado no Brasil.jpg"
+    },
+    {
+      "titulo": "FAB Gripen F-39E (cropped).jpg",
+      "autor": "Isac Nóbrega / PR",
+      "licenca": "CC BY 2.0",
+      "exige_credito": true,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:FAB_Gripen_F-39E_(cropped).jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/FAB_Gripen_F-39E_%28cropped%29.jpg/1920px-FAB_Gripen_F-39E_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 2088,
+      "altura": 1319,
+      "id": "img02",
+      "arquivo": "imagens/img02.jpg",
+      "query": "File:FAB Gripen F-39E (cropped).jpg"
+    },
+    {
+      "titulo": "09.05.2023 - Cerimônia de inauguração da linha de produção do caça Gripen e visita à linha de produção (52884890515).jpg",
+      "autor": "Palácio do Planalto from Brasilia, Brasil",
+      "licenca": "CC BY 2.0",
+      "exige_credito": true,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:09.05.2023_-_Cerim%C3%B4nia_de_inaugura%C3%A7%C3%A3o_da_linha_de_produ%C3%A7%C3%A3o_do_ca%C3%A7a_Gripen_e_visita_%C3%A0_linha_de_produ%C3%A7%C3%A3o_(52884890515).jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/09.05.2023_-_Cerim%C3%B4nia_de_inaugura%C3%A7%C3%A3o_da_linha_de_produ%C3%A7%C3%A3o_do_ca%C3%A7a_Gripen_e_visita_%C3%A0_linha_de_produ%C3%A7%C3%A3o_%2852884890515%29.jpg/1920px-09.05.2023_-_Cerim%C3%B4nia_de_inaugura%C3%A7%C3%A3o_da_linha_de_produ%C3%A7%C3%A3o_do_ca%C3%A7a_Gripen_e_visita_%C3%A0_linha_de_produ%C3%A7%C3%A3o_%2852884890515%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 3762,
+      "altura": 5180,
+      "id": "img03",
+      "arquivo": "imagens/img03.jpg",
+      "query": "File:09.05.2023 - Cerimônia de inauguração da linha de produção do caça Gripen e visita à linha de produção (52884890515).jpg"
+    },
+    {
+      "titulo": "Ministro da Defesa visita fabrica da EMBRAER em Gavião Peixoto-SP (43917654105).jpg",
+      "autor": "Ministério da Defesa",
+      "licenca": "CC BY 2.0",
+      "exige_credito": true,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Ministro_da_Defesa_visita_fabrica_da_EMBRAER_em_Gavi%C3%A3o_Peixoto-SP_(43917654105).jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Ministro_da_Defesa_visita_fabrica_da_EMBRAER_em_Gavi%C3%A3o_Peixoto-SP_%2843917654105%29.jpg/1920px-Ministro_da_Defesa_visita_fabrica_da_EMBRAER_em_Gavi%C3%A3o_Peixoto-SP_%2843917654105%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 2253,
+      "altura": 1498,
+      "id": "img04",
+      "arquivo": "imagens/img04.jpg",
+      "query": "File:Ministro da Defesa visita fabrica da EMBRAER em Gavião Peixoto-SP (43917654105).jpg"
+    },
+    {
+      "titulo": "Submarino Riachuelo (S40) atracado na Base de Submarinos da Ilha da Madeira, em Itaguaí - 2023 (53627478333).jpg",
+      "autor": "Marinha do Brasil",
+      "licenca": "CC BY-SA 2.0",
+      "exige_credito": true,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Submarino_Riachuelo_(S40)_atracado_na_Base_de_Submarinos_da_Ilha_da_Madeira,_em_Itagua%C3%AD_-_2023_(53627478333).jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Submarino_Riachuelo_%28S40%29_atracado_na_Base_de_Submarinos_da_Ilha_da_Madeira%2C_em_Itagua%C3%AD_-_2023_%2853627478333%29.jpg/1920px-Submarino_Riachuelo_%28S40%29_atracado_na_Base_de_Submarinos_da_Ilha_da_Madeira%2C_em_Itagua%C3%AD_-_2023_%2853627478333%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 5472,
+      "altura": 3648,
+      "id": "img05",
+      "arquivo": "imagens/img05.jpg",
+      "query": "File:Submarino Riachuelo (S40) atracado na Base de Submarinos da Ilha da Madeira, em Itaguaí - 2023 (53627478333).jpg"
+    },
+    {
+      "titulo": "ARAMAR Experimental Center (01815198) (51320269475).jpg",
+      "autor": "IAEA Imagebank",
+      "licenca": "CC BY 2.0",
+      "exige_credito": true,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:ARAMAR_Experimental_Center_(01815198)_(51320269475).jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/ARAMAR_Experimental_Center_%2801815198%29_%2851320269475%29.jpg/1920px-ARAMAR_Experimental_Center_%2801815198%29_%2851320269475%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 5568,
+      "altura": 3712,
+      "id": "img06",
+      "arquivo": "imagens/img06.jpg",
+      "query": "File:ARAMAR Experimental Center (01815198) (51320269475).jpg"
+    },
+    {
+      "titulo": "Cerimônia de Mostra de Armamento do Submarino Humaitá - 2024 (53458810822).jpg",
+      "autor": "Marinha do Brasil",
+      "licenca": "CC BY-SA 2.0",
+      "exige_credito": true,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Cerim%C3%B4nia_de_Mostra_de_Armamento_do_Submarino_Humait%C3%A1_-_2024_(53458810822).jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Cerim%C3%B4nia_de_Mostra_de_Armamento_do_Submarino_Humait%C3%A1_-_2024_%2853458810822%29.jpg/1920px-Cerim%C3%B4nia_de_Mostra_de_Armamento_do_Submarino_Humait%C3%A1_-_2024_%2853458810822%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 4032,
+      "altura": 3024,
+      "id": "img07",
+      "arquivo": "imagens/img07.jpg",
+      "query": "File:Cerimônia de Mostra de Armamento do Submarino Humaitá - 2024 (53458810822).jpg"
+    },
+    {
+      "titulo": "Submarino Riachuelo (S40) no Estaleiro do Complexo de Itaguaí, no Rio de Janeiro. (52782120913).jpg",
+      "autor": "Marinha do Brasil",
+      "licenca": "CC BY-SA 2.0",
+      "exige_credito": true,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Submarino_Riachuelo_(S40)_no_Estaleiro_do_Complexo_de_Itagua%C3%AD,_no_Rio_de_Janeiro._(52782120913).jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Submarino_Riachuelo_%28S40%29_no_Estaleiro_do_Complexo_de_Itagua%C3%AD%2C_no_Rio_de_Janeiro._%2852782120913%29.jpg/1920px-Submarino_Riachuelo_%28S40%29_no_Estaleiro_do_Complexo_de_Itagua%C3%AD%2C_no_Rio_de_Janeiro._%2852782120913%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 2348,
+      "altura": 3323,
+      "id": "img08",
+      "arquivo": "imagens/img08.jpg",
+      "query": "File:Submarino Riachuelo (S40) no Estaleiro do Complexo de Itaguaí, no Rio de Janeiro. (52782120913).jpg"
+    },
+    {
+      "titulo": "ARAMAR Experimental Center (01815199) (51319984614).jpg",
+      "autor": "IAEA Imagebank",
+      "licenca": "CC BY 2.0",
+      "exige_credito": true,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:ARAMAR_Experimental_Center_(01815199)_(51319984614).jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/ARAMAR_Experimental_Center_%2801815199%29_%2851319984614%29.jpg/1920px-ARAMAR_Experimental_Center_%2801815199%29_%2851319984614%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 5421,
+      "altura": 3614,
+      "id": "img09",
+      "arquivo": "imagens/img09.jpg",
+      "query": "File:ARAMAR Experimental Center (01815199) (51319984614).jpg"
+    }
+  ]
 }

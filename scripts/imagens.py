@@ -54,6 +54,19 @@ def prioridade_licenca(nome):
     return None
 
 
+def _get(url, **kw):
+    """GET com espera e novas tentativas quando o Wikimedia devolve 429 (limite de taxa)."""
+    import time
+    for tentativa in range(6):
+        r = requests.get(url, headers={"User-Agent": UA}, **kw)
+        if r.status_code != 429:
+            return r
+        espera = int(r.headers.get("Retry-After") or 0) or 10 * (tentativa + 1)
+        print(f"  429 do Wikimedia, aguardando {espera}s…", file=sys.stderr)
+        time.sleep(min(espera, 120))
+    return r
+
+
 def buscar(consulta, limite=20):
     """Busca livre no Commons, ou um arquivo exato se a consulta for "File:Nome.jpg".
     A busca aceita a sintaxe do Commons, ex.: incategory:"FPV drones in Ukrainian military"."""
@@ -69,7 +82,7 @@ def buscar(consulta, limite=20):
     else:
         params.update({"generator": "search", "gsrsearch": f"{consulta} filetype:bitmap",
                        "gsrnamespace": 6, "gsrlimit": limite})
-    r = requests.get(API, params=params, headers={"User-Agent": UA}, timeout=30)
+    r = _get(API, params=params, timeout=30)
     r.raise_for_status()
     paginas = r.json().get("query", {}).get("pages", {})
     candidatos = []
@@ -115,7 +128,7 @@ def colorido(caminho):
 
 def baixar(url, destino):
     """Salva sempre como JPEG (o Commons pode devolver PNG ou WebP)."""
-    r = requests.get(url, headers={"User-Agent": UA}, timeout=60)
+    r = _get(url, timeout=60)
     r.raise_for_status()
     Image.open(io.BytesIO(r.content)).convert("RGB").save(destino, "JPEG", quality=92)
 
