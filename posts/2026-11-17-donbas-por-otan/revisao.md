@@ -1,3 +1,9 @@
+## APROVADO (coordenador, rodada 2, 14 nov)
+
+Todas as correções bloqueantes da rodada 1 foram aplicadas no commit 494f9d3 (capa "a pergunta", 13 nov, posição de Kiev, Kostiantynivka separada, foto de von der Leyen, resumo da troca, fontes novas, foto CC0 do reencontro). Conferido em folha de contato. Pendente: reconferir na noite de 16 nov a resposta de EUA/Kremlin, a troca de prisioneiros e a data da próxima rodada.
+
+---
+
 REPROVADO
 
 # Revisão: 2026-11-17-donbas-por-otan (commit 4381be2)
