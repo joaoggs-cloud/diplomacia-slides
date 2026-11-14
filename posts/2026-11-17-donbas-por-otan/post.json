@@ -1,7 +1,7 @@
 {
   "slug": "2026-11-17-donbas-por-otan",
   "titulo_interno": "Donbas por OTAN: o que saiu de Abu Dhabi e de Moscou",
-  "status": "rascunho",
+  "status": "aguardando_aprovacao",
   "estilo": "clean",
   "pilar": "diplomacia",
   "categoria": "Diplomacia · Ucrânia",
@@ -294,5 +294,15 @@
       "arquivo": "imagens/img08.jpg",
       "query": "File:Skyline of Abu Dhabi at sunset.jpg"
     }
-  ]
+  ],
+  "metricool": {
+    "id": 428385402,
+    "uuid": "-7386535384752764862",
+    "sha_slides": "47c6b79655441ebfdd88af02bc87dcd155406442",
+    "planner_url": "https://app.metricool.com/planner/calendar?blogId=7647378&openWithPostUuid=-7386535384752764862",
+    "story": {
+      "id": 428385444,
+      "uuid": "-4727708266720311745"
+    }
+  }
 }
