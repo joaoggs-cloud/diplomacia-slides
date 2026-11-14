@@ -1,3 +1,15 @@
+APROVADO (coordenador, 14 nov 2026, rodada 2), no SHA 27167695074f1998264505258999f5c20186653f.
+
+Os itens 1 a 10 da rodada 1 foram aplicados pelo roteirista.
+
+O coordenador:
+- incluiu o corte da primeira chapa (jun 2024, Itaguaí) no slide 5 e na legenda;
+- conferiu os slides em montagem (capa nova, S41 no slide 8, Gripen no slide 9, factbox no slide 5).
+
+Story e Reel foram regerados.
+
+--- Rodada 1 ---
+
 REPROVADO
 
 Revisão de `posts/2026-11-16-brasil-submarino-gripen` no SHA 8636b6b (revisor, 14 nov 2026).
