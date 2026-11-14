@@ -1,7 +1,7 @@
 {
   "slug": "2026-11-16-brasil-submarino-gripen",
   "titulo_interno": "Brasil: submarino nuclear e caça supersônico, o que é verdade e o que é promessa",
-  "status": "rascunho",
+  "status": "aguardando_aprovacao",
   "estilo": "clean",
   "pilar": "tecnologia_militar",
   "categoria": "Defesa · Brasil",
@@ -323,5 +323,19 @@
       "arquivo": "imagens/img09.jpg",
       "query": "Gripen F-39E Força Aérea Brasileira"
     }
-  ]
+  ],
+  "metricool": {
+    "id": 428076171,
+    "uuid": "-397967014996328129",
+    "sha_slides": "27167695074f1998264505258999f5c20186653f",
+    "planner_url": "https://app.metricool.com/planner/calendar?blogId=7647378&openWithPostUuid=-397967014996328129",
+    "story": {
+      "id": 428076189,
+      "uuid": "-5995859941931987096"
+    },
+    "reel": {
+      "id": 428076264,
+      "uuid": "1054225658813759785"
+    }
+  }
 }
