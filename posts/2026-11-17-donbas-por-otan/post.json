@@ -9,8 +9,8 @@
   "usar_hashtags_base": true,
   "capa": {
     "imagem": "img01",
-    "titulo_html": "<span class=\"hl\">Donbas por OTAN:</span> a troca que, segundo Zelensky, os EUA puseram na mesa",
-    "gancho": "A versão é de Kiev. Washington e Moscou não responderam publicamente."
+    "titulo_html": "<span class=\"hl\">Donbas por OTAN:</span> a pergunta que, segundo Zelensky, os EUA fizeram",
+    "gancho": "A versão é de Kiev, sem oferta concreta. Washington e Moscou não comentaram."
   },
   "slides": [
     {
@@ -20,15 +20,15 @@
     },
     {
       "imagem": "img04",
-      "texto_html": "Em 14 nov, Zelensky disse que os negociadores dos EUA sugeriram que a Ucrânia deixasse o <strong>Donbas</strong> caso entrasse na OTAN. Segundo ele, foi a primeira vez que a aliança foi ligada a concessões territoriais: <em>“a OTAN voltou à agenda”</em>."
+      "texto_html": "Em 13 nov, Zelensky disse que os negociadores dos EUA perguntaram se a Ucrânia deixaria o <strong>Donbas</strong> caso entrasse na OTAN. Segundo ele, foi a primeira vez que a aliança apareceu ligada a território, ainda sem oferta concreta: <em>“a OTAN voltou à agenda”</em>."
     },
     {
       "imagem": "img05",
-      "texto_html": "Essa é a versão de uma só parte: as reportagens consultadas não registram resposta dos EUA nem do Kremlin. Moscou já havia dito, em Abu Dhabi, que Kiev deve deixar o Donbas e que rejeita tropas ocidentais na Ucrânia (foto de arquivo)."
+      "texto_html": "Até 14 nov, EUA e Kremlin não haviam comentado essa versão. Zelensky disse que a Ucrânia não retira tropas, mas levaria o tema a referendo com garantias firmes. Moscou segue exigindo o Donbas, e Putin repetiu em 12 nov que rejeita tropas ocidentais no país."
     },
     {
       "imagem": "img06",
-      "texto_html": "Putin propôs um gesto humanitário em <strong>Kostiantynivka</strong>, nos moldes do de Oleshky. Zelensky recusou: disse que reflete a incapacidade de Moscou de tomar a cidade e que Putin não apoia um cessar-fogo. Para o ISW, o Kremlin quereria concentrar forças."
+      "texto_html": "Putin propôs uma pausa humanitária em <strong>Kostiantynivka</strong>, nos moldes da de Oleshky. Zelensky recusou: chamou a proposta de manobra para tomar a cidade, que Moscou não conseguiu conquistar. Para o ISW, o Kremlin provavelmente quer a pausa para concentrar forças rumo a Druzhkivka (foto de 2024)."
     },
     {
       "imagem": "img07",
@@ -36,20 +36,19 @@
     },
     {
       "imagem": "img03",
-      "texto_html": "Witkoff disse que Putin aceitou a presença de europeus na próxima rodada. O Kremlin não confirmou: Ushakov chamou a posição europeia de <em>“receita para guerra sem fim”</em>, e Peskov disse que Putin nunca se recusou a dialogar com eles. Sem data nem local.",
-      "foco": "12% 30%"
+      "texto_html": "Witkoff disse que Putin aceitou a presença de europeus na próxima rodada. O Kremlin não confirmou: Ushakov chamou a posição europeia de <em>“receita para guerra sem fim”</em>, e Peskov disse que Putin nunca se recusou a dialogar com eles. Sem data nem local."
     },
     {
       "imagem": "img08",
       "titulo": "O que se sabe",
-      "texto_html": "Confirmado: a reunião com Putin e a continuidade das conversas. Alegação de Kiev: Donbas por OTAN. Sem confirmação: troca de prisioneiros, números e participação europeia."
+      "texto_html": "Confirmado: a reunião com Putin, a troca de prisioneiros acertada e a continuidade das conversas. Alegação de Kiev: a pergunta Donbas por OTAN. Sem confirmação: números e data da troca e a participação europeia."
     }
   ],
   "cta": {
     "titulo": "Salve este post",
     "subtitulo": "e acompanhe o que vem depois de Abu Dhabi e Moscou"
   },
-  "legenda": "A ideia de ligar território à adesão à OTAN apareceu nas negociações, segundo Zelensky.\n\nEm 14 nov, o presidente ucraniano disse que negociadores dos EUA sugeriram que a Ucrânia deixasse o Donbas caso entrasse na aliança. Não há resposta pública de Washington nem do Kremlin. Em 12 nov, Witkoff e Kushner haviam se reunido com Putin em Moscou, depois de dois dias de conversas em Abu Dhabi. Putin propôs um gesto humanitário em Kostiantynivka, que Zelensky recusou, e Kushner fala em uma troca de prisioneiros em preparação, sem número oficial. O Kremlin não confirmou a participação de europeus na próxima rodada.\n\nArraste para o lado e veja o que cada lado disse.",
+  "legenda": "A ideia de ligar território à adesão à OTAN apareceu nas negociações, segundo Zelensky.\n\nEm 13 nov, o presidente ucraniano disse que negociadores dos EUA perguntaram se a Ucrânia deixaria o Donbas caso entrasse na aliança; segundo ele, não houve oferta concreta, e Kiev não pretende retirar tropas. Até 14 nov, Washington e o Kremlin não haviam comentado. Em 12 nov, Witkoff e Kushner haviam se reunido com Putin em Moscou, depois de dois dias de conversas em Abu Dhabi. Putin propôs um gesto humanitário em Kostiantynivka, que Zelensky recusou, e Kushner fala em uma troca de prisioneiros em preparação, sem número oficial. O Kremlin não confirmou a participação de europeus na próxima rodada.\n\nArraste para o lado e veja o que cada lado disse.",
   "primeiro_comentario": "",
   "hashtags": [
     "#ucrania",
@@ -105,6 +104,30 @@
     {
       "nome": "ISW via Kyiv Post, 13 nov",
       "url": "https://www.kyivpost.com/post/90095"
+    },
+    {
+      "nome": "Kyiv Independent",
+      "url": "https://kyivindependent.com/us-floats-nato-membership-for-ukraine-in-exchange-for-donbas-withdrawal-zelensky-says/"
+    },
+    {
+      "nome": "Al Jazeera, 14 nov",
+      "url": "https://www.aljazeera.com/news/2026/11/14/three-killed-in-russia-as-ukraine-claims-us-floated-nato-membership-option"
+    },
+    {
+      "nome": "NV",
+      "url": "https://english.nv.ua/russian-war/zelenskyy-calls-russia-s-kostiantynivka-plan-a-ploy-50659198.html"
+    },
+    {
+      "nome": "Euromaidan Press, 13 nov",
+      "url": "https://euromaidanpress.com/2026/11/13/russia-asks-for-a-pause-in-the-donbas-city-of-kostiantynivka-after-more-than-a-year-of-assaults-failed-to-take-it-isw-sees-a-bid-to-mass-troops-for-nearby-druzhkivka/"
+    },
+    {
+      "nome": "TASS",
+      "url": "https://tass.com/politics/2217817"
+    },
+    {
+      "nome": "Kyiv Post, 12 nov",
+      "url": "https://www.kyivpost.com/post/89979"
     }
   ],
   "busca_imagens": [
@@ -124,8 +147,10 @@
     },
     {
       "id": "img03",
-      "query": "File:Ursula von der Leyen, Mark Carney, Volodymyr Zelensky at the European Political Community in Yerevan - 2026.jpg",
-      "alternativas": []
+      "query": "File:Official Portrait of Ursula von der Leyen.jpg",
+      "alternativas": [
+        "File:Official Portrait of Ursula von der Leyen (cropped 3).jpg"
+      ]
     },
     {
       "id": "img04",
@@ -146,10 +171,8 @@
     },
     {
       "id": "img07",
-      "query": "File:Exchange of prisoners event with people welcoming them home in Ukraine on 23 May 2025 - 2.jpg",
-      "alternativas": [
-        "File:Hugging at exchange of prisoners of war event in Ukraine, 23 May 2025 (cropped).jpg"
-      ]
+      "query": "File:Hugging at exchange of prisoners of war event in Ukraine, 23 May 2025 (cropped).jpg",
+      "alternativas": []
     },
     {
       "id": "img08",
@@ -194,17 +217,17 @@
       "query": "File:Kushner and Witkoff at the Kremlin.jpg"
     },
     {
-      "titulo": "Ursula von der Leyen, Mark Carney, Volodymyr Zelensky at the European Political Community in Yerevan - 2026.jpg",
-      "autor": "European Union",
+      "titulo": "Official Portrait of Ursula von der Leyen.jpg",
+      "autor": "Etienne Ansotte, © European Union, 2021",
       "licenca": "CC BY 4.0",
       "exige_credito": true,
-      "url_origem": "https://commons.wikimedia.org/wiki/File:Ursula_von_der_Leyen,_Mark_Carney,_Volodymyr_Zelensky_at_the_European_Political_Community_in_Yerevan_-_2026.jpg",
-      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Ursula_von_der_Leyen%2C_Mark_Carney%2C_Volodymyr_Zelensky_at_the_European_Political_Community_in_Yerevan_-_2026.jpg/1920px-Ursula_von_der_Leyen%2C_Mark_Carney%2C_Volodymyr_Zelensky_at_the_European_Political_Community_in_Yerevan_-_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "largura": 6960,
-      "altura": 4640,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Official_Portrait_of_Ursula_von_der_Leyen.jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Official_Portrait_of_Ursula_von_der_Leyen.jpg/1920px-Official_Portrait_of_Ursula_von_der_Leyen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 4150,
+      "altura": 6218,
       "id": "img03",
       "arquivo": "imagens/img03.jpg",
-      "query": "File:Ursula von der Leyen, Mark Carney, Volodymyr Zelensky at the European Political Community in Yerevan - 2026.jpg"
+      "query": "File:Official Portrait of Ursula von der Leyen.jpg"
     },
     {
       "titulo": "Volodymyr Zelensky Official portrait.jpg",
@@ -246,17 +269,17 @@
       "query": "File:Destructions in Kostiantynivka after Russian attack, 2024-02-25 (02).jpg"
     },
     {
-      "titulo": "Exchange of prisoners event with people welcoming them home in Ukraine on 23 May 2025 - 2.jpg",
+      "titulo": "Hugging at exchange of prisoners of war event in Ukraine, 23 May 2025 (cropped).jpg",
       "autor": "President Of Ukraine",
       "licenca": "CC0",
       "exige_credito": false,
-      "url_origem": "https://commons.wikimedia.org/wiki/File:Exchange_of_prisoners_event_with_people_welcoming_them_home_in_Ukraine_on_23_May_2025_-_2.jpg",
-      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Exchange_of_prisoners_event_with_people_welcoming_them_home_in_Ukraine_on_23_May_2025_-_2.jpg/1920px-Exchange_of_prisoners_event_with_people_welcoming_them_home_in_Ukraine_on_23_May_2025_-_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "largura": 4000,
-      "altura": 2668,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Hugging_at_exchange_of_prisoners_of_war_event_in_Ukraine,_23_May_2025_(cropped).jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Hugging_at_exchange_of_prisoners_of_war_event_in_Ukraine%2C_23_May_2025_%28cropped%29.jpg/1920px-Hugging_at_exchange_of_prisoners_of_war_event_in_Ukraine%2C_23_May_2025_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 2460,
+      "altura": 2452,
       "id": "img07",
       "arquivo": "imagens/img07.jpg",
-      "query": "File:Exchange of prisoners event with people welcoming them home in Ukraine on 23 May 2025 - 2.jpg"
+      "query": "File:Hugging at exchange of prisoners of war event in Ukraine, 23 May 2025 (cropped).jpg"
     },
     {
       "titulo": "Skyline of Abu Dhabi at sunset.jpg",
