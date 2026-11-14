@@ -33,7 +33,7 @@
     },
     {
       "imagem": "img01",
-      "texto_html": "Em 10 nov, o petróleo <strong>Brent</strong> caiu brevemente abaixo de US$ 90, pela primeira vez desde agosto, com esperança de acordo. Em 11 nov, voltou a subir, para cerca de US$ 92, com relatos de ataques a navios.",
+      "texto_html": "Em 10 nov, o petróleo <strong>Brent</strong> caiu brevemente abaixo de US$ 90, com esperança de acordo. Em 11 nov, subiu para cerca de US$ 92, com relatos de ataques a navios. Na sexta, 13 nov, fechou perto de US$ 96, ainda com Ormuz restrito.",
       "foco": "15% 85%"
     },
     {
@@ -53,7 +53,7 @@
     "titulo": "Salve este post",
     "subtitulo": "e compartilhe com quem acompanha a guerra"
   },
-  "legenda": "Oito meses depois do primeiro ataque, Washington diz que, por ora, não precisa de grandes operações de combate para pressionar o Irã. Teerã diz que Ormuz continua fechado.\n\nEm 10 nov, após o G7 em Paris, o secretário de Estado Marco Rubio afirmou que os EUA alcançam o mesmo objetivo por meios econômicos, o que inclui o bloqueio naval aos portos iranianos. No mesmo dia, Mohsen Rezaei negou qualquer negociação e disse que o estreito seguirá fechado. Em 12 nov, Trump escreveu que os EUA não precisam de um acordo com o Irã, e Teerã relatou petroleiros em chamas após atingirem minas perto de Ormuz. O petróleo Brent oscila em torno de US$ 90.\n\nArraste para o lado e veja o que cada parte diz, com data e fonte.\n\nFotos de arquivo, sem relação direta com os fatos do dia.",
+  "legenda": "Oito meses depois do primeiro ataque, Washington diz que, por ora, não precisa de grandes operações de combate para pressionar o Irã. Teerã diz que Ormuz continua fechado.\n\nEm 10 nov, após o G7 em Paris, o secretário de Estado Marco Rubio afirmou que os EUA alcançam o mesmo objetivo por meios econômicos, o que inclui o bloqueio naval aos portos iranianos. No mesmo dia, Mohsen Rezaei negou qualquer negociação e disse que o estreito seguirá fechado. Em 12 nov, Trump escreveu que os EUA não precisam de um acordo com o Irã, e Teerã relatou petroleiros em chamas após atingirem minas perto de Ormuz. O petróleo Brent, que chegou a cair abaixo de US$ 90 em 10 nov, fechou a semana perto de US$ 96.\n\nArraste para o lado e veja o que cada parte diz, com data e fonte.\n\nFotos de arquivo, sem relação direta com os fatos do dia.",
   "primeiro_comentario": "",
   "hashtags": [
     "#ira",
@@ -116,6 +116,14 @@
     {
       "nome": "Middle East Monitor, 12 nov",
       "url": "https://www.middleeastmonitor.com/20261112-iran-says-2-oil-tankers-caught-fire-after-hitting-naval-mines-near-strait-of-hormuz/"
+    },
+    {
+      "nome": "Invezz, 13 nov (Brent)",
+      "url": "https://invezz.com/news/2026/11/13/oil-price-today-brent-holds-near-96-as-iea-sees-first-surplus-since-iran-war/"
+    },
+    {
+      "nome": "Rigzone, 13 nov (Brent)",
+      "url": "https://www.rigzone.com/news/wire/crude_fluctuates_as_iran_tensions_persist-13-nov-2026-185085-article/"
     }
   ],
   "busca_imagens": [
