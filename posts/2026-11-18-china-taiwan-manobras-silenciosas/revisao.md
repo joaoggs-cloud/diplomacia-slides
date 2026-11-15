@@ -1,3 +1,9 @@
+## APROVADO (coordenador, rodada 2, 15 nov)
+
+Correções 1–7 aplicadas no commit fd0592f (trilateral de 19 nov atribuída a Casa Branca e Kremlin, slide 8 com a cúpula de set 2026, capa "Mais de 100" com o Liaoning, mapa recortado, crédito de img08, cena 07). O coordenador trocou ainda a foto do slide 2 / cena 05 do reel: o Jiaozuo estava com bandeiras russas (visita a São Petersburgo), o que sugeria participação russa; entrou "PLANS Zhengzhou (DDG-151) 20150612.jpg" (Ministério da Defesa do Japão, CC BY 4.0), em moldura sobre fundo desfocado. Conferido em folha de contato.
+
+---
+
 REPROVADO
 
 # Revisão: 2026-11-18-china-taiwan-manobras-silenciosas (commit 7a13d64)

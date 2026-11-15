@@ -157,9 +157,11 @@
     },
     {
       "id": "img05",
-      "query": "File:Type-052D destroyer Jiaozuo 焦作 (163) during a visit to Saint Petersburg, Russia (July 26, 2024).jpg",
+      "query": "PLANS DDG 2024",
       "alternativas": [
-        "Type 052D destroyer"
+        "PLANS DDG 2023",
+        "PLANS Type 055 2025",
+        "PLANS FFG 2024"
       ]
     },
     {
@@ -274,17 +276,17 @@
       "query": "File:Geographic Boundaries of the First and Second Island Chains.png"
     },
     {
-      "titulo": "Type-052D destroyer Jiaozuo 焦作 (163) during a visit to Saint Petersburg, Russia (July 26, 2024).jpg",
-      "autor": "Bestalex",
-      "licenca": "CC BY-SA 4.0",
+      "titulo": "PLANS Zhengzhou (DDG-151) 20150612.jpg",
+      "autor": "Ministério da Defesa do Japão",
+      "licenca": "CC BY 4.0",
       "exige_credito": true,
-      "url_origem": "https://commons.wikimedia.org/wiki/File:Type-052D_destroyer_Jiaozuo_%E7%84%A6%E4%BD%9C_(163)_during_a_visit_to_Saint_Petersburg,_Russia_(July_26,_2024).jpg",
-      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Type-052D_destroyer_Jiaozuo_%E7%84%A6%E4%BD%9C_%28163%29_during_a_visit_to_Saint_Petersburg%2C_Russia_%28July_26%2C_2024%29.jpg/1920px-Type-052D_destroyer_Jiaozuo_%E7%84%A6%E4%BD%9C_%28163%29_during_a_visit_to_Saint_Petersburg%2C_Russia_%28July_26%2C_2024%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "largura": 5299,
-      "altura": 3399,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:PLANS_Zhengzhou_(DDG-151)_20150612.jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/PLANS_Zhengzhou_%28DDG-151%29_20150612.jpg/1920px-PLANS_Zhengzhou_%28DDG-151%29_20150612.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 2148,
+      "altura": 872,
       "id": "img05",
       "arquivo": "imagens/img05.jpg",
-      "query": "File:Type-052D destroyer Jiaozuo 焦作 (163) during a visit to Saint Petersburg, Russia (July 26, 2024).jpg"
+      "query": "PLANS DDG 2024"
     },
     {
       "titulo": "Taiwan Strait.png",
