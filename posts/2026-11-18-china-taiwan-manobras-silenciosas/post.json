@@ -1,0 +1,307 @@
+{
+  "slug": "2026-11-18-china-taiwan-manobras-silenciosas",
+  "titulo_interno": "China e Taiwan: o exercício naval sem anúncio antes da APEC",
+  "status": "rascunho",
+  "estilo": "clean",
+  "pilar": "conflito_atual",
+  "categoria": "Conflito · Taiwan",
+  "gancho_tipo": "contradicao",
+  "usar_hashtags_base": true,
+  "capa": {
+    "imagem": "img01",
+    "titulo_html": "<span class=\"hl\">100 navios chineses</span> perto de Taiwan. Pequim não anunciou nada",
+    "gancho": "A contagem é de autoridades taiwanesas. Pequim fala em treino de rotina."
+  },
+  "slides": [
+    {
+      "imagem": "img05",
+      "texto_html": "No início de novembro, a China realizou um grande exercício naval no <strong>Pacífico ocidental</strong> e ao redor de Taiwan, sem anúncio e sem nome. Autoridades taiwanesas o descrevem como <em>“intimidação silenciosa”</em>."
+    },
+    {
+      "imagem": "img03",
+      "texto_html": "No pico, em 3 nov, mais de <strong>100 navios</strong> da Marinha e da Guarda Costeira chinesas foram registrados, segundo o chefe do Conselho de Segurança Nacional de Taiwan, Joseph Wu, e um alto funcionário. É uma contagem de Taipé, sem verificação independente."
+    },
+    {
+      "imagem": "img06",
+      "texto_html": "Forças dos comandos de teatro <strong>Leste, Norte e Sul</strong> participaram. Para um funcionário taiwanês, a mobilização superou a da <em>Justice Mission 2025</em>, o último exercício nomeado em torno da ilha, em 29 e 30 dez 2025."
+    },
+    {
+      "imagem": "img02",
+      "texto_html": "Em 10 nov, o ministro da Defesa de Taiwan, <strong>Wellington Koo</strong>, disse que a China fez treinos de “negação de área” com o porta-aviões Liaoning. Pequim diz que é uma rotina anual de testes em mar aberto, <em>“não dirigida a nenhum país”</em>."
+    },
+    {
+      "imagem": "img04",
+      "texto_html": "Na sexta, 13 nov, a presença havia caído para cerca de <strong>70 navios</strong> dentro da primeira cadeia de ilhas, segundo dois funcionários de segurança taiwaneses. Taipé e analistas interpretam o movimento como ensaio de bloqueio; Pequim não confirmou essa leitura.",
+      "foco": "88% 25%"
+    },
+    {
+      "imagem": "img07",
+      "texto_html": "Nesta quarta, 18 nov, começa em <strong>Shenzhen</strong> a cúpula da APEC, com Trump esperado. Segundo a Reuters, seria o terceiro encontro entre ele e Xi Jinping este ano. O formato exato ainda não tinha comunicado oficial.",
+      "foco": "80% 50%"
+    },
+    {
+      "imagem": "img08",
+      "texto_html": "A pauta dos dois deve ser comércio, riscos da inteligência artificial e gestão de crises militares. <strong>Taiwan não aparece</strong> como item formal. Em Busan, em out 2025, Trump disse que o assunto não surgiu na conversa."
+    }
+  ],
+  "cta": {
+    "titulo": "Salve este post",
+    "subtitulo": "e acompanhe o que sai da cúpula da APEC"
+  },
+  "legenda": "A China fez um grande exercício naval ao redor de Taiwan sem anunciar nada, segundo autoridades taiwanesas.\n\nNo pico, em 3 nov, Taipé contou mais de 100 navios chineses no Pacífico ocidental; em 13 nov, eram cerca de 70 dentro da primeira cadeia de ilhas. Taiwan e analistas leem o movimento como ensaio de bloqueio. Pequim diz que o treino do porta-aviões Liaoning é rotina anual e não dirigido a nenhum país. Os números não foram verificados de forma independente. Nesta quarta, 18 nov, começa a cúpula da APEC em Shenzhen, com Trump e Xi esperados; Taiwan não está na pauta formal.\n\nArraste para o lado e veja o que cada lado disse.",
+  "primeiro_comentario": "",
+  "hashtags": [
+    "#taiwan",
+    "#china",
+    "#apec",
+    "#geopolitica",
+    "#indopacifico",
+    "#trump",
+    "#xijinping"
+  ],
+  "alt_text": "Carrossel sobre o exercício naval chinês sem anúncio ao redor de Taiwan, a versão de Pequim e a cúpula da APEC em Shenzhen.",
+  "fontes": [
+    {
+      "nome": "Reuters via Star-Advertiser, 13 nov",
+      "url": "https://www.staradvertiser.com/2026/11/13/breaking-news/china-stages-unannounced-pacific-drills-in-intimidation-of-taiwan/"
+    },
+    {
+      "nome": "Taipei Times, 13 nov",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/11/13/2003867684"
+    },
+    {
+      "nome": "Taipei Times, 14 nov",
+      "url": "https://www.taipeitimes.com/News/front/archives/2026/11/14/2003867710"
+    },
+    {
+      "nome": "Maritime Executive",
+      "url": "https://maritime-executive.com/article/analysis-china-s-naval-drills-suggest-preparation-to-isolate-taiwan"
+    },
+    {
+      "nome": "USNI News, 31 dez 2025",
+      "url": "https://news.usni.org/2025/12/31/china-wraps-justice-mission-taiwan-blockade-drills"
+    },
+    {
+      "nome": "Baird Maritime (Reuters), 10 nov",
+      "url": "https://www.bairdmaritime.com/amp/story/security/naval/china-carries-out-area-denial-drills-with-carrier-group-taiwan-says"
+    },
+    {
+      "nome": "Taipei Times, 11 nov",
+      "url": "https://www.taipeitimes.com/News/front/archives/2026/11/11/2003867520"
+    },
+    {
+      "nome": "VOA, 13 nov",
+      "url": "https://www.voanews.com/a/trump-xi-talks-to-test-progress-on-trade-si-and-strategic-stability-20261113/8223457.html"
+    },
+    {
+      "nome": "SCMP",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3373969/xi-and-trump-set-apec-talks-major-deliverables-expected-wait-g20"
+    },
+    {
+      "nome": "NPR, 29 out 2025",
+      "url": "https://www.npr.org/2025/10/29/nx-s1-5589729/trump-xi-deal-south-korea-apec"
+    }
+  ],
+  "busca_imagens": [
+    {
+      "id": "img01",
+      "query": "File:PLAN CV-18 Fujian 20250911.jpg",
+      "alternativas": [
+        "File:Chinese aircraft carrier Fujian flight deck.jpg",
+        "Chinese aircraft carrier Fujian"
+      ]
+    },
+    {
+      "id": "img02",
+      "query": "File:Aircraft Carrier Liaoning CV-16.jpg",
+      "alternativas": [
+        "File:PLANS Liaoning (CV-16) 20221216 - 1.jpg",
+        "Liaoning aircraft carrier"
+      ]
+    },
+    {
+      "id": "img03",
+      "query": "File:CHINA COAST GUARD Vessel (2304).jpg",
+      "alternativas": [
+        "China Coast Guard cutter"
+      ]
+    },
+    {
+      "id": "img04",
+      "query": "File:Geographic Boundaries of the First and Second Island Chains.png",
+      "alternativas": [
+        "First island chain map"
+      ]
+    },
+    {
+      "id": "img05",
+      "query": "File:PLANS Nanchang (DDG-101) 20210427.jpg",
+      "alternativas": [
+        "Type 055 destroyer PLA Navy"
+      ]
+    },
+    {
+      "id": "img06",
+      "query": "File:Taiwan Strait.png",
+      "alternativas": [
+        "Taiwan Strait map"
+      ]
+    },
+    {
+      "id": "img07",
+      "query": "Shenzhen skyline",
+      "alternativas": [
+        "Shenzhen Futian skyline"
+      ]
+    },
+    {
+      "id": "img08",
+      "query": "File:Taipei 101 sunset skyline 2015.jpg",
+      "alternativas": [
+        "File:Taipei Taiwan skyline 2016.jpg",
+        "Taipei 101"
+      ]
+    }
+  ],
+  "reel": {
+    "gancho": "Sem nome e sem anúncio, o treino chamou a atenção de Taipé.",
+    "cenas": [
+      {
+        "imagem": "img01",
+        "texto_html": "Em novembro, a China fez um grande exercício naval <em>sem avisar ninguém</em>, segundo Taiwan."
+      },
+      {
+        "imagem": "img03",
+        "texto_html": "Taipé contou mais de <em>100 navios chineses</em> no pico, em 3 de novembro."
+      },
+      {
+        "imagem": "img04",
+        "texto_html": "Sem nome nem anúncio, o treino foi maior que o de dezembro de 2025, diz um funcionário taiwanês."
+      },
+      {
+        "imagem": "img05",
+        "texto_html": "Taiwan e analistas veem ensaio de bloqueio. Pequim fala em <em>treino de rotina</em>."
+      },
+      {
+        "imagem": "img07",
+        "texto_html": "Nesta quarta, Trump e Xi são esperados na <em>APEC</em>, em Shenzhen."
+      },
+      {
+        "imagem": "img08",
+        "texto_html": "Taiwan não está na pauta formal. O mar ao redor da ilha, <em>sim</em>."
+      }
+    ]
+  },
+  "agendamento": {
+    "data_hora": "2026-11-18T06:01:00-03:00",
+    "slot": "06:01"
+  },
+  "verificacao": "Fatos 1, 2, 3, 4, 5, 7, 9 e 10 da pauta; números atribuídos a Taiwan; versão de Pequim incluída.",
+  "ia_gerado": false,
+  "imagens": [
+    {
+      "titulo": "PLAN CV-18 Fujian 20250911.jpg",
+      "autor": "日本防衛省・統合幕僚監部",
+      "licenca": "CC BY 4.0",
+      "exige_credito": true,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:PLAN_CV-18_Fujian_20250911.jpg",
+      "url_download": "https://upload.wikimedia.org/wikipedia/commons/9/9f/PLAN_CV-18_Fujian_20250911.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largura": 1852,
+      "altura": 515,
+      "id": "img01",
+      "arquivo": "imagens/img01.jpg",
+      "query": "File:PLAN CV-18 Fujian 20250911.jpg"
+    },
+    {
+      "titulo": "Aircraft Carrier Liaoning CV-16.jpg",
+      "autor": "Baycrest",
+      "licenca": "CC BY-SA 2.5",
+      "exige_credito": true,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Aircraft_Carrier_Liaoning_CV-16.jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Aircraft_Carrier_Liaoning_CV-16.jpg/1920px-Aircraft_Carrier_Liaoning_CV-16.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 2400,
+      "altura": 1600,
+      "id": "img02",
+      "arquivo": "imagens/img02.jpg",
+      "query": "File:Aircraft Carrier Liaoning CV-16.jpg"
+    },
+    {
+      "titulo": "CHINA COAST GUARD Vessel (2304).jpg",
+      "autor": "Tyg728",
+      "licenca": "CC BY-SA 4.0",
+      "exige_credito": true,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:CHINA_COAST_GUARD_Vessel_(2304).jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/CHINA_COAST_GUARD_Vessel_%282304%29.jpg/1920px-CHINA_COAST_GUARD_Vessel_%282304%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 2700,
+      "altura": 1748,
+      "id": "img03",
+      "arquivo": "imagens/img03.jpg",
+      "query": "File:CHINA COAST GUARD Vessel (2304).jpg"
+    },
+    {
+      "titulo": "Geographic Boundaries of the First and Second Island Chains.png",
+      "autor": "DoD",
+      "licenca": "Public domain",
+      "exige_credito": false,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Geographic_Boundaries_of_the_First_and_Second_Island_Chains.png",
+      "url_download": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Geographic_Boundaries_of_the_First_and_Second_Island_Chains.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largura": 1387,
+      "altura": 1340,
+      "id": "img04",
+      "arquivo": "imagens/img04.jpg",
+      "query": "File:Geographic Boundaries of the First and Second Island Chains.png"
+    },
+    {
+      "titulo": "PLANS Nanchang (DDG-101) 20210427.jpg",
+      "autor": "日本防衛省・統合幕僚監部",
+      "licenca": "CC BY 4.0",
+      "exige_credito": true,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:PLANS_Nanchang_(DDG-101)_20210427.jpg",
+      "url_download": "https://upload.wikimedia.org/wikipedia/commons/7/7e/PLANS_Nanchang_%28DDG-101%29_20210427.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largura": 1489,
+      "altura": 454,
+      "id": "img05",
+      "arquivo": "imagens/img05.jpg",
+      "query": "File:PLANS Nanchang (DDG-101) 20210427.jpg"
+    },
+    {
+      "titulo": "Taiwan Strait.png",
+      "autor": "\"The following maps were produced by the U.S. Central Intelligence Agency, unless otherwise indicated.\"",
+      "licenca": "Public domain",
+      "exige_credito": false,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Taiwan_Strait.png",
+      "url_download": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Taiwan_Strait.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largura": 681,
+      "altura": 800,
+      "id": "img06",
+      "arquivo": "imagens/img06.jpg",
+      "query": "File:Taiwan Strait.png"
+    },
+    {
+      "titulo": "Skyline of Shenzhen from Hong Kong.jpg",
+      "autor": "Sparktour",
+      "licenca": "CC BY-SA 4.0",
+      "exige_credito": true,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Skyline_of_Shenzhen_from_Hong_Kong.jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Skyline_of_Shenzhen_from_Hong_Kong.jpg/1920px-Skyline_of_Shenzhen_from_Hong_Kong.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 25408,
+      "altura": 6304,
+      "id": "img07",
+      "arquivo": "imagens/img07.jpg",
+      "query": "Shenzhen skyline"
+    },
+    {
+      "titulo": "Taipei 101 sunset skyline 2015.jpg",
+      "autor": "中岑 范姜 from Taipei, Taiwan, Republic of China",
+      "licenca": "CC BY-SA 2.0",
+      "exige_credito": true,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Taipei_101_sunset_skyline_2015.jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Taipei_101_sunset_skyline_2015.jpg/1920px-Taipei_101_sunset_skyline_2015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 4608,
+      "altura": 3456,
+      "id": "img08",
+      "arquivo": "imagens/img08.jpg",
+      "query": "File:Taipei 101 sunset skyline 2015.jpg"
+    }
+  ]
+}
