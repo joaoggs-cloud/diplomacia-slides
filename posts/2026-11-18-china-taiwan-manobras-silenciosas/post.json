@@ -1,7 +1,7 @@
 {
   "slug": "2026-11-18-china-taiwan-manobras-silenciosas",
   "titulo_interno": "China e Taiwan: o exercício naval sem anúncio antes da APEC",
-  "status": "rascunho",
+  "status": "aguardando_aprovacao",
   "estilo": "clean",
   "pilar": "conflito_atual",
   "categoria": "Conflito · Taiwan",
@@ -327,5 +327,19 @@
       "arquivo": "imagens/img08.jpg",
       "query": "File:Taipei 101 sunset skyline 2015.jpg"
     }
-  ]
+  ],
+  "metricool": {
+    "id": 429286356,
+    "uuid": "5846953746495717643",
+    "sha_slides": "95027b76cdace433b780e20a6a281b1d9c6f3c82",
+    "planner_url": "https://app.metricool.com/planner/calendar?blogId=7647378&openWithPostUuid=5846953746495717643",
+    "story": {
+      "id": 429286393,
+      "uuid": "-4199106173252843660"
+    },
+    "reel": {
+      "id": 429286477,
+      "uuid": "-3684191904640905835"
+    }
+  }
 }
