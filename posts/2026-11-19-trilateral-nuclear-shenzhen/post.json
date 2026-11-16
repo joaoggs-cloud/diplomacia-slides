@@ -1,0 +1,324 @@
+{
+  "slug": "2026-11-19-trilateral-nuclear-shenzhen",
+  "titulo_interno": "Trilateral Trump-Xi-Putin em Shenzhen: o que está em jogo no controle de armas nucleares",
+  "status": "rascunho",
+  "estilo": "clean",
+  "pilar": "diplomacia",
+  "categoria": "Diplomacia · Armas nucleares",
+  "gancho_tipo": "contradicao",
+  "usar_hashtags_base": true,
+  "capa": {
+    "imagem": "img01",
+    "titulo_html": "Trump, Xi e Putin na mesma sala pela primeira vez, <span class=\"hl\">sem tratado nuclear</span> entre EUA e Rússia",
+    "gancho": "Segundo o SIPRI, os três países somam cerca de 11 mil ogivas. O encontro é nesta quinta, em Shenzhen."
+  },
+  "slides": [
+    {
+      "imagem": "img02",
+      "texto_html": "Nesta quinta, 19 nov, <strong>Trump, Xi Jinping e Putin</strong> têm encontro marcado em Shenzhen, à margem da cúpula da APEC. Casa Branca, Kremlin e governo chinês confirmaram. Um porta-voz chinês o descreveu como a <em>primeira reunião presencial</em> dos três líderes."
+    },
+    {
+      "imagem": "img03",
+      "texto_html": "A Casa Branca diz que Trump vai levantar a <strong>redução de armas nucleares</strong> e os riscos de proliferação. A guerra com o Irã também deve entrar na conversa. A agenda é a divulgada por Washington; Moscou e Pequim não detalharam a sua."
+    },
+    {
+      "imagem": "img04",
+      "texto_html": "As expectativas são baixas. Segundo a Reuters, uma autoridade sênior do governo americano disse: <em>“não esperamos que se chegue a nenhum acordo”</em>. O encontro serviria, antes de tudo, para abrir um canal entre as três potências."
+    },
+    {
+      "imagem": "img05",
+      "texto_html": "O pano de fundo é o fim do <strong>New START</strong>, último tratado a limitar os arsenais de EUA e Rússia. Ele expirou em 5 fev 2026. Previa até 1.550 ogivas estratégicas implantadas e 700 lançadores para cada lado."
+    },
+    {
+      "imagem": "img06",
+      "texto_html": "Em 22 set 2025, Putin ofereceu respeitar os limites centrais por mais um ano, se os EUA fizessem o mesmo. Segundo a NPR, Trump não aceitou formalmente e pediu um novo acordo que inclua a <strong>China</strong>. A oferta russa não previa verificação."
+    },
+    {
+      "imagem": "img07",
+      "texto_html": "Segundo estimativas do SIPRI para jan 2026, a Rússia tem <strong>5.420 ogivas</strong>, os EUA 5.042 e a China cerca de 620, cerca de 20 a mais que um ano antes. Somados, EUA e Rússia detêm quase 86% do inventário mundial.",
+      "factbox": {
+        "label": "Estimativas",
+        "texto": "Os números do SIPRI são estimativas, pois os países não divulgam todos os dados dos arsenais."
+      }
+    },
+    {
+      "imagem": "img08",
+      "texto_html": "Pequim recusa uma negociação trilateral. Em fev 2026, a porta-voz Mao Ning disse que o arsenal chinês é muito menor e <em>“não está na mesma liga”</em> que os de EUA e Rússia. É a posição de fundo que a reunião testa."
+    },
+    {
+      "imagem": "img09",
+      "texto_html": "Há ainda a questão dos testes. Em 30 out 2025, Trump mandou o Pentágono retomar testes de armas nucleares. O Departamento de Energia disse depois que seriam testes <strong>não críticos</strong>, sem detonação. Moscou disse que agirá de acordo se alguém romper a moratória."
+    }
+  ],
+  "cta": {
+    "titulo": "Salve este post",
+    "subtitulo": "e acompanhe o que sai de Shenzhen"
+  },
+  "legenda": "Pela primeira vez, os líderes dos Estados Unidos, da China e da Rússia devem se sentar à mesma mesa, segundo um porta-voz chinês.\n\nO encontro está marcado para esta quinta, 19 nov, em Shenzhen, à margem da cúpula da APEC. A Casa Branca diz que Trump vai levantar a redução de armas nucleares. O New START, último tratado a limitar os arsenais de EUA e Rússia, expirou em 5 fev 2026, e a China recusa entrar em uma negociação trilateral. Segundo o SIPRI, em jan 2026 a Rússia tinha 5.420 ogivas, os EUA 5.042 e a China cerca de 620 (estimativas). Uma autoridade americana disse à Reuters que não espera acordo.\n\nArraste para o lado e veja o que está em jogo.",
+  "primeiro_comentario": "",
+  "hashtags": [
+    "#armasnucleares",
+    "#newstart",
+    "#apec",
+    "#geopolitica",
+    "#trump",
+    "#xijinping",
+    "#putin"
+  ],
+  "alt_text": "Carrossel sobre a reunião de Trump, Xi e Putin em Shenzhen e o que está em jogo no controle de armas nucleares após o fim do New START.",
+  "fontes": [
+    {
+      "nome": "CNN, 13 nov",
+      "url": "https://edition.cnn.com/2026/11/13/politics/trump-putin-xi-meeting"
+    },
+    {
+      "nome": "Anadolu, 14 nov (Kremlin confirma)",
+      "url": "https://www.aa.com.tr/en/eurasia/kremlin-says-putin-xi-trump-to-hold-trilateral-meeting-in-shenzhen-on-nov-19/4125290"
+    },
+    {
+      "nome": "IranWire",
+      "url": "https://iranwire.com/en/news/160324-donald-trump-to-raise-the-iran-war-at-trilateral-summit-with-xi-jinping-and-vladimir-putin-in-shenzhen/"
+    },
+    {
+      "nome": "Reuters via Ukranews",
+      "url": "https://ukranews.com/en/news/1187698-xi-jinping-is-wary-of-a-trilateral-meeting-with-trump-and-putin-reuters"
+    },
+    {
+      "nome": "IBTimes",
+      "url": "https://www.ibtimes.com/trump-xi-putin-nuclear-talks-asia-trip-3809790"
+    },
+    {
+      "nome": "NPR, 4 fev 2026",
+      "url": "https://www.npr.org/2026/02/04/nx-s1-5697382/new-start-nuclear-treaty-expired-us-russia"
+    },
+    {
+      "nome": "NTI",
+      "url": "https://www.nti.org/analysis/articles/the-end-of-new-start-from-limits-to-looming-risks/"
+    },
+    {
+      "nome": "Stanford FSI",
+      "url": "https://fsi.stanford.edu/news/responding-putins-proposal-extend-new-start"
+    },
+    {
+      "nome": "Defence-Blog (resumo SIPRI)",
+      "url": "https://defence-blog.com/chinas-nuclear-stockpile-climbs-to-620-warheads-sipri-says/"
+    },
+    {
+      "nome": "China Strategy Group (resumo SIPRI)",
+      "url": "https://www.chinastrategy.org/2026/06/07/china-adds-warheads-as-nuclear-powers-walk-away-from-disarmament-sipri/"
+    },
+    {
+      "nome": "SCMP",
+      "url": "https://www.scmp.com/news/china/military/article/3342278/why-collapse-last-us-russia-nuclear-treaty-matters-china-and-world"
+    },
+    {
+      "nome": "Defencetalk, mar 2026",
+      "url": "https://www.defencetalk.com/china-has-no-intention-to-participate-in-arms-talks-73311"
+    },
+    {
+      "nome": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/politics/trump-appears-to-suggest-the-u-s-will-resume-testing-nuclear-weapons-for-first-time-in-30-years"
+    },
+    {
+      "nome": "Chatham House, nov 2025",
+      "url": "https://www.chathamhouse.org/2025/11/russia-and-us-put-nuclear-testing-back-table-time-running-out-arms-control"
+    }
+  ],
+  "busca_imagens": [
+    {
+      "id": "img01",
+      "query": "Shenzhen skyline Futian",
+      "alternativas": [
+        "Shenzhen skyline night",
+        "Shenzhen Civic Center"
+      ]
+    },
+    {
+      "id": "img02",
+      "query": "File:Xi Jinping at a meeting with Vladimir Putin (2024).jpg",
+      "alternativas": [
+        "Xi Jinping Vladimir Putin meeting Kremlin"
+      ]
+    },
+    {
+      "id": "img03",
+      "query": "White House north facade Washington",
+      "alternativas": [
+        "White House Washington D.C. 2023"
+      ]
+    },
+    {
+      "id": "img04",
+      "query": "Shenzhen Bay Sports Center",
+      "alternativas": [
+        "Shenzhen Convention and Exhibition Center"
+      ]
+    },
+    {
+      "id": "img05",
+      "query": "Medvedev Obama New START signing Prague 2010",
+      "alternativas": [
+        "New START treaty signing"
+      ]
+    },
+    {
+      "id": "img06",
+      "query": "File:RS-24 Yars.jpg",
+      "alternativas": [
+        "RS-24 Yars Red Square parade"
+      ]
+    },
+    {
+      "id": "img07",
+      "query": "Minuteman III test launch Vandenberg",
+      "alternativas": [
+        "LGM-30G Minuteman III launch"
+      ]
+    },
+    {
+      "id": "img08",
+      "query": "File:DF-61.png",
+      "alternativas": [
+        "Dongfeng-31 missile parade",
+        "DF-31A transporter erector launcher",
+        "Dongfeng missile 2015 parade Beijing"
+      ]
+    },
+    {
+      "id": "img09",
+      "query": "File:Storax Sedan nuke.jpg",
+      "pb": true,
+      "alternativas": [
+        "File:Aerial View of Sedan Crater.jpg"
+      ]
+    }
+  ],
+  "ia_gerado": false,
+  "agendamento": {
+    "data_hora": "2026-11-19T06:01:00-03:00",
+    "slot": "06:01"
+  },
+  "reel": {
+    "gerar": false
+  },
+  "verificacao": "Fatos da pauta (2 fontes por fato); números do SIPRI atribuídos; fatos 8 e 11 cortados.",
+  "imagens": [
+    {
+      "titulo": "Shenzhen Skyline from Meilin Reservoir Dam8.jpg",
+      "autor": "Huangdan2060",
+      "licenca": "CC0",
+      "exige_credito": false,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Shenzhen_Skyline_from_Meilin_Reservoir_Dam8.jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Shenzhen_Skyline_from_Meilin_Reservoir_Dam8.jpg/1920px-Shenzhen_Skyline_from_Meilin_Reservoir_Dam8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 4752,
+      "altura": 3168,
+      "id": "img01",
+      "arquivo": "imagens/img01.jpg",
+      "query": "Shenzhen skyline Futian"
+    },
+    {
+      "titulo": "Xi Jinping at a meeting with Vladimir Putin (2024).jpg",
+      "autor": "President of Russia",
+      "licenca": "CC BY 4.0",
+      "exige_credito": true,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Xi_Jinping_at_a_meeting_with_Vladimir_Putin_(2024).jpg",
+      "url_download": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Xi_Jinping_at_a_meeting_with_Vladimir_Putin_%282024%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largura": 1880,
+      "altura": 1160,
+      "id": "img02",
+      "arquivo": "imagens/img02.jpg",
+      "query": "File:Xi Jinping at a meeting with Vladimir Putin (2024).jpg"
+    },
+    {
+      "titulo": "North Façade White House.JPG",
+      "autor": "Nishkid64",
+      "licenca": "Public domain",
+      "exige_credito": false,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:North_Fa%C3%A7ade_White_House.JPG",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/North_Fa%C3%A7ade_White_House.JPG/1920px-North_Fa%C3%A7ade_White_House.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 2592,
+      "altura": 1735,
+      "id": "img03",
+      "arquivo": "imagens/img03.jpg",
+      "query": "White House north facade Washington"
+    },
+    {
+      "titulo": "Shenzhen Bay Sports Center02.JPEG",
+      "autor": "JHH755",
+      "licenca": "Public domain",
+      "exige_credito": false,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Shenzhen_Bay_Sports_Center02.JPEG",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Shenzhen_Bay_Sports_Center02.JPEG/1920px-Shenzhen_Bay_Sports_Center02.JPEG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 2208,
+      "altura": 1244,
+      "id": "img04",
+      "arquivo": "imagens/img04.jpg",
+      "query": "Shenzhen Bay Sports Center"
+    },
+    {
+      "titulo": "Obama and Medvedev sign New START.jpg",
+      "autor": "Chuck Kennedy",
+      "licenca": "Public domain",
+      "exige_credito": false,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Obama_and_Medvedev_sign_New_START.jpg",
+      "url_download": "https://upload.wikimedia.org/wikipedia/commons/2/21/Obama_and_Medvedev_sign_New_START.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largura": 1904,
+      "altura": 1269,
+      "id": "img05",
+      "arquivo": "imagens/img05.jpg",
+      "query": "Medvedev Obama New START signing Prague 2010"
+    },
+    {
+      "titulo": "RS-24 Yars.jpg",
+      "autor": "Ministry of Defence of the Russian Federation",
+      "licenca": "CC BY 4.0",
+      "exige_credito": true,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:RS-24_Yars.jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/RS-24_Yars.jpg/1920px-RS-24_Yars.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 3008,
+      "altura": 2000,
+      "id": "img06",
+      "arquivo": "imagens/img06.jpg",
+      "query": "File:RS-24 Yars.jpg"
+    },
+    {
+      "titulo": "Minuteman III Launches From Vandenberg AFB On October 2, 2019.jpg",
+      "autor": "Staff Sgt. JT Armstrong",
+      "licenca": "Public domain",
+      "exige_credito": false,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Minuteman_III_Launches_From_Vandenberg_AFB_On_October_2,_2019.jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Minuteman_III_Launches_From_Vandenberg_AFB_On_October_2%2C_2019.jpg/1920px-Minuteman_III_Launches_From_Vandenberg_AFB_On_October_2%2C_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 3359,
+      "altura": 2240,
+      "id": "img07",
+      "arquivo": "imagens/img07.jpg",
+      "query": "Minuteman III test launch Vandenberg"
+    },
+    {
+      "titulo": "DF-61.png",
+      "autor": "China News Service",
+      "licenca": "CC BY 4.0",
+      "exige_credito": true,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:DF-61.png",
+      "url_download": "https://upload.wikimedia.org/wikipedia/commons/7/7a/DF-61.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largura": 1290,
+      "altura": 666,
+      "id": "img08",
+      "arquivo": "imagens/img08.jpg",
+      "query": "File:DF-61.png"
+    },
+    {
+      "titulo": "Storax Sedan nuke.jpg",
+      "autor": "Federal Government of the United States",
+      "licenca": "Public domain",
+      "exige_credito": false,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Storax_Sedan_nuke.jpg",
+      "url_download": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Storax_Sedan_nuke.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largura": 1476,
+      "altura": 1168,
+      "id": "img09",
+      "arquivo": "imagens/img09.jpg",
+      "query": "File:Storax Sedan nuke.jpg"
+    }
+  ]
+}
