@@ -9,13 +9,14 @@
   "usar_hashtags_base": true,
   "capa": {
     "imagem": "img01",
-    "titulo_html": "Trump, Xi e Putin na mesma sala pela primeira vez, <span class=\"hl\">sem tratado nuclear</span> entre EUA e Rússia",
-    "gancho": "Segundo o SIPRI, os três países somam cerca de 11 mil ogivas. O encontro é nesta quinta, em Shenzhen."
+    "titulo_html": "Trump, Xi e Putin em reunião a três pela primeira vez, <span class=\"hl\">sem limite para os arsenais</span> de EUA e Rússia",
+    "gancho": "Pelas estimativas do SIPRI, os três países somam cerca de 11 mil ogivas. O encontro é nesta quinta, em Shenzhen.",
+    "escuro": true
   },
   "slides": [
     {
       "imagem": "img02",
-      "texto_html": "Nesta quinta, 19 nov, <strong>Trump, Xi Jinping e Putin</strong> têm encontro marcado em Shenzhen, à margem da cúpula da APEC. Casa Branca, Kremlin e governo chinês confirmaram. Um porta-voz chinês o descreveu como a <em>primeira reunião presencial</em> dos três líderes."
+      "texto_html": "Nesta quinta, 19 nov, <strong>Trump, Xi Jinping e Putin</strong> têm encontro marcado em Shenzhen, à margem da cúpula da APEC. Casa Branca, Kremlin e governo chinês confirmaram. Os três já estiveram juntos em cúpulas do G20, mas nunca numa reunião só entre eles."
     },
     {
       "imagem": "img03",
@@ -31,15 +32,11 @@
     },
     {
       "imagem": "img06",
-      "texto_html": "Em 22 set 2025, Putin ofereceu respeitar os limites centrais por mais um ano, se os EUA fizessem o mesmo. Segundo a NPR, Trump não aceitou formalmente e pediu um novo acordo que inclua a <strong>China</strong>. A oferta russa não previa verificação."
+      "texto_html": "Em 22 set 2025, Putin ofereceu respeitar os limites centrais por mais um ano, se os EUA fizessem o mesmo, sem prever verificação. Em 5 fev 2026, Trump recusou a oferta e defendeu um tratado novo. Washington quer que a <strong>China</strong> participe."
     },
     {
       "imagem": "img07",
-      "texto_html": "Segundo estimativas do SIPRI para jan 2026, a Rússia tem <strong>5.420 ogivas</strong>, os EUA 5.042 e a China cerca de 620, cerca de 20 a mais que um ano antes. Somados, EUA e Rússia detêm quase 86% do inventário mundial.",
-      "factbox": {
-        "label": "Estimativas",
-        "texto": "Os números do SIPRI são estimativas, pois os países não divulgam todos os dados dos arsenais."
-      }
+      "texto_html": "Segundo estimativas do SIPRI para jan 2026, a Rússia tem <strong>5.420 ogivas</strong>, os EUA 5.042 e a China cerca de 620, 20 a mais que um ano antes. Somados, EUA e Rússia detêm quase 86% do inventário mundial."
     },
     {
       "imagem": "img08",
@@ -47,14 +44,14 @@
     },
     {
       "imagem": "img09",
-      "texto_html": "Há ainda a questão dos testes. Em 30 out 2025, Trump mandou o Pentágono retomar testes de armas nucleares. O Departamento de Energia disse depois que seriam testes <strong>não críticos</strong>, sem detonação. Moscou disse que agirá de acordo se alguém romper a moratória."
+      "texto_html": "Em out 2025, Trump mandou o Pentágono retomar testes de armas nucleares. O Departamento de Energia disse que seriam testes <strong>não críticos</strong>, sem explosão nuclear. Moscou disse que agirá de acordo se alguém romper a moratória. Na foto, o teste Sedan, em Nevada, em 1962."
     }
   ],
   "cta": {
     "titulo": "Salve este post",
     "subtitulo": "e acompanhe o que sai de Shenzhen"
   },
-  "legenda": "Pela primeira vez, os líderes dos Estados Unidos, da China e da Rússia devem se sentar à mesma mesa, segundo um porta-voz chinês.\n\nO encontro está marcado para esta quinta, 19 nov, em Shenzhen, à margem da cúpula da APEC. A Casa Branca diz que Trump vai levantar a redução de armas nucleares. O New START, último tratado a limitar os arsenais de EUA e Rússia, expirou em 5 fev 2026, e a China recusa entrar em uma negociação trilateral. Segundo o SIPRI, em jan 2026 a Rússia tinha 5.420 ogivas, os EUA 5.042 e a China cerca de 620 (estimativas). Uma autoridade americana disse à Reuters que não espera acordo.\n\nArraste para o lado e veja o que está em jogo.",
+  "legenda": "Pela primeira vez, os líderes dos Estados Unidos, da China e da Rússia vão se reunir a três.\n\nO encontro está marcado para esta quinta, 19 nov, em Shenzhen, à margem da cúpula da APEC. A Casa Branca diz que Trump vai levantar a redução de armas nucleares. O New START, último tratado a limitar os arsenais de EUA e Rússia, expirou em 5 fev 2026, e Trump recusou a oferta russa de manter os limites por mais um ano. A China recusa entrar em uma negociação trilateral. Segundo o SIPRI, em jan 2026 a Rússia tinha 5.420 ogivas, os EUA 5.042 e a China cerca de 620 (estimativas). Uma autoridade americana disse à Reuters que não espera acordo.\n\nArraste para o lado e veja o que está em jogo.",
   "primeiro_comentario": "",
   "hashtags": [
     "#armasnucleares",
@@ -68,28 +65,52 @@
   "alt_text": "Carrossel sobre a reunião de Trump, Xi e Putin em Shenzhen e o que está em jogo no controle de armas nucleares após o fim do New START.",
   "fontes": [
     {
-      "nome": "CNN, 13 nov",
-      "url": "https://edition.cnn.com/2026/11/13/politics/trump-putin-xi-meeting"
+      "nome": "Al Jazeera (14 nov)",
+      "url": "https://www.aljazeera.com/news/2026/11/14/trump-xi-and-putin-to-hold-first-three-way-summit-in-china"
     },
     {
-      "nome": "Anadolu, 14 nov (Kremlin confirma)",
+      "nome": "CNBC (16 nov)",
+      "url": "https://www.cnbc.com/2026/11/16/trump-xi-putin-ukraine-nuclear-tariffs-russia-iran-.html"
+    },
+    {
+      "nome": "Anadolu (14 nov)",
       "url": "https://www.aa.com.tr/en/eurasia/kremlin-says-putin-xi-trump-to-hold-trilateral-meeting-in-shenzhen-on-nov-19/4125290"
     },
     {
-      "nome": "IranWire",
-      "url": "https://iranwire.com/en/news/160324-donald-trump-to-raise-the-iran-war-at-trilateral-summit-with-xi-jinping-and-vladimir-putin-in-shenzhen/"
+      "nome": "CNN (13 nov)",
+      "url": "https://edition.cnn.com/2026/11/13/politics/trump-putin-xi-meeting"
     },
     {
       "nome": "Reuters via Ukranews",
       "url": "https://ukranews.com/en/news/1187698-xi-jinping-is-wary-of-a-trilateral-meeting-with-trump-and-putin-reuters"
     },
     {
-      "nome": "IBTimes",
-      "url": "https://www.ibtimes.com/trump-xi-putin-nuclear-talks-asia-trip-3809790"
+      "nome": "Reuters via Dawn (6 fev 2026)",
+      "url": "https://www.dawn.com/news/1971417/trump-rejects-putin-offer-of-one-year-extension-of-new-start-deployment-limits"
     },
     {
-      "nome": "NPR, 4 fev 2026",
-      "url": "https://www.npr.org/2026/02/04/nx-s1-5697382/new-start-nuclear-treaty-expired-us-russia"
+      "nome": "Arms Control Association (mar 2026)",
+      "url": "https://www.armscontrol.org/act/2026-03/news/new-start-expires-us-urges-modernized-treaty"
+    },
+    {
+      "nome": "SIPRI Yearbook 2026",
+      "url": "https://www.sipri.org/yearbook/2026/08"
+    },
+    {
+      "nome": "Global Times (fev 2026)",
+      "url": "https://www.globaltimes.cn/page/202602/1355844.shtml"
+    },
+    {
+      "nome": "Anadolu (fev 2026)",
+      "url": "https://www.aa.com.tr/en/asia-pacific/china-rejects-us-demand-to-attend-trilateral-nuclear-disarmament-talks/3841850"
+    },
+    {
+      "nome": "Al Jazeera (3 nov 2025)",
+      "url": "https://www.aljazeera.com/news/2025/11/3/how-will-limited-us-nuclear-tests-avoid-any-explosions"
+    },
+    {
+      "nome": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/politics/trump-appears-to-suggest-the-u-s-will-resume-testing-nuclear-weapons-for-first-time-in-30-years"
     },
     {
       "nome": "NTI",
@@ -100,44 +121,27 @@
       "url": "https://fsi.stanford.edu/news/responding-putins-proposal-extend-new-start"
     },
     {
-      "nome": "Defence-Blog (resumo SIPRI)",
-      "url": "https://defence-blog.com/chinas-nuclear-stockpile-climbs-to-620-warheads-sipri-says/"
-    },
-    {
-      "nome": "China Strategy Group (resumo SIPRI)",
-      "url": "https://www.chinastrategy.org/2026/06/07/china-adds-warheads-as-nuclear-powers-walk-away-from-disarmament-sipri/"
-    },
-    {
       "nome": "SCMP",
       "url": "https://www.scmp.com/news/china/military/article/3342278/why-collapse-last-us-russia-nuclear-treaty-matters-china-and-world"
     },
     {
-      "nome": "Defencetalk, mar 2026",
-      "url": "https://www.defencetalk.com/china-has-no-intention-to-participate-in-arms-talks-73311"
-    },
-    {
-      "nome": "PBS NewsHour",
-      "url": "https://www.pbs.org/newshour/politics/trump-appears-to-suggest-the-u-s-will-resume-testing-nuclear-weapons-for-first-time-in-30-years"
-    },
-    {
-      "nome": "Chatham House, nov 2025",
+      "nome": "Chatham House (nov 2025)",
       "url": "https://www.chathamhouse.org/2025/11/russia-and-us-put-nuclear-testing-back-table-time-running-out-arms-control"
     }
   ],
   "busca_imagens": [
     {
       "id": "img01",
-      "query": "Shenzhen skyline Futian",
+      "query": "File:Shenzhen skyscrapers light show in Futian District.jpg",
       "alternativas": [
-        "Shenzhen skyline night",
-        "Shenzhen Civic Center"
+        "File:The panorama of Futian Shenzhen.jpg"
       ]
     },
     {
       "id": "img02",
-      "query": "File:Xi Jinping at a meeting with Vladimir Putin (2024).jpg",
+      "query": "File:Shenzhen Skyline Fuhua Road Ping An International Finance Center.jpg",
       "alternativas": [
-        "Xi Jinping Vladimir Putin meeting Kremlin"
+        "File:Ping An Finance Center - 2018-11-30.jpg"
       ]
     },
     {
@@ -149,9 +153,10 @@
     },
     {
       "id": "img04",
-      "query": "Shenzhen Bay Sports Center",
+      "query": "Shenzhen Bay Bridge",
       "alternativas": [
-        "Shenzhen Convention and Exhibition Center"
+        "Shenzhen Civic Center",
+        "Shenzhen Futian skyline night"
       ]
     },
     {
@@ -204,30 +209,30 @@
   "verificacao": "Fatos da pauta (2 fontes por fato); números do SIPRI atribuídos; fatos 8 e 11 cortados.",
   "imagens": [
     {
-      "titulo": "Shenzhen Skyline from Meilin Reservoir Dam8.jpg",
-      "autor": "Huangdan2060",
-      "licenca": "CC0",
-      "exige_credito": false,
-      "url_origem": "https://commons.wikimedia.org/wiki/File:Shenzhen_Skyline_from_Meilin_Reservoir_Dam8.jpg",
-      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Shenzhen_Skyline_from_Meilin_Reservoir_Dam8.jpg/1920px-Shenzhen_Skyline_from_Meilin_Reservoir_Dam8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "largura": 4752,
-      "altura": 3168,
+      "titulo": "Shenzhen skyscrapers light show in Futian District.jpg",
+      "autor": "ShenzhenPages",
+      "licenca": "CC BY-SA 4.0",
+      "exige_credito": true,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Shenzhen_skyscrapers_light_show_in_Futian_District.jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Shenzhen_skyscrapers_light_show_in_Futian_District.jpg/1920px-Shenzhen_skyscrapers_light_show_in_Futian_District.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 5999,
+      "altura": 5999,
       "id": "img01",
       "arquivo": "imagens/img01.jpg",
-      "query": "Shenzhen skyline Futian"
+      "query": "File:Shenzhen skyscrapers light show in Futian District.jpg"
     },
     {
-      "titulo": "Xi Jinping at a meeting with Vladimir Putin (2024).jpg",
-      "autor": "President of Russia",
-      "licenca": "CC BY 4.0",
+      "titulo": "Shenzhen Skyline Fuhua Road Ping An International Finance Center.jpg",
+      "autor": "Shihu7",
+      "licenca": "CC BY-SA 4.0",
       "exige_credito": true,
-      "url_origem": "https://commons.wikimedia.org/wiki/File:Xi_Jinping_at_a_meeting_with_Vladimir_Putin_(2024).jpg",
-      "url_download": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Xi_Jinping_at_a_meeting_with_Vladimir_Putin_%282024%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "largura": 1880,
-      "altura": 1160,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Shenzhen_Skyline_Fuhua_Road_Ping_An_International_Finance_Center.jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Shenzhen_Skyline_Fuhua_Road_Ping_An_International_Finance_Center.jpg/1920px-Shenzhen_Skyline_Fuhua_Road_Ping_An_International_Finance_Center.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 4032,
+      "altura": 3024,
       "id": "img02",
       "arquivo": "imagens/img02.jpg",
-      "query": "File:Xi Jinping at a meeting with Vladimir Putin (2024).jpg"
+      "query": "File:Shenzhen Skyline Fuhua Road Ping An International Finance Center.jpg"
     },
     {
       "titulo": "North Façade White House.JPG",
@@ -243,17 +248,17 @@
       "query": "White House north facade Washington"
     },
     {
-      "titulo": "Shenzhen Bay Sports Center02.JPEG",
-      "autor": "JHH755",
-      "licenca": "Public domain",
+      "titulo": "View of Shenzhen Bay Bridge from the coast2.jpg",
+      "autor": "Huangdan2060",
+      "licenca": "CC0",
       "exige_credito": false,
-      "url_origem": "https://commons.wikimedia.org/wiki/File:Shenzhen_Bay_Sports_Center02.JPEG",
-      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Shenzhen_Bay_Sports_Center02.JPEG/1920px-Shenzhen_Bay_Sports_Center02.JPEG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "largura": 2208,
-      "altura": 1244,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:View_of_Shenzhen_Bay_Bridge_from_the_coast2.jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/View_of_Shenzhen_Bay_Bridge_from_the_coast2.jpg/1920px-View_of_Shenzhen_Bay_Bridge_from_the_coast2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 2592,
+      "altura": 1944,
       "id": "img04",
       "arquivo": "imagens/img04.jpg",
-      "query": "Shenzhen Bay Sports Center"
+      "query": "Shenzhen Bay Bridge"
     },
     {
       "titulo": "Obama and Medvedev sign New START.jpg",
