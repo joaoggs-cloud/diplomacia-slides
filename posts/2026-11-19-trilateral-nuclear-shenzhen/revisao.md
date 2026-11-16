@@ -1,3 +1,9 @@
+## APROVADO (coordenador, rodada 2, 16 nov)
+
+Correções 1–10 aplicadas no commit dfafab3. Item 7: sem foto livre com os três líderes juntos; usada foto neutra de Shenzhen, sem líderes (isenção ok). Conferido em folha de contato. Pendente: na noite de 18 nov, conferir se o encontro foi mantido/adiado e ajustar "nesta quinta".
+
+---
+
 REPROVADO
 
 # Revisão: 2026-11-19-trilateral-nuclear-shenzhen (commit 058de5d)
