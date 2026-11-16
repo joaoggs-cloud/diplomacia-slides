@@ -1,7 +1,7 @@
 {
   "slug": "2026-11-19-trilateral-nuclear-shenzhen",
   "titulo_interno": "Trilateral Trump-Xi-Putin em Shenzhen: o que está em jogo no controle de armas nucleares",
-  "status": "rascunho",
+  "status": "aguardando_aprovacao",
   "estilo": "clean",
   "pilar": "diplomacia",
   "categoria": "Diplomacia · Armas nucleares",
@@ -325,5 +325,8 @@
       "arquivo": "imagens/img09.jpg",
       "query": "File:Storax Sedan nuke.jpg"
     }
-  ]
+  ],
+  "metricool": {
+    "observacao": "Publicação manual pelo João (limite da conta Metricool); sem rascunho no Metricool."
+  }
 }
