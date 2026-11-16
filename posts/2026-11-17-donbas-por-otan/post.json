@@ -1,7 +1,7 @@
 {
   "slug": "2026-11-17-donbas-por-otan",
   "titulo_interno": "Donbas por OTAN: o que saiu de Abu Dhabi e de Moscou",
-  "status": "aguardando_aprovacao",
+  "status": "aprovado_manual",
   "estilo": "clean",
   "pilar": "diplomacia",
   "categoria": "Diplomacia · Ucrânia",
@@ -303,6 +303,7 @@
     "story": {
       "id": 428385444,
       "uuid": "-4727708266720311745"
-    }
+    },
+    "observacao": "Aprovado pelo João em 16 nov 2026; ele publica manualmente no Instagram por causa do limite da conta Metricool. Rascunhos no Metricool ficam como draft (não usar). Marcar 'publicado' quando confirmado."
   }
 }

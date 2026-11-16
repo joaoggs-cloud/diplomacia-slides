@@ -1,7 +1,7 @@
 {
   "slug": "2026-11-16-brasil-submarino-gripen",
   "titulo_interno": "Brasil: submarino nuclear e caça supersônico, o que é verdade e o que é promessa",
-  "status": "aguardando_aprovacao",
+  "status": "aprovado_manual",
   "estilo": "clean",
   "pilar": "tecnologia_militar",
   "categoria": "Defesa · Brasil",
@@ -336,6 +336,7 @@
     "reel": {
       "id": 428076264,
       "uuid": "1054225658813759785"
-    }
+    },
+    "observacao": "Aprovado pelo João em 16 nov 2026; ele publica manualmente no Instagram por causa do limite da conta Metricool. Rascunhos no Metricool ficam como draft (não usar). Marcar 'publicado' quando confirmado."
   }
 }
