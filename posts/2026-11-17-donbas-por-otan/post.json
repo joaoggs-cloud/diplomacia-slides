@@ -10,7 +10,7 @@
   "capa": {
     "imagem": "img01",
     "titulo_html": "<span class=\"hl\">Donbas por OTAN:</span> a pergunta que, segundo Zelensky, os EUA fizeram",
-    "gancho": "A versão é de Kiev, sem oferta concreta. Washington e Moscou não comentaram."
+    "gancho": "A versão é de Kiev, sem oferta concreta. Moscou criticou a divulgação; Washington não comentou."
   },
   "slides": [
     {
@@ -24,11 +24,11 @@
     },
     {
       "imagem": "img05",
-      "texto_html": "Até 14 nov, EUA e Kremlin não haviam comentado essa versão. Zelensky disse que a Ucrânia não retira tropas, mas levaria o tema a referendo com garantias firmes. Moscou segue exigindo o Donbas, e Putin repetiu em 12 nov que rejeita tropas ocidentais no país."
+      "texto_html": "Em 16 nov, o Kremlin criticou a divulgação, sem comentar o conteúdo; Washington não se pronunciou. Zelensky disse que a Ucrânia não retira tropas, mas levaria o tema a referendo com garantias firmes. Moscou segue exigindo o Donbas e rejeita tropas ocidentais no país."
     },
     {
       "imagem": "img06",
-      "texto_html": "Putin propôs uma pausa humanitária em <strong>Kostiantynivka</strong>, nos moldes da de Oleshky. Zelensky recusou: chamou a proposta de manobra para tomar a cidade, que Moscou não conseguiu conquistar. Para o ISW, o Kremlin provavelmente quer a pausa para concentrar forças rumo a Druzhkivka (foto de 2024)."
+      "texto_html": "Putin propôs uma pausa humanitária em <strong>Kostiantynivka</strong>. Zelensky recusou: chamou a proposta de manobra para tomar a cidade, que Moscou não conseguiu conquistar. Para o ISW, o Kremlin provavelmente quer a pausa para concentrar forças rumo a Druzhkivka (foto de 2024)."
     },
     {
       "imagem": "img07",
@@ -48,7 +48,7 @@
     "titulo": "Salve este post",
     "subtitulo": "e acompanhe o que vem depois de Abu Dhabi e Moscou"
   },
-  "legenda": "A ideia de ligar território à adesão à OTAN apareceu nas negociações, segundo Zelensky.\n\nEm 13 nov, o presidente ucraniano disse que negociadores dos EUA perguntaram se a Ucrânia deixaria o Donbas caso entrasse na aliança; segundo ele, não houve oferta concreta, e Kiev não pretende retirar tropas. Até 14 nov, Washington e o Kremlin não haviam comentado. Em 12 nov, Witkoff e Kushner haviam se reunido com Putin em Moscou, depois de dois dias de conversas em Abu Dhabi. Putin propôs um gesto humanitário em Kostiantynivka, que Zelensky recusou, e Kushner fala em uma troca de prisioneiros em preparação, sem número oficial. O Kremlin não confirmou a participação de europeus na próxima rodada.\n\nArraste para o lado e veja o que cada lado disse.",
+  "legenda": "A ideia de ligar território à adesão à OTAN apareceu nas negociações, segundo Zelensky.\n\nEm 13 nov, o presidente ucraniano disse que negociadores dos EUA perguntaram se a Ucrânia deixaria o Donbas caso entrasse na aliança; segundo ele, não houve oferta concreta, e Kiev não pretende retirar tropas. Em 16 nov, o Kremlin criticou a divulgação da conversa, sem comentar o conteúdo; Washington não se pronunciou. Em 12 nov, Witkoff e Kushner haviam se reunido com Putin em Moscou, depois de dois dias de conversas em Abu Dhabi. Putin propôs um gesto humanitário em Kostiantynivka, que Zelensky recusou, e Kushner fala em uma troca de prisioneiros em preparação, sem número oficial. O Kremlin não confirmou a participação de europeus na próxima rodada.\n\nArraste para o lado e veja o que cada lado disse.",
   "primeiro_comentario": "",
   "hashtags": [
     "#ucrania",
@@ -128,6 +128,14 @@
     {
       "nome": "Kyiv Post, 12 nov",
       "url": "https://www.kyivpost.com/post/89979"
+    },
+    {
+      "nome": "AFP via Free Malaysia Today, 16 nov",
+      "url": "https://www.freemalaysiatoday.com/category/world/2026/11/16/kremlin-slams-zelensky-for-divulging-us-land-for-nato-offer"
+    },
+    {
+      "nome": "LaPresse (TASS), 16 nov",
+      "url": "https://uk.lapresse.it/world-en/2026/11/16/ukraine-kremlin-details-of-russia-us-talks-should-not-be-disclosed/"
     }
   ],
   "busca_imagens": [
