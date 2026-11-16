@@ -1,7 +1,7 @@
 {
   "slug": "2026-11-15-ira-hormuz-bloqueio",
   "titulo_interno": "Irã e Ormuz: bloqueio em vez de bombas",
-  "status": "agendado",
+  "status": "falha_publicacao",
   "estilo": "clean",
   "pilar": "conflito_atual",
   "categoria": "Conflito atual · Irã",
@@ -307,5 +307,12 @@
       "id": 427487691,
       "uuid": "7601066212779967734"
     }
+  },
+  "falha": {
+    "data_verificacao": "2026-11-16",
+    "status_metricool": "ERROR",
+    "detalhe": "You have reached your Metricool account limit.",
+    "post_e_story": "nao publicados",
+    "observacao": "Nao saiu no Instagram; segue no planejador do Metricool com erro. Nao marcado como publicado."
   }
 }

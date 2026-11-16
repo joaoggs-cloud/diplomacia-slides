@@ -1,7 +1,7 @@
 {
   "slug": "2026-11-09-muro-de-berlim-fatos",
   "titulo_interno": "8 fatos sobre o Muro de Berlim — 37 anos da queda",
-  "status": "agendado",
+  "status": "falha_publicacao",
   "pilar": "fatos_rapidos",
   "categoria": "Guerra Fria · Alemanha",
   "gancho_tipo": "curiosidade_efemeride",
@@ -312,5 +312,12 @@
       "arquivo": "imagens/img09.jpg",
       "query": "File:Crane removed part of Wall Brandenburg Gate.jpg"
     }
-  ]
+  ],
+  "falha": {
+    "data_verificacao": "2026-11-16",
+    "status_metricool": "ERROR",
+    "detalhe": "You have reached your Metricool account limit.",
+    "post_e_story": "nao publicados",
+    "observacao": "Nao saiu no Instagram; segue no planejador do Metricool com erro. Nao marcado como publicado."
+  }
 }

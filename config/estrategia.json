@@ -94,6 +94,10 @@
     {
       "data": "2026-11-09",
       "motivo": "Análise semanal: sem mudança. Frequência 7/sem (mínima) e horário fixo 06:01 mantidos. Pesos de pilares NÃO alterados: a sugestão automática (+2 pts conflito_atual) vinha de 1 post com alcance 5, ruído. Aprovação atrasada: o post 2026-11-09-muro-de-berlim-fatos não foi aprovado a tempo e não saiu (rascunho venceu). Recomendação ao João: aprovar até as 21h para o post das 06:01 sair."
+    },
+    {
+      "data": "2026-11-16",
+      "motivo": "Análise semanal: 24 posts medidos, alcance médio 6,2 (carrosséis desde 1/11: 5,4); 21 seguidores (22 em 24/10), sem ganho no período. Frequência 7/sem (mínima), horário fixo 06:01 e fase mantidos. Pesos de pilares NÃO alterados: a sugestão automática (+9 pts conflito_atual) vem de 2 posts com alcance 5 e 0 salvos, ruído. Falha operacional: lasers antidrone (13/11), Muro de Berlim (14/11) e Irã/Ormuz (15/11) e seus Stories constam ERROR no Metricool ('You have reached your Metricool account limit'), não saíram; post de 16/11 (submarino/Gripen) segue rascunho sem aprovação e passou das 06:01. Nenhum Reel publicado ainda. Metricool sem dados de melhor horário (tudo zero)."
     }
   ],
   "frequencia_minima": 7,
