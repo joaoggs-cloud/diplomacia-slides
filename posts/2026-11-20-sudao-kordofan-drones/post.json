@@ -9,25 +9,25 @@
   "usar_hashtags_base": true,
   "capa": {
     "imagem": "img02",
-    "titulo_html": "<span class=\"hl\">306 mortos por drones</span> em três semanas: a guerra do Sudão mudou de arma",
+    "titulo_html": "<span class=\"hl\">Ao menos 306 mortos por drones</span> em três semanas de outubro: a guerra do Sudão mudou de arma",
     "gancho": "Um ano depois de El Fasher, os combates migram para o Cordofão. A ONU atribui os ataques às duas partes."
   },
   "slides": [
     {
       "imagem": "img09",
-      "texto_html": "Em três semanas de outubro, o Escritório de Direitos Humanos da ONU documentou ao menos <strong>306 mortos em ataques de drones</strong> no Sudão, em Cordofão, Darfur, Cartum e outros estados. A ONU atribui os ataques às duas partes: o Exército (SAF) e a RSF."
+      "texto_html": "Em três semanas de outubro, o Escritório de Direitos Humanos da ONU documentou ao menos <strong>306 mortos em ataques de drones</strong> no Sudão: no Cordofão, em Darfur, em Cartum e em outros estados. A ONU atribui os ataques ao Exército (SAF) e à RSF."
     },
     {
       "imagem": "img03",
-      "texto_html": "Em 13 nov, o <strong>Quinteto</strong> (União Africana, IGAD, Liga Árabe, UE e ONU) divulgou nota conjunta sobre a escalada. Os drones mataram civis e danificaram usinas de energia e unidades de saúde. O texto não aponta autor e pede trégua humanitária."
+      "texto_html": "Em 13 nov, o <strong>Quinteto</strong> (União Africana, IGAD, Liga Árabe, UE e ONU) divulgou nota conjunta sobre a escalada. Segundo a nota, os ataques mataram civis e danificaram usinas de energia e unidades de saúde. O texto não aponta autor e pede trégua humanitária."
     },
     {
       "imagem": "img10",
-      "texto_html": "No mesmo dia, o Exército e forças aliadas disseram ter retomado <strong>El Khuwei</strong>, no Cordofão Ocidental. Seria o primeiro avanço do SAF na região desde maio de 2025. É alegação do Exército: a RSF não respondeu, e a cidade já mudou de mãos antes."
+      "texto_html": "No mesmo dia, o Exército e aliados disseram ter retomado <strong>El Khuwei</strong>, no Cordofão Ocidental, em poder da RSF desde maio de 2025. Seria o primeiro município do estado retomado pelo Exército. É alegação do Exército; a RSF não respondeu."
     },
     {
       "imagem": "img11",
-      "texto_html": "O Exército diz avançar rumo a <strong>Al Nahud</strong>, maior cidade do Cordofão Ocidental, sob controle da RSF, com ataques de drones. Milhares de civis fogem para Darfur. Nada disso foi verificado de forma independente."
+      "texto_html": "O Exército diz avançar rumo a <strong>Al Nahud</strong>, principal cidade do Cordofão Ocidental, sob controle da RSF, com ataques de drones. Milhares de civis fogem para Darfur. O avanço não foi verificado de forma independente."
     },
     {
       "imagem": "img05",
@@ -38,16 +38,16 @@
       "texto_html": "O IPC, sistema da ONU e da FAO, confirmou <strong>fome</strong> em El Fasher e Kadugli em nov 2025. Em alerta de 12 out 2026, afirma que as condições em Darfur e Cordofão seguem piorando.",
       "factbox": {
         "label": "Atenção",
-        "texto": "Não há nova classificação de fome em 2026; o alerta de outubro trata da deterioração."
+        "texto": "O alerta de outubro não é uma nova classificação de fome: trata da piora das condições."
       }
     },
     {
       "imagem": "img07",
-      "texto_html": "Em 21 out, a Reunião Consultiva sobre o Sudão, em Genebra, co-presidida pela Suíça e pelo enviado da ONU, reuniu mais de 20 países e pediu <strong>trégua humanitária</strong>. O enviado americano Massad Boulos disse que “não há solução militar”."
+      "texto_html": "Em 21 out, a Reunião Consultiva sobre o Sudão, em Genebra, copresidida pela Suíça e pelo enviado da ONU, reuniu mais de 20 países. Os participantes descartaram uma <strong>solução militar</strong> e defenderam uma trégua humanitária."
     },
     {
       "imagem": "img02",
-      "texto_html": "A trégua já foi tentada. Em nov 2025, o Quad (EUA, Emirados, Arábia Saudita e Egito) propôs uma pausa humanitária de três meses. A RSF disse aceitar; o chefe do Exército, <strong>Abdel Fattah al-Burhan</strong>, rejeitou.",
+      "texto_html": "A trégua já foi tentada. Em nov 2025, o Quad (EUA, Emirados, Arábia Saudita e Egito) propôs uma pausa humanitária de três meses. A RSF disse aceitar, mas os combates seguiram; o chefe do Exército, <strong>Abdel Fattah al-Burhan</strong>, rejeitou, citando o papel dos Emirados.",
       "foco": "0% 50%"
     }
   ],
@@ -55,7 +55,7 @@
     "titulo": "Salve este post",
     "subtitulo": "e acompanhe os próximos passos da guerra no Sudão"
   },
-  "legenda": "Em três semanas de outubro, drones mataram ao menos 306 pessoas no Sudão, segundo o Escritório de Direitos Humanos da ONU.\n\nA ONU atribui os ataques às duas partes, o Exército (SAF) e a RSF. Em 13 nov, o Exército disse ter retomado El Khuwei, no Cordofão Ocidental, e avança sobre Al Nahud, alegações ainda sem verificação independente. No mesmo dia, o Quinteto (UA, IGAD, Liga Árabe, UE e ONU) pediu trégua humanitária. Um ano depois da queda de El Fasher, a guerra se desloca para o Cordofão e se apoia cada vez mais em drones.\n\nArraste para o lado para ver o que se sabe e o que ainda é alegação.\n\nImagens: Wikimedia Commons (créditos nos slides).",
+  "legenda": "Em três semanas de outubro, drones mataram ao menos 306 pessoas no Sudão, segundo o Escritório de Direitos Humanos da ONU.\n\nA ONU atribui os ataques às duas partes, o Exército (SAF) e a RSF. Em 13 nov, o Exército disse ter retomado El Khuwei, no Cordofão Ocidental, e avança sobre Al Nahud, alegações ainda sem verificação independente. No mesmo dia, o Quinteto (UA, IGAD, Liga Árabe, UE e ONU) pediu trégua humanitária. Um ano depois da queda de El Fasher, a guerra se desloca para o Cordofão e se apoia cada vez mais em drones.\n\nArraste para o lado para ver o que se sabe e o que ainda é alegação.",
   "primeiro_comentario": "",
   "hashtags": [
     "#sudao",
@@ -101,10 +101,6 @@
       "url": "https://darfur24.com/en/2026/11/10/army-intensifies-airstrikes-on-al-nuhud-in-west-kordofan/"
     },
     {
-      "nome": "The National (Genebra)",
-      "url": "https://www.thenationalnews.com/news/mena/2026/10/23/us-stresses-there-is-no-military-solution-to-sudan-war-in-geneva-talks/"
-    },
-    {
       "nome": "Anistia Internacional (El Fasher)",
       "url": "https://www.amnesty.org/en/latest/news/2026/10/sudan-el-fasher-civilians-suffer-unlawful-killings-detention-and-torture-one-year-after-citys-capture-by-the-rsf-new-testimony/"
     },
@@ -127,6 +123,26 @@
     {
       "nome": "Crisis Group",
       "url": "https://www.crisisgroup.org/brf/africa/sudan-egypt-saudi-arabia-united-arab-emirates-united-states/b211-divided-sudan-elusive-peace"
+    },
+    {
+      "nome": "Asharq Al-Awsat (Genebra)",
+      "url": "https://english.aawsat.com/arab-world/5332646-international-meeting-rules-out-military-solution-sudan-war"
+    },
+    {
+      "nome": "Arab News (Genebra)",
+      "url": "https://www.arabnews.pk/middle-east/no-military-solution-in-sudan-un-envoy-3004878"
+    },
+    {
+      "nome": "Al Jazeera (Quad, 24 nov 2025)",
+      "url": "https://www.aljazeera.com/news/2025/11/24/sudan-army-chief-rejects-truce-proposal-citing-uae-role"
+    },
+    {
+      "nome": "Sudan Tribune (Iyal Bakhit)",
+      "url": "https://sudantribune.com/article/320981"
+    },
+    {
+      "nome": "IPC — Alerta Sudão out 2026",
+      "url": "https://www.ipcinfo.org/fileadmin/user_upload/ipcinfo/docs/IPC_Alert_Sudan_Oct2026.pdf"
     }
   ],
   "busca_imagens": [
@@ -182,7 +198,7 @@
         "texto_html": "A ONU atribui os ataques às duas partes: o Exército e os paramilitares da <em>RSF</em>."
       },
       {
-        "imagem": "img04",
+        "imagem": "img10",
         "texto_html": "Em 13 nov, o Exército disse ter retomado <em>El Khuwei</em>. A RSF não respondeu."
       },
       {
@@ -191,7 +207,7 @@
       },
       {
         "imagem": "img07",
-        "texto_html": "ONU, União Africana e UE pedem <em>trégua humanitária</em>. O Exército já rejeitou uma proposta antes."
+        "texto_html": "ONU, União Africana e UE pedem <em>trégua</em>. Em 2025, a RSF disse aceitar; o Exército rejeitou."
       }
     ]
   },
@@ -225,7 +241,7 @@
     },
     {
       "titulo": "Tawila refugees setting up shelter.jpg",
-      "autor": "Mohamed Elgoni for the United Nations Office for the Coordination of Humanitarian Affairs (UNOCHA)",
+      "autor": "Mohamed Elgoni/UNOCHA",
       "licenca": "CC BY-SA 2.0",
       "exige_credito": true,
       "url_origem": "https://commons.wikimedia.org/wiki/File:Tawila_refugees_setting_up_shelter.jpg",
@@ -251,7 +267,7 @@
     },
     {
       "titulo": "El Fasher, Darfur do Norte, Sudão.jpg",
-      "autor": "Coordenação-Geral de Observação da Terra/INPE",
+      "autor": "INPE/Observação da Terra",
       "licenca": "CC BY-SA 2.0",
       "exige_credito": true,
       "url_origem": "https://commons.wikimedia.org/wiki/File:El_Fasher,_Darfur_do_Norte,_Sud%C3%A3o.jpg",
