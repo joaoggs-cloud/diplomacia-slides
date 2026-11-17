@@ -1,0 +1,337 @@
+{
+  "slug": "2026-11-20-sudao-kordofan-drones",
+  "titulo_interno": "Sudão: guerra de drones no Cordofão",
+  "status": "rascunho",
+  "estilo": "clean",
+  "pilar": "conflito_atual",
+  "categoria": "Conflito · Sudão",
+  "gancho_tipo": "numero",
+  "usar_hashtags_base": true,
+  "capa": {
+    "imagem": "img02",
+    "titulo_html": "<span class=\"hl\">306 mortos por drones</span> em três semanas: a guerra do Sudão mudou de arma",
+    "gancho": "Um ano depois de El Fasher, os combates migram para o Cordofão. A ONU atribui os ataques às duas partes."
+  },
+  "slides": [
+    {
+      "imagem": "img09",
+      "texto_html": "Em três semanas de outubro, o Escritório de Direitos Humanos da ONU documentou ao menos <strong>306 mortos em ataques de drones</strong> no Sudão, em Cordofão, Darfur, Cartum e outros estados. A ONU atribui os ataques às duas partes: o Exército (SAF) e a RSF."
+    },
+    {
+      "imagem": "img03",
+      "texto_html": "Em 13 nov, o <strong>Quinteto</strong> (União Africana, IGAD, Liga Árabe, UE e ONU) divulgou nota conjunta sobre a escalada. Os drones mataram civis e danificaram usinas de energia e unidades de saúde. O texto não aponta autor e pede trégua humanitária."
+    },
+    {
+      "imagem": "img10",
+      "texto_html": "No mesmo dia, o Exército e forças aliadas disseram ter retomado <strong>El Khuwei</strong>, no Cordofão Ocidental. Seria o primeiro avanço do SAF na região desde maio de 2025. É alegação do Exército: a RSF não respondeu, e a cidade já mudou de mãos antes."
+    },
+    {
+      "imagem": "img11",
+      "texto_html": "O Exército diz avançar rumo a <strong>Al Nahud</strong>, maior cidade do Cordofão Ocidental, sob controle da RSF, com ataques de drones. Milhares de civis fogem para Darfur. Nada disso foi verificado de forma independente."
+    },
+    {
+      "imagem": "img05",
+      "texto_html": "Um ano antes, em 26 out 2025, <strong>El Fasher</strong> caiu para a RSF após cerca de 18 meses de cerco. Segundo dados de organizações humanitárias citados pela Anistia, restam menos de 70 mil pessoas na cidade, contra mais de 1 milhão antes da guerra."
+    },
+    {
+      "imagem": "img06",
+      "texto_html": "O IPC, sistema da ONU e da FAO, confirmou <strong>fome</strong> em El Fasher e Kadugli em nov 2025. Em alerta de 12 out 2026, afirma que as condições em Darfur e Cordofão seguem piorando.",
+      "factbox": {
+        "label": "Atenção",
+        "texto": "Não há nova classificação de fome em 2026; o alerta de outubro trata da deterioração."
+      }
+    },
+    {
+      "imagem": "img07",
+      "texto_html": "Em 21 out, a Reunião Consultiva sobre o Sudão, em Genebra, co-presidida pela Suíça e pelo enviado da ONU, reuniu mais de 20 países e pediu <strong>trégua humanitária</strong>. O enviado americano Massad Boulos disse que “não há solução militar”."
+    },
+    {
+      "imagem": "img02",
+      "texto_html": "A trégua já foi tentada. Em nov 2025, o Quad (EUA, Emirados, Arábia Saudita e Egito) propôs uma pausa humanitária de três meses. A RSF disse aceitar; o chefe do Exército, <strong>Abdel Fattah al-Burhan</strong>, rejeitou.",
+      "foco": "0% 50%"
+    }
+  ],
+  "cta": {
+    "titulo": "Salve este post",
+    "subtitulo": "e acompanhe os próximos passos da guerra no Sudão"
+  },
+  "legenda": "Em três semanas de outubro, drones mataram ao menos 306 pessoas no Sudão, segundo o Escritório de Direitos Humanos da ONU.\n\nA ONU atribui os ataques às duas partes, o Exército (SAF) e a RSF. Em 13 nov, o Exército disse ter retomado El Khuwei, no Cordofão Ocidental, e avança sobre Al Nahud, alegações ainda sem verificação independente. No mesmo dia, o Quinteto (UA, IGAD, Liga Árabe, UE e ONU) pediu trégua humanitária. Um ano depois da queda de El Fasher, a guerra se desloca para o Cordofão e se apoia cada vez mais em drones.\n\nArraste para o lado para ver o que se sabe e o que ainda é alegação.\n\nImagens: Wikimedia Commons (créditos nos slides).",
+  "primeiro_comentario": "",
+  "hashtags": [
+    "#sudao",
+    "#sudan",
+    "#rsf",
+    "#elfasher",
+    "#drones",
+    "#cordofao",
+    "#geopolitica"
+  ],
+  "alt_text": "Carrossel sobre a guerra de drones no Sudão, com mapas e fotos de arquivo.",
+  "fontes": [
+    {
+      "nome": "OHCHR — Türk alarmed by surge in drone attacks",
+      "url": "https://www.ohchr.org/en/press-releases/2026/10/sudan-turk-alarmed-surge-drone-attacks-killing-hundreds-october"
+    },
+    {
+      "nome": "ONU News",
+      "url": "https://news.un.org/en/story/2026/10/1168661"
+    },
+    {
+      "nome": "EEAS — Declaração conjunta do Quinteto",
+      "url": "https://www.eeas.europa.eu/eeas/sudan-joint-quintet-statement-escalation-hostilities_en"
+    },
+    {
+      "nome": "IGAD — Declaração conjunta do Quinteto",
+      "url": "https://igad.int/joint-quintet-statement-on-the-escalation-of-hostilities-in-sudan/"
+    },
+    {
+      "nome": "Sudan Tribune (El Khuwei)",
+      "url": "https://sudantribune.com/article/321179"
+    },
+    {
+      "nome": "Radio Tamazuj",
+      "url": "https://www.radiotamazuj.org/en/news/article/sudanese-army-allies-announce-recapture-of-key-west-kordofan-town"
+    },
+    {
+      "nome": "Sudan Tribune (Al Nahud)",
+      "url": "https://sudantribune.com/article/321257"
+    },
+    {
+      "nome": "Darfur24",
+      "url": "https://darfur24.com/en/2026/11/10/army-intensifies-airstrikes-on-al-nuhud-in-west-kordofan/"
+    },
+    {
+      "nome": "The National (Genebra)",
+      "url": "https://www.thenationalnews.com/news/mena/2026/10/23/us-stresses-there-is-no-military-solution-to-sudan-war-in-geneva-talks/"
+    },
+    {
+      "nome": "Anistia Internacional (El Fasher)",
+      "url": "https://www.amnesty.org/en/latest/news/2026/10/sudan-el-fasher-civilians-suffer-unlawful-killings-detention-and-torture-one-year-after-citys-capture-by-the-rsf-new-testimony/"
+    },
+    {
+      "nome": "Human Rights Watch (El Fasher)",
+      "url": "https://www.hrw.org/news/2026/10/26/sudan-one-year-on-from-the-cataclysm-of-el-fasher"
+    },
+    {
+      "nome": "IPC",
+      "url": "https://www.ipcinfo.org/ipcinfo-website/countries-in-focus-archive/issue-137/en/"
+    },
+    {
+      "nome": "FAO",
+      "url": "https://www.fao.org/newsroom/detail/famine-conditions-confirmed-in-sudan-fasher-and-kadugli-as-hunger-and-malnutrition-ease-where-conflict-subsides/en"
+    },
+    {
+      "nome": "PBS NewsHour (Quad)",
+      "url": "https://www.pbs.org/newshour/world/sudans-paramilitary-forces-agree-to-truce-proposed-by-u-s-led-mediator-group"
+    },
+    {
+      "nome": "Crisis Group",
+      "url": "https://www.crisisgroup.org/brf/africa/sudan-egypt-saudi-arabia-united-arab-emirates-united-states/b211-divided-sudan-elusive-peace"
+    }
+  ],
+  "busca_imagens": [
+    {
+      "id": "img01",
+      "query": "File:Sudanese Civil War Composite Map (2025).png",
+      "alternativas": []
+    },
+    {
+      "id": "img02",
+      "query": "File:Sudan Envoy - Darfur from above.jpg",
+      "alternativas": []
+    },
+    {
+      "id": "img03",
+      "query": "File:Tawila refugees setting up shelter.jpg",
+      "alternativas": []
+    },
+    {
+      "id": "img04",
+      "query": "File:Kordofan, Sudan with disputed territory.png",
+      "alternativas": []
+    },
+    {
+      "id": "img05",
+      "query": "File:El Fasher, Darfur do Norte, Sudão.jpg",
+      "alternativas": []
+    },
+    {
+      "id": "img06",
+      "query": "File:ZamZam IDP.jpg",
+      "alternativas": []
+    },
+    {
+      "id": "img07",
+      "query": "File:ONU Geneva mainroom.jpg",
+      "alternativas": []
+    }
+  ],
+  "agendamento": {
+    "data_hora": "2026-11-20T06:01:00-03:00",
+    "slot": "06:01"
+  },
+  "reel": {
+    "gancho": "A ONU atribui os ataques às duas partes do conflito.",
+    "cenas": [
+      {
+        "imagem": "img02",
+        "texto_html": "Em três semanas de outubro, drones mataram ao menos <em>306 pessoas</em> no Sudão, segundo a ONU."
+      },
+      {
+        "imagem": "img03",
+        "texto_html": "A ONU atribui os ataques às duas partes: o Exército e os paramilitares da <em>RSF</em>."
+      },
+      {
+        "imagem": "img04",
+        "texto_html": "Em 13 nov, o Exército disse ter retomado <em>El Khuwei</em>. A RSF não respondeu."
+      },
+      {
+        "imagem": "img05",
+        "texto_html": "Um ano após a queda, El Fasher tem menos de <em>70 mil</em> pessoas, segundo a Anistia."
+      },
+      {
+        "imagem": "img07",
+        "texto_html": "ONU, União Africana e UE pedem <em>trégua humanitária</em>. O Exército já rejeitou uma proposta antes."
+      }
+    ]
+  },
+  "ia_gerado": false,
+  "imagens": [
+    {
+      "titulo": "Sudanese Civil War Composite Map (2025).png",
+      "autor": "PoliceClarity",
+      "licenca": "CC BY-SA 4.0",
+      "exige_credito": true,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Sudanese_Civil_War_Composite_Map_(2025).png",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Sudanese_Civil_War_Composite_Map_%282025%29.png/1920px-Sudanese_Civil_War_Composite_Map_%282025%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 10625,
+      "altura": 6276,
+      "id": "img01",
+      "arquivo": "imagens/img01.jpg",
+      "query": "File:Sudanese Civil War Composite Map (2025).png"
+    },
+    {
+      "titulo": "Sudan Envoy - Darfur from above.jpg",
+      "autor": "Sudan Envoy",
+      "licenca": "CC BY 2.0",
+      "exige_credito": true,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Sudan_Envoy_-_Darfur_from_above.jpg",
+      "url_download": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Sudan_Envoy_-_Darfur_from_above.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largura": 1024,
+      "altura": 680,
+      "id": "img02",
+      "arquivo": "imagens/img02.jpg",
+      "query": "File:Sudan Envoy - Darfur from above.jpg"
+    },
+    {
+      "titulo": "Tawila refugees setting up shelter.jpg",
+      "autor": "Mohamed Elgoni for the United Nations Office for the Coordination of Humanitarian Affairs (UNOCHA)",
+      "licenca": "CC BY-SA 2.0",
+      "exige_credito": true,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Tawila_refugees_setting_up_shelter.jpg",
+      "url_download": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Tawila_refugees_setting_up_shelter.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largura": 1170,
+      "altura": 531,
+      "id": "img03",
+      "arquivo": "imagens/img03.jpg",
+      "query": "File:Tawila refugees setting up shelter.jpg"
+    },
+    {
+      "titulo": "Kordofan, Sudan with disputed territory.png",
+      "autor": "Dromaius Novaehollandiae",
+      "licenca": "CC BY-SA 3.0",
+      "exige_credito": true,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Kordofan,_Sudan_with_disputed_territory.png",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Kordofan%2C_Sudan_with_disputed_territory.png/1920px-Kordofan%2C_Sudan_with_disputed_territory.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 3840,
+      "altura": 3368,
+      "id": "img04",
+      "arquivo": "imagens/img04.jpg",
+      "query": "File:Kordofan, Sudan with disputed territory.png"
+    },
+    {
+      "titulo": "El Fasher, Darfur do Norte, Sudão.jpg",
+      "autor": "Coordenação-Geral de Observação da Terra/INPE",
+      "licenca": "CC BY-SA 2.0",
+      "exige_credito": true,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:El_Fasher,_Darfur_do_Norte,_Sud%C3%A3o.jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/El_Fasher%2C_Darfur_do_Norte%2C_Sud%C3%A3o.jpg/1920px-El_Fasher%2C_Darfur_do_Norte%2C_Sud%C3%A3o.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 3632,
+      "altura": 2043,
+      "id": "img05",
+      "arquivo": "imagens/img05.jpg",
+      "query": "File:El Fasher, Darfur do Norte, Sudão.jpg"
+    },
+    {
+      "titulo": "ZamZam IDP.jpg",
+      "autor": "Medhus",
+      "licenca": "CC BY 2.0",
+      "exige_credito": true,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:ZamZam_IDP.jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/ZamZam_IDP.jpg/1920px-ZamZam_IDP.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 2891,
+      "altura": 1715,
+      "id": "img06",
+      "arquivo": "imagens/img06.jpg",
+      "query": "File:ZamZam IDP.jpg"
+    },
+    {
+      "titulo": "ONU Geneva mainroom.jpg",
+      "autor": "Yann Forget",
+      "licenca": "CC BY-SA 3.0",
+      "exige_credito": true,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:ONU_Geneva_mainroom.jpg",
+      "url_download": "https://upload.wikimedia.org/wikipedia/commons/9/9a/ONU_Geneva_mainroom.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largura": 1600,
+      "altura": 1200,
+      "id": "img07",
+      "arquivo": "imagens/img07.jpg",
+      "query": "File:ONU Geneva mainroom.jpg"
+    },
+    {
+      "titulo": "Sudanese Civil War Composite Map (2025).png",
+      "autor": "PoliceClarity",
+      "licenca": "CC BY-SA 4.0",
+      "exige_credito": true,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Sudanese_Civil_War_Composite_Map_(2025).png",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Sudanese_Civil_War_Composite_Map_%282025%29.png/1920px-Sudanese_Civil_War_Composite_Map_%282025%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 10625,
+      "altura": 6276,
+      "id": "img09",
+      "arquivo": "imagens/img09.jpg",
+      "query": "File:Sudanese Civil War Composite Map (2025).png",
+      "derivada_de": "img01",
+      "obs": "recorte do original sobre fundo desfocado; original preservado"
+    },
+    {
+      "titulo": "Kordofan, Sudan with disputed territory.png",
+      "autor": "Dromaius Novaehollandiae",
+      "licenca": "CC BY-SA 3.0",
+      "exige_credito": true,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Kordofan,_Sudan_with_disputed_territory.png",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Kordofan%2C_Sudan_with_disputed_territory.png/1920px-Kordofan%2C_Sudan_with_disputed_territory.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 3840,
+      "altura": 3368,
+      "id": "img10",
+      "arquivo": "imagens/img10.jpg",
+      "query": "File:Kordofan, Sudan with disputed territory.png",
+      "derivada_de": "img04",
+      "obs": "recorte do original sobre fundo desfocado; original preservado"
+    },
+    {
+      "titulo": "Sudanese Civil War Composite Map (2025).png",
+      "autor": "PoliceClarity",
+      "licenca": "CC BY-SA 4.0",
+      "exige_credito": true,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Sudanese_Civil_War_Composite_Map_(2025).png",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Sudanese_Civil_War_Composite_Map_%282025%29.png/1920px-Sudanese_Civil_War_Composite_Map_%282025%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 10625,
+      "altura": 6276,
+      "id": "img11",
+      "arquivo": "imagens/img11.jpg",
+      "query": "File:Sudanese Civil War Composite Map (2025).png",
+      "derivada_de": "img01",
+      "obs": "recorte do original sobre fundo desfocado; original preservado"
+    }
+  ]
+}
