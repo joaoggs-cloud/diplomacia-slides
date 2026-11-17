@@ -1,3 +1,5 @@
+# APROVADO (coordenador, rodada 2, 17 nov): correções 1–7 e recomendadas aplicadas; slides relidos; El Khuwei segue sem resposta da RSF (Rio Times, Sudan Tribune 321179/321257). Pendência menor: slide 09 repete a foto da capa.
+
 REPROVADO
 
 # Revisão — 2026-11-20-sudao-kordofan-drones (revisor, 17 nov 2026)
