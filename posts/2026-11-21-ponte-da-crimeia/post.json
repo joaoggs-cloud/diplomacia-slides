@@ -1,0 +1,248 @@
+{
+  "slug": "2026-11-21-ponte-da-crimeia",
+  "titulo_interno": "Ponte da Crimeia: o ataque de 17 nov",
+  "status": "rascunho",
+  "estilo": "clean",
+  "pilar": "conflito_atual",
+  "categoria": "Conflito · Crimeia",
+  "gancho_tipo": "contradicao",
+  "usar_hashtags_base": true,
+  "capa": {
+    "imagem": "img01",
+    "titulo_html": "<span class=\"hl\">A ponte que Putin abriu em 2018</span> foi atingida duas noites seguidas. Kiev fala em vão derrubado; Moscou, em dano",
+    "gancho": "O ataque à Ponte da Crimeia, em 16 e 17 nov, e o que cada lado diz."
+  },
+  "slides": [
+    {
+      "imagem": "img06",
+      "texto_html": "Em 16 e 17 nov, a Ucrânia atacou a <strong>Ponte da Crimeia</strong> (Kerch) dois dias seguidos. O Estado-Maior ucraniano e o SBU dizem que o ataque de 17 nov derrubou parte do vão rodoviário. A NBC geolocalizou imagens de um trecho caído na água."
+    },
+    {
+      "imagem": "img02",
+      "texto_html": "Moscou dá outra medida. O Ministério dos Transportes confirmou dano por drones e a suspensão do tráfego, sem vítimas. O Kremlin tratou o dano como pequeno e anunciou reparo. A CNBC ressalva que não verificou o estrago de forma independente."
+    },
+    {
+      "imagem": "img01",
+      "texto_html": "Zelensky chamou a ação de <strong>\"sem precedentes\"</strong> e a descreveu como a \"sétima fase\" de uma operação de várias semanas, que teria desgastado aos poucos as defesas aéreas russas.",
+      "factbox": {
+        "label": "Atenção",
+        "texto": "\"Sétima fase\" é a descrição de Zelensky, sem confirmação independente."
+      },
+      "foco": "50% 40%"
+    },
+    {
+      "imagem": "img03",
+      "texto_html": "Segundo a AP, que cita Zelensky, drones ucranianos de longo alcance atingiram a pista, mísseis <strong>Neptune</strong> e outros drones miraram a ferrovia, e mísseis <strong>Flamingo</strong> deram o golpe final."
+    },
+    {
+      "imagem": "img04",
+      "texto_html": "A ponte é a principal ligação terrestre direta entre a Rússia e a Crimeia anexada. Para o Instituto para o Estudo da Guerra (ISW), os ataques seguem uma campanha sistemática de Kiev para negar à Rússia o uso das principais linhas terrestres via Crimeia."
+    },
+    {
+      "imagem": "img06",
+      "texto_html": "Em 15 mai 2018, Putin inaugurou a ponte, de <strong>19 km</strong>, dirigindo um caminhão Kamaz. A obra ligou a Rússia à Crimeia, anexada em 2014. Kiev, a União Europeia e os EUA condenaram a construção."
+    },
+    {
+      "imagem": "img02",
+      "texto_html": "Não é a primeira vez. Em 8 out 2022, um caminhão-bomba destruiu dois vãos rodoviários. Em 17 jul 2023, o SBU alegou ter usado drones navais. Em jun 2025, o SBU disse ter detonado explosivos subaquáticos.",
+      "foco": "50% 60%"
+    },
+    {
+      "imagem": "img05",
+      "texto_html": "Na mesma noite, a Rússia disparou sete mísseis balísticos contra as pontes Norte e Sul de Kiev, sobre o Dnipro, segundo a Ucrânia. As duas foram fechadas. O Serviço de Emergência ucraniano relatou <strong>dois mortos</strong> no distrito de Obolonskyi."
+    }
+  ],
+  "cta": {
+    "titulo": "Salve este post",
+    "subtitulo": "e acompanhe o que muda na guerra entre Rússia e Ucrânia"
+  },
+  "legenda": "A Ponte da Crimeia, que Putin inaugurou em 2018 ao volante de um caminhão, foi atacada pela Ucrânia em 16 e 17 nov.\n\nO Estado-Maior ucraniano e o SBU dizem que parte do vão rodoviário foi derrubada, e a NBC geolocalizou imagens de um trecho caído na água. Moscou confirma dano por drones e suspensão do tráfego, sem vítimas, e fala em reparo. A escala real do estrago não foi verificada de forma independente. Na mesma noite, a Rússia atingiu com mísseis as pontes Norte e Sul de Kiev, e o Serviço de Emergência ucraniano relatou dois mortos.\n\nArraste para o lado para ver o que cada lado afirma e o que ainda é alegação.",
+  "primeiro_comentario": "",
+  "hashtags": [
+    "#ponteDaCrimeia",
+    "#crimeia",
+    "#ucrania",
+    "#russia",
+    "#kerch",
+    "#geopolitica"
+  ],
+  "alt_text": "Carrossel sobre o ataque à Ponte da Crimeia, com fotos e imagem de satélite da ponte.",
+  "fontes": [
+    {
+      "nome": "NBC News",
+      "url": "https://www.nbcnews.com/world/russia/kerch-bridge-strikes-putin-crimea-ukraine-russia-war-kyiv-rcna609756"
+    },
+    {
+      "nome": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/world/the-symbol-of-the-occupation-ukraine-destroys-span-of-kerch-bridge-linking-russia-with-crimea"
+    },
+    {
+      "nome": "Kyiv Independent",
+      "url": "https://kyivindependent.com/ukrainian-forces-reportedly-strike-crimean-bridge-after-russian-missiles-hit-kyiv-bridges/"
+    },
+    {
+      "nome": "ABC News (AP)",
+      "url": "https://abcnews.com/International/ukraine-attacks-crimean-bridge-2nd-consecutive-night-officials/story?id=138201512"
+    },
+    {
+      "nome": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/17/kerch-bridge-ukraine-russia-putin-kyiv.html"
+    },
+    {
+      "nome": "Kyiv Post (ataque)",
+      "url": "https://www.kyivpost.com/post/90298"
+    },
+    {
+      "nome": "The Insider",
+      "url": "https://theins.press/en/news/299708"
+    },
+    {
+      "nome": "Military.com",
+      "url": "https://www.military.com/ukraine-strikes-section-of-russias-crimean-bridge-two-days-before-putin-meets-trump-xi"
+    },
+    {
+      "nome": "Al Jazeera (2023, contexto)",
+      "url": "https://www.aljazeera.com/news/2023/7/17/crimea-bridge-attack-what-happened-why-is-the-bridge-important"
+    },
+    {
+      "nome": "CBS News (2018)",
+      "url": "https://www.cbsnews.com/news/crimea-bridge-to-russia-opened-by-vladimir-putin-today-2018-05-15/"
+    },
+    {
+      "nome": "Kyiv Post (2018)",
+      "url": "https://kyivpost.com/ukraine-politics/putin-opens-bridge-connecting-russia-ukraines-russian-occupied-crimea.html"
+    },
+    {
+      "nome": "Euronews (2025)",
+      "url": "https://www.euronews.com/2025/06/03/ukraine-strikes-kerch-bridge-in-crimea-with-underwater-explosives"
+    },
+    {
+      "nome": "Kyiv Post (Kiev)",
+      "url": "https://www.kyivpost.com/post/90362"
+    },
+    {
+      "nome": "bne IntelliNews",
+      "url": "https://www.intellinews.com/missile-war-monitor-russian-ballistic-missiles-shut-kyiv-s-northern-and-southern-bridges-cut-heat-to-317-buildings-485619/"
+    }
+  ],
+  "busca_imagens": [
+    {
+      "id": "img01",
+      "query": "File:Kerch. Crimean Bridge P5030811 2350.jpg",
+      "alternativas": []
+    },
+    {
+      "id": "img02",
+      "query": "File:Kerch. Crimean Bridge P5030764 2350.jpg",
+      "alternativas": []
+    },
+    {
+      "id": "img03",
+      "query": "File:View of Kerch from the Crimean bridge.jpg",
+      "alternativas": []
+    },
+    {
+      "id": "img04",
+      "query": "File:Kerch Strait Bridge, 2018-03-05.jpg",
+      "alternativas": []
+    },
+    {
+      "id": "img05",
+      "query": "File:Kyiv Pivnichnyi Bridge.jpg",
+      "alternativas": []
+    },
+    {
+      "id": "img06",
+      "query": "File:Crimea Bridge.jpg",
+      "alternativas": []
+    }
+  ],
+  "agendamento": {
+    "data_hora": "2026-11-21T06:01:00-03:00",
+    "slot": "06:01"
+  },
+  "reel": {
+    "gerar": false
+  },
+  "ia_gerado": false,
+  "imagens": [
+    {
+      "titulo": "Kerch. Crimean Bridge P5030811 2350.jpg",
+      "autor": "Alexxx1979",
+      "licenca": "CC BY-SA 4.0",
+      "exige_credito": true,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Kerch._Crimean_Bridge_P5030811_2350.jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Kerch._Crimean_Bridge_P5030811_2350.jpg/1920px-Kerch._Crimean_Bridge_P5030811_2350.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 3525,
+      "altura": 2350,
+      "id": "img01",
+      "arquivo": "imagens/img01.jpg",
+      "query": "File:Kerch. Crimean Bridge P5030811 2350.jpg"
+    },
+    {
+      "titulo": "Kerch. Crimean Bridge P5030764 2350.jpg",
+      "autor": "Alexxx1979",
+      "licenca": "CC BY-SA 4.0",
+      "exige_credito": true,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Kerch._Crimean_Bridge_P5030764_2350.jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Kerch._Crimean_Bridge_P5030764_2350.jpg/1920px-Kerch._Crimean_Bridge_P5030764_2350.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 3525,
+      "altura": 2350,
+      "id": "img02",
+      "arquivo": "imagens/img02.jpg",
+      "query": "File:Kerch. Crimean Bridge P5030764 2350.jpg"
+    },
+    {
+      "titulo": "View of Kerch from the Crimean bridge.jpg",
+      "autor": "Bestalex",
+      "licenca": "CC0",
+      "exige_credito": false,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:View_of_Kerch_from_the_Crimean_bridge.jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/View_of_Kerch_from_the_Crimean_bridge.jpg/1920px-View_of_Kerch_from_the_Crimean_bridge.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 4542,
+      "altura": 2605,
+      "id": "img03",
+      "arquivo": "imagens/img03.jpg",
+      "query": "File:View of Kerch from the Crimean bridge.jpg"
+    },
+    {
+      "titulo": "Kerch Strait Bridge, 2018-03-05.jpg",
+      "autor": "European Space Agency",
+      "licenca": "CC BY-SA 3.0 igo",
+      "exige_credito": true,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Kerch_Strait_Bridge,_2018-03-05.jpg",
+      "url_download": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Kerch_Strait_Bridge%2C_2018-03-05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largura": 1429,
+      "altura": 1594,
+      "id": "img04",
+      "arquivo": "imagens/img04.jpg",
+      "query": "File:Kerch Strait Bridge, 2018-03-05.jpg"
+    },
+    {
+      "titulo": "Kyiv Pivnichnyi Bridge.jpg",
+      "autor": "Ilya K",
+      "licenca": "CC BY-SA 3.0",
+      "exige_credito": true,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Kyiv_Pivnichnyi_Bridge.jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Kyiv_Pivnichnyi_Bridge.jpg/1920px-Kyiv_Pivnichnyi_Bridge.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 3898,
+      "altura": 2594,
+      "id": "img05",
+      "arquivo": "imagens/img05.jpg",
+      "query": "File:Kyiv Pivnichnyi Bridge.jpg"
+    },
+    {
+      "titulo": "Crimea Bridge.jpg",
+      "autor": "Leon petrosyan",
+      "licenca": "CC BY-SA 4.0",
+      "exige_credito": true,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Crimea_Bridge.jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Crimea_Bridge.jpg/1920px-Crimea_Bridge.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 5184,
+      "altura": 3888,
+      "id": "img06",
+      "arquivo": "imagens/img06.jpg",
+      "query": "File:Crimea Bridge.jpg"
+    }
+  ]
+}
