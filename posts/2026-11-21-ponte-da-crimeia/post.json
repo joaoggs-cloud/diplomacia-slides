@@ -9,54 +9,52 @@
   "usar_hashtags_base": true,
   "capa": {
     "imagem": "img01",
-    "titulo_html": "<span class=\"hl\">A ponte que Putin abriu em 2018</span> foi atingida duas noites seguidas. Kiev fala em vão derrubado; Moscou, em dano",
+    "titulo_html": "<span class=\"hl\">A ponte que Putin abriu em 2018</span> foi atingida duas noites seguidas. Kiev diz que um vão caiu; Moscou promete reconstruir",
     "gancho": "O ataque à Ponte da Crimeia, em 16 e 17 nov, e o que cada lado diz."
   },
   "slides": [
     {
       "imagem": "img06",
-      "texto_html": "Em 16 e 17 nov, a Ucrânia atacou a <strong>Ponte da Crimeia</strong> (Kerch) dois dias seguidos. O Estado-Maior ucraniano e o SBU dizem que o ataque de 17 nov derrubou parte do vão rodoviário. A NBC geolocalizou imagens de um trecho caído na água."
+      "texto_html": "Em 16 e 17 nov, a Ucrânia atacou a <strong>Ponte da Crimeia</strong> (Kerch) duas vezes. O Estado-Maior ucraniano e o SBU dizem que o ataque de 17 nov derrubou parte do vão rodoviário. A NBC geolocalizou imagens de um trecho caído na água."
     },
     {
       "imagem": "img02",
-      "texto_html": "Moscou dá outra medida. O Ministério dos Transportes confirmou dano por drones e a suspensão do tráfego, sem vítimas. O Kremlin tratou o dano como pequeno e anunciou reparo. A CNBC ressalva que não verificou o estrago de forma independente."
+      "texto_html": "Moscou dá outra medida. O Ministério dos Transportes confirmou dano por drones, sem vítimas: a pista segue fechada, mas os trens voltaram. Peskov, que antes chamou de pequeno o dano de 16 nov, promete reconstruir. A extensão do estrago não foi verificada de forma independente."
     },
     {
-      "imagem": "img01",
+      "imagem": "img08",
       "texto_html": "Zelensky chamou a ação de <strong>\"sem precedentes\"</strong> e a descreveu como a \"sétima fase\" de uma operação de várias semanas, que teria desgastado aos poucos as defesas aéreas russas.",
       "factbox": {
         "label": "Atenção",
         "texto": "\"Sétima fase\" é a descrição de Zelensky, sem confirmação independente."
-      },
-      "foco": "50% 40%"
+      }
     },
     {
       "imagem": "img03",
-      "texto_html": "Segundo a AP, que cita Zelensky, drones ucranianos de longo alcance atingiram a pista, mísseis <strong>Neptune</strong> e outros drones miraram a ferrovia, e mísseis <strong>Flamingo</strong> deram o golpe final."
+      "texto_html": "Zelensky detalhou as armas: drones-mísseis ucranianos <strong>Palianytsia</strong> atingiram a pista, mísseis <strong>Neptune</strong> e outros drones miraram a ferrovia, e mísseis <strong>Flamingo</strong> fizeram ataques de precisão. Nada disso foi confirmado por fonte independente."
     },
     {
       "imagem": "img04",
       "texto_html": "A ponte é a principal ligação terrestre direta entre a Rússia e a Crimeia anexada. Para o Instituto para o Estudo da Guerra (ISW), os ataques seguem uma campanha sistemática de Kiev para negar à Rússia o uso das principais linhas terrestres via Crimeia."
     },
     {
-      "imagem": "img06",
+      "imagem": "img07",
       "texto_html": "Em 15 mai 2018, Putin inaugurou a ponte, de <strong>19 km</strong>, dirigindo um caminhão Kamaz. A obra ligou a Rússia à Crimeia, anexada em 2014. Kiev, a União Europeia e os EUA condenaram a construção."
     },
     {
-      "imagem": "img02",
-      "texto_html": "Não é a primeira vez. Em 8 out 2022, um caminhão-bomba destruiu dois vãos rodoviários. Em 17 jul 2023, o SBU alegou ter usado drones navais. Em jun 2025, o SBU disse ter detonado explosivos subaquáticos.",
-      "foco": "50% 60%"
+      "imagem": "img09",
+      "texto_html": "Não é a primeira vez. Em 8 out 2022, um caminhão-bomba destruiu dois vãos rodoviários. Em 17 jul 2023, o SBU alegou ter usado drones navais. Em jun 2025, o SBU disse ter detonado explosivos subaquáticos."
     },
     {
       "imagem": "img05",
-      "texto_html": "Na mesma noite, a Rússia disparou sete mísseis balísticos contra as pontes Norte e Sul de Kiev, sobre o Dnipro, segundo a Ucrânia. As duas foram fechadas. O Serviço de Emergência ucraniano relatou <strong>dois mortos</strong> no distrito de Obolonskyi."
+      "texto_html": "Na mesma noite, a Rússia disparou sete mísseis balísticos contra as pontes Norte e Sul de Kiev, sobre o Dnipro, segundo a Ucrânia. As duas foram fechadas. O Serviço de Emergência ucraniano relatou <strong>dois mortos</strong> em Obolonskyi, no ataque à capital."
     }
   ],
   "cta": {
     "titulo": "Salve este post",
     "subtitulo": "e acompanhe o que muda na guerra entre Rússia e Ucrânia"
   },
-  "legenda": "A Ponte da Crimeia, que Putin inaugurou em 2018 ao volante de um caminhão, foi atacada pela Ucrânia em 16 e 17 nov.\n\nO Estado-Maior ucraniano e o SBU dizem que parte do vão rodoviário foi derrubada, e a NBC geolocalizou imagens de um trecho caído na água. Moscou confirma dano por drones e suspensão do tráfego, sem vítimas, e fala em reparo. A escala real do estrago não foi verificada de forma independente. Na mesma noite, a Rússia atingiu com mísseis as pontes Norte e Sul de Kiev, e o Serviço de Emergência ucraniano relatou dois mortos.\n\nArraste para o lado para ver o que cada lado afirma e o que ainda é alegação.",
+  "legenda": "A Ponte da Crimeia, que Putin inaugurou em 2018 ao volante de um caminhão, foi atacada pela Ucrânia em 16 e 17 nov.\n\nO Estado-Maior ucraniano e o SBU dizem que parte do vão rodoviário foi derrubada, e a NBC geolocalizou imagens de um trecho caído na água. Moscou confirma dano por drones, sem vítimas; a pista segue fechada, os trens voltaram a circular e o Kremlin promete reconstruir a ponte. A escala real do estrago não foi verificada de forma independente. Na mesma noite, a Rússia atingiu com mísseis as pontes Norte e Sul de Kiev, e o Serviço de Emergência ucraniano relatou dois mortos.\n\nArraste para o lado para ver o que cada lado afirma e o que ainda é alegação.",
   "primeiro_comentario": "",
   "hashtags": [
     "#ponteDaCrimeia",
@@ -123,6 +121,14 @@
     {
       "nome": "bne IntelliNews",
       "url": "https://www.intellinews.com/missile-war-monitor-russian-ballistic-missiles-shut-kyiv-s-northern-and-southern-bridges-cut-heat-to-317-buildings-485619/"
+    },
+    {
+      "nome": "Kyiv Independent (tráfego ferroviário)",
+      "url": "https://kyivindependent.com/new-video-shows-damage-to-crimean-bridge-as-train-traffic-resumes/"
+    },
+    {
+      "nome": "Meduza (16 nov)",
+      "url": "https://meduza.io/en/feature/2026/11/16/ukrainian-drone-attack-damages-crimea-bridge-shutting-down-road-traffic-for-hours-kremlin-says-damage-is-minor"
     }
   ],
   "busca_imagens": [
@@ -154,6 +160,21 @@
     {
       "id": "img06",
       "query": "File:Crimea Bridge.jpg",
+      "alternativas": []
+    },
+    {
+      "id": "img07",
+      "query": "incategory:\"Opening of the Crimean Bridge\" Kamaz",
+      "alternativas": []
+    },
+    {
+      "id": "img08",
+      "query": "File:Kerch Strait Bridge, 2018-04-14.jpg",
+      "alternativas": []
+    },
+    {
+      "id": "img09",
+      "query": "incategory:\"Crimean Bridge in 2021\"",
       "alternativas": []
     }
   ],
