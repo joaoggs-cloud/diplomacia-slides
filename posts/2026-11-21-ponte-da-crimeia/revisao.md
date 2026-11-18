@@ -1,3 +1,5 @@
+# APROVADO (coordenador, rodada 2, 18 nov): correções 1–6 aplicadas; slides relidos. Reconferir tráfego/reparo em 20 nov.
+
 REPROVADO
 
 # Revisão: 2026-11-21-ponte-da-crimeia (revisor, 18 nov 2026)
