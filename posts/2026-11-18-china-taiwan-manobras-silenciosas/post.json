@@ -35,19 +35,19 @@
     },
     {
       "imagem": "img07",
-      "texto_html": "Nesta quarta, 18 nov, começa em <strong>Shenzhen</strong> a cúpula da APEC. Na quinta, segundo a Casa Branca e o Kremlin, Trump terá reunião com Xi Jinping, a terceira do ano, e depois um encontro inédito a três com Putin, focado em não proliferação nuclear.",
+      "texto_html": "Em 19 nov, em <strong>Shenzhen</strong>, à margem da APEC, Trump e Xi Jinping tiveram sua terceira reunião do ano. Depois, os dois fizeram com Putin um encontro inédito a três, focado em riscos nucleares.",
       "foco": "80% 50%"
     },
     {
       "imagem": "img08",
-      "texto_html": "A pauta com Xi deve ter comércio e riscos da inteligência artificial; <strong>Taiwan não aparece</strong> entre os temas anunciados. Na cúpula de setembro, a Casa Branca não citou a ilha; Pequim disse que Xi pediu aos EUA que se oponham à independência taiwanesa."
+      "texto_html": "Taiwan não estava entre os temas anunciados, mas apareceu. Segundo a Xinhua, Xi disse que os EUA devem continuar <em>“fazendo a coisa certa”</em> sobre a ilha para evitar <strong>“grande turbulência”</strong>. Em setembro, Pequim disse que Xi pediu aos EUA que se oponham à independência taiwanesa."
     }
   ],
   "cta": {
     "titulo": "Salve este post",
     "subtitulo": "e acompanhe o que sai da cúpula da APEC"
   },
-  "legenda": "A China fez um grande exercício naval ao redor de Taiwan sem anunciar nada, segundo autoridades taiwanesas.\n\nEm 3 nov, Taipé contou mais de 100 navios chineses no Pacífico ocidental; em 13 nov, eram cerca de 70 dentro da primeira cadeia de ilhas. Taiwan e analistas leem o movimento como ensaio de bloqueio. Pequim diz que o treino do porta-aviões Liaoning é rotina anual e não dirigido a nenhum país. Os números não foram verificados de forma independente. Nesta quarta, 18 nov, começa a cúpula da APEC em Shenzhen. Na quinta, Trump terá reunião com Xi e um encontro inédito a três com Putin, segundo a Casa Branca e o Kremlin; Taiwan não está entre os temas anunciados.\n\nArraste para o lado e veja o que cada lado disse.",
+  "legenda": "A China fez um grande exercício naval ao redor de Taiwan sem anunciar nada, segundo autoridades taiwanesas.\n\nEm 3 nov, Taipé contou mais de 100 navios chineses no Pacífico ocidental; em 13 nov, eram cerca de 70 dentro da primeira cadeia de ilhas. Taiwan e analistas leem o movimento como ensaio de bloqueio. Pequim diz que o treino do porta-aviões Liaoning é rotina anual e não dirigido a nenhum país. Os números não foram verificados de forma independente. Em 19 nov, em Shenzhen, Trump se reuniu com Xi e depois com Xi e Putin. Taiwan não estava na pauta anunciada, mas, segundo a Xinhua, Xi disse que os EUA devem continuar “fazendo a coisa certa” sobre a ilha para evitar “grande turbulência”.\n\nArraste para o lado e veja o que cada lado disse.",
   "primeiro_comentario": "",
   "hashtags": [
     "#taiwan",
@@ -123,6 +123,14 @@
     {
       "nome": "Al Jazeera, 14 nov",
       "url": "https://www.aljazeera.com/news/2026/11/14/trump-xi-and-putin-to-hold-first-three-way-summit-in-china"
+    },
+    {
+      "nome": "ABC News (Xinhua), 19 nov",
+      "url": "https://abcnews.com/International/xi-tells-trump-us-thing-taiwan-avoid-great/story?id=138283818"
+    },
+    {
+      "nome": "TaiwanPlus, 19 nov",
+      "url": "https://www.taiwanplus.com/news/world-news/international-news/261119016/taiwan-watches-closely-as-trump-meets-xi-putin-in-shenzhen"
     }
   ],
   "busca_imagens": [
@@ -208,11 +216,11 @@
       },
       {
         "imagem": "img07",
-        "texto_html": "Na quinta, em Shenzhen, Trump se reúne com Xi e com <em>Putin</em>, dizem Casa Branca e Kremlin."
+        "texto_html": "Em 19 nov, em Shenzhen, Trump se reuniu com Xi e depois com Xi e <em>Putin</em>."
       },
       {
         "imagem": "img08",
-        "texto_html": "Taiwan não está entre os temas anunciados pela Casa Branca para o <em>encontro de quinta</em>."
+        "texto_html": "Segundo a Xinhua, Xi disse que os EUA devem <em>“fazer a coisa certa”</em> sobre Taiwan."
       }
     ]
   },
