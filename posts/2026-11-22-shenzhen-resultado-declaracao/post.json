@@ -9,13 +9,13 @@
   "usar_hashtags_base": true,
   "capa": {
     "imagem": "img01",
-    "titulo_html": "<span class=\"hl\">Trump, Xi e Putin</span> divulgaram que uma guerra nuclear \"nunca deve ser travada\". A declaração não detalha nenhum mecanismo de controle de armas",
+    "titulo_html": "<span class=\"hl\">Trump, Xi e Putin</span> declararam que uma guerra nuclear \"nunca deve ser travada\". O texto não fixa limites, prazos nem verificação",
     "gancho": "O resultado da cúpula de Shenzhen, lido ponto a ponto."
   },
   "slides": [
     {
       "imagem": "img02",
-      "texto_html": "Em 19 nov, em Shenzhen, à margem da APEC, Trump, Xi e Putin fizeram a primeira reunião trilateral, de pouco mais de uma hora, segundo os relatos. A <strong>declaração conjunta</strong> saiu na Xinhua e no Kremlin; a Casa Branca a chama de \"Declaração de Paz\"."
+      "texto_html": "Em 19 nov, à margem da APEC em Shenzhen, Trump, Xi e Putin fizeram sua primeira reunião a três, de cerca de 1h30. Xinhua, Kremlin e Casa Branca publicaram a mesma <strong>declaração conjunta</strong>, de quatro pontos, chamada \"Declaração rumo à Paz\"."
     },
     {
       "imagem": "img03",
@@ -23,37 +23,34 @@
     },
     {
       "imagem": "img04",
-      "texto_html": "Mas a declaração não detalha mecanismos nem prazos. Segundo a Reuters, não anunciou as negociações de controle de armas que Trump vinha buscando. O New START expirou em 5 fev 2026, e a China recusa uma negociação a três."
+      "texto_html": "Mas, segundo a Reuters, a declaração não anunciou as negociações de controle de armas que Trump vinha buscando. O New START, assinado em 2010 por Obama e Medvedev, expirou em 5 fev 2026, e até a véspera da cúpula a China recusava negociar a três."
     },
     {
       "imagem": "img05",
-      "texto_html": "Os outros pontos, segundo comunicados chinês e russo: reforma da ONU, mais produção e oferta de derivados de petróleo e um alerta ao Tribunal Penal Internacional e a \"órgãos similares\" para não abusarem de seus poderes.",
-      "factbox": {
-        "texto": "A redação do ponto sobre o TPI varia entre os veículos; aqui vale a dos comunicados."
-      }
+      "texto_html": "O texto também promete reformar a ONU e ampliar a produção e a oferta de derivados de petróleo. E defende a imunidade de autoridades de Estado: o Tribunal Penal Internacional e \"órgãos similares\" não devem abusar de sua jurisdição."
     },
     {
       "imagem": "img06",
-      "texto_html": "Sobre a Ucrânia, a declaração é omissa. Segundo o Kremlin, Putin e Trump conversaram cerca de 40 minutos sobre o tema, sem resultado anunciado e sem ucranianos presentes. Para o porta-voz Dmitri Peskov, a Ucrânia não foi o \"tema central\"."
+      "texto_html": "A declaração não cita a Ucrânia. Putin e Trump trataram da guerra numa conversa a dois de cerca de 40 minutos, sem resultado anunciado, segundo o Kremlin. Na reunião a três, disse o porta-voz Dmitri Peskov, a Ucrânia não foi o \"tema central\"."
     },
     {
       "imagem": "img07",
-      "texto_html": "Depois, Putin disse que a Rússia não fará acordos \"depois de ataques à Ponte da Crimeia\" e descartou negociação direta com a Ucrânia e um cessar-fogo limitado. É a posição do presidente russo, não um ponto da declaração conjunta."
+      "texto_html": "Em entrevista coletiva em Shenzhen, após a cúpula, Putin disse que, depois dos ataques à Ponte da Crimeia, a Rússia não vai negociar um cessar-fogo limitado, e descartou conversas diretas com a Ucrânia. É a posição do presidente russo, não um ponto da declaração."
     },
     {
       "imagem": "img08",
-      "texto_html": "Trump disse que ele e Xi concordam que o Irã deve reabrir totalmente o <strong>Estreito de Ormuz</strong> e não pode ter arma nuclear. É a versão de Trump: a declaração conjunta não anunciou solução para o Irã nem para a Ucrânia."
+      "texto_html": "Trump disse que ele e Xi concordam que o Irã deve reabrir totalmente o <strong>Estreito de Ormuz</strong> e não pode ter arma nuclear. Xi não comentou essa versão em público, e a declaração conjunta não menciona o Irã."
     },
     {
       "imagem": "img09",
-      "texto_html": "Xi chamou o encontro de \"inovador\" e \"frutífero\". CBS e CNN descrevem poucos resultados concretos, e o professor William Hurst, de Cambridge, disse que \"muito pouco de substância\" foi alcançado. Macron afirmou que o texto \"não leva a uma reorganização do mundo\"."
+      "texto_html": "Segundo a Xinhua, Xi classificou as conversas como positivas, construtivas e frutíferas. CBS e CNN relatam que nenhum avanço foi anunciado, e William Hurst, de Cambridge, disse que \"muito pouco de substância\" foi alcançado. Para Macron, o texto \"não leva a uma reorganização do mundo\"."
     }
   ],
   "cta": {
     "titulo": "Salve este post",
     "subtitulo": "e acompanhe os desdobramentos da cúpula de Shenzhen"
   },
-  "legenda": "Trump, Xi e Putin divulgaram uma declaração conjunta dizendo que uma guerra nuclear \"não pode ser vencida e nunca deve ser travada\".\n\nA reunião trilateral de Shenzhen, em 19 nov, durou pouco mais de uma hora, segundo os relatos. O texto fala em diálogo sobre redução de riscos nucleares, mas não detalha mecanismos nem prazos, e a Reuters diz que ele não anunciou as negociações de controle de armas que Trump buscava. A Ucrânia ficou de fora do documento: o Kremlin diz que Putin e Trump trataram do tema por cerca de 40 minutos, sem resultado anunciado. Quem comentou os resultados, de Xi a analistas, é atribuído em cada slide.\n\nArraste para o lado para ver o que o texto diz e o que ficou de fora.",
+  "legenda": "Trump, Xi e Putin divulgaram uma declaração conjunta dizendo que uma guerra nuclear \"não pode ser vencida e nunca deve ser travada\".\n\nA reunião trilateral de Shenzhen, em 19 nov, durou cerca de uma hora e meia. O texto, publicado pela Xinhua, pelo Kremlin e pela Casa Branca, promete diálogo sobre redução de riscos nucleares, mas não fixa limites, prazos nem verificação, e a Reuters diz que ele não anunciou as negociações de controle de armas que Trump buscava. A Ucrânia ficou de fora do documento. Segundo o Kremlin, Putin e Trump trataram da guerra numa conversa a dois de cerca de 40 minutos, sem resultado anunciado.\n\nArraste para o lado para ver o que o texto diz e o que ficou de fora.",
   "primeiro_comentario": "",
   "hashtags": [
     "#shenzhen",
@@ -85,10 +82,6 @@
     {
       "nome": "Kyiv Post",
       "url": "https://www.kyivpost.com/post/90605"
-    },
-    {
-      "nome": "Yahoo/NewsNation",
-      "url": "https://www.yahoo.com/news/politics/articles/xi-trump-putin-issue-peace-143336298.html"
     },
     {
       "nome": "Yahoo News (Putin e Ucrânia)",
@@ -129,6 +122,42 @@
     {
       "nome": "SCMP (New START e China)",
       "url": "https://www.scmp.com/news/china/military/article/3342278/why-collapse-last-us-russia-nuclear-treaty-matters-china-and-world"
+    },
+    {
+      "nome": "Xinhua (texto integral)",
+      "url": "https://english.news.cn/20261119/c15631ea3f054a278e3a3f592021f0da/c.html"
+    },
+    {
+      "nome": "Casa Branca (texto integral)",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/11/u-s-russia-china-heads-of-state-declaration-toward-peace/"
+    },
+    {
+      "nome": "The National (texto integral)",
+      "url": "https://www.thenationalnews.com/news/mena/2026/11/19/nuclear-war-cannot-be-won-full-text-of-china-russia-and-us-peace-declaration/"
+    },
+    {
+      "nome": "NPR (duração)",
+      "url": "https://www.npr.org/2026/11/18/nx-s1-6040432/trump-xi-and-putin-shenzhen-china-russia-usa"
+    },
+    {
+      "nome": "Meduza (Putin e a ponte)",
+      "url": "https://meduza.io/en/news/2026/11/19/putin-russia-refuses-to-negotiate-ceasefire-with-ukraine-after-strikes-on-crimean-bridge"
+    },
+    {
+      "nome": "APA (Peskov, reunião a três)",
+      "url": "https://en.apa.az/cis-countries/kremlin-reveals-details-of-putin-xi-trump-meeting-ukraine-was-not-main-topic-of-trilateral-summit-537207"
+    },
+    {
+      "nome": "Korea Times (Macron)",
+      "url": "https://www.koreatimes.co.kr/world/20261120/macron-says-trump-xi-putin-declaration-not-reorganization-of-the-world"
+    },
+    {
+      "nome": "Yahoo (Hurst)",
+      "url": "https://www.yahoo.com/news/politics/articles/xi-putin-trump-summit-heavy-193205437.html"
+    },
+    {
+      "nome": "Al Jazeera (recusa chinesa antes da cúpula)",
+      "url": "https://www.aljazeera.com/news/2026/11/16/why-is-china-not-keen-on-a-nuclear-treaty-with-us-and-russia"
     }
   ],
   "busca_imagens": [
@@ -154,13 +183,18 @@
     },
     {
       "id": "img05",
-      "query": "File:Skyline of Shenzhen from Hong Kong.jpg",
-      "alternativas": []
+      "query": "File:International Criminal Court Headquarters, Netherlands.jpg",
+      "alternativas": [
+        "File:Building of the International Criminal Court in The Hague.jpg",
+        "File:Netherlands, The Hague, International Criminal Court.JPG"
+      ]
     },
     {
       "id": "img06",
-      "query": "File:Destructions in Kostiantynivka after Russian attack, 2024-02-25 (02).jpg",
-      "alternativas": []
+      "query": "File:Moscow - August 2025 - Kremlin Wall, Senate Palace, Senate Tower1.jpg",
+      "alternativas": [
+        "File:7322. Moscow Kremlin. Senate Building.jpg"
+      ]
     },
     {
       "id": "img07",
@@ -240,30 +274,30 @@
       "query": "Medvedev Obama New START signing Prague 2010"
     },
     {
-      "titulo": "Skyline of Shenzhen from Hong Kong.jpg",
-      "autor": "Sparktour",
-      "licenca": "CC BY-SA 4.0",
+      "titulo": "Building of the International Criminal Court in The Hague.jpg",
+      "autor": "Hanhil (Wikipédia)",
+      "licenca": "CC BY-SA 3.0",
       "exige_credito": true,
-      "url_origem": "https://commons.wikimedia.org/wiki/File:Skyline_of_Shenzhen_from_Hong_Kong.jpg",
-      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Skyline_of_Shenzhen_from_Hong_Kong.jpg/1920px-Skyline_of_Shenzhen_from_Hong_Kong.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "largura": 25408,
-      "altura": 6304,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Building_of_the_International_Criminal_Court_in_The_Hague.jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Building_of_the_International_Criminal_Court_in_The_Hague.jpg/1920px-Building_of_the_International_Criminal_Court_in_The_Hague.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 2616,
+      "altura": 3488,
       "id": "img05",
       "arquivo": "imagens/img05.jpg",
-      "query": "Shenzhen skyline"
+      "query": "File:International Criminal Court Headquarters, Netherlands.jpg"
     },
     {
-      "titulo": "Destructions in Kostiantynivka after Russian attack, 2024-02-25 (02).jpg",
-      "autor": "National Police of Ukraine",
+      "titulo": "Moscow - August 2025 - Kremlin Wall, Senate Palace, Senate Tower1.jpg",
+      "autor": "Юрий Д.К.",
       "licenca": "CC BY 4.0",
       "exige_credito": true,
-      "url_origem": "https://commons.wikimedia.org/wiki/File:Destructions_in_Kostiantynivka_after_Russian_attack,_2024-02-25_(02).jpg",
-      "url_download": "https://upload.wikimedia.org/wikipedia/commons/6/64/Destructions_in_Kostiantynivka_after_Russian_attack%2C_2024-02-25_%2802%29.jpg",
-      "largura": 1280,
-      "altura": 961,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Moscow_-_August_2025_-_Kremlin_Wall,_Senate_Palace,_Senate_Tower1.jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Moscow_-_August_2025_-_Kremlin_Wall%2C_Senate_Palace%2C_Senate_Tower1.jpg/1920px-Moscow_-_August_2025_-_Kremlin_Wall%2C_Senate_Palace%2C_Senate_Tower1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 8256,
+      "altura": 5504,
       "id": "img06",
       "arquivo": "imagens/img06.jpg",
-      "query": "File:Destructions in Kostiantynivka after Russian attack, 2024-02-25 (02).jpg"
+      "query": "File:Moscow - August 2025 - Kremlin Wall, Senate Palace, Senate Tower1.jpg"
     },
     {
       "titulo": "Crimea Bridge.jpg",
