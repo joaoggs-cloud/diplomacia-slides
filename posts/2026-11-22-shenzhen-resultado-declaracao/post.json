@@ -1,0 +1,308 @@
+{
+  "slug": "2026-11-22-shenzhen-resultado-declaracao",
+  "titulo_interno": "Shenzhen: o que a declaração diz e o que deixou de fora",
+  "status": "rascunho",
+  "estilo": "clean",
+  "pilar": "diplomacia",
+  "categoria": "Diplomacia · Shenzhen",
+  "gancho_tipo": "contradicao",
+  "usar_hashtags_base": true,
+  "capa": {
+    "imagem": "img01",
+    "titulo_html": "<span class=\"hl\">Trump, Xi e Putin</span> divulgaram que uma guerra nuclear \"nunca deve ser travada\". A declaração não detalha nenhum mecanismo de controle de armas",
+    "gancho": "O resultado da cúpula de Shenzhen, lido ponto a ponto."
+  },
+  "slides": [
+    {
+      "imagem": "img02",
+      "texto_html": "Em 19 nov, em Shenzhen, à margem da APEC, Trump, Xi e Putin fizeram a primeira reunião trilateral, de pouco mais de uma hora, segundo os relatos. A <strong>declaração conjunta</strong> saiu na Xinhua e no Kremlin; a Casa Branca a chama de \"Declaração de Paz\"."
+    },
+    {
+      "imagem": "img03",
+      "texto_html": "O texto afirma que <strong>\"uma guerra nuclear não pode ser vencida e nunca deve ser travada\"</strong> e que os três países vão conduzir um diálogo sobre a redução de riscos nucleares e a não proliferação."
+    },
+    {
+      "imagem": "img04",
+      "texto_html": "Mas a declaração não detalha mecanismos nem prazos. Segundo a Reuters, não anunciou as negociações de controle de armas que Trump vinha buscando. O New START expirou em 5 fev 2026, e a China recusa uma negociação a três."
+    },
+    {
+      "imagem": "img05",
+      "texto_html": "Os outros pontos, segundo comunicados chinês e russo: reforma da ONU, mais produção e oferta de derivados de petróleo e um alerta ao Tribunal Penal Internacional e a \"órgãos similares\" para não abusarem de seus poderes.",
+      "factbox": {
+        "texto": "A redação do ponto sobre o TPI varia entre os veículos; aqui vale a dos comunicados."
+      }
+    },
+    {
+      "imagem": "img06",
+      "texto_html": "Sobre a Ucrânia, a declaração é omissa. Segundo o Kremlin, Putin e Trump conversaram cerca de 40 minutos sobre o tema, sem resultado anunciado e sem ucranianos presentes. Para o porta-voz Dmitri Peskov, a Ucrânia não foi o \"tema central\"."
+    },
+    {
+      "imagem": "img07",
+      "texto_html": "Depois, Putin disse que a Rússia não fará acordos \"depois de ataques à Ponte da Crimeia\" e descartou negociação direta com a Ucrânia e um cessar-fogo limitado. É a posição do presidente russo, não um ponto da declaração conjunta."
+    },
+    {
+      "imagem": "img08",
+      "texto_html": "Trump disse que ele e Xi concordam que o Irã deve reabrir totalmente o <strong>Estreito de Ormuz</strong> e não pode ter arma nuclear. É a versão de Trump: a declaração conjunta não anunciou solução para o Irã nem para a Ucrânia."
+    },
+    {
+      "imagem": "img09",
+      "texto_html": "Xi chamou o encontro de \"inovador\" e \"frutífero\". CBS e CNN descrevem poucos resultados concretos, e o professor William Hurst, de Cambridge, disse que \"muito pouco de substância\" foi alcançado. Macron afirmou que o texto \"não leva a uma reorganização do mundo\"."
+    }
+  ],
+  "cta": {
+    "titulo": "Salve este post",
+    "subtitulo": "e acompanhe os desdobramentos da cúpula de Shenzhen"
+  },
+  "legenda": "Trump, Xi e Putin divulgaram uma declaração conjunta dizendo que uma guerra nuclear \"não pode ser vencida e nunca deve ser travada\".\n\nA reunião trilateral de Shenzhen, em 19 nov, durou pouco mais de uma hora, segundo os relatos. O texto fala em diálogo sobre redução de riscos nucleares, mas não detalha mecanismos nem prazos, e a Reuters diz que ele não anunciou as negociações de controle de armas que Trump buscava. A Ucrânia ficou de fora do documento: o Kremlin diz que Putin e Trump trataram do tema por cerca de 40 minutos, sem resultado anunciado. Quem comentou os resultados, de Xi a analistas, é atribuído em cada slide.\n\nArraste para o lado para ver o que o texto diz e o que ficou de fora.",
+  "primeiro_comentario": "",
+  "hashtags": [
+    "#shenzhen",
+    "#apec",
+    "#trump",
+    "#xijinping",
+    "#putin",
+    "#armasnucleares",
+    "#geopolitica"
+  ],
+  "alt_text": "Carrossel sobre a declaração conjunta de Trump, Xi e Putin em Shenzhen, com fotos de Shenzhen, mísseis e do Estreito de Ormuz.",
+  "fontes": [
+    {
+      "nome": "CBS News",
+      "url": "https://www.cbsnews.com/news/trump-xi-putin-china-apec-summit/"
+    },
+    {
+      "nome": "France 24",
+      "url": "https://www.france24.com/en/asia-pacific/20261119-xi-trump-putin-talks-live-china-us-russia-leaders-hold-landmark-three-way-meeting"
+    },
+    {
+      "nome": "Reuters (via Lufkin Daily News)",
+      "url": "https://lufkindailynews.com/news_reuters/top_news/trump-xi-and-putin-release-peace-declaration-from-unprecedented-summit/article_e5c1dbaf-fab8-53b5-86d1-bb74467d0948.html"
+    },
+    {
+      "nome": "Bernama",
+      "url": "https://www.bernama.com/en/world/news.php?id=2636841"
+    },
+    {
+      "nome": "Kyiv Post",
+      "url": "https://www.kyivpost.com/post/90605"
+    },
+    {
+      "nome": "Yahoo/NewsNation",
+      "url": "https://www.yahoo.com/news/politics/articles/xi-trump-putin-issue-peace-143336298.html"
+    },
+    {
+      "nome": "Yahoo News (Putin e Ucrânia)",
+      "url": "https://www.yahoo.com/news/world/articles/russias-putin-talks-ukraine-trump-082115095.html"
+    },
+    {
+      "nome": "The National",
+      "url": "https://www.thenationalnews.com/news/europe/2026/11/19/berlin-hosts-zelenskyy-as-putin-cools-on-direct-talks/"
+    },
+    {
+      "nome": "CBS News (Putin e a ponte)",
+      "url": "https://www.cbsnews.com/news/putin-russia-ukraine-bridge-strike/"
+    },
+    {
+      "nome": "Open Magazine",
+      "url": "https://openthemagazine.com/world/trump-says-us-china-believe-in-end-to-russia-ukraine-war-no-nukes-for-iran-very-strongly"
+    },
+    {
+      "nome": "CBN",
+      "url": "https://cbn.com/news/world/trump-returns-us-after-historic-talks-xi-putin-nuclear-arms-ukraine-iran"
+    },
+    {
+      "nome": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/19/groundbreaking-trump-xi-putin-summit-five-key-takeaways"
+    },
+    {
+      "nome": "SCMP",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3374977/world-leaders-gather-talk-trade-and-investment-apec-chinas-tech-hub-shenzhen"
+    },
+    {
+      "nome": "CNN",
+      "url": "https://edition.cnn.com/2026/11/17/politics/live-news/trump-visit-china-philippines"
+    },
+    {
+      "nome": "NPR (New START)",
+      "url": "https://www.npr.org/2026/02/04/nx-s1-5697382/new-start-nuclear-treaty-expired-us-russia"
+    },
+    {
+      "nome": "SCMP (New START e China)",
+      "url": "https://www.scmp.com/news/china/military/article/3342278/why-collapse-last-us-russia-nuclear-treaty-matters-china-and-world"
+    }
+  ],
+  "busca_imagens": [
+    {
+      "id": "img01",
+      "query": "File:Shenzhen skyscrapers light show in Futian District.jpg",
+      "alternativas": []
+    },
+    {
+      "id": "img02",
+      "query": "File:Shenzhen Skyline Fuhua Road Ping An International Finance Center.jpg",
+      "alternativas": []
+    },
+    {
+      "id": "img03",
+      "query": "File:Minuteman III Launches From Vandenberg AFB On October 2, 2019.jpg",
+      "alternativas": []
+    },
+    {
+      "id": "img04",
+      "query": "File:Obama and Medvedev sign New START.jpg",
+      "alternativas": []
+    },
+    {
+      "id": "img05",
+      "query": "File:Skyline of Shenzhen from Hong Kong.jpg",
+      "alternativas": []
+    },
+    {
+      "id": "img06",
+      "query": "File:Destructions in Kostiantynivka after Russian attack, 2024-02-25 (02).jpg",
+      "alternativas": []
+    },
+    {
+      "id": "img07",
+      "query": "File:Crimea Bridge.jpg",
+      "alternativas": []
+    },
+    {
+      "id": "img08",
+      "query": "File:CVN 69 transits the Strait of Hormuz (28465403076).jpg",
+      "alternativas": []
+    },
+    {
+      "id": "img09",
+      "query": "File:View of Shenzhen Bay Bridge from the coast2.jpg",
+      "alternativas": []
+    }
+  ],
+  "agendamento": {
+    "data_hora": "2026-11-22T06:01:00-03:00",
+    "slot": "06:01"
+  },
+  "reel": {
+    "gerar": false
+  },
+  "ia_gerado": false,
+  "imagens": [
+    {
+      "titulo": "Shenzhen skyscrapers light show in Futian District.jpg",
+      "autor": "ShenzhenPages",
+      "licenca": "CC BY-SA 4.0",
+      "exige_credito": true,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Shenzhen_skyscrapers_light_show_in_Futian_District.jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Shenzhen_skyscrapers_light_show_in_Futian_District.jpg/1920px-Shenzhen_skyscrapers_light_show_in_Futian_District.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 5999,
+      "altura": 5999,
+      "id": "img01",
+      "arquivo": "imagens/img01.jpg",
+      "query": "File:Shenzhen skyscrapers light show in Futian District.jpg"
+    },
+    {
+      "titulo": "Shenzhen Skyline Fuhua Road Ping An International Finance Center.jpg",
+      "autor": "Shihu7",
+      "licenca": "CC BY-SA 4.0",
+      "exige_credito": true,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Shenzhen_Skyline_Fuhua_Road_Ping_An_International_Finance_Center.jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Shenzhen_Skyline_Fuhua_Road_Ping_An_International_Finance_Center.jpg/1920px-Shenzhen_Skyline_Fuhua_Road_Ping_An_International_Finance_Center.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 4032,
+      "altura": 3024,
+      "id": "img02",
+      "arquivo": "imagens/img02.jpg",
+      "query": "File:Shenzhen Skyline Fuhua Road Ping An International Finance Center.jpg"
+    },
+    {
+      "titulo": "Minuteman III Launches From Vandenberg AFB On October 2, 2019.jpg",
+      "autor": "Staff Sgt. JT Armstrong",
+      "licenca": "Public domain",
+      "exige_credito": false,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Minuteman_III_Launches_From_Vandenberg_AFB_On_October_2,_2019.jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Minuteman_III_Launches_From_Vandenberg_AFB_On_October_2%2C_2019.jpg/1920px-Minuteman_III_Launches_From_Vandenberg_AFB_On_October_2%2C_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 3359,
+      "altura": 2240,
+      "id": "img03",
+      "arquivo": "imagens/img03.jpg",
+      "query": "Minuteman III test launch Vandenberg"
+    },
+    {
+      "titulo": "Obama and Medvedev sign New START.jpg",
+      "autor": "Chuck Kennedy",
+      "licenca": "Public domain",
+      "exige_credito": false,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Obama_and_Medvedev_sign_New_START.jpg",
+      "url_download": "https://upload.wikimedia.org/wikipedia/commons/2/21/Obama_and_Medvedev_sign_New_START.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largura": 1904,
+      "altura": 1269,
+      "id": "img04",
+      "arquivo": "imagens/img04.jpg",
+      "query": "Medvedev Obama New START signing Prague 2010"
+    },
+    {
+      "titulo": "Skyline of Shenzhen from Hong Kong.jpg",
+      "autor": "Sparktour",
+      "licenca": "CC BY-SA 4.0",
+      "exige_credito": true,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Skyline_of_Shenzhen_from_Hong_Kong.jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Skyline_of_Shenzhen_from_Hong_Kong.jpg/1920px-Skyline_of_Shenzhen_from_Hong_Kong.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 25408,
+      "altura": 6304,
+      "id": "img05",
+      "arquivo": "imagens/img05.jpg",
+      "query": "Shenzhen skyline"
+    },
+    {
+      "titulo": "Destructions in Kostiantynivka after Russian attack, 2024-02-25 (02).jpg",
+      "autor": "National Police of Ukraine",
+      "licenca": "CC BY 4.0",
+      "exige_credito": true,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Destructions_in_Kostiantynivka_after_Russian_attack,_2024-02-25_(02).jpg",
+      "url_download": "https://upload.wikimedia.org/wikipedia/commons/6/64/Destructions_in_Kostiantynivka_after_Russian_attack%2C_2024-02-25_%2802%29.jpg",
+      "largura": 1280,
+      "altura": 961,
+      "id": "img06",
+      "arquivo": "imagens/img06.jpg",
+      "query": "File:Destructions in Kostiantynivka after Russian attack, 2024-02-25 (02).jpg"
+    },
+    {
+      "titulo": "Crimea Bridge.jpg",
+      "autor": "Leon petrosyan",
+      "licenca": "CC BY-SA 4.0",
+      "exige_credito": true,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Crimea_Bridge.jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Crimea_Bridge.jpg/1920px-Crimea_Bridge.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 5184,
+      "altura": 3888,
+      "id": "img07",
+      "arquivo": "imagens/img07.jpg",
+      "query": "File:Crimea Bridge.jpg"
+    },
+    {
+      "titulo": "CVN 69 transits the Strait of Hormuz (28465403076).jpg",
+      "autor": "U.S. Navy",
+      "licenca": "Public domain",
+      "exige_credito": false,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:CVN_69_transits_the_Strait_of_Hormuz_(28465403076).jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/CVN_69_transits_the_Strait_of_Hormuz_%2828465403076%29.jpg/1920px-CVN_69_transits_the_Strait_of_Hormuz_%2828465403076%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 4633,
+      "altura": 2850,
+      "id": "img08",
+      "arquivo": "imagens/img08.jpg",
+      "query": "File:CVN 69 transits the Strait of Hormuz (28465403076).jpg"
+    },
+    {
+      "titulo": "View of Shenzhen Bay Bridge from the coast2.jpg",
+      "autor": "Huangdan2060",
+      "licenca": "CC0",
+      "exige_credito": false,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:View_of_Shenzhen_Bay_Bridge_from_the_coast2.jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/View_of_Shenzhen_Bay_Bridge_from_the_coast2.jpg/1920px-View_of_Shenzhen_Bay_Bridge_from_the_coast2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 2592,
+      "altura": 1944,
+      "id": "img09",
+      "arquivo": "imagens/img09.jpg",
+      "query": "Shenzhen Bay Bridge"
+    }
+  ]
+}
