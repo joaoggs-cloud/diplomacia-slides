@@ -1,3 +1,5 @@
+# APROVADO (coordenador, rodada 2, 19 nov): correções 1–11 aplicadas; slides relidos. Reconferir manchetes em 21 nov (coletiva de Trump).
+
 REPROVADO
 
 # Revisão: 2026-11-22-shenzhen-resultado-declaracao (19 nov 2026, noite)
