@@ -28,7 +28,8 @@
     },
     {
       "imagem": "img06",
-      "texto_html": "O governo estoniano diz que o fechamento dificulta o recrutamento e a influência de serviços de inteligência russos e a evasão de sanções. A ferrovia não é afetada: o transporte de carga segue, sob inspeção alfandegária rigorosa."
+      "texto_html": "O governo estoniano diz que o fechamento dificulta o recrutamento e a influência de serviços de inteligência russos e a evasão de sanções. A ferrovia não é afetada: o transporte de carga segue, sob inspeção alfandegária rigorosa.",
+      "foco": "15% center"
     },
     {
       "imagem": "img07",
@@ -247,14 +248,14 @@
       "query": "File:Narva checkpoint Russia-Estonia border May 2010.jpg"
     },
     {
-      "titulo": "Narva-raudteesild-1918-purustatud.jpg",
-      "autor": "Unknown authorUnknown author",
+      "titulo": "Narva railway bridge wide.jpg",
+      "autor": "Hannu",
       "licenca": "Public domain",
       "exige_credito": false,
-      "url_origem": "https://commons.wikimedia.org/wiki/File:Narva-raudteesild-1918-purustatud.jpg",
-      "url_download": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Narva-raudteesild-1918-purustatud.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "largura": 1667,
-      "altura": 1052,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Narva_railway_bridge_wide.jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Narva_railway_bridge_wide.jpg/1920px-Narva_railway_bridge_wide.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 6284,
+      "altura": 1337,
       "id": "img06",
       "arquivo": "imagens/img06.jpg",
       "query": "incategory:\"Narva railway bridge\""
