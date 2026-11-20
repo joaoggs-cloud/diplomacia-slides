@@ -208,6 +208,19 @@
       "query": "File:Narva Castle and Ivangorod Fortress Russia-Estonia border on Narva River (3).jpg"
     },
     {
+      "titulo": "Threod Systems EOS C VTOL.jpg",
+      "autor": "Defensie Nederlands",
+      "licenca": "CC BY-SA 4.0",
+      "exige_credito": true,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Threod_Systems_EOS_C_VTOL.jpg",
+      "url_download": "https://upload.wikimedia.org/wikipedia/commons/6/60/Threod_Systems_EOS_C_VTOL.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largura": 1250,
+      "altura": 833,
+      "id": "img03",
+      "arquivo": "imagens/img03.jpg",
+      "query": "File:Threod Systems EOS C VTOL.jpg"
+    },
+    {
       "titulo": "Narva Hermann Castle and Ivangorod Fortress.jpg",
       "autor": "Ad Meskens",
       "licenca": "CC BY-SA 4.0",
@@ -219,6 +232,71 @@
       "id": "img04",
       "arquivo": "imagens/img04.jpg",
       "query": "File:Narva Hermann Castle and Ivangorod Fortress.jpg"
+    },
+    {
+      "titulo": "Narva checkpoint Russia-Estonia border May 2010.jpg",
+      "autor": "Tony Bowden",
+      "licenca": "CC BY-SA 2.0",
+      "exige_credito": true,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Narva_checkpoint_Russia-Estonia_border_May_2010.jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Narva_checkpoint_Russia-Estonia_border_May_2010.jpg/1920px-Narva_checkpoint_Russia-Estonia_border_May_2010.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 2381,
+      "altura": 1588,
+      "id": "img05",
+      "arquivo": "imagens/img05.jpg",
+      "query": "File:Narva checkpoint Russia-Estonia border May 2010.jpg"
+    },
+    {
+      "titulo": "Narva-raudteesild-1918-purustatud.jpg",
+      "autor": "Unknown authorUnknown author",
+      "licenca": "Public domain",
+      "exige_credito": false,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Narva-raudteesild-1918-purustatud.jpg",
+      "url_download": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Narva-raudteesild-1918-purustatud.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largura": 1667,
+      "altura": 1052,
+      "id": "img06",
+      "arquivo": "imagens/img06.jpg",
+      "query": "incategory:\"Narva railway bridge\""
+    },
+    {
+      "titulo": "Ivangorod Fortress, Russia 2025.jpg",
+      "autor": "Photographer: Mosbatho",
+      "licenca": "CC BY 4.0",
+      "exige_credito": true,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Ivangorod_Fortress,_Russia_2025.jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Ivangorod_Fortress%2C_Russia_2025.jpg/1920px-Ivangorod_Fortress%2C_Russia_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 4650,
+      "altura": 3000,
+      "id": "img07",
+      "arquivo": "imagens/img07.jpg",
+      "query": "incategory:\"Ivangorod Fortress\""
+    },
+    {
+      "titulo": "Luhamaa piiripunkt.jpg",
+      "autor": "Police and Border Guard Board / Politsei- ja Piirivalveamet",
+      "licenca": "CC BY-SA 3.0",
+      "exige_credito": true,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Luhamaa_piiripunkt.jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Luhamaa_piiripunkt.jpg/1920px-Luhamaa_piiripunkt.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 2086,
+      "altura": 1390,
+      "id": "img08",
+      "arquivo": "imagens/img08.jpg",
+      "query": "File:Luhamaa piiripunkt.jpg"
+    },
+    {
+      "titulo": "Droon EOS C VTOL (03).jpg",
+      "autor": "Jaan Künnap",
+      "licenca": "CC BY-SA 4.0",
+      "exige_credito": true,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Droon_EOS_C_VTOL_(03).jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Droon_EOS_C_VTOL_%2803%29.jpg/1920px-Droon_EOS_C_VTOL_%2803%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 3000,
+      "altura": 1626,
+      "id": "img09",
+      "arquivo": "imagens/img09.jpg",
+      "query": "File:Droon EOS C VTOL (03).jpg"
     }
   ]
 }
