@@ -9,55 +9,56 @@
   "usar_hashtags_base": true,
   "capa": {
     "imagem": "img01",
-    "titulo_html": "Uma fábrica de drones, <span class=\"hl\">8 presos</span> e <span class=\"hl\">5 passagens fechadas</span>: a Estônia vai trancar a fronteira com a Rússia",
-    "gancho": "O que levou Tallinn a fechar todas as estradas até a Rússia em 1º de dezembro."
+    "titulo_html": "<span class=\"hl\">5 passagens fechadas</span> e 8 detidos: por que a Estônia vai trancar a fronteira com a Rússia",
+    "gancho": "O que levou Tallinn a fechar todas as estradas até a Rússia em 1º de dezembro.",
+    "foco": "20% center"
   },
   "slides": [
     {
       "imagem": "img05",
-      "texto_html": "Em 20 nov, o governo da Estônia confirmou que, a partir de 1º dez, vai fechar as <strong>cinco passagens rodoviárias</strong> com a Rússia: Narva-1, Narva-2, Koidula, Luhamaa e Saatse. A suspensão vale por seis meses, com revisão ao fim do prazo."
+      "texto_html": "Em 20 nov, o governo da Estônia decidiu fechar, a partir de 1º dez, as <strong>cinco passagens rodoviárias</strong> com a Rússia: Narva-1, Narva-2, Koidula, Luhamaa e Saatse. A suspensão vale por seis meses; ao fim do prazo, o governo decide se prorroga."
     },
     {
       "imagem": "img03",
-      "texto_html": "O gatilho veio às 03h06 de 14 nov, um sábado: houve uma tentativa de provocar explosão e incêndio nas instalações da <strong>Threod Systems</strong>, fabricante de drones de defesa, em Viimsi. Segundo a promotoria, sem dano significativo."
+      "texto_html": "O gatilho veio na madrugada de 14 nov, um sábado: uma tentativa de incêndio criminoso nas instalações da <strong>Threod Systems</strong>, fabricante estoniana de drones de defesa, em Viimsi, perto de Tallinn. Segundo a promotoria, não houve dano significativo."
     },
     {
-      "imagem": "img04",
-      "texto_html": "A Estônia atribui a ordem ao <strong>GRU</strong>, o serviço de inteligência militar da Rússia. Oito suspeitos ligados à Letônia foram detidos, cinco deles com pedido de prisão preventiva. Moscou nega envolvimento no ataque."
+      "imagem": "img09",
+      "texto_html": "A Estônia atribui a ordem ao <strong>GRU</strong>, o serviço de inteligência militar da Rússia. Oito moradores da Letônia foram detidos, e a promotoria pediu a prisão preventiva de cinco. Moscou nega envolvimento no ataque."
     },
     {
-      "imagem": "img05",
+      "imagem": "img06",
       "texto_html": "O governo estoniano diz que o fechamento dificulta o recrutamento e a influência de serviços de inteligência russos e a evasão de sanções. A ferrovia não é afetada: o transporte de carga segue, sob inspeção alfandegária rigorosa."
     },
     {
-      "imagem": "img01",
-      "texto_html": "Em Moscou, uma autoridade russa classificou a medida como \"mais um surto de <strong>russofobia</strong> agressiva e desenfreada\". É a reação de um lado do conflito; a decisão estoniana segue de pé."
+      "imagem": "img07",
+      "texto_html": "Em Moscou, a porta-voz da chancelaria russa, Maria Zakharova, acusou Tallinn de erguer uma \"nova <strong>Cortina de Ferro</strong>\" e prometeu medidas políticas e diplomáticas em resposta. Dias antes, ela já havia falado em \"russofobia agressiva e desenfreada\"."
     },
     {
-      "imagem": "img01",
+      "imagem": "img08",
       "texto_html": "Não é inédito na região: a <strong>Finlândia</strong> mantém a fronteira terrestre com a Rússia fechada desde 2023. Letônia e Lituânia, por ora, não fecharam as suas."
     },
     {
       "imagem": "img04",
-      "texto_html": "Em Narva, cidade colada à fronteira, o prefeito Jaan Toots diz que o governo decidiu sem exceções por ora e pede \"corredores humanitários\", para visitas a idosos e funerais. O governo promete discutir medidas de mitigação nas próximas semanas."
+      "texto_html": "Em Narva, cidade na margem do rio que marca a fronteira, o prefeito Jaan Toots pede \"corredores humanitários\" para viagens de emergência à Rússia. O governo diz que vai discutir medidas para amenizar o impacto na região nas próximas semanas."
     }
   ],
   "cta": {
-    "titulo": "Envie para quem acompanha a guerra na Europa",
-    "subtitulo": "e acompanhe os próximos passos da Estônia"
+    "titulo": "Envie para quem acompanha a guerra híbrida na Europa",
+    "subtitulo": "e fique de olho nos próximos passos da Estônia"
   },
-  "legenda": "A Estônia vai fechar, em 1º de dezembro, as cinco passagens rodoviárias com a Rússia.\n\nA suspensão vale por seis meses, com revisão ao fim do prazo, e a ferrovia de carga continua. O motivo é uma tentativa de incêndio e explosão numa fábrica de drones de defesa, a Threod Systems, em 14 nov. Oito suspeitos ligados à Letônia foram detidos. A Estônia atribui a ordem ao GRU, a inteligência militar russa; Moscou nega envolvimento e chama a medida de \"russofobia\". A Finlândia já mantém sua fronteira fechada desde 2023.\n\nArraste para o lado para ver o que muda e quem reage.",
+  "legenda": "A Estônia vai fechar, em 1º de dezembro, as cinco passagens rodoviárias com a Rússia.\n\nA suspensão vale por seis meses e a ferrovia de carga continua. O motivo é uma tentativa de incêndio criminoso numa fábrica de drones de defesa, a Threod Systems, em 14 nov. Oito moradores da Letônia foram detidos. A Estônia atribui a ordem ao GRU, a inteligência militar russa; Moscou nega envolvimento, e a chancelaria russa fala em \"nova Cortina de Ferro\" e promete resposta. A Finlândia já mantém sua fronteira fechada desde 2023.\n\nArraste para o lado para ver o que muda e quem reage.",
   "primeiro_comentario": "",
   "hashtags": [
     "#estonia",
     "#russia",
-    "#gruhibrida",
+    "#guerrahibrida",
     "#fronteira",
     "#otan",
     "#drones",
     "#geopolitica"
   ],
-  "alt_text": "Carrossel sobre o fechamento da fronteira terrestre da Estônia com a Rússia, com fotos do castelo de Narva, da fortaleza de Ivangorod, de uma fila de caminhões e de um drone.",
+  "alt_text": "Carrossel sobre o fechamento da fronteira terrestre da Estônia com a Rússia, com fotos do castelo de Narva, da fortaleza de Ivangorod, de postos de fronteira, da ponte ferroviária de Narva e de um drone.",
   "fontes": [
     {
       "nome": "Euronews",
@@ -102,21 +103,27 @@
     {
       "nome": "France 24",
       "url": "https://www.france24.com/en/europe/20261115-estonia-to-close-russian-border-crossings-after-sabotage-attempt-at-drone-factory"
+    },
+    {
+      "nome": "Moscow Times (20 nov)",
+      "url": "https://www.themoscowtimes.com/2026/11/20/russia-accuses-estonia-of-erecting-new-iron-curtain-with-border-closure-says-it-will-respond-a94333"
+    },
+    {
+      "nome": "Al Jazeera (20 nov)",
+      "url": "https://www.aljazeera.com/news/2026/11/20/russia-complains-of-new-iron-curtain-as-estonia-shuts-its-borders"
     }
   ],
   "busca_imagens": [
     {
       "id": "img01",
       "query": "File:Narva Castle and Ivangorod Fortress Russia-Estonia border on Narva River (3).jpg",
-      "alternativas": [
-        "File:Narva Hermann Castle and Ivangorod Fortress.jpg"
-      ]
+      "alternativas": []
     },
     {
       "id": "img03",
-      "query": "Estonian drone",
+      "query": "File:Threod Systems EOS C VTOL.jpg",
       "alternativas": [
-        "drone Estonia Defence Forces"
+        "File:Droon EOS C VTOL (03).jpg"
       ]
     },
     {
@@ -126,7 +133,29 @@
     },
     {
       "id": "img05",
-      "query": "File:Truck queue in Narva 2007.jpg",
+      "query": "File:Narva checkpoint Russia-Estonia border May 2010.jpg",
+      "alternativas": [
+        "File:Border station in Narva.jpg"
+      ]
+    },
+    {
+      "id": "img06",
+      "query": "incategory:\"Narva railway bridge\"",
+      "alternativas": []
+    },
+    {
+      "id": "img07",
+      "query": "incategory:\"Ivangorod Fortress\"",
+      "alternativas": []
+    },
+    {
+      "id": "img08",
+      "query": "File:Luhamaa piiripunkt.jpg",
+      "alternativas": []
+    },
+    {
+      "id": "img09",
+      "query": "File:Droon EOS C VTOL (03).jpg",
       "alternativas": []
     }
   ],
@@ -135,14 +164,14 @@
     "slot": "06:01"
   },
   "reel": {
-    "gancho": "Uma fábrica de drones, oito presos e cinco passagens fechadas.",
+    "gancho": "Por que a Estônia vai fechar todas as estradas até a Rússia.",
     "cenas": [
       {
         "imagem": "img05",
         "texto_html": "Em 1º de dezembro, a Estônia fecha as <em>cinco passagens rodoviárias</em> com a Rússia."
       },
       {
-        "imagem": "img01",
+        "imagem": "img07",
         "texto_html": "A medida vale por <em>seis meses</em>, com revisão depois. A ferrovia de carga continua."
       },
       {
@@ -150,15 +179,15 @@
         "texto_html": "O motivo: uma tentativa de incêndio numa <em>fábrica de drones</em>, em 14 de novembro."
       },
       {
-        "imagem": "img04",
+        "imagem": "img09",
         "texto_html": "A Estônia atribui a ordem ao <em>GRU</em>, inteligência militar russa. Moscou nega."
       },
       {
         "imagem": "img01",
-        "texto_html": "Oito suspeitos foram presos. Uma autoridade russa chama o fechamento de <em>russofobia</em>."
+        "texto_html": "Oito suspeitos foram detidos. Moscou fala em <em>nova Cortina de Ferro</em> e promete resposta."
       },
       {
-        "imagem": "img04",
+        "imagem": "img08",
         "texto_html": "A Finlândia fechou sua fronteira em 2023. Letônia e Lituânia não fecharam as suas."
       }
     ]
@@ -179,19 +208,6 @@
       "query": "File:Narva Castle and Ivangorod Fortress Russia-Estonia border on Narva River (3).jpg"
     },
     {
-      "titulo": "Target drone launched by Estonian Defense Forces during Digital Shield event (9552230).jpg",
-      "autor": "U.S. Army photo by Pfc. Gabriel Martinez",
-      "licenca": "Public domain",
-      "exige_credito": false,
-      "url_origem": "https://commons.wikimedia.org/wiki/File:Target_drone_launched_by_Estonian_Defense_Forces_during_Digital_Shield_event_(9552230).jpg",
-      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Target_drone_launched_by_Estonian_Defense_Forces_during_Digital_Shield_event_%289552230%29.jpg/1920px-Target_drone_launched_by_Estonian_Defense_Forces_during_Digital_Shield_event_%289552230%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "largura": 6931,
-      "altura": 4623,
-      "id": "img03",
-      "arquivo": "imagens/img03.jpg",
-      "query": "Estonian drone"
-    },
-    {
       "titulo": "Narva Hermann Castle and Ivangorod Fortress.jpg",
       "autor": "Ad Meskens",
       "licenca": "CC BY-SA 4.0",
@@ -203,19 +219,6 @@
       "id": "img04",
       "arquivo": "imagens/img04.jpg",
       "query": "File:Narva Hermann Castle and Ivangorod Fortress.jpg"
-    },
-    {
-      "titulo": "Truck queue in Narva 2007.jpg",
-      "autor": "Hannu",
-      "licenca": "Public domain",
-      "exige_credito": false,
-      "url_origem": "https://commons.wikimedia.org/wiki/File:Truck_queue_in_Narva_2007.jpg",
-      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Truck_queue_in_Narva_2007.jpg/1920px-Truck_queue_in_Narva_2007.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "largura": 3072,
-      "altura": 2304,
-      "id": "img05",
-      "arquivo": "imagens/img05.jpg",
-      "query": "File:Truck queue in Narva 2007.jpg"
     }
   ]
 }
