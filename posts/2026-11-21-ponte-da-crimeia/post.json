@@ -9,17 +9,17 @@
   "usar_hashtags_base": true,
   "capa": {
     "imagem": "img01",
-    "titulo_html": "<span class=\"hl\">A ponte que Putin abriu em 2018</span> foi atingida duas noites seguidas. Kiev diz que um vão caiu; Moscou promete reconstruir",
-    "gancho": "O ataque à Ponte da Crimeia, em 16 e 17 nov, e o que cada lado diz."
+    "titulo_html": "<span class=\"hl\">A ponte que Putin abriu em 2018</span> foi atingida três vezes em uma semana. Kiev diz que um vão caiu; Moscou promete reconstruir",
+    "gancho": "Os ataques à Ponte da Crimeia, de 16 a 19 nov, e o que cada lado diz."
   },
   "slides": [
     {
       "imagem": "img06",
-      "texto_html": "Em 16 e 17 nov, a Ucrânia atacou a <strong>Ponte da Crimeia</strong> (Kerch) duas vezes. O Estado-Maior ucraniano e o SBU dizem que o ataque de 17 nov derrubou parte do vão rodoviário. A NBC geolocalizou imagens de um trecho caído na água."
+      "texto_html": "Em 16 e 17 nov, a Ucrânia atacou a <strong>Ponte da Crimeia</strong> (Kerch). O Estado-Maior ucraniano e o SBU dizem que o ataque de 17 nov derrubou parte do vão rodoviário. Em 19 nov, mísseis Neptune atingiram a parte ferroviária, segundo Kiev."
     },
     {
       "imagem": "img02",
-      "texto_html": "Moscou dá outra medida. O Ministério dos Transportes confirmou dano por drones, sem vítimas: a pista segue fechada, mas os trens voltaram. Peskov, que antes chamou de pequeno o dano de 16 nov, promete reconstruir. A extensão do estrago não foi verificada de forma independente."
+      "texto_html": "Moscou dá outra medida. Autoridades russas confirmaram dano, sem vítimas: a pista segue fechada, e os trens, suspensos após o ataque de 19 nov, voltaram em uma via. Peskov, que antes chamou de pequeno o dano de 16 nov, promete reconstruir."
     },
     {
       "imagem": "img08",
@@ -47,14 +47,14 @@
     },
     {
       "imagem": "img05",
-      "texto_html": "Na mesma noite, a Rússia disparou sete mísseis balísticos contra as pontes Norte e Sul de Kiev, sobre o Dnipro, segundo a Ucrânia. As duas foram fechadas. O Serviço de Emergência ucraniano relatou <strong>dois mortos</strong> em Obolonskyi, no ataque à capital."
+      "texto_html": "Na noite de 17 nov, a Rússia disparou sete mísseis balísticos contra as pontes Norte e Sul de Kiev, sobre o Dnipro, segundo a Ucrânia. As duas foram fechadas. O Serviço de Emergência ucraniano relatou <strong>dois mortos</strong> em Obolonskyi, no ataque à capital."
     }
   ],
   "cta": {
     "titulo": "Salve este post",
     "subtitulo": "e acompanhe o que muda na guerra entre Rússia e Ucrânia"
   },
-  "legenda": "A Ponte da Crimeia, que Putin inaugurou em 2018 ao volante de um caminhão, foi atacada pela Ucrânia em 16 e 17 nov.\n\nO Estado-Maior ucraniano e o SBU dizem que parte do vão rodoviário foi derrubada, e a NBC geolocalizou imagens de um trecho caído na água. Moscou confirma dano por drones, sem vítimas; a pista segue fechada, os trens voltaram a circular e o Kremlin promete reconstruir a ponte. A escala real do estrago não foi verificada de forma independente. Na mesma noite, a Rússia atingiu com mísseis as pontes Norte e Sul de Kiev, e o Serviço de Emergência ucraniano relatou dois mortos em Obolonskyi, no ataque à capital.\n\nArraste para o lado para ver o que cada lado afirma e o que ainda é alegação.",
+  "legenda": "A Ponte da Crimeia, que Putin inaugurou em 2018 ao volante de um caminhão, foi atacada pela Ucrânia três vezes, entre 16 e 19 nov.\n\nO Estado-Maior ucraniano e o SBU dizem que parte do vão rodoviário foi derrubada, e a NBC geolocalizou imagens de um trecho caído na água. Em 19 nov, mísseis Neptune atingiram a parte ferroviária, segundo Kiev. Moscou confirma dano, sem vítimas; a pista segue fechada, os trens foram suspensos e voltaram em uma via, segundo autoridades russas, e o Kremlin promete reconstruir a ponte. A escala real do estrago não foi verificada de forma independente. Na noite de 17 nov, a Rússia atingiu com mísseis as pontes Norte e Sul de Kiev, e o Serviço de Emergência ucraniano relatou dois mortos em Obolonskyi, no ataque à capital.\n\nArraste para o lado para ver o que cada lado afirma e o que ainda é alegação.",
   "primeiro_comentario": "",
   "hashtags": [
     "#ponteDaCrimeia",
@@ -129,6 +129,18 @@
     {
       "nome": "Meduza (16 nov)",
       "url": "https://meduza.io/en/feature/2026/11/16/ukrainian-drone-attack-damages-crimea-bridge-shutting-down-road-traffic-for-hours-kremlin-says-damage-is-minor"
+    },
+    {
+      "nome": "Euronews (19 nov)",
+      "url": "https://www.euronews.com/2026/11/19/ukraine-strikes-key-bridge-linking-russia-and-crimea-for-third-time-this-week-halting-rail"
+    },
+    {
+      "nome": "Moscow Times (19 nov)",
+      "url": "https://www.themoscowtimes.com/2026/11/19/traffic-suspended-over-crimean-bridge-after-attack-moscow-installed-official-says-a94306"
+    },
+    {
+      "nome": "Kyiv Independent (19 nov)",
+      "url": "https://kyivindependent.com/ukrainian-forces-once-more-hit-russias-crimean-bridge-days-after-devastating-strike/"
     }
   ],
   "busca_imagens": [
