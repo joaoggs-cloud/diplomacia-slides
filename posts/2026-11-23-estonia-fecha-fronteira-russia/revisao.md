@@ -1,3 +1,5 @@
+# APROVADO (coordenador, rodada 2, 20 nov): correções 1–8 aplicadas; "nova Cortina de Ferro" de Zakharova confirmado (TASS, Moscow Times, Reuters); slides relidos.
+
 REPROVADO
 
 # Revisão: 2026-11-23-estonia-fecha-fronteira-russia (20 nov 2026, noite)
