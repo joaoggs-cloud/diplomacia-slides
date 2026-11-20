@@ -1,0 +1,87 @@
+{
+  "slug": "2026-11-23-estonia-fecha-fronteira-russia",
+  "titulo_interno": "Estônia fecha a fronteira terrestre com a Rússia",
+  "status": "rascunho",
+  "estilo": "clean",
+  "pilar": "conflito_atual",
+  "categoria": "Guerra híbrida · Estônia",
+  "gancho_tipo": "numero",
+  "usar_hashtags_base": true,
+  "capa": {
+    "imagem": "img01",
+    "titulo_html": "Uma fábrica de drones, <span class=\"hl\">8 presos</span> e <span class=\"hl\">5 passagens fechadas</span>: a Estônia vai trancar a fronteira com a Rússia",
+    "gancho": "O que levou Tallinn a fechar todas as estradas até a Rússia em 1º de dezembro."
+  },
+  "slides": [
+    {
+      "imagem": "img02",
+      "texto_html": "Em 20 nov, o governo da Estônia confirmou que, a partir de 1º dez, vai fechar as <strong>cinco passagens rodoviárias</strong> com a Rússia: Narva-1, Narva-2, Koidula, Luhamaa e Saatse. A suspensão vale por seis meses, com revisão ao fim do prazo."
+    },
+    {
+      "imagem": "img03",
+      "texto_html": "O gatilho veio às 03h06 de 14 nov, um sábado: houve uma tentativa de provocar explosão e incêndio nas instalações da <strong>Threod Systems</strong>, fabricante de drones de defesa, em Viimsi. Segundo a promotoria, sem dano significativo."
+    },
+    {
+      "imagem": "img04",
+      "texto_html": "A Estônia atribui a ordem ao <strong>GRU</strong>, o serviço de inteligência militar da Rússia. Oito suspeitos ligados à Letônia foram detidos, cinco deles com pedido de prisão preventiva. Moscou nega envolvimento no ataque."
+    },
+    {
+      "imagem": "img05",
+      "texto_html": "O governo estoniano diz que o fechamento dificulta o recrutamento e a influência de serviços de inteligência russos e a evasão de sanções. A ferrovia não é afetada: o transporte de carga segue, sob inspeção alfandegária rigorosa."
+    },
+    {
+      "imagem": "img01",
+      "texto_html": "Em Moscou, uma autoridade russa classificou a medida como \"mais um surto de <strong>russofobia</strong> agressiva e desenfreada\". É a reação de um lado do conflito; a decisão estoniana segue de pé."
+    },
+    {
+      "imagem": "img06",
+      "texto_html": "Não é inédito na região: a <strong>Finlândia</strong> mantém a fronteira terrestre com a Rússia fechada desde 2023. Letônia e Lituânia, por ora, não fecharam as suas."
+    },
+    {
+      "imagem": "img04",
+      "texto_html": "Em Narva, cidade colada à fronteira, o prefeito Jaan Toots diz que o governo decidiu sem exceções por ora e pede \"corredores humanitários\", para visitas a idosos e funerais. O governo promete discutir medidas de mitigação nas próximas semanas."
+    }
+  ],
+  "cta": {
+    "titulo": "Envie para quem acompanha",
+    "subtitulo": "a guerra na Europa"
+  },
+  "legenda": "A Estônia vai fechar, em 1º de dezembro, as cinco passagens rodoviárias com a Rússia.\n\nA suspensão vale por seis meses, com revisão ao fim do prazo, e a ferrovia de carga continua. O motivo é uma tentativa de incêndio e explosão numa fábrica de drones de defesa, a Threod Systems, em 14 nov. Oito suspeitos ligados à Letônia foram detidos. A Estônia atribui a ordem ao GRU, a inteligência militar russa; Moscou nega envolvimento e chama a medida de \"russofobia\". A Finlândia já mantém sua fronteira fechada desde 2023.\n\nArraste para o lado para ver o que muda e quem reage.",
+  "primeiro_comentario": "",
+  "hashtags": ["#estonia", "#russia", "#gruhibrida", "#fronteira", "#otan", "#drones", "#geopolitica"],
+  "alt_text": "Carrossel sobre o fechamento da fronteira terrestre da Estônia com a Rússia, com fotos de Narva, da ponte sobre o rio Narva e de um castelo na fronteira.",
+  "fontes": [
+    {"nome": "Euronews", "url": "https://www.euronews.com/2026/11/20/estonia-to-shut-border-with-russia-over-gru-linked-sabotage-attack"},
+    {"nome": "ERR News (fechamento)", "url": "https://news.err.ee/1610201515/estonia-to-close-land-border-with-russia-from-december-1"},
+    {"nome": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-11-20/estonia-to-close-russian-border-as-moscow-threatens-response"},
+    {"nome": "ERR News (Threod Systems)", "url": "https://news.err.ee/1610196722/8-detained-after-gru-linked-arson-at-estonian-drone-company-threod-systems"},
+    {"nome": "Breaking Defense", "url": "https://breakingdefense.com/2026/11/estonian-drone-company-targeted-in-sabotage-attempt-as-part-of-russias-hybrid-war-against-europe-prime-minister-michal/"},
+    {"nome": "Kyiv Post", "url": "https://www.kyivpost.com/post/90184"},
+    {"nome": "Meduza", "url": "https://meduza.io/en/news/2026/11/20/estonia-to-close-all-road-crossings-with-russia"},
+    {"nome": "Meduza (prefeito de Narva)", "url": "https://meduza.io/en/news/2026/11/20/narva-mayor-calls-for-humanitarian-corridors-for-emergency-trips-to-russia-as-estonia-prepares-to-close-the-border-december-1"},
+    {"nome": "Euronews (16 nov)", "url": "https://www.euronews.com/2026/11/16/estonia-to-close-russia-border-after-sabotage-bid-foreign-minister-says"},
+    {"nome": "SCMP", "url": "https://www.scmp.com/news/world/russia-central-asia/article/3374514/estonia-close-russia-border-after-sabotage-bid-foreign-minister-says"},
+    {"nome": "France 24", "url": "https://www.france24.com/en/europe/20261115-estonia-to-close-russian-border-crossings-after-sabotage-attempt-at-drone-factory"}
+  ],
+  "busca_imagens": [
+    {"id": "img01", "query": "File:Narva Castle and Ivangorod Fortress Russia-Estonia border on Narva River (3).jpg", "alternativas": ["File:Narva Hermann Castle and Ivangorod Fortress.jpg"]},
+    {"id": "img02", "query": "File:Narva river bridge.jpg", "alternativas": []},
+    {"id": "img03", "query": "Estonian drone", "alternativas": ["drone Estonia Defence Forces"]},
+    {"id": "img04", "query": "File:Narva Hermann Castle and Ivangorod Fortress.jpg", "alternativas": []},
+    {"id": "img05", "query": "File:Truck queue in Narva 2007.jpg", "alternativas": []},
+    {"id": "img06", "query": "File:British troops exercise in Estonia as part of the NATO's eFP (Enhanced Forward Presence) MOD 45163304.jpg", "alternativas": []}
+  ],
+  "agendamento": {"data_hora": "2026-11-23T06:01:00-03:00", "slot": "06:01"},
+  "reel": {
+    "gancho": "Uma fábrica de drones, oito presos e cinco passagens fechadas.",
+    "cenas": [
+      {"imagem": "img02", "texto_html": "Em 1º de dezembro, a Estônia fecha as <em>cinco passagens rodoviárias</em> com a Rússia."},
+      {"imagem": "img05", "texto_html": "A medida vale por <em>seis meses</em>, com revisão depois. A ferrovia de carga continua."},
+      {"imagem": "img03", "texto_html": "O motivo: uma tentativa de incêndio numa <em>fábrica de drones</em>, em 14 de novembro."},
+      {"imagem": "img04", "texto_html": "A Estônia atribui a ordem ao <em>GRU</em>, inteligência militar russa. Moscou nega."},
+      {"imagem": "img01", "texto_html": "Oito suspeitos foram presos. Uma autoridade russa chama o fechamento de <em>russofobia</em>."},
+      {"imagem": "img06", "texto_html": "A Finlândia fechou sua fronteira em 2023. Letônia e Lituânia não fecharam as suas."}
+    ]
+  },
+  "ia_gerado": false
+}
