@@ -14,23 +14,23 @@
   },
   "slides": [
     {
-      "imagem": "img07",
+      "imagem": "img09",
       "texto_html": "Na noite de 19 para 20 nov, a Rússia lançou o <strong>maior ataque de mísseis e drones de novembro</strong> contra a Ucrânia, segundo o ISW. O presidente Volodymyr Zelensky falou em mais de 400 drones e mais de 110 mísseis, 27 deles balísticos."
     },
     {
-      "imagem": "img05",
+      "imagem": "img01",
       "texto_html": "A contagem da Força Aérea ucraniana é menor: <strong>84 mísseis de cruzeiro e 404 drones</strong> de ataque. Ela informou o abate de 79 mísseis de cruzeiro, 3 balísticos e 380 drones. As duas versões divergem, e nenhuma foi verificada de forma independente."
     },
     {
-      "imagem": "img02",
+      "imagem": "img04",
       "texto_html": "Em Kiev, três pontes sobre o rio Dnipro foram danificadas, segundo o prefeito Vitali Klitschko. A <strong>Podilsko-Voskresenskyi</strong> teve o tráfego suspenso; a Darnytskyi e a Pivdennyi seguiram abertas. Ao menos 8 pessoas morreram no país, segundo a Al Jazeera."
     },
     {
-      "imagem": "img04",
+      "imagem": "img05",
       "texto_html": "O Ministério da Defesa da Rússia disse ter mirado pontes rodoviárias e ferroviárias <strong>usadas para levar armas ao front</strong>. A alegação é russa. O ataque veio depois de novos ataques ucranianos à Ponte da Crimeia, e Vladimir Putin havia prometido resposta."
     },
     {
-      "imagem": "img08",
+      "imagem": "img09",
       "texto_html": "Na mesma noite, <strong>três objetos entraram no espaço aéreo da Polônia</strong>: dois mísseis, um deles um Kh-101, segundo o ministro da Defesa, Władysław Kosiniak-Kamysz, e um drone provavelmente a jato. Destroços foram encontrados em Nowy Lipowiec e Mołodycz."
     },
     {
@@ -39,13 +39,13 @@
       "foco": "50% 40%"
     },
     {
-      "imagem": "img09",
+      "imagem": "img01",
       "texto_html": "Kosiniak-Kamysz afirmou que o momento provavelmente não foi acidental: um exercício da Coalizão dos Dispostos ocorria em Nowa Dęba, perto dos locais de queda. A investigação segue em curso, e o Kremlin não admitiu intenção."
     },
     {
-      "imagem": "img01",
+      "imagem": "img06",
       "texto_html": "Ninguém ficou ferido na Polônia, e não houve dano a infraestrutura crítica. O país <strong>não acionou o Artigo 4 da OTAN</strong>, mas pediu mais meios para a operação Eastern Sentry. O secretário-geral Mark Rutte condenou o ataque.",
-      "foco": "50% 70%"
+      "foco": "15% 40%"
     }
   ],
   "cta": {
@@ -125,16 +125,6 @@
       "alternativas": []
     },
     {
-      "id": "img02",
-      "query": "File:Podilskyi Metro Bridge.JPG",
-      "alternativas": []
-    },
-    {
-      "id": "img03",
-      "query": "File:Southern Bridge, Kiev.jpg",
-      "alternativas": []
-    },
-    {
       "id": "img04",
       "query": "File:2019-07-22 Darnytsia Bridge, Kyiv.jpg",
       "alternativas": []
@@ -147,18 +137,6 @@
     {
       "id": "img06",
       "query": "File:Polish Air Force (4055) F-16C Block 52 (25958655824).jpg",
-      "alternativas": []
-    },
-    {
-      "id": "img07",
-      "query": "File:Russian Kh-101 missile shot in Vinnytsia Oblast, 2023-01-26 (04).jpg",
-      "alternativas": [
-        "File:Russian Kh-101 missile shot in Vinnytsia Oblast, 2023-01-26 (05).jpg"
-      ]
-    },
-    {
-      "id": "img08",
-      "query": "File:Kh-101 load-bearing spar.jpg",
       "alternativas": []
     },
     {
@@ -178,7 +156,7 @@
   "imagens": [
     {
       "titulo": "Russian Kh-101 missile shot in Vinnytsia Oblast, 2023-01-26 (01).jpg",
-      "autor": "Командування Повітряних Сил ЗСУ / Air Force Command of Ukrainian Armed Forces (license)",
+      "autor": "Air Force Command of Ukraine",
       "licenca": "CC BY 4.0",
       "exige_credito": true,
       "url_origem": "https://commons.wikimedia.org/wiki/File:Russian_Kh-101_missile_shot_in_Vinnytsia_Oblast,_2023-01-26_(01).jpg",
@@ -188,19 +166,6 @@
       "id": "img01",
       "arquivo": "imagens/img01.jpg",
       "query": "File:Russian Kh-101 missile shot in Vinnytsia Oblast, 2023-01-26 (01).jpg"
-    },
-    {
-      "titulo": "Southern Bridge, Kiev.jpg",
-      "autor": "Kostyaza",
-      "licenca": "CC BY-SA 3.0",
-      "exige_credito": true,
-      "url_origem": "https://commons.wikimedia.org/wiki/File:Southern_Bridge,_Kiev.jpg",
-      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Southern_Bridge%2C_Kiev.jpg/1920px-Southern_Bridge%2C_Kiev.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "largura": 2560,
-      "altura": 458,
-      "id": "img03",
-      "arquivo": "imagens/img03.jpg",
-      "query": "File:Southern Bridge, Kiev.jpg"
     },
     {
       "titulo": "2019-07-22 Darnytsia Bridge, Kyiv.jpg",
@@ -217,7 +182,7 @@
     },
     {
       "titulo": "Tu95MSM \"Super Modern\" (24912829706).jpg",
-      "autor": "Dmitry Terekhov from Odintsovo, Russian Federation",
+      "autor": "Dmitry Terekhov",
       "licenca": "CC BY-SA 2.0",
       "exige_credito": true,
       "url_origem": "https://commons.wikimedia.org/wiki/File:Tu95MSM_%22Super_Modern%22_(24912829706).jpg",
@@ -240,6 +205,19 @@
       "id": "img06",
       "arquivo": "imagens/img06.jpg",
       "query": "File:Polish Air Force (4055) F-16C Block 52 (25958655824).jpg"
+    },
+    {
+      "titulo": "Russian Kh-101 missile shot in Vinnytsia Oblast, 2023-01-26 (05).jpg",
+      "autor": "Air Force Command of Ukraine",
+      "licenca": "CC BY 4.0",
+      "exige_credito": true,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Russian_Kh-101_missile_shot_in_Vinnytsia_Oblast,_2023-01-26_(05).jpg",
+      "url_download": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Russian_Kh-101_missile_shot_in_Vinnytsia_Oblast%2C_2023-01-26_%2805%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largura": 1280,
+      "altura": 960,
+      "id": "img09",
+      "arquivo": "imagens/img09.jpg",
+      "query": "File:Russian Kh-101 missile shot in Vinnytsia Oblast, 2023-01-26 (05).jpg"
     }
   ]
 }
