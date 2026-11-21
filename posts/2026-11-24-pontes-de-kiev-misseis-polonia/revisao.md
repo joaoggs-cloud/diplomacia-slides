@@ -1,3 +1,5 @@
+# APROVADO (coordenador, rodada 2, 21 nov): correções 1–6 aplicadas; slides relidos. Reconferir em 23 nov: Artigo 4 e comentário do Kremlin.
+
 REPROVADO
 
 # Revisão: 2026-11-24-pontes-de-kiev-misseis-polonia
