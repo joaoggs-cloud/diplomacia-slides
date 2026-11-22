@@ -1,3 +1,5 @@
+# APROVADO (coordenador, rodada 2, 22 nov): correções 1–9 aplicadas (Orpo sem retrato livre: Turva no slide 8); crédito do slide 4 com versão da licença. Reconferir em 24 nov se Kiev se manifestou.
+
 REPROVADO
 
 # Revisão: 2026-11-25-sparta-ii-golfo-da-finlandia
