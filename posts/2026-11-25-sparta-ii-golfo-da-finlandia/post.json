@@ -17,7 +17,7 @@
     {
       "imagem": "img02",
       "texto_html": "Em 21 nov, sábado, o cargueiro russo <strong>Sparta II</strong>, com destino a Kaliningrado, foi atingido por drones e pegou fogo no Golfo da Finlândia, perto da ilha russa de Gogland. Segundo as Forças de Defesa finlandesas, o navio derivou depois para águas territoriais finlandesas.",
-      "foco": "50% 72%"
+      "foco": "50% 100%"
     },
     {
       "imagem": "img04",
@@ -40,8 +40,9 @@
       "texto_html": "Não foi o primeiro episódio. Em 11 nov, a Ucrânia disse ter atingido um navio de guerra russo no golfo, e as Forças de Defesa finlandesas confirmaram ter detectado o ataque. É o <strong>segundo incidente em cerca de 10 dias</strong>."
     },
     {
-      "imagem": "img11",
-      "texto_html": "O primeiro-ministro finlandês, Petteri Orpo, escreveu no X que a guerra está transbordando para a vizinhança imediata do país, que entrou na OTAN em abril de 2023."
+      "imagem": "img04",
+      "texto_html": "O primeiro-ministro finlandês, Petteri Orpo, escreveu no X que a guerra está transbordando para a vizinhança imediata do país, que entrou na OTAN em abril de 2023.",
+      "foco": "50% 50%"
     }
   ],
   "cta": {
@@ -141,11 +142,6 @@
       "id": "img10",
       "query": "File:351st ARS, Finnish AF conduct AR mission (7022742).jpg",
       "alternativas": []
-    },
-    {
-      "id": "img11",
-      "query": "incategory:\"Petteri Orpo\"",
-      "alternativas": []
     }
   ],
   "agendamento": {
@@ -160,11 +156,11 @@
         "texto_html": "Sábado, 21 nov: drones atingiram o cargueiro russo <em>Sparta II</em> no Golfo da Finlândia."
       },
       {
-        "imagem": "img02",
+        "imagem": "img04",
         "texto_html": "O navio ia para Kaliningrado, pegou fogo e foi à deriva até <em>águas finlandesas</em>."
       },
       {
-        "imagem": "img04",
+        "imagem": "img08",
         "texto_html": "No domingo, 22 nov, um navio de resgate russo <em>rebocou o Sparta II</em> para águas russas."
       },
       {
@@ -177,10 +173,10 @@
       },
       {
         "imagem": "img06",
-        "texto_html": "Para os militares finlandeses, a Ucrânia é a <em>provável autora</em>. Kiev não assumiu o ataque até 22 nov."
+        "texto_html": "Para os militares finlandeses, a Ucrânia é a <em>provável autora</em>. Kiev não assumiu até 22 nov."
       },
       {
-        "imagem": "img11",
+        "imagem": "img04",
         "texto_html": "Para o premiê Petteri Orpo, a guerra <em>transborda</em> para a vizinhança da Finlândia, país da OTAN."
       }
     ]
@@ -263,7 +259,8 @@
       "altura": 1200,
       "id": "img09",
       "arquivo": "imagens/img09.jpg",
-      "query": "File:Cuxhaven Kugelbake Elbe 2004-Sloman Provider (ship, 2000) by-RaBoe.jpg"
+      "query": "File:Cuxhaven Kugelbake Elbe 2004-Sloman Provider (ship, 2000) by-RaBoe.jpg",
+      "credito_custom": "Sparta II, então Sloman Provider, 2004 · Ra Boe · CC BY-SA"
     },
     {
       "titulo": "351st ARS, Finnish AF conduct AR mission (7022742).jpg",
