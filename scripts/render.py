@@ -65,6 +65,8 @@ def logo_uri():
 def credito_curto(img):
     if not img:
         return ""
+    if img.get("credito_custom"):
+        return img["credito_custom"]
     if not img.get("exige_credito"):
         return "Foto: domínio público · Wikimedia Commons"
     autor = img["autor"]

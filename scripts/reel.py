@@ -152,6 +152,8 @@ def overlay_html(post, cenas, imagens):
 <div class="btn">Siga @diplomaciadaguerra</div></div></div>''')
             continue
         cred = escape(credito_curto(imagens.get(c["imagem"])))
+        if c["tipo"] == "capa" and post["capa"].get("credito"):
+            cred = escape(post["capa"]["credito"])
         if c["tipo"] == "capa":
             corpo = (f'<div class="pills">{pills}</div><h1 class="manchete">{c["html"]}</h1>'
                      + (f'<p class="gancho">{c["gancho"]}</p>' if c.get("gancho") else ""))
