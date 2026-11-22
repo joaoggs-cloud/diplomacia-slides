@@ -8,40 +8,45 @@
   "gancho_tipo": "contradicao",
   "usar_hashtags_base": true,
   "capa": {
-    "imagem": "img01",
+    "imagem": "img03",
     "titulo_html": "Um navio ligado ao Ministério da Defesa russo <span class=\"hl\">pegou fogo e foi à deriva até águas finlandesas</span>",
     "gancho": "Drones atingiram o Sparta II no Golfo da Finlândia, na fronteira da OTAN.",
-    "credito": "Foto de arquivo do navio ou da região, não do ataque"
+    "credito": "Foto de arquivo: Karin Lehmann (não é o Sparta II) · Jari Sjölund · CC BY-SA 2.0"
   },
   "slides": [
     {
-      "imagem": "img02",
-      "texto_html": "Em 21 nov, sábado, o cargueiro russo <strong>Sparta II</strong>, com destino a Kaliningrado, foi atingido por drones e pegou fogo no Golfo da Finlândia, perto da ilha russa de Gogland. Segundo as Forças de Defesa da Finlândia, o navio depois derivou para águas territoriais finlandesas."
-    },
-    {
-      "imagem": "img03",
-      "texto_html": "Autoridades russas disseram que dois drones atingiram a embarcação, alegação que não foi verificada de forma independente. Sem governo, o navio teve a tripulação evacuada para outro barco. Ajudaram a combater o fogo embarcações finlandesas e estonianas e, a pedido de Helsinque, o <strong>navio de resgate russo Murman</strong>."
-    },
-    {
-      "imagem": "img01",
-      "texto_html": "O Sparta II é um navio ro-ro de 7.260 GT operado pela <strong>Oboronlogistika</strong>, empresa de transporte ligada ao Ministério da Defesa da Rússia. Os Estados Unidos o sancionam desde maio de 2022.",
-      "foco": "30% 50%"
+      "imagem": "img08",
+      "texto_html": "Em 21 nov, sábado, o cargueiro russo <strong>Sparta II</strong>, com destino a Kaliningrado, foi atingido por drones e pegou fogo no Golfo da Finlândia, perto da ilha russa de Gogland. Segundo as Forças de Defesa finlandesas, o navio derivou depois para águas territoriais finlandesas.",
+      "foco": "60% 50%"
     },
     {
       "imagem": "img04",
-      "texto_html": "A Finlândia impôs restrições temporárias ao tráfego aéreo, a partir das 4h15, e ao marítimo, às 4h20, no leste do golfo, para proteger civis e permitir a interceptação de drones. A aproximação de Kotka foi fechada à navegação. Medidas parecidas já tinham sido aplicadas em 11 nov e em 16 e 17 out."
+      "texto_html": "A Rússia disse que dois drones atingiram o navio, alegação não verificada. Sem governo, o navio teve a tripulação retirada. Combateram o fogo barcos finlandeses e estonianos e, a pedido de Helsinque, o <strong>resgate russo Murman</strong>."
     },
     {
       "imagem": "img05",
-      "texto_html": "Sobre a autoria, <strong>autoridades finlandesas dizem que a Ucrânia é a provável autora</strong>: um oficial da Guarda de Fronteiras citou drone ucraniano, e o diretor de comunicação de defesa do país falou em autoria provável. Kiev não havia comentado até a manhã de domingo, 22 nov."
+      "texto_html": "O Sparta II é um ro-ro de 7.260 GT operado pela <strong>Oboronlogistika</strong>, empresa de transporte ligada ao Ministério da Defesa russo. Os EUA o sancionam desde maio de 2022.",
+      "foco": "50% 40%"
     },
     {
-      "imagem": "img06",
-      "texto_html": "Não foi o primeiro episódio no trecho. Em 11 nov, a SBU, serviço de segurança da Ucrânia, disse ter atingido um navio de guerra russo no Golfo da Finlândia, e a Finlândia confirmou ter detectado o ataque. É o <strong>segundo incidente em cerca de 10 dias</strong>."
+      "imagem": "img04",
+      "texto_html": "A Finlândia restringiu o tráfego aéreo, a partir das 4h15, e o marítimo, às 4h20, no leste do golfo, para proteger civis e permitir interceptar drones. A aproximação de Kotka foi fechada. Medidas parecidas ocorreram em 11 nov e em 16 e 17 out.",
+      "foco": "10% 50%"
+    },
+    {
+      "imagem": "img08",
+      "texto_html": "<strong>Autoridades finlandesas dizem que a Ucrânia é a provável autora</strong>: um oficial da Guarda de Fronteiras citou drone ucraniano, e o diretor de comunicação de defesa falou em autoria provável. Kiev não havia comentado até a manhã de domingo, 22 nov.",
+      "foco": "5% 50%"
+    },
+    {
+      "imagem": "img05",
+      "texto_html": "Não foi o primeiro episódio. Em 11 nov, a SBU, serviço de segurança ucraniano, disse ter atingido um navio de guerra russo no golfo, e a Finlândia confirmou ter detectado o ataque. É o <strong>segundo incidente em cerca de 10 dias</strong>.",
+      "foco": "75% 30%"
     },
     {
       "imagem": "img07",
-      "texto_html": "O primeiro-ministro finlandês, Petteri Orpo, disse que a guerra está transbordando para a vizinhança imediata do país. A Finlândia integra a OTAN, e o incidente acontece em águas por onde passam rotas de navios entre a Rússia e o restante do Báltico."
+      "texto_html": "O primeiro-ministro finlandês, Petteri Orpo, disse que a guerra está transbordando para a vizinhança imediata do país. A Finlândia integra a OTAN, e o incidente ocorre numa rota de navios entre a Rússia e o restante do Báltico.",
+      "foco": "45% 40%"
     }
   ],
   "cta": {
@@ -108,13 +113,6 @@
   ],
   "busca_imagens": [
     {
-      "id": "img01",
-      "query": "incategory:\"IMO 9160994\"",
-      "alternativas": [
-        "Sparta II ship"
-      ]
-    },
-    {
       "id": "img02",
       "query": "File:Gogland aerial photo.jpg",
       "alternativas": []
@@ -145,6 +143,11 @@
       "alternativas": [
         "Finnish Air Force F/A-18 Hornet"
       ]
+    },
+    {
+      "id": "img08",
+      "query": "File:Baltiysk - Harbour activity.jpg",
+      "alternativas": []
     }
   ],
   "agendamento": {
@@ -155,15 +158,15 @@
     "gancho": "O que se sabe sobre o cargueiro russo atingido por drones perto da Finlândia.",
     "cenas": [
       {
-        "imagem": "img02",
+        "imagem": "img08",
         "texto_html": "Sábado, 21 nov: drones atingiram o cargueiro russo <em>Sparta II</em> no Golfo da Finlândia."
       },
       {
-        "imagem": "img01",
+        "imagem": "img04",
         "texto_html": "O navio ia para Kaliningrado, pegou fogo e foi à deriva até <em>águas finlandesas</em>."
       },
       {
-        "imagem": "img03",
+        "imagem": "img05",
         "texto_html": "A operadora, a Oboronlogistika, é ligada ao Ministério da Defesa russo e sofre <em>sanções dos EUA</em>."
       },
       {
@@ -171,7 +174,7 @@
         "texto_html": "A Finlândia restringiu voos e navegação na área para o caso de ser preciso <em>interceptar drones</em>."
       },
       {
-        "imagem": "img05",
+        "imagem": "img08",
         "texto_html": "Autoridades finlandesas dizem que a Ucrânia é <em>provavelmente a autora</em>. Kiev não comentou até domingo de manhã."
       },
       {
@@ -182,19 +185,6 @@
   },
   "ia_gerado": false,
   "imagens": [
-    {
-      "titulo": "Container ship Sloman Neptun, departing Harwich International Port -a.jpg",
-      "autor": "Martin Pettitt from Bury St Edmunds, UK",
-      "licenca": "CC BY 2.0",
-      "exige_credito": true,
-      "url_origem": "https://commons.wikimedia.org/wiki/File:Container_ship_Sloman_Neptun,_departing_Harwich_International_Port_-a.jpg",
-      "url_download": "https://upload.wikimedia.org/wikipedia/commons/1/16/Container_ship_Sloman_Neptun%2C_departing_Harwich_International_Port_-a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "largura": 1600,
-      "altura": 1200,
-      "id": "img01",
-      "arquivo": "imagens/img01.jpg",
-      "query": "incategory:\"IMO 9160994\""
-    },
     {
       "titulo": "Gogland aerial photo.jpg",
       "autor": "Bernt Rostad from Oslo, Norway",
@@ -272,6 +262,19 @@
       "id": "img07",
       "arquivo": "imagens/img07.jpg",
       "query": "incategory:\"F-18 in the Finnish Air Force\""
+    },
+    {
+      "titulo": "Baltiysk - Harbour activity.jpg",
+      "autor": "Alexander Grebenkov",
+      "licenca": "CC BY 3.0",
+      "exige_credito": true,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Baltiysk_-_Harbour_activity.jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Baltiysk_-_Harbour_activity.jpg/1920px-Baltiysk_-_Harbour_activity.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 4000,
+      "altura": 2250,
+      "id": "img08",
+      "arquivo": "imagens/img08.jpg",
+      "query": "File:Baltiysk - Harbour activity.jpg"
     }
   ]
 }
