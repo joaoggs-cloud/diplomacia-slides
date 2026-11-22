@@ -1,0 +1,184 @@
+{
+  "slug": "2026-11-25-sparta-ii-golfo-da-finlandia",
+  "titulo_interno": "Sparta II, cargueiro russo atingido por drones no Golfo da Finlândia",
+  "status": "rascunho",
+  "estilo": "clean",
+  "pilar": "conflito_atual",
+  "categoria": "Conflito · Golfo da Finlândia",
+  "gancho_tipo": "contradicao",
+  "usar_hashtags_base": true,
+  "capa": {
+    "imagem": "img01",
+    "titulo_html": "Um navio ligado ao Ministério da Defesa russo <span class=\"hl\">pegou fogo e foi à deriva até águas finlandesas</span>",
+    "gancho": "Drones atingiram o Sparta II no Golfo da Finlândia, na fronteira da OTAN.",
+    "credito": "Foto de arquivo do navio ou da região, não do ataque"
+  },
+  "slides": [
+    {
+      "imagem": "img02",
+      "texto_html": "Em 21 nov, sábado, o cargueiro russo <strong>Sparta II</strong>, com destino a Kaliningrado, foi atingido por drones e pegou fogo no Golfo da Finlândia, perto da ilha russa de Gogland. Segundo as Forças de Defesa da Finlândia, o navio depois derivou para águas territoriais finlandesas."
+    },
+    {
+      "imagem": "img03",
+      "texto_html": "Autoridades russas disseram que dois drones atingiram a embarcação, alegação que não foi verificada de forma independente. Sem governo, o navio teve a tripulação evacuada para outro barco. Ajudaram a combater o fogo embarcações finlandesas e estonianas e, a pedido de Helsinque, o <strong>navio de resgate russo Murman</strong>."
+    },
+    {
+      "imagem": "img01",
+      "texto_html": "O Sparta II é um navio ro-ro de 7.260 GT operado pela <strong>Oboronlogistika</strong>, empresa de transporte ligada ao Ministério da Defesa da Rússia. Os Estados Unidos o sancionam desde maio de 2022.",
+      "foco": "30% 50%"
+    },
+    {
+      "imagem": "img04",
+      "texto_html": "A Finlândia impôs restrições temporárias ao tráfego aéreo, a partir das 4h15, e ao marítimo, às 4h20, no leste do golfo, para proteger civis e permitir a interceptação de drones. A aproximação de Kotka foi fechada à navegação. Medidas parecidas já tinham sido aplicadas em 11 nov e em 16 e 17 out."
+    },
+    {
+      "imagem": "img05",
+      "texto_html": "Sobre a autoria, <strong>autoridades finlandesas dizem que a Ucrânia é a provável autora</strong>: um oficial da Guarda de Fronteiras citou drone ucraniano, e o diretor de comunicação de defesa do país falou em autoria provável. Kiev não havia comentado até a manhã de domingo, 22 nov."
+    },
+    {
+      "imagem": "img06",
+      "texto_html": "Não foi o primeiro episódio no trecho. Em 11 nov, a SBU, serviço de segurança da Ucrânia, disse ter atingido um navio de guerra russo no Golfo da Finlândia, e a Finlândia confirmou ter detectado o ataque. É o <strong>segundo incidente em cerca de 10 dias</strong>."
+    },
+    {
+      "imagem": "img07",
+      "texto_html": "O primeiro-ministro finlandês, Petteri Orpo, disse que a guerra está transbordando para a vizinhança imediata do país. A Finlândia integra a OTAN, e o incidente acontece em águas por onde passam rotas de navios entre a Rússia e o restante do Báltico."
+    }
+  ],
+  "cta": {
+    "titulo": "Envie para quem acompanha a guerra no Báltico",
+    "subtitulo": "e fique de olho nos próximos desdobramentos"
+  },
+  "legenda": "Um navio ligado ao Ministério da Defesa da Rússia, sob sanção dos EUA, pegou fogo no Golfo da Finlândia e foi à deriva até águas finlandesas.\n\nEm 21 nov, o cargueiro Sparta II, que seguia para Kaliningrado, foi atingido por drones perto da ilha russa de Gogland, segundo autoridades. A Rússia fala em dois drones; autoridades finlandesas dizem que a Ucrânia é a provável autora, e Kiev não havia comentado até a manhã de domingo. A tripulação foi evacuada e a Finlândia restringiu o tráfego aéreo e marítimo no leste do golfo. O premiê Petteri Orpo disse que a guerra está transbordando para a vizinhança imediata do país, membro da OTAN. Em 11 nov, a SBU ucraniana já havia dito ter atingido um navio de guerra russo no mesmo trecho.\n\nFotos de arquivo, sem relação direta com os fatos do dia.\n\nArraste para o lado.",
+  "primeiro_comentario": "",
+  "hashtags": [
+    "#golfodafinlandia",
+    "#finlandia",
+    "#russia",
+    "#ucrania",
+    "#otan",
+    "#baltico",
+    "#geopolitica"
+  ],
+  "alt_text": "Carrossel sobre o cargueiro russo Sparta II atingido por drones no Golfo da Finlândia, com fotos de arquivo do navio, da ilha de Gogland, do golfo e de um patrulheiro finlandês.",
+  "fontes": [
+    {
+      "nome": "Al Jazeera (21 nov)",
+      "url": "https://www.aljazeera.com/news/2026/11/21/russia-says-kaliningrad-bound-ship-struck-by-drones-in-gulf-of-finland"
+    },
+    {
+      "nome": "France 24",
+      "url": "https://www.france24.com/en/europe/20261121-drone-attack-sets-russian-cargo-ship-ablaze-in-gulf-of-finland"
+    },
+    {
+      "nome": "The Moscow Times",
+      "url": "https://www.themoscowtimes.com/2026/11/21/russia-says-cargo-vessel-struck-by-drones-in-gulf-of-finland-a94342"
+    },
+    {
+      "nome": "Kyiv Independent",
+      "url": "https://kyivindependent.com/russian-military-linked-cargo-ship-catches-fire-after-reported-drone-strike-in-gulf-of-finland/"
+    },
+    {
+      "nome": "Taipei Times (AFP)",
+      "url": "https://www.taipeitimes.com/News/world/archives/2026/11/23/2003868243"
+    },
+    {
+      "nome": "NBC News",
+      "url": "https://www.nbcnews.com/world/russia/cargo-ship-bound-russias-kaliningrad-hit-drones-finland-tightens-secur-rcna610567"
+    },
+    {
+      "nome": "Militarnyi",
+      "url": "https://militarnyi.com/en/news/nato-fighter-jets-estonia-scrambled-finland-restricted-flights-shipping/"
+    },
+    {
+      "nome": "OFAC (Tesouro dos EUA)",
+      "url": "https://sanctionssearch.ofac.treas.gov/Details.aspx?id=36696"
+    },
+    {
+      "nome": "CNN",
+      "url": "https://edition.cnn.com/2026/11/21/europe/russian-ship-fire-baltic-latam-intl"
+    },
+    {
+      "nome": "Al Jazeera (13 nov)",
+      "url": "https://www.aljazeera.com/news/2026/11/13/finland-detects-strike-on-russian-warship-as-zelenskyy-meets-us-envoys"
+    },
+    {
+      "nome": "CP24 / Canadian Press",
+      "url": "https://www.cp24.com/news/world/2026/11/13/finland-says-it-detects-strike-on-russian-warship-in-baltic-sea/"
+    }
+  ],
+  "busca_imagens": [
+    {
+      "id": "img01",
+      "query": "incategory:\"IMO 9160994\"",
+      "alternativas": [
+        "Sparta II ship"
+      ]
+    },
+    {
+      "id": "img02",
+      "query": "File:Gogland aerial photo.jpg",
+      "alternativas": []
+    },
+    {
+      "id": "img03",
+      "query": "File:Karin Lehman in Gulf of Finland.jpg",
+      "alternativas": []
+    },
+    {
+      "id": "img04",
+      "query": "File:Patrol vessel Turva from air.jpg",
+      "alternativas": []
+    },
+    {
+      "id": "img05",
+      "query": "File:Gulf of Finland ESA378549.jpg",
+      "alternativas": []
+    },
+    {
+      "id": "img06",
+      "query": "File:Gogland aerial photo2.jpg",
+      "alternativas": []
+    },
+    {
+      "id": "img07",
+      "query": "incategory:\"F-18 in the Finnish Air Force\"",
+      "alternativas": [
+        "Finnish Air Force F/A-18 Hornet"
+      ]
+    }
+  ],
+  "agendamento": {
+    "data_hora": "2026-11-25T06:01:00-03:00",
+    "slot": "06:01"
+  },
+  "reel": {
+    "gancho": "O que se sabe sobre o cargueiro russo atingido por drones perto da Finlândia.",
+    "cenas": [
+      {
+        "imagem": "img02",
+        "texto_html": "Sábado, 21 nov: drones atingiram o cargueiro russo <em>Sparta II</em> no Golfo da Finlândia."
+      },
+      {
+        "imagem": "img01",
+        "texto_html": "O navio ia para Kaliningrado, pegou fogo e foi à deriva até <em>águas finlandesas</em>."
+      },
+      {
+        "imagem": "img03",
+        "texto_html": "A operadora, a Oboronlogistika, é ligada ao Ministério da Defesa russo e sofre <em>sanções dos EUA</em>."
+      },
+      {
+        "imagem": "img04",
+        "texto_html": "A Finlândia restringiu voos e navegação na área para o caso de ser preciso <em>interceptar drones</em>."
+      },
+      {
+        "imagem": "img05",
+        "texto_html": "Autoridades finlandesas dizem que a Ucrânia é <em>provavelmente a autora</em>. Kiev não comentou até domingo de manhã."
+      },
+      {
+        "imagem": "img07",
+        "texto_html": "Para o premiê Petteri Orpo, a guerra <em>transborda</em> para a vizinhança da Finlândia, país da OTAN."
+      }
+    ]
+  },
+  "ia_gerado": false
+}
