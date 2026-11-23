@@ -98,6 +98,10 @@
     {
       "data": "2026-11-16",
       "motivo": "Análise semanal: 24 posts medidos, alcance médio 6,2 (carrosséis desde 1/11: 5,4); 21 seguidores (22 em 24/10), sem ganho no período. Frequência 7/sem (mínima), horário fixo 06:01 e fase mantidos. Pesos de pilares NÃO alterados: a sugestão automática (+9 pts conflito_atual) vem de 2 posts com alcance 5 e 0 salvos, ruído. Falha operacional: lasers antidrone (13/11), Muro de Berlim (14/11) e Irã/Ormuz (15/11) e seus Stories constam ERROR no Metricool ('You have reached your Metricool account limit'), não saíram; post de 16/11 (submarino/Gripen) segue rascunho sem aprovação e passou das 06:01. Nenhum Reel publicado ainda. Metricool sem dados de melhor horário (tudo zero)."
+    },
+    {
+      "data": "2026-11-23",
+      "motivo": "Análise semanal: 28 posts medidos, alcance médio 6,5 (4 posts de 16 a 20/11: 8,0; amostra pequena), 21 seguidores, sem ganho; 1 salvamento e 1 compartilhamento no total. Frequência 7/sem (mínima), horário fixo 06:01 e fase mantidos; Metricool sem dados de melhor horário (tudo zero). Pesos de pilares NÃO alterados: sugestão automática (+9 pts conflito_atual) vem de alcance 5 a 9 e 0 salvos, ruído. Nenhum Reel apareceu nos dados (IGRE vazio), nem o Reel do Sudão de 20/11; a confirmar com o João. Posts Donbas (17/11), Taiwan (18/11) e Sudão (20/11) marcados publicado; Gripen (16/11), Shenzhen (19/11), Ponte da Crimeia (21/11) e Shenzhen resultado (22/11) aprovados manualmente não aparecem nos dados do Metricool."
     }
   ],
   "frequencia_minima": 7,
