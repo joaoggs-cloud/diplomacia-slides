@@ -33,7 +33,7 @@
     },
     {
       "imagem": "img06",
-      "texto_html": "As Forças de Defesa da Finlândia consideram <strong>provável que a Ucrânia seja a autora</strong>, e um comandante da Guarda de Fronteiras, Ilja Iljin, falou em drones ucranianos. Kiev não havia assumido o ataque até 22 nov."
+      "texto_html": "Em 24 nov, Zelensky confirmou à Bloomberg que a Ucrânia atacou o Sparta II e chamou o navio de <strong>alvo legítimo</strong>. A Finlândia já via a autoria ucraniana como provável. Kiev diz que o ataque foi em águas russas; Moscou, em águas internacionais."
     },
     {
       "imagem": "img08",
@@ -49,7 +49,7 @@
     "titulo": "Envie para quem acompanha a guerra no Báltico",
     "subtitulo": "e fique de olho nos próximos desdobramentos"
   },
-  "legenda": "Um navio ligado ao Ministério da Defesa da Rússia, sob sanção dos EUA, pegou fogo no Golfo da Finlândia e foi à deriva até águas finlandesas.\n\nEm 21 nov, o cargueiro Sparta II, que seguia para Kaliningrado, foi atingido por drones perto da ilha russa de Gogland. O governador russo da região de Leningrado fala em dois drones; as Forças de Defesa finlandesas consideram provável que a Ucrânia seja a autora, e Kiev não havia assumido o ataque até 22 nov. A tripulação foi retirada, com um ferido leve, e a Finlândia restringiu o tráfego aéreo e marítimo no leste do golfo. No domingo, 22 nov, o navio de resgate russo Murman rebocou o Sparta II para águas russas. O premiê Petteri Orpo disse que a guerra está transbordando para a vizinhança imediata do país, membro da OTAN. Em 11 nov, a Ucrânia já havia dito ter atingido um navio de guerra russo no mesmo golfo.\n\nFotos de arquivo, sem relação direta com os fatos do dia.\n\nArraste para o lado.",
+  "legenda": "Um navio ligado ao Ministério da Defesa da Rússia, sob sanção dos EUA, pegou fogo no Golfo da Finlândia e foi à deriva até águas finlandesas.\n\nEm 21 nov, o cargueiro Sparta II, que seguia para Kaliningrado, foi atingido por drones perto da ilha russa de Gogland. O governador russo da região de Leningrado fala em dois drones; em 24 nov, Zelensky confirmou à Bloomberg que a Ucrânia fez o ataque e chamou o navio de alvo legítimo. A tripulação foi retirada, com um ferido leve, e a Finlândia restringiu o tráfego aéreo e marítimo no leste do golfo. No domingo, 22 nov, o navio de resgate russo Murman rebocou o Sparta II para águas russas. O premiê Petteri Orpo disse que a guerra está transbordando para a vizinhança imediata do país, membro da OTAN. Em 11 nov, a Ucrânia já havia dito ter atingido um navio de guerra russo no mesmo golfo.\n\nFotos de arquivo, sem relação direta com os fatos do dia.\n\nArraste para o lado.",
   "primeiro_comentario": "",
   "hashtags": [
     "#golfodafinlandia",
@@ -105,6 +105,18 @@
     {
       "nome": "Yle",
       "url": "https://yle.fi/a/74-20258284"
+    },
+    {
+      "nome": "Bloomberg (24 nov)",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-24/zelenskyy-confirms-ukraine-hit-russian-ship-in-gulf-of-finland"
+    },
+    {
+      "nome": "The Moscow Times (24 nov)",
+      "url": "https://www.themoscowtimes.com/2026/11/24/zelensky-confirms-ukraine-was-behind-drone-attack-on-russian-cargo-ship-in-gulf-of-finland-a94364"
+    },
+    {
+      "nome": "Anadolu (24 nov)",
+      "url": "https://www.aa.com.tr/en/eurasia/zelenskyy-says-ukraine-responsible-for-drone-strike-on-russian-cargo-ship-in-gulf-of-finland/4136012"
     }
   ],
   "busca_imagens": [
@@ -173,7 +185,7 @@
       },
       {
         "imagem": "img06",
-        "texto_html": "Para os militares finlandeses, a Ucrânia é a <em>provável autora</em>. Kiev não assumiu até 22 nov."
+        "texto_html": "Em 24 nov, Zelensky confirmou que a Ucrânia atacou o navio e o chamou de <em>alvo legítimo</em>."
       },
       {
         "imagem": "img04",
