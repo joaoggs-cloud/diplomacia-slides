@@ -1,7 +1,7 @@
 {
   "slug": "2026-11-23-estonia-fecha-fronteira-russia",
   "titulo_interno": "Estônia fecha a fronteira terrestre com a Rússia",
-  "status": "aguardando_aprovacao",
+  "status": "aprovado_manual",
   "estilo": "clean",
   "pilar": "conflito_atual",
   "categoria": "Guerra híbrida · Estônia",
@@ -161,7 +161,7 @@
     }
   ],
   "agendamento": {
-    "data_hora": "2026-11-23T06:01:00-03:00",
+    "data_hora": "2026-11-27T06:01:00-03:00",
     "slot": "06:01"
   },
   "reel": {

@@ -1,7 +1,7 @@
 {
   "slug": "2026-11-24-pontes-de-kiev-misseis-polonia",
   "titulo_interno": "Ataque russo a pontes de Kiev e objetos na Polônia",
-  "status": "aguardando_aprovacao",
+  "status": "aprovado_manual",
   "estilo": "clean",
   "pilar": "conflito_atual",
   "categoria": "Conflito · Ucrânia e Polônia",
@@ -174,7 +174,7 @@
     }
   ],
   "agendamento": {
-    "data_hora": "2026-11-24T06:01:00-03:00",
+    "data_hora": "2026-11-28T06:01:00-03:00",
     "slot": "06:01"
   },
   "reel": {

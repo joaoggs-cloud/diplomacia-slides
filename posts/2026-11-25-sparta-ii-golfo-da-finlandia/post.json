@@ -1,7 +1,7 @@
 {
   "slug": "2026-11-25-sparta-ii-golfo-da-finlandia",
   "titulo_interno": "Sparta II, cargueiro russo atingido por drones no Golfo da Finlândia",
-  "status": "aguardando_aprovacao",
+  "status": "aprovado_manual",
   "estilo": "clean",
   "pilar": "conflito_atual",
   "categoria": "Conflito · Golfo da Finlândia",
@@ -157,7 +157,7 @@
     }
   ],
   "agendamento": {
-    "data_hora": "2026-11-25T06:01:00-03:00",
+    "data_hora": "2026-11-26T06:01:00-03:00",
     "slot": "06:01"
   },
   "reel": {
