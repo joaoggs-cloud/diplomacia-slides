@@ -1,3 +1,5 @@
+# APROVADO (coordenador, rodada 2, 26 nov): correções 1–8 aplicadas; slides relidos. Reconferir em 28 nov.
+
 REPROVADO
 
 # Revisão: 2026-11-29-kuwait-italianos-mortos-ormuz (rodada 1, 26 nov 2026, noite)
