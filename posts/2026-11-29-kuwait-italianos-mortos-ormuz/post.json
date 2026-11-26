@@ -1,0 +1,78 @@
+{
+  "slug": "2026-11-29-kuwait-italianos-mortos-ormuz",
+  "titulo_interno": "Italianos mortos no Kuwait e minas em Ormuz",
+  "status": "rascunho",
+  "estilo": "clean",
+  "pilar": "conflito_atual",
+  "categoria": "Conflito · Golfo",
+  "gancho_tipo": "contradicao",
+  "usar_hashtags_base": true,
+  "capa": {
+    "imagem": "img01",
+    "titulo_html": "Dois italianos morreram no Kuwait. <span class=\"hl\">Itália e Kuwait acusam o Irã</span>; Teerã nega",
+    "gancho": "No mesmo dia, a Guarda Revolucionária disse que dois petroleiros bateram em minas em Ormuz.",
+    "credito": "Foto de arquivo: sistema antiaéreo Skynex"
+  },
+  "slides": [
+    {
+      "imagem": "img02",
+      "texto_html": "Em 26 nov, <strong>dois italianos morreram</strong> após um ataque de drones a uma instalação no Kuwait. O Ministério da Defesa kuwaitiano disse primeiro que quatro pessoas haviam se ferido por destroços e depois confirmou as duas mortes."
+    },
+    {
+      "imagem": "img01",
+      "texto_html": "Segundo o chanceler italiano, <strong>Antonio Tajani</strong>, eram técnicos da Rheinmetall Italia, braço do grupo alemão de defesa, e trabalhavam numa estação de vigilância antiaérea. Kuwait e Itália responsabilizam o Irã pelo ataque."
+    },
+    {
+      "imagem": "img03",
+      "texto_html": "<strong>O Irã nega.</strong> A embaixada iraniana em Roma rejeitou a acusação \"categoricamente\", e o chanceler Abbas Araqchi ofereceu uma investigação conjunta com o Kuwait. A autoria, até aqui, vem de declarações oficiais dos governos envolvidos."
+    },
+    {
+      "imagem": "img07",
+      "texto_html": "A Itália disse que vai protestar formalmente junto à embaixada iraniana. A presidente da Comissão Europeia, <strong>Ursula von der Leyen</strong>, pediu mais pressão sobre o Irã."
+    },
+    {
+      "imagem": "img04",
+      "texto_html": "No mesmo dia, a Guarda Revolucionária (IRGC) afirmou que <strong>dois petroleiros explodiram</strong> ao bater em minas ao norte de Khasab, em Omã, por cruzarem Ormuz sem autorização de Teerã. A Reuters não conseguiu verificar a informação de forma independente."
+    },
+    {
+      "imagem": "img05",
+      "texto_html": "O pano de fundo é o impasse. O <strong>bloqueio naval dos EUA</strong> a portos iranianos começou em 13 abr, após o fracasso das conversas em Islamabad, e foi retomado em 14 jul. O Irã diz que só normaliza a navegação quando suas exigências forem atendidas, inclusive o fim do bloqueio."
+    },
+    {
+      "imagem": "img06",
+      "texto_html": "Mediadores do Catar e do Paquistão seguem passando propostas entre Teerã e Washington. O Irã diz que <strong>reabre o estreito em até 48 horas</strong> se os EUA cumprirem suas condições. Os EUA não confirmaram que aceitam."
+    }
+  ],
+  "cta": {
+    "titulo": "Envie para quem acompanha a guerra no Golfo",
+    "subtitulo": "e fique de olho na investigação"
+  },
+  "legenda": "Dois italianos morreram no Kuwait. Itália e Kuwait acusam o Irã; Teerã nega.\n\nEm 26 nov, um ataque de drones a uma instalação kuwaitiana matou dois técnicos da Rheinmetall Italia, segundo o chanceler Antonio Tajani. A embaixada iraniana em Roma rejeitou a acusação, e o chanceler Abbas Araqchi ofereceu uma investigação conjunta. A Itália vai protestar formalmente, e Ursula von der Leyen pediu mais pressão sobre Teerã. No mesmo dia, a Guarda Revolucionária disse que dois petroleiros bateram em minas perto de Khasab, em Omã; a Reuters não verificou a alegação de forma independente. Mediadores do Catar e do Paquistão seguem atuando, e o Irã fala em reabrir Ormuz em até 48 horas se suas condições forem atendidas.\n\nFotos de arquivo, sem relação direta com os fatos do dia.\n\nArraste para o lado.",
+  "primeiro_comentario": "",
+  "hashtags": ["#kuwait", "#ira", "#italia", "#estreitodeormuz", "#golfopersico", "#geopolitica"],
+  "alt_text": "Carrossel sobre a morte de dois italianos no Kuwait e as minas alegadas em Ormuz, com fotos de arquivo de sistemas antiaéreos, do Kuwait, do Estreito de Ormuz e de navios no Golfo.",
+  "fontes": [
+    {"nome": "Al Jazeera (italianos mortos no Kuwait)", "url": "https://www.aljazeera.com/news/2026/11/26/two-italians-killed-after-iranian-drones-strike-facility-says-kuwait"},
+    {"nome": "Reuters via Internazionale", "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/11/26/two-italians-killed-in-iranian-drone-attack-in-kuwait-italy-says"},
+    {"nome": "Reuters via Yahoo (italianos)", "url": "https://www.yahoo.com/news/articles/two-italians-killed-iranian-drone-152440938.html"},
+    {"nome": "CBS News (ao vivo)", "url": "https://www.cbsnews.com/live-updates/iran-war-us-military-ai-weapons-oil/"},
+    {"nome": "Cyprus Mail (Reuters)", "url": "https://cyprus-mail.com/2026/11/26/two-italians-killed-in-attack-on-kuwait-site-iran-denies-involvement"},
+    {"nome": "Reuters via Yahoo (IRGC e petroleiros)", "url": "https://www.yahoo.com/news/articles/irans-revolutionary-guards-two-oil-110511690.html"},
+    {"nome": "ABC News (ao vivo)", "url": "https://abcnews.com/International/live-updates/iran-live-updates-tehran-strait-hormuz-safe-demands/?id=138369648"},
+    {"nome": "Reuters via Yahoo (bloqueio)", "url": "https://www.yahoo.com/news/articles/iran-orders-hormuz-closed-further-104812125.html"},
+    {"nome": "TRT World", "url": "https://www.trtworld.com/article/3316462a94ce"},
+    {"nome": "tafs.uz (mediação Catar e Paquistão)", "url": "https://tafs.uz/en/2026/11/26/iran-says-qatari-and-pakistani-mediation-in-talks-with-the-us-continues"}
+  ],
+  "busca_imagens": [
+    {"id": "img01", "query": "File:Skynex SHORAD.jpg", "alternativas": []},
+    {"id": "img02", "query": "File:Boxer fitted with the Oerlikon Skyranger air defence system.jpg", "alternativas": []},
+    {"id": "img03", "query": "File:Kuwait city skyline.jpg", "alternativas": []},
+    {"id": "img07", "query": "File:View of north of Kuwait City.jpg", "alternativas": []},
+    {"id": "img04", "query": "File:Strait of Hormuz (MODIS 2020-12-04).jpg", "alternativas": []},
+    {"id": "img05", "query": "File:From left, the French navy Tripartite-class mine hunter FS Sagittaire (M650), the mine countermeasures ship USS Sentry (MCM 3) and the Royal Navy Sandown-class mine countermeasures vessel HMS Shoreham (M112) 130521-N-YY107-033.jpg", "alternativas": []},
+    {"id": "img06", "query": "File:HMS Middleton in the Strait of Hormuz (8315145316).jpg", "alternativas": []}
+  ],
+  "agendamento": {"data_hora": "2026-11-29T06:01:00-03:00", "slot": "06:01"},
+  "reel": {"gerar": false},
+  "ia_gerado": false
+}
