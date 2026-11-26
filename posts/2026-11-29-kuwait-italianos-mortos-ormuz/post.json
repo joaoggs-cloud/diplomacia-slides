@@ -23,12 +23,14 @@
       "texto_html": "Segundo o chanceler italiano, <strong>Antonio Tajani</strong>, eram técnicos da Rheinmetall Italia, braço do grupo alemão de defesa, e trabalhavam numa estação de vigilância antiaérea. Kuwait e Itália responsabilizam o Irã pelo ataque."
     },
     {
-      "imagem": "img03",
-      "texto_html": "<strong>O Irã nega.</strong> A embaixada iraniana em Roma rejeitou a acusação \"categoricamente\", e o chanceler Abbas Araqchi ofereceu uma investigação conjunta com o Kuwait. A autoria, até aqui, vem de declarações oficiais dos governos envolvidos."
+      "imagem": "img07",
+      "texto_html": "<strong>O Irã nega.</strong> A embaixada iraniana em Roma rejeitou a acusação \"categoricamente\", e o chanceler Abbas Araqchi ofereceu uma investigação conjunta com o Kuwait. A autoria, até aqui, vem de declarações oficiais dos governos envolvidos.",
+      "foco": "50% 95%"
     },
     {
-      "imagem": "img07",
-      "texto_html": "A Itália disse que vai protestar formalmente junto à embaixada iraniana. A presidente da Comissão Europeia, <strong>Ursula von der Leyen</strong>, pediu mais pressão sobre o Irã."
+      "imagem": "img02",
+      "texto_html": "A Itália disse que vai protestar formalmente junto à embaixada iraniana. A presidente da Comissão Europeia, <strong>Ursula von der Leyen</strong>, pediu mais pressão sobre o Irã.",
+      "foco": "20% 50%"
     },
     {
       "imagem": "img04",
@@ -112,11 +114,6 @@
       "alternativas": []
     },
     {
-      "id": "img03",
-      "query": "File:Kuwait city skyline.jpg",
-      "alternativas": []
-    },
-    {
       "id": "img07",
       "query": "File:View of north of Kuwait City.jpg",
       "alternativas": []
@@ -173,19 +170,6 @@
       "query": "File:Boxer fitted with the Oerlikon Skyranger air defence system.jpg"
     },
     {
-      "titulo": "Kuwait city skyline.jpg",
-      "autor": "Autor desconhecido",
-      "licenca": "CC BY 2.0",
-      "exige_credito": true,
-      "url_origem": "https://commons.wikimedia.org/wiki/File:Kuwait_city_skyline.jpg",
-      "url_download": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Kuwait_city_skyline.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "largura": 1024,
-      "altura": 768,
-      "id": "img03",
-      "arquivo": "imagens/img03.jpg",
-      "query": "File:Kuwait city skyline.jpg"
-    },
-    {
       "titulo": "Strait of Hormuz (MODIS 2020-12-04).jpg",
       "autor": "MODIS Land Rapid Response Team, NASA GSFC",
       "licenca": "Public domain",
@@ -213,7 +197,7 @@
     },
     {
       "titulo": "HMS Middleton in the Strait of Hormuz (8315145316).jpg",
-      "autor": "UK Ministry of Defence from London, United Kingdom",
+      "autor": "UK Ministry of Defence",
       "licenca": "CC BY-SA 2.0",
       "exige_credito": true,
       "url_origem": "https://commons.wikimedia.org/wiki/File:HMS_Middleton_in_the_Strait_of_Hormuz_(8315145316).jpg",
