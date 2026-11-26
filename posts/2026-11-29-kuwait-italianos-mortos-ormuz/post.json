@@ -9,9 +9,9 @@
   "usar_hashtags_base": true,
   "capa": {
     "imagem": "img01",
-    "titulo_html": "Dois italianos morreram no Kuwait. <span class=\"hl\">Itália e Kuwait acusam o Irã</span>; Teerã nega",
+    "titulo_html": "Dois italianos morreram no Kuwait. <span class=\"hl\">Itália e Kuwait acusam o Irã; Teerã nega</span>",
     "gancho": "No mesmo dia, a Guarda Revolucionária disse que dois petroleiros bateram em minas em Ormuz.",
-    "credito": "Foto de arquivo: sistema antiaéreo Skynex"
+    "credito": "Foto de arquivo: radar antiaéreo Skyguard (Áustria) · Aciarium · CC BY 4.0"
   },
   "slides": [
     {
@@ -24,32 +24,31 @@
     },
     {
       "imagem": "img07",
-      "texto_html": "<strong>O Irã nega.</strong> A embaixada iraniana em Roma rejeitou a acusação \"categoricamente\", e o chanceler Abbas Araqchi ofereceu uma investigação conjunta com o Kuwait. A autoria, até aqui, vem de declarações oficiais dos governos envolvidos.",
+      "texto_html": "<strong>O Irã nega.</strong> A embaixada iraniana em Roma rejeitou a acusação \"categoricamente\", e o porta-voz das Forças Armadas negou qualquer ataque ao Kuwait. Em telefonema com Tajani, o chanceler Abbas Araqchi se disse disposto a uma investigação conjunta.",
       "foco": "50% 95%"
     },
     {
-      "imagem": "img02",
-      "texto_html": "A Itália disse que vai protestar formalmente junto à embaixada iraniana. A presidente da Comissão Europeia, <strong>Ursula von der Leyen</strong>, pediu mais pressão sobre o Irã.",
-      "foco": "20% 50%"
+      "imagem": "img08",
+      "texto_html": "A Itália disse que vai apresentar uma queixa à embaixada iraniana. A presidente da Comissão Europeia, <strong>Ursula von der Leyen</strong>, pediu mais pressão sobre o Irã."
     },
     {
       "imagem": "img04",
-      "texto_html": "No mesmo dia, a Guarda Revolucionária (IRGC) afirmou que <strong>dois petroleiros explodiram</strong> ao bater em minas ao norte de Khasab, em Omã, por cruzarem Ormuz sem autorização de Teerã. A Reuters não conseguiu verificar a informação de forma independente."
+      "texto_html": "No mesmo dia, a Guarda Revolucionária (IRGC) afirmou que <strong>dois petroleiros explodiram</strong> ao bater em minas ao norte de Khasab, em Omã, por cruzarem Ormuz sem autorização de Teerã. Não houve confirmação independente."
     },
     {
       "imagem": "img05",
-      "texto_html": "O pano de fundo é o impasse. O <strong>bloqueio naval dos EUA</strong> a portos iranianos começou em 13 abr, após o fracasso das conversas em Islamabad, e foi retomado em 14 jul. O Irã diz que só normaliza a navegação quando suas exigências forem atendidas, inclusive o fim do bloqueio."
+      "texto_html": "O pano de fundo é o impasse. O <strong>bloqueio naval dos EUA</strong> a portos iranianos começou em 13 abr, após o fracasso das conversas em Islamabad, e foi retomado em 14 jul. Teerã condiciona a normalização da navegação ao fim do bloqueio, entre outras exigências."
     },
     {
       "imagem": "img06",
-      "texto_html": "Mediadores do Catar e do Paquistão seguem passando propostas entre Teerã e Washington. O Irã diz que <strong>reabre o estreito em até 48 horas</strong> se os EUA cumprirem suas condições. Os EUA não confirmaram que aceitam."
+      "texto_html": "Mediadores do Catar e do Paquistão seguem levando mensagens entre Teerã e Washington. Em 26 nov, o chanceler Araqchi disse que o Irã examina novas ideias, mas insiste nas suas exigências para reabrir Ormuz, como o fim do bloqueio e das sanções."
     }
   ],
   "cta": {
     "titulo": "Envie para quem acompanha a guerra no Golfo",
     "subtitulo": "e fique de olho na investigação"
   },
-  "legenda": "Dois italianos morreram no Kuwait. Itália e Kuwait acusam o Irã; Teerã nega.\n\nEm 26 nov, um ataque de drones a uma instalação kuwaitiana matou dois técnicos da Rheinmetall Italia, segundo o chanceler Antonio Tajani. A embaixada iraniana em Roma rejeitou a acusação, e o chanceler Abbas Araqchi ofereceu uma investigação conjunta. A Itália vai protestar formalmente, e Ursula von der Leyen pediu mais pressão sobre Teerã. No mesmo dia, a Guarda Revolucionária disse que dois petroleiros bateram em minas perto de Khasab, em Omã; a Reuters não verificou a alegação de forma independente. Mediadores do Catar e do Paquistão seguem atuando, e o Irã fala em reabrir Ormuz em até 48 horas se suas condições forem atendidas.\n\nFotos de arquivo, sem relação direta com os fatos do dia.\n\nArraste para o lado.",
+  "legenda": "Dois italianos morreram no Kuwait. Itália e Kuwait acusam o Irã; Teerã nega.\n\nEm 26 nov, um ataque de drones a uma instalação kuwaitiana matou dois técnicos da Rheinmetall Italia, segundo o chanceler Antonio Tajani. A embaixada iraniana em Roma rejeitou a acusação, e Abbas Araqchi se disse disposto a uma investigação conjunta. A Itália vai apresentar queixa à embaixada iraniana, e Ursula von der Leyen pediu mais pressão sobre Teerã. No mesmo dia, a Guarda Revolucionária disse que dois petroleiros bateram em minas perto de Khasab, em Omã; não houve confirmação independente. Mediadores do Catar e do Paquistão seguem atuando, e Araqchi disse que o Irã mantém suas exigências para reabrir Ormuz, entre elas o fim do bloqueio dos EUA.\n\nFotos de arquivo, sem relação direta com os fatos do dia.\n\nArraste para o lado.",
   "primeiro_comentario": "",
   "hashtags": [
     "#kuwait",
@@ -100,13 +99,31 @@
     {
       "nome": "tafs.uz (mediação Catar e Paquistão)",
       "url": "https://tafs.uz/en/2026/11/26/iran-says-qatari-and-pakistani-mediation-in-talks-with-the-us-continues"
+    },
+    {
+      "nome": "CENTCOM (retomada do bloqueio naval)",
+      "url": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/4542098/us-forces-to-resume-naval-blockade-against-iran/"
+    },
+    {
+      "nome": "Al Jazeera (14 jul)",
+      "url": "https://www.aljazeera.com/news/2026/7/14/us-strikes-new-targets-in-iran-as-tehran-hits-gulf-states-hormuz"
+    },
+    {
+      "nome": "Middle East Monitor (mediação)",
+      "url": "https://www.middleeastmonitor.com/20261126-iran-says-qatari-pakistani-mediation-in-talks-with-us-continues/"
+    },
+    {
+      "nome": "Anews (mediação)",
+      "url": "https://www.anews.com.tr/middle-east/2026/11/26/iran-says-qatari-pakistani-mediation-in-talks-with-us-continues"
     }
   ],
   "busca_imagens": [
     {
       "id": "img01",
-      "query": "File:Skynex SHORAD.jpg",
-      "alternativas": []
+      "query": "File:DSC05548 Feuerleitgerät 75 95 Skyguard, Bundesheer, 2023-10.jpg",
+      "alternativas": [
+        "File:Skyguard radar of Malaysian Army in display in AKM Pahang 2022.jpg"
+      ]
     },
     {
       "id": "img02",
@@ -132,6 +149,11 @@
       "id": "img06",
       "query": "File:HMS Middleton in the Strait of Hormuz (8315145316).jpg",
       "alternativas": []
+    },
+    {
+      "id": "img08",
+      "query": "File:Skyguard radar of Malaysian Army in display in AKM Pahang 2022.jpg",
+      "alternativas": []
     }
   ],
   "agendamento": {
@@ -144,17 +166,17 @@
   "ia_gerado": false,
   "imagens": [
     {
-      "titulo": "Skynex SHORAD.jpg",
-      "autor": "Rheinmetall",
-      "licenca": "CC BY-SA 4.0",
+      "titulo": "DSC05548 Feuerleitgerät 75 95 Skyguard, Bundesheer, 2023-10.jpg",
+      "autor": "Aciarium",
+      "licenca": "CC BY 4.0",
       "exige_credito": true,
-      "url_origem": "https://commons.wikimedia.org/wiki/File:Skynex_SHORAD.jpg",
-      "url_download": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Skynex_SHORAD.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "largura": 1200,
-      "altura": 630,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:DSC05548_Feuerleitger%C3%A4t_75_95_Skyguard,_Bundesheer,_2023-10.jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/DSC05548_Feuerleitger%C3%A4t_75_95_Skyguard%2C_Bundesheer%2C_2023-10.jpg/1920px-DSC05548_Feuerleitger%C3%A4t_75_95_Skyguard%2C_Bundesheer%2C_2023-10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 5359,
+      "altura": 4019,
       "id": "img01",
       "arquivo": "imagens/img01.jpg",
-      "query": "File:Skynex SHORAD.jpg"
+      "query": "File:DSC05548 Feuerleitgerät 75 95 Skyguard, Bundesheer, 2023-10.jpg"
     },
     {
       "titulo": "Boxer fitted with the Oerlikon Skyranger air defence system.jpg",
@@ -193,11 +215,12 @@
       "altura": 2481,
       "id": "img05",
       "arquivo": "imagens/img05.jpg",
-      "query": "File:From left, the French navy Tripartite-class mine hunter FS Sagittaire (M650), the mine countermeasures ship USS Sentry (MCM 3) and the Royal Navy Sandown-class mine countermeasures vessel HMS Shoreham (M112) 130521-N-YY107-033.jpg"
+      "query": "File:From left, the French navy Tripartite-class mine hunter FS Sagittaire (M650), the mine countermeasures ship USS Sentry (MCM 3) and the Royal Navy Sandown-class mine countermeasures vessel HMS Shoreham (M112) 130521-N-YY107-033.jpg",
+      "credito_custom": "Foto de arquivo (exercício no Golfo, 2013) · domínio público"
     },
     {
       "titulo": "HMS Middleton in the Strait of Hormuz (8315145316).jpg",
-      "autor": "UK Ministry of Defence",
+      "autor": "LA(Phot) Gary Weatherston / UK MoD",
       "licenca": "CC BY-SA 2.0",
       "exige_credito": true,
       "url_origem": "https://commons.wikimedia.org/wiki/File:HMS_Middleton_in_the_Strait_of_Hormuz_(8315145316).jpg",
@@ -220,6 +243,19 @@
       "id": "img07",
       "arquivo": "imagens/img07.jpg",
       "query": "File:View of north of Kuwait City.jpg"
+    },
+    {
+      "titulo": "Skyguard radar of Malaysian Army in display in AKM Pahang 2022.jpg",
+      "autor": "Kistara",
+      "licenca": "CC BY-SA 4.0",
+      "exige_credito": true,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Skyguard_radar_of_Malaysian_Army_in_display_in_AKM_Pahang_2022.jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Skyguard_radar_of_Malaysian_Army_in_display_in_AKM_Pahang_2022.jpg/1920px-Skyguard_radar_of_Malaysian_Army_in_display_in_AKM_Pahang_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 2448,
+      "altura": 3264,
+      "id": "img08",
+      "arquivo": "imagens/img08.jpg",
+      "query": "File:Skyguard radar of Malaysian Army in display in AKM Pahang 2022.jpg"
     }
   ]
 }
