@@ -1,0 +1,237 @@
+{
+  "slug": "2026-11-30-houthis-60-km-de-aden",
+  "titulo_interno": "Houthis a cerca de 60 km de Áden",
+  "status": "rascunho",
+  "estilo": "clean",
+  "pilar": "conflito_atual",
+  "categoria": "Conflito · Iêmen",
+  "gancho_tipo": "numero",
+  "usar_hashtags_base": true,
+  "capa": {
+    "imagem": "img01",
+    "titulo_html": "<span class=\"hl\">60 km:</span> segundo a AFP, é a distância entre os houthis e Áden",
+    "gancho": "Áden é a cidade que o governo do Iêmen usa como sede.",
+    "credito": "Foto de arquivo: Áden"
+  },
+  "slides": [
+    {
+      "imagem": "img02",
+      "texto_html": "<strong>Áden</strong> é a cidade que o governo do Iêmen, reconhecido internacionalmente, usa como sede. Em set, a guerra voltou a se intensificar após uma trégua que vinha desde 2022, e o ACNUR relatou famílias fugindo de combates em várias províncias."
+    },
+    {
+      "imagem": "img06",
+      "texto_html": "Em 4 out, o líder do Conselho de Liderança Presidencial, <strong>Rashad al-Alimi</strong>, anunciou uma operação militar para retomar territórios em poder dos houthis."
+    },
+    {
+      "imagem": "img03",
+      "texto_html": "Em meados de nov, forças do governo <strong>se retiraram da região de Bab al-Mandeb</strong>, o estreito na entrada do Mar Vermelho, incluindo o aeroporto de Dhubab, para concentrar a defesa em Áden."
+    },
+    {
+      "imagem": "img04",
+      "texto_html": "Em 15 nov, segundo a <strong>AFP</strong>, com fontes militares e do governo, os houthis tomaram dois distritos da província de Lahj e estariam no acampamento de Al-Kharaz, a cerca de 60 km de Áden. É a posição reportada, não uma linha de frente verificada."
+    },
+    {
+      "imagem": "img05",
+      "texto_html": "Duas fontes militares houthis disseram à AFP que seus combatentes ocuparam posições deixadas pelo governo ao longo de mais de 150 km de costa. Por volta de 18 nov, a coalizão liderada pela Arábia Saudita disse ter atingido <strong>60 alvos militares</strong> houthis.",
+      "foco": "50% 40%"
+    },
+    {
+      "imagem": "img01",
+      "texto_html": "Em 25 nov, o exército iemenita disse que os houthis estão <strong>prontos para atacar Áden</strong>, e as forças do governo cavam trincheiras e uma linha fortificada em torno da cidade. Um oficial chamou de \"hipotético\" que os houthis tomem Áden.",
+      "foco": "30% 50%"
+    },
+    {
+      "imagem": "img02",
+      "texto_html": "Analistas ouvidos pela AP avaliam que os houthis podem tentar cortar as rotas de abastecimento em vez de invadir a cidade de imediato. É uma avaliação, não um fato confirmado.",
+      "foco": "70% 50%"
+    },
+    {
+      "imagem": "img03",
+      "texto_html": "Em 25 nov, segundo a New Arab, a coalizão bombardeou o <strong>porto de Hodeidah</strong>, por onde entra boa parte dos alimentos e da ajuda ao país. Os houthis ameaçaram atacar portos sauditas no Mar Vermelho.",
+      "foco": "30% 50%"
+    }
+  ],
+  "cta": {
+    "titulo": "Envie para quem acompanha a guerra no Iêmen",
+    "subtitulo": "e fique de olho em Áden"
+  },
+  "legenda": "60 km: segundo a AFP, é a distância entre os houthis e Áden, a cidade que o governo do Iêmen usa como sede.\n\nEm 15 nov, a agência informou, com base em fontes militares e do governo, que os houthis tomaram dois distritos da província de Lahj e estariam no acampamento de Al-Kharaz. Dias antes, forças do governo haviam se retirado da região de Bab al-Mandeb para concentrar a defesa em Áden. Em 25 nov, o exército iemenita disse que os houthis estão prontos para atacar, e as forças do governo cavam trincheiras em torno da cidade; um oficial chamou de hipotética a tomada de Áden. A coalizão liderada pela Arábia Saudita disse ter atingido 60 alvos houthis, e os houthis ameaçaram portos sauditas no Mar Vermelho. A posição de 60 km é a reportada pela AFP em meados de nov e pode ter mudado; as alegações dos dois lados não foram confirmadas de forma independente.\n\nFotos de arquivo, sem relação direta com os fatos do dia.\n\nArraste para o lado.",
+  "primeiro_comentario": "",
+  "hashtags": [
+    "#iemen",
+    "#houthis",
+    "#aden",
+    "#marvermelho",
+    "#arabiasaudita",
+    "#geopolitica"
+  ],
+  "alt_text": "Carrossel sobre o avanço dos houthis a cerca de 60 km de Áden, no Iêmen, com fotos de arquivo de Áden, do estreito de Bab al-Mandeb e mapa das províncias.",
+  "fontes": [
+    {
+      "nome": "AFP via SCMP (avanço houthi)",
+      "url": "https://www.scmp.com/news/world/middle-east/article/3374549/houthis-advance-yemen-government-stronghold-aden"
+    },
+    {
+      "nome": "AFP via News.at",
+      "url": "https://www.news.at/politik/kreise-houthi-miliz-60-kilometer-vor-aden-im-sudjemen"
+    },
+    {
+      "nome": "Al Jazeera (retirada de Bab al-Mandeb, 15 nov)",
+      "url": "https://www.aljazeera.com/news/2026/11/15/yemeni-government-forces-redeploy-from-bab-al-mandeb-to-defend-aden"
+    },
+    {
+      "nome": "Hurriyet Daily News",
+      "url": "https://www.hurriyetdailynews.com/amp/yemeni-forces-pull-back-from-key-strait-as-houthis-near-aden-229435"
+    },
+    {
+      "nome": "Al Jazeera (18 nov, coalizão)",
+      "url": "https://www.aljazeera.com/news/2026/11/18/houthis-advance-on-aden-as-saudi-coalition-targets-military-sites"
+    },
+    {
+      "nome": "Jerusalem Post",
+      "url": "https://www.jpost.com/middle-east/article-916066"
+    },
+    {
+      "nome": "AP via ABC News (25 nov)",
+      "url": "https://abcnews.com/International/wireStory/houthi-rebels-close-aden-yemeni-forces-dig-fortified-138404636"
+    },
+    {
+      "nome": "AP via Business Standard",
+      "url": "https://www.business-standard.com/world-news/houthis-close-in-on-aden-as-yemeni-forces-dig-in-behind-fortified-line-126112500003_1.html"
+    },
+    {
+      "nome": "The New Arab (prontos para atacar Áden)",
+      "url": "https://www.newarab.com/news/houthis-ready-attack-aden-yemens-armed-forces-says"
+    },
+    {
+      "nome": "The New Arab (Hodeidah)",
+      "url": "https://www.newarab.com/news/saudi-led-coalition-strikes-hodeidah-as-houthis-threaten-ports"
+    },
+    {
+      "nome": "Times of Israel",
+      "url": "https://www.timesofisrael.com/yemens-houthis-say-they-hit-two-saudi-ports-in-response-to-coalition-strikes/"
+    },
+    {
+      "nome": "Al Jazeera (4 out, operação de Alimi)",
+      "url": "https://www.aljazeera.com/news/2026/10/4/yemens-leader-announces-military-operation-to-retake-houthi-held-territory"
+    },
+    {
+      "nome": "Khaleej Times",
+      "url": "https://www.khaleejtimes.com/world/mena/yemen-leader-military-operations-houthis-seize-territory"
+    },
+    {
+      "nome": "UNHCR via Jurist (set)",
+      "url": "https://www.jurist.org/news/2026/09/worsening-conflict-in-yemen-fuels-mass-displacement-amid-growing-humanitarian-emergency-unhcr-says/"
+    },
+    {
+      "nome": "Al Jazeera (11 set, deslocados)",
+      "url": "https://www.aljazeera.com/news/2026/9/11/at-least-46000-displaced-by-escalating-yemen-fighting-un"
+    },
+    {
+      "nome": "Al Jazeera (29 set, portos e estradas)",
+      "url": "https://www.aljazeera.com/news/2026/9/29/yemens-war-disrupts-roads-and-ports-deepening-humanitarian-crisis"
+    },
+    {
+      "nome": "ONU News",
+      "url": "https://news.un.org/en/story/2026/09/1168339"
+    }
+  ],
+  "busca_imagens": [
+    {
+      "id": "img01",
+      "query": "File:Aden crater.jpg",
+      "alternativas": []
+    },
+    {
+      "id": "img02",
+      "query": "File:ISS-47 Port of Aden, Yemen.jpg",
+      "alternativas": []
+    },
+    {
+      "id": "img03",
+      "query": "File:Bab-el-Mandeb, outer space.jpg",
+      "alternativas": [
+        "File:Bab-el-Mandeb Seen From Midchannel (cropped).jpg"
+      ]
+    },
+    {
+      "id": "img04",
+      "query": "File:Governorates of Yemen named.svg",
+      "alternativas": []
+    },
+    {
+      "id": "img05",
+      "query": "File:Yemeni Houthi troops ride on the back of a police patrol truck after participating in a Houthi gathering.jpg",
+      "alternativas": []
+    },
+    {
+      "id": "img06",
+      "query": "File:Rashad al-Alimi (2023).jpg",
+      "alternativas": [
+        "File:Rashad al-Alimi - 2022.jpg"
+      ]
+    }
+  ],
+  "agendamento": {
+    "data_hora": "2026-11-30T06:01:00-03:00",
+    "slot": "06:01"
+  },
+  "reel": {
+    "gancho": "60 km separam os houthis de Áden, segundo a AFP.",
+    "cenas": [
+      {
+        "imagem": "img01",
+        "texto_html": "Segundo a AFP, os houthis estão a cerca de <em>60 km de Áden</em>, no Iêmen."
+      },
+      {
+        "imagem": "img02",
+        "texto_html": "Áden é a cidade que o governo reconhecido internacionalmente usa como <em>sede</em>."
+      },
+      {
+        "imagem": "img03",
+        "texto_html": "Em meados de novembro, tropas do governo deixaram a região do estreito de <em>Bab al-Mandeb</em>."
+      },
+      {
+        "imagem": "img04",
+        "texto_html": "O exército iemenita diz que os houthis estão prontos para atacar e cava <em>trincheiras</em>."
+      },
+      {
+        "imagem": "img03",
+        "texto_html": "Segundo a New Arab, a coalizão saudita bombardeou o porto de <em>Hodeidah</em>, via de entrada de ajuda."
+      },
+      {
+        "imagem": "img05",
+        "texto_html": "Os houthis ameaçam portos sauditas no Mar Vermelho. As alegações não foram confirmadas de forma <em>independente</em>."
+      }
+    ]
+  },
+  "ia_gerado": false,
+  "imagens": [
+    {
+      "titulo": "Aden crater.jpg",
+      "autor": "Haimasoph",
+      "licenca": "CC BY-SA 3.0",
+      "exige_credito": true,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Aden_crater.jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Aden_crater.jpg/1920px-Aden_crater.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 2304,
+      "altura": 1728,
+      "id": "img01",
+      "arquivo": "imagens/img01.jpg",
+      "query": "File:Aden crater.jpg"
+    },
+    {
+      "titulo": "ISS-47 Port of Aden, Yemen.jpg",
+      "autor": "NASA",
+      "licenca": "Public domain",
+      "exige_credito": false,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:ISS-47_Port_of_Aden,_Yemen.jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/ISS-47_Port_of_Aden%2C_Yemen.jpg/1920px-ISS-47_Port_of_Aden%2C_Yemen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 3280,
+      "altura": 4928,
+      "id": "img02",
+      "arquivo": "imagens/img02.jpg",
+      "query": "File:ISS-47 Port of Aden, Yemen.jpg"
+    }
+  ]
+}
