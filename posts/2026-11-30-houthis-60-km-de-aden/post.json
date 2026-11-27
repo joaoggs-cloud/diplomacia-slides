@@ -8,10 +8,11 @@
   "gancho_tipo": "numero",
   "usar_hashtags_base": true,
   "capa": {
-    "imagem": "img01",
+    "imagem": "img06",
     "titulo_html": "<span class=\"hl\">60 km:</span> segundo a AFP, é a distância entre os houthis e Áden",
     "gancho": "Áden é a cidade que o governo do Iêmen usa como sede.",
-    "credito": "Foto de arquivo: Áden"
+    "credito": "Foto de arquivo: Áden, 2013 · Brian H. Spier · CC BY-SA 2.0",
+    "foco": "50% 50%"
   },
   "slides": [
     {
@@ -20,30 +21,32 @@
     },
     {
       "imagem": "img06",
-      "texto_html": "Em 4 out, o líder do Conselho de Liderança Presidencial, <strong>Rashad al-Alimi</strong>, anunciou uma operação militar para retomar territórios em poder dos houthis."
+      "texto_html": "Em 4 out, o líder do Conselho de Liderança Presidencial, <strong>Rashad al-Alimi</strong>, anunciou uma operação militar para retomar territórios em poder dos houthis.",
+      "foco": "85% 50%"
     },
     {
       "imagem": "img03",
       "texto_html": "Em meados de nov, forças do governo <strong>se retiraram da região de Bab al-Mandeb</strong>, o estreito na entrada do Mar Vermelho, incluindo o aeroporto de Dhubab, para concentrar a defesa em Áden."
     },
     {
-      "imagem": "img04",
-      "texto_html": "Em 15 nov, segundo a <strong>AFP</strong>, com fontes militares e do governo, os houthis tomaram dois distritos da província de Lahj e estariam no acampamento de Al-Kharaz, a cerca de 60 km de Áden. É a posição reportada, não uma linha de frente verificada."
+      "imagem": "img02",
+      "texto_html": "Em 15 nov, segundo a <strong>AFP</strong>, com fontes militares e do governo, os houthis tomaram dois distritos da província de Lahj e estariam no acampamento de Al-Kharaz, a cerca de 60 km de Áden. É a posição reportada, não uma linha de frente verificada.",
+      "foco": "20% 50%"
     },
     {
-      "imagem": "img05",
+      "imagem": "img03",
       "texto_html": "Duas fontes militares houthis disseram à AFP que seus combatentes ocuparam posições deixadas pelo governo ao longo de mais de 150 km de costa. Por volta de 18 nov, a coalizão liderada pela Arábia Saudita disse ter atingido <strong>60 alvos militares</strong> houthis.",
-      "foco": "50% 40%"
-    },
-    {
-      "imagem": "img01",
-      "texto_html": "Em 25 nov, o exército iemenita disse que os houthis estão <strong>prontos para atacar Áden</strong>, e as forças do governo cavam trincheiras e uma linha fortificada em torno da cidade. Um oficial chamou de \"hipotético\" que os houthis tomem Áden.",
-      "foco": "30% 50%"
+      "foco": "85% 50%"
     },
     {
       "imagem": "img02",
+      "texto_html": "Em 25 nov, o exército iemenita disse que os houthis estão <strong>prontos para atacar Áden</strong>, e as forças do governo cavam trincheiras e uma linha fortificada em torno da cidade. Um oficial chamou de \"hipotético\" que os houthis tomem Áden.",
+      "foco": "50% 50%"
+    },
+    {
+      "imagem": "img06",
       "texto_html": "Analistas ouvidos pela AP avaliam que os houthis podem tentar cortar as rotas de abastecimento em vez de invadir a cidade de imediato. É uma avaliação, não um fato confirmado.",
-      "foco": "70% 50%"
+      "foco": "95% 50%"
     },
     {
       "imagem": "img03",
@@ -138,11 +141,6 @@
   ],
   "busca_imagens": [
     {
-      "id": "img01",
-      "query": "File:Aden crater.jpg",
-      "alternativas": []
-    },
-    {
       "id": "img02",
       "query": "File:ISS-47 Port of Aden, Yemen.jpg",
       "alternativas": []
@@ -155,21 +153,9 @@
       ]
     },
     {
-      "id": "img04",
-      "query": "File:Governorates of Yemen named.svg",
-      "alternativas": []
-    },
-    {
-      "id": "img05",
-      "query": "File:Yemeni Houthi troops ride on the back of a police patrol truck after participating in a Houthi gathering.jpg",
-      "alternativas": []
-    },
-    {
       "id": "img06",
-      "query": "File:Rashad al-Alimi (2023).jpg",
-      "alternativas": [
-        "File:Rashad al-Alimi - 2022.jpg"
-      ]
+      "query": "File:Aden. Steamer Point. Aug 2013 (9727325813).jpg",
+      "alternativas": []
     }
   ],
   "agendamento": {
@@ -180,7 +166,7 @@
     "gancho": "60 km separam os houthis de Áden, segundo a AFP.",
     "cenas": [
       {
-        "imagem": "img01",
+        "imagem": "img06",
         "texto_html": "Segundo a AFP, os houthis estão a cerca de <em>60 km de Áden</em>, no Iêmen."
       },
       {
@@ -192,7 +178,7 @@
         "texto_html": "Em meados de novembro, tropas do governo deixaram a região do estreito de <em>Bab al-Mandeb</em>."
       },
       {
-        "imagem": "img04",
+        "imagem": "img06",
         "texto_html": "O exército iemenita diz que os houthis estão prontos para atacar e cava <em>trincheiras</em>."
       },
       {
@@ -200,26 +186,13 @@
         "texto_html": "Segundo a New Arab, a coalizão saudita bombardeou o porto de <em>Hodeidah</em>, via de entrada de ajuda."
       },
       {
-        "imagem": "img05",
+        "imagem": "img06",
         "texto_html": "Os houthis ameaçam portos sauditas no Mar Vermelho. As alegações não foram confirmadas de forma <em>independente</em>."
       }
     ]
   },
   "ia_gerado": false,
   "imagens": [
-    {
-      "titulo": "Aden crater.jpg",
-      "autor": "Haimasoph",
-      "licenca": "CC BY-SA 3.0",
-      "exige_credito": true,
-      "url_origem": "https://commons.wikimedia.org/wiki/File:Aden_crater.jpg",
-      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Aden_crater.jpg/1920px-Aden_crater.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "largura": 2304,
-      "altura": 1728,
-      "id": "img01",
-      "arquivo": "imagens/img01.jpg",
-      "query": "File:Aden crater.jpg"
-    },
     {
       "titulo": "ISS-47 Port of Aden, Yemen.jpg",
       "autor": "NASA",
@@ -231,7 +204,36 @@
       "altura": 4928,
       "id": "img02",
       "arquivo": "imagens/img02.jpg",
-      "query": "File:ISS-47 Port of Aden, Yemen.jpg"
+      "query": "File:ISS-47 Port of Aden, Yemen.jpg",
+      "credito_custom": "Foto de arquivo: porto de Áden (NASA) · domínio público"
+    },
+    {
+      "titulo": "Bab-el-Mandeb, outer space.jpg",
+      "autor": "Earth Science and Remote Sensing Unit, NASA Johnson Space Center",
+      "licenca": "Public domain",
+      "exige_credito": false,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Bab-el-Mandeb,_outer_space.jpg",
+      "url_download": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Bab-el-Mandeb%2C_outer_space.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largura": 1263,
+      "altura": 939,
+      "id": "img03",
+      "arquivo": "imagens/img03.jpg",
+      "query": "File:Bab-el-Mandeb, outer space.jpg",
+      "credito_custom": "Foto de arquivo: NASA · domínio público"
+    },
+    {
+      "titulo": "Aden. Steamer Point. Aug 2013 (9727325813).jpg",
+      "autor": "Brian Harrington Spier from Shanghai, China",
+      "licenca": "CC BY-SA 2.0",
+      "exige_credito": true,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Aden._Steamer_Point._Aug_2013_(9727325813).jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Aden._Steamer_Point._Aug_2013_%289727325813%29.jpg/1920px-Aden._Steamer_Point._Aug_2013_%289727325813%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 3584,
+      "altura": 1992,
+      "id": "img06",
+      "arquivo": "imagens/img06.jpg",
+      "query": "File:Aden. Steamer Point. Aug 2013 (9727325813).jpg",
+      "credito_custom": "Foto de arquivo: Áden, 2013 · Brian H. Spier · CC BY-SA 2.0"
     }
   ]
 }
