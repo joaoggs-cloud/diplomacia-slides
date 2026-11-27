@@ -1,3 +1,5 @@
+# APROVADO (coordenador, rodada 2, 27 nov): correções 1–8 aplicadas, fotos novas, slides relidos. Reconferir Áden em 29 nov.
+
 REPROVADO
 
 # Revisão — 2026-11-30-houthis-60-km-de-aden (revisor, 27 nov 2026, noite)
