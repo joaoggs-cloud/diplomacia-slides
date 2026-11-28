@@ -1,0 +1,239 @@
+{
+  "slug": "2026-12-01-libia-benghazi-corveta-merkury",
+  "titulo_interno": "Corveta russa Merkury atingida em Benghazi, na Líbia",
+  "status": "rascunho",
+  "estilo": "clean",
+  "pilar": "conflito_atual",
+  "categoria": "Conflito · Líbia",
+  "gancho_tipo": "contradicao",
+  "usar_hashtags_base": true,
+  "capa": {
+    "imagem": "img01",
+    "titulo_html": "A guerra da Ucrânia chegou à Líbia: <span class=\"hl\">corveta russa atingida</span> em Benghazi",
+    "gancho": "Um comboio russo rumo ao país deu meia-volta, segundo a Reuters.",
+    "credito": "Foto de arquivo: Merkury, 2022 · 13243546A · CC BY-SA 4.0",
+    "foco": "50% 50%"
+  },
+  "slides": [
+    {
+      "imagem": "img04",
+      "texto_html": "Em 22 nov, um ataque atingiu a corveta russa <strong>Merkury</strong> na base naval de Benghazi, no leste da Líbia, com explosão e incêndio, segundo o governo do leste do país. Esse governo diz que o navio estava atracado para reabastecer.",
+      "foco": "50% 50%"
+    },
+    {
+      "imagem": "img06",
+      "texto_html": "O leste da Líbia é controlado por <strong>Khalifa Haftar</strong>, cujo Exército Nacional Líbio tem laços com Moscou. Segundo o governo do leste, o navio estava ali no âmbito de um acordo de cooperação com a Rússia.",
+      "foco": "50% 25%"
+    },
+    {
+      "imagem": "img01",
+      "texto_html": "O presidente ucraniano, Volodymyr Zelensky, confirmou a operação e disse que drones navais ucranianos <strong>afundaram</strong> o Merkury. Dois oficiais líbios disseram à CBS que a corveta ficou severamente danificada. O resultado segue em disputa.",
+      "foco": "50% 50%"
+    },
+    {
+      "imagem": "img04",
+      "texto_html": "O Exército Nacional Líbio disse que <strong>dois militares da marinha líbia morreram</strong>, e a Reuters, com fontes médicas, falou em 10 feridos, russos e líbios. O governo do leste diz que vai pedir indenização à Ucrânia e fez queixa à ONU.",
+      "foco": "50% 50%"
+    },
+    {
+      "imagem": "img07",
+      "texto_html": "O Kremlin, pelo porta-voz Dmitri Peskov, chamou os ataques na Líbia e no Báltico de <strong>tendência muito perigosa</strong>. No Báltico, o cargueiro russo Sparta II foi atingido em 21 nov, e Zelensky confirmou à Bloomberg que a Ucrânia fez o ataque.",
+      "foco": "50% 50%"
+    },
+    {
+      "imagem": "img03",
+      "texto_html": "Em 27 nov, a Reuters, com fontes militares e de segurança anônimas, informou que um <strong>comboio russo</strong> rumo à Líbia deu meia-volta. A fragata Admiral Golovko, da escolta, teria recuado perto do Estreito da Sicília. Moscou não confirmou, e o destino é incerto.",
+      "foco": "50% 50%"
+    },
+    {
+      "imagem": "img06",
+      "texto_html": "A Itália, de Giorgia Meloni, disse que a operação violou a soberania da Líbia e <strong>arrisca estender o conflito ao Mediterrâneo</strong>. Zelensky afirmou depois que os ataques não foram coordenados com parceiros europeus, e o chanceler Antonio Tajani falou em \"total clareza\".",
+      "foco": "50% 50%"
+    },
+    {
+      "imagem": "img03",
+      "texto_html": "Kiev, Moscou, o leste da Líbia e Roma dão <strong>versões diferentes</strong>, e várias delas vêm de partes envolvidas. O resultado do ataque, o paradeiro do comboio e a reação líbia ainda podem mudar.",
+      "foco": "50% 50%"
+    }
+  ],
+  "cta": {
+    "titulo": "Envie para quem acompanha a guerra no Mediterrâneo",
+    "subtitulo": "e siga a página para as próximas atualizações"
+  },
+  "legenda": "A guerra da Ucrânia chegou à Líbia: uma corveta russa foi atingida dentro de uma base no leste do país, e um comboio russo rumo à região deu meia-volta, segundo a Reuters.\n\nEm 22 nov, a corveta Merkury foi atingida na base naval de Benghazi, com explosão e incêndio, segundo o governo do leste da Líbia, ligado a Khalifa Haftar. Zelensky confirmou a operação e disse que o navio foi afundado; dois oficiais líbios disseram à CBS que ele ficou severamente danificado. O Exército Nacional Líbio diz que dois militares líbios morreram e o governo do leste fez queixa à ONU. O Kremlin falou em tendência muito perigosa, e a Itália disse que a ação arrisca estender o conflito ao Mediterrâneo. Em 27 nov, a Reuters, com fontes anônimas, informou que um comboio russo voltou; Moscou não confirmou. Como no caso do Sparta II, no Báltico, as versões divergem e várias alegações não foram verificadas de forma independente.\n\nFotos de arquivo, sem relação direta com os fatos do dia.\n\nArraste para o lado.",
+  "primeiro_comentario": "",
+  "hashtags": [
+    "#libia",
+    "#benghazi",
+    "#russia",
+    "#ucrania",
+    "#mediterraneo",
+    "#geopolitica"
+  ],
+  "alt_text": "Carrossel sobre o ataque à corveta russa Merkury em Benghazi, na Líbia, e o comboio russo que voltou, com fotos de arquivo da corveta, da fragata Admiral Golovko e imagens de Benghazi.",
+  "fontes": [
+    {
+      "nome": "Al Jazeera (22 nov)",
+      "url": "https://www.aljazeera.com/news/2026/11/22/suspected-drone-strike-hits-russian-vessel-in-libya"
+    },
+    {
+      "nome": "Kyiv Independent",
+      "url": "https://kyivindependent.com/russian-warship-docked-in-benghazi-hit-by-suspected-drone-attack-libyan-officials-say/"
+    },
+    {
+      "nome": "NPR (23 nov)",
+      "url": "https://www.npr.org/2026/11/23/g-s1-155017/ukraine-attack-russian-warship-libya"
+    },
+    {
+      "nome": "CBS News",
+      "url": "https://www.cbsnews.com/news/ukraine-zelenskyy-2-russian-ships-libya/"
+    },
+    {
+      "nome": "Fox News (baixas)",
+      "url": "https://www.foxnews.com/world/libyans-pledge-retaliate-ukraine-strikes-russian-warship-benghazi-killing-2-soldiers"
+    },
+    {
+      "nome": "LibyaReview (indenização)",
+      "url": "https://libyareview.com/70025/libyan-east-government-plans-to-demand-compensation-from-ukraine-over-benghazi-attacks/"
+    },
+    {
+      "nome": "Al Jazeera (23 nov, Kremlin e ONU)",
+      "url": "https://www.aljazeera.com/news/2026/11/23/russia-warns-ukraine-of-dangerous-trend-after-libya-and-baltic-attacks"
+    },
+    {
+      "nome": "The New Voice of Ukraine",
+      "url": "https://english.nv.ua/nation/kremlin-declines-to-comment-on-ukrainian-drone-attack-on-russian-corvette-and-cargo-ship-in-libya-50661776.html"
+    },
+    {
+      "nome": "Reuters via US News (27 nov)",
+      "url": "https://www.usnews.com/news/world/articles/2026-11-27/exclusive-russian-military-flotilla-bound-for-libya-turns-around-after-warship-sunk-on-nov-22-sources-says"
+    },
+    {
+      "nome": "Moscow Times",
+      "url": "https://www.themoscowtimes.com/2026/11/27/russian-military-flotilla-bound-for-libya-turns-around-after-warship-sunk-a812400"
+    },
+    {
+      "nome": "Japan Times",
+      "url": "https://www.japantimes.co.jp/news/2026/11/28/world/russian-military-flotilla-libya-turns-around/"
+    },
+    {
+      "nome": "The National (28 nov)",
+      "url": "https://www.thenationalnews.com/news/mena/2026/11/28/italy-ukraine-relations-grow-tense-over-attack-on-russian-warship-in-libya/"
+    },
+    {
+      "nome": "Middle East Monitor (28 nov)",
+      "url": "https://www.middleeastmonitor.com/20261128-ukraines-strikes-in-libya-conducted-without-prior-coordination-with-european-partners-zelenskyy/"
+    },
+    {
+      "nome": "Interfax-Ukraine",
+      "url": "https://en.interfax.com.ua/news/general/1243862.html"
+    }
+  ],
+  "busca_imagens": [
+    {
+      "id": "img01",
+      "query": "File:Корвет-«Меркурий».jpg",
+      "alternativas": []
+    },
+    {
+      "id": "img03",
+      "query": "File:The frigate Admiral Golovko during completion at the Severnaya Verf.jpg",
+      "alternativas": []
+    },
+    {
+      "id": "img04",
+      "query": "File:Benghazi Waterfront.JPG",
+      "alternativas": []
+    },
+    {
+      "id": "img06",
+      "query": "File:Benghazi, Libya, shines with bright, modern city lights on the Mediterranean coastline (iss074e0149410).jpg",
+      "alternativas": []
+    },
+    {
+      "id": "img07",
+      "query": "File:Cuxhaven Kugelbake Elbe 2004-Sloman Provider (ship, 2000) by-RaBoe.jpg",
+      "alternativas": []
+    }
+  ],
+  "agendamento": {
+    "data_hora": "2026-12-01T06:01:00-03:00",
+    "slot": "06:01"
+  },
+  "reel": {
+    "gerar": false
+  },
+  "ia_gerado": false,
+  "imagens": [
+    {
+      "titulo": "Корвет-«Меркурий».jpg",
+      "autor": "13243546A",
+      "licenca": "CC BY-SA 4.0",
+      "exige_credito": true,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:%D0%9A%D0%BE%D1%80%D0%B2%D0%B5%D1%82-%C2%AB%D0%9C%D0%B5%D1%80%D0%BA%D1%83%D1%80%D0%B8%D0%B9%C2%BB.jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/%D0%9A%D0%BE%D1%80%D0%B2%D0%B5%D1%82-%C2%AB%D0%9C%D0%B5%D1%80%D0%BA%D1%83%D1%80%D0%B8%D0%B9%C2%BB.jpg/1920px-%D0%9A%D0%BE%D1%80%D0%B2%D0%B5%D1%82-%C2%AB%D0%9C%D0%B5%D1%80%D0%BA%D1%83%D1%80%D0%B8%D0%B9%C2%BB.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 2592,
+      "altura": 1944,
+      "id": "img01",
+      "arquivo": "imagens/img01.jpg",
+      "query": "File:Корвет-«Меркурий».jpg",
+      "credito_custom": "Foto de arquivo: Merkury, 2022 · 13243546A · CC BY-SA 4.0"
+    },
+    {
+      "titulo": "The frigate Admiral Golovko during completion at the Severnaya Verf.jpg",
+      "autor": "Ministry of Defense of Russia",
+      "licenca": "CC BY 4.0",
+      "exige_credito": true,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:The_frigate_Admiral_Golovko_during_completion_at_the_Severnaya_Verf.jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/The_frigate_Admiral_Golovko_during_completion_at_the_Severnaya_Verf.jpg/1920px-The_frigate_Admiral_Golovko_during_completion_at_the_Severnaya_Verf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 6720,
+      "altura": 4480,
+      "id": "img03",
+      "arquivo": "imagens/img03.jpg",
+      "query": "File:The frigate Admiral Golovko during completion at the Severnaya Verf.jpg",
+      "credito_custom": "Foto de arquivo: Golovko, 2021 · MoD Rússia · CC BY 4.0"
+    },
+    {
+      "titulo": "Benghazi Waterfront.JPG",
+      "autor": "Jaw101ie",
+      "licenca": "Public domain",
+      "exige_credito": false,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Benghazi_Waterfront.JPG",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Benghazi_Waterfront.JPG/1920px-Benghazi_Waterfront.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 2816,
+      "altura": 2112,
+      "id": "img04",
+      "arquivo": "imagens/img04.jpg",
+      "query": "File:Benghazi Waterfront.JPG",
+      "credito_custom": "Foto de arquivo: orla de Benghazi · Jaw101ie · domínio público"
+    },
+    {
+      "titulo": "Benghazi, Libya, shines with bright, modern city lights on the Mediterranean coastline (iss074e0149410).jpg",
+      "autor": "NASA Johnson Space Center",
+      "licenca": "Public domain",
+      "exige_credito": false,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Benghazi,_Libya,_shines_with_bright,_modern_city_lights_on_the_Mediterranean_coastline_(iss074e0149410).jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Benghazi%2C_Libya%2C_shines_with_bright%2C_modern_city_lights_on_the_Mediterranean_coastline_%28iss074e0149410%29.jpg/1920px-Benghazi%2C_Libya%2C_shines_with_bright%2C_modern_city_lights_on_the_Mediterranean_coastline_%28iss074e0149410%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 8256,
+      "altura": 5504,
+      "id": "img06",
+      "arquivo": "imagens/img06.jpg",
+      "query": "File:Benghazi, Libya, shines with bright, modern city lights on the Mediterranean coastline (iss074e0149410).jpg",
+      "credito_custom": "Foto de arquivo: Benghazi (ISS) · NASA · domínio público"
+    },
+    {
+      "titulo": "Cuxhaven Kugelbake Elbe 2004-Sloman Provider (ship, 2000) by-RaBoe.jpg",
+      "autor": "Ra Boe",
+      "licenca": "CC BY-SA 2.5",
+      "exige_credito": true,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Cuxhaven_Kugelbake_Elbe_2004-Sloman_Provider_(ship,_2000)_by-RaBoe.jpg",
+      "url_download": "https://upload.wikimedia.org/wikipedia/commons/2/20/Cuxhaven_Kugelbake_Elbe_2004-Sloman_Provider_%28ship%2C_2000%29_by-RaBoe.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largura": 1600,
+      "altura": 1200,
+      "id": "img07",
+      "arquivo": "imagens/img07.jpg",
+      "query": "File:Cuxhaven Kugelbake Elbe 2004-Sloman Provider (ship, 2000) by-RaBoe.jpg",
+      "credito_custom": "Foto de arquivo: Sparta II, 2004 · Ra Boe · CC BY-SA 2.5"
+    }
+  ]
+}
