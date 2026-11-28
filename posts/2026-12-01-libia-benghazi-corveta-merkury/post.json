@@ -42,7 +42,7 @@
     },
     {
       "imagem": "img03",
-      "texto_html": "Em 27 nov, a Reuters, com fontes militares e de segurança anônimas, informou que um <strong>comboio russo</strong> rumo à Líbia deu meia-volta. A fragata Admiral Golovko, da escolta, teria recuado perto do Estreito da Sicília. O Ministério da Defesa russo não comentou, e o destino é incerto.",
+      "texto_html": "Em 27 nov, a Reuters, com fontes anônimas, informou que um <strong>comboio russo</strong> rumo à Líbia deu meia-volta. A fragata Admiral Golovko, da escolta, teria recuado perto do Estreito da Sicília. O Ministério da Defesa russo não comentou, e o destino é incerto.",
       "foco": "50% 50%"
     },
     {
@@ -51,9 +51,9 @@
       "foco": "50% 40%"
     },
     {
-      "imagem": "img10",
+      "imagem": "img01",
       "texto_html": "A Ucrânia defende a ação: o Ministério das Relações Exteriores disse que os ataques foram <strong>legítima defesa</strong>, com base no artigo 51 da Carta da ONU. O Exército Nacional Líbio disse que dará a resposta \"no momento e no lugar apropriados\".",
-      "foco": "50% 40%"
+      "foco": "50% 50%"
     }
   ],
   "cta": {
@@ -70,7 +70,7 @@
     "#mediterraneo",
     "#geopolitica"
   ],
-  "alt_text": "Carrossel sobre o ataque à corveta russa Merkury em Benghazi, na Líbia, com fotos de arquivo da corveta, de Putin e Haftar, da fragata Admiral Golovko, de Zelensky e Meloni e do farol de Benghazi.",
+  "alt_text": "Carrossel sobre o ataque à corveta russa Merkury em Benghazi, na Líbia, com fotos de arquivo da corveta, de Putin e Haftar, da fragata Admiral Golovko e de Zelensky e Meloni.",
   "fontes": [
     {
       "nome": "Al Jazeera (22 nov)",
@@ -173,12 +173,7 @@
     },
     {
       "id": "img09",
-      "query": "File:Volodymyr Zelenskyy and Giorgia Meloni Discussed Strengthening Ukraine's Air Defense. (54263985502).jpg",
-      "alternativas": []
-    },
-    {
-      "id": "img10",
-      "query": "File:منارة سيدي خريبيش في بنغازي.jpg",
+      "query": "File:Volodymyr Zelenskyy and Giorgia Meloni Discussed Strengthening Ukraine’s Air Defense. (54263985502).jpg",
       "alternativas": []
     }
   ],
@@ -245,7 +240,7 @@
       "id": "img07",
       "arquivo": "imagens/img07.jpg",
       "query": "File:Cuxhaven Kugelbake Elbe 2004-Sloman Provider (ship, 2000) by-RaBoe.jpg",
-      "credito_custom": "Foto de arquivo: Sparta II (então Sloman Provider), 2004 · Ra Boe · CC BY-SA 2.5"
+      "credito_custom": "Arquivo: Sparta II, 2004 · Ra Boe · CC BY-SA 2.5"
     },
     {
       "titulo": "President Vladimir Putin Meeting with Supreme Commander of the Libyan National Army Khalifa Haftar 01.jpg",
@@ -258,20 +253,22 @@
       "altura": 1160,
       "id": "img08",
       "arquivo": "imagens/img08.jpg",
-      "query": "File:President Vladimir Putin Meeting with Supreme Commander of the Libyan National Army Khalifa Haftar 01.jpg"
+      "query": "File:President Vladimir Putin Meeting with Supreme Commander of the Libyan National Army Khalifa Haftar 01.jpg",
+      "credito_custom": "Arquivo: Putin e Haftar, 2025 · Kremlin.ru · CC BY 4.0"
     },
     {
-      "titulo": "منارة سيدي خريبيش في بنغازي.jpg",
-      "autor": "Ahmad Mohamad z",
-      "licenca": "CC BY-SA 4.0",
-      "exige_credito": true,
-      "url_origem": "https://commons.wikimedia.org/wiki/File:%D9%85%D9%86%D8%A7%D8%B1%D8%A9_%D8%B3%D9%8A%D8%AF%D9%8A_%D8%AE%D8%B1%D9%8A%D8%A8%D9%8A%D8%B4_%D9%81%D9%8A_%D8%A8%D9%86%D8%BA%D8%A7%D8%B2%D9%8A.jpg",
-      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/%D9%85%D9%86%D8%A7%D8%B1%D8%A9_%D8%B3%D9%8A%D8%AF%D9%8A_%D8%AE%D8%B1%D9%8A%D8%A8%D9%8A%D8%B4_%D9%81%D9%8A_%D8%A8%D9%86%D8%BA%D8%A7%D8%B2%D9%8A.jpg/1920px-%D9%85%D9%86%D8%A7%D8%B1%D8%A9_%D8%B3%D9%8A%D8%AF%D9%8A_%D8%AE%D8%B1%D9%8A%D8%A8%D9%8A%D8%B4_%D9%81%D9%8A_%D8%A8%D9%86%D8%BA%D8%A7%D8%B2%D9%8A.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "largura": 4896,
-      "altura": 6528,
-      "id": "img10",
-      "arquivo": "imagens/img10.jpg",
-      "query": "File:منارة سيدي خريبيش في بنغازي.jpg"
+      "titulo": "Volodymyr Zelenskyy and Giorgia Meloni Discussed Strengthening Ukraine’s Air Defense. (54263985502).jpg",
+      "autor": "President Of Ukraine from Україна",
+      "licenca": "CC0",
+      "exige_credito": false,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:Volodymyr_Zelenskyy_and_Giorgia_Meloni_Discussed_Strengthening_Ukraine%E2%80%99s_Air_Defense._(54263985502).jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Volodymyr_Zelenskyy_and_Giorgia_Meloni_Discussed_Strengthening_Ukraine%E2%80%99s_Air_Defense._%2854263985502%29.jpg/1920px-Volodymyr_Zelenskyy_and_Giorgia_Meloni_Discussed_Strengthening_Ukraine%E2%80%99s_Air_Defense._%2854263985502%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 3000,
+      "altura": 2001,
+      "id": "img09",
+      "arquivo": "imagens/img09.jpg",
+      "query": "File:Volodymyr Zelenskyy and Giorgia Meloni Discussed Strengthening Ukraine’s Air Defense. (54263985502).jpg",
+      "credito_custom": "Arquivo: Zelensky e Meloni, 2025 · Pres. da Ucrânia · CC0"
     }
   ]
 }
