@@ -1,3 +1,5 @@
+# APROVADO (coordenador, rodada 2, 28 nov): correções aplicadas (farol descartado por ser cinza; Merkury repete no slide 9). Reconferir em 30 nov.
+
 REPROVADO
 
 # Revisão: 2026-12-01-libia-benghazi-corveta-merkury
