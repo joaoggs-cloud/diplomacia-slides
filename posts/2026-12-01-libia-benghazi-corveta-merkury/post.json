@@ -246,6 +246,32 @@
       "arquivo": "imagens/img07.jpg",
       "query": "File:Cuxhaven Kugelbake Elbe 2004-Sloman Provider (ship, 2000) by-RaBoe.jpg",
       "credito_custom": "Foto de arquivo: Sparta II (então Sloman Provider), 2004 · Ra Boe · CC BY-SA 2.5"
+    },
+    {
+      "titulo": "President Vladimir Putin Meeting with Supreme Commander of the Libyan National Army Khalifa Haftar 01.jpg",
+      "autor": "Kremlin.ru",
+      "licenca": "CC BY 4.0",
+      "exige_credito": true,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:President_Vladimir_Putin_Meeting_with_Supreme_Commander_of_the_Libyan_National_Army_Khalifa_Haftar_01.jpg",
+      "url_download": "https://upload.wikimedia.org/wikipedia/commons/d/d2/President_Vladimir_Putin_Meeting_with_Supreme_Commander_of_the_Libyan_National_Army_Khalifa_Haftar_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largura": 1880,
+      "altura": 1160,
+      "id": "img08",
+      "arquivo": "imagens/img08.jpg",
+      "query": "File:President Vladimir Putin Meeting with Supreme Commander of the Libyan National Army Khalifa Haftar 01.jpg"
+    },
+    {
+      "titulo": "منارة سيدي خريبيش في بنغازي.jpg",
+      "autor": "Ahmad Mohamad z",
+      "licenca": "CC BY-SA 4.0",
+      "exige_credito": true,
+      "url_origem": "https://commons.wikimedia.org/wiki/File:%D9%85%D9%86%D8%A7%D8%B1%D8%A9_%D8%B3%D9%8A%D8%AF%D9%8A_%D8%AE%D8%B1%D9%8A%D8%A8%D9%8A%D8%B4_%D9%81%D9%8A_%D8%A8%D9%86%D8%BA%D8%A7%D8%B2%D9%8A.jpg",
+      "url_download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/%D9%85%D9%86%D8%A7%D8%B1%D8%A9_%D8%B3%D9%8A%D8%AF%D9%8A_%D8%AE%D8%B1%D9%8A%D8%A8%D9%8A%D8%B4_%D9%81%D9%8A_%D8%A8%D9%86%D8%BA%D8%A7%D8%B2%D9%8A.jpg/1920px-%D9%85%D9%86%D8%A7%D8%B1%D8%A9_%D8%B3%D9%8A%D8%AF%D9%8A_%D8%AE%D8%B1%D9%8A%D8%A8%D9%8A%D8%B4_%D9%81%D9%8A_%D8%A8%D9%86%D8%BA%D8%A7%D8%B2%D9%8A.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largura": 4896,
+      "altura": 6528,
+      "id": "img10",
+      "arquivo": "imagens/img10.jpg",
+      "query": "File:منارة سيدي خريبيش في بنغازي.jpg"
     }
   ]
 }
